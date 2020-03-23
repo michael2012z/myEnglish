@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup
+import nltk
+from nltk.stem import WordNetLemmatizer
 
 html_doc =  open('pages/2020-03-21/Closed by covid-19 - Paying to stop the pandemic _ Leaders _ The Economist.html', "rt").read()
 
@@ -25,4 +27,11 @@ for word in text.split():
     print(word)
     print(word[alpha_begin: alpha_end])
             
+wordnet_lemmatizer = WordNetLemmatizer()
+print(wordnet_lemmatizer.lemmatize('dogs'))
+if nltk.pos_tag(['doing'])[0][1][0] == 'V':
+    print(wordnet_lemmatizer.lemmatize('doing', 'v'))
+
+if nltk.pos_tag(['did'])[0][1][0] == 'V':
+    print(wordnet_lemmatizer.lemmatize('did', 'v'))
 
