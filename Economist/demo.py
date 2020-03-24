@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup
 import nltk
 from nltk.stem import WordNetLemmatizer
 
-def demo():
-    html_doc =  open('pages/2020-03-21/Closed by covid-19 - Paying to stop the pandemic _ Leaders _ The Economist.html', "rt").read()
-
+def get_file_word_list(file_name):
+    print("handling {}".format(file_name))
+    html_doc =  open(file_name, "rt").read()
     wordnet_lemmatizer = WordNetLemmatizer()
     soup = BeautifulSoup(html_doc, 'html.parser')
     words = []
@@ -44,6 +44,7 @@ def demo():
                 word = wordnet_lemmatizer.lemmatize(word)
             words.append(word)
 
+    print("{} words counted".format(len(words)))
 
     word_freq = dict()
     for word in words:
@@ -52,14 +53,26 @@ def demo():
         else:
             word_freq[word] = 1
 
-    word_freq_list = sorted(word_freq.items(), key=lambda x: x[1])
-    for word in word_freq_list:
-        print(word)
-
+    return word_freq
+    
     
 if __name__ == '__main__':
+    word_count = dict()
     file_list = []
     for root, dirs, files in os.walk("./pages"):
         for f in files:
             file_list.append(os.path.join(root, f))
-    print("\n".join(file_list))
+    for file_path in file_list:
+        file_words = get_file_word_list(file_path)
+        for word_count_tuple in file_words.items():
+            if not word_count_tuple[0] in word_count:
+                word_count[word_count_tuple[0]] = 0
+            word_count[word_count_tuple[0]] += word_count_tuple[1]
+
+    sorted_word_count = sorted(word_count.items(), key=lambda x: x[1])
+    f = open("word_count.txt", "wt")
+    for word in sorted_word_count:
+        if len(word[0]) > 20:
+            continue
+        f.write("{}\t\t\t{}\n".format(word[0], word[1]))
+    f.close()
