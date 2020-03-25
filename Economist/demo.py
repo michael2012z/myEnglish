@@ -69,10 +69,19 @@ if __name__ == '__main__':
                 word_count[word_count_tuple[0]] = 0
             word_count[word_count_tuple[0]] += word_count_tuple[1]
 
+            
     sorted_word_count = sorted(word_count.items(), key=lambda x: x[1])
-    f = open("word_count.txt", "wt")
-    for word in sorted_word_count:
-        if len(word[0]) > 20:
-            continue
-        f.write("{}\t\t\t{}\n".format(word[0], word[1]))
-    f.close()
+
+    # load word frequency data
+    for i in range(5):
+        freq = set(open("../frequency/words-"+str(i+1)+".txt", "rt").read().split('\n'))
+        print(freq)
+        f = open("word_count-" + str(i+1) + ".txt", "wt")
+        for word in sorted_word_count:
+            if len(word[0]) < 20 and word[0] in freq:
+                f.write("{}\t\t\t{}\n".format(word[0], word[1]))
+        f.close()
+    
+            
+    
+    
