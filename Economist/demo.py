@@ -86,10 +86,12 @@ if __name__ == '__main__':
     num_all_words = 0
     num_freq_words = 0
     for word in sorted_word_count:
+        if len(word[0]) > 20:
+            continue
         num_all_words += word[1]
         for i in range(5):
             freq = freqs[i]
-            if len(word[0]) < 20 and word[0] in freq:
+            if word[0] in freq:
                 f[i].write("{}\t\t\t{}\n".format(word[0], word[1]))
                 num_freq_words += word[1]
                 break

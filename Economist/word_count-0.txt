@@ -44,7 +44,6 @@ korea			56
 london			56
 trn			55
 france			53
-facebooktwitterlinkedinwhatsappeditor			53
 johnson			53
 york			52
 internet			52
@@ -159,7 +158,6 @@ syria			19
 un			19
 continued			19
 larger			19
-facebooktwitterlinkedinwhatsappthe			18
 bernie			18
 imf			18
 ebola			18
@@ -387,7 +385,6 @@ oromo			8
 abiy			8
 carmaker			8
 switzerland			8
-facebooktwitterlinkedinwhatsappthis			8
 cancellation			8
 handout			8
 kampala			8
@@ -469,7 +466,6 @@ bolsonaro			7
 paulo			7
 swindale			7
 spends			7
-facebooktwitterlinkedinwhatsappin			7
 iranian			7
 bkash			7
 khan			7
@@ -643,7 +639,6 @@ duque			5
 ala			5
 islam			5
 lebanon			5
-facebooktwitterlinkedinwhatsappit			5
 decentralise			5
 bloat			5
 rarer			5
@@ -689,7 +684,6 @@ ihekweazu			5
 reagan			5
 banyan			5
 annualised			5
-facebooktwitterlinkedinwhatsapp			5
 diana			5
 lanka			5
 rajapaksas			5
@@ -818,7 +812,6 @@ houtan			4
 sharpest			4
 judged			4
 pm			4
-facebooktwitterlinkedinwhatsappon			4
 cambridge			4
 resembles			4
 williams			4
@@ -895,7 +888,6 @@ mozambique			4
 stanford			4
 norah			4
 encryption			4
-facebooktwitterlinkedinwhatsappthere			4
 columbia			4
 jiangshanjiao			4
 westminster			4
@@ -937,7 +929,6 @@ industrialisation			4
 bulgakov			4
 adjusts			3
 dismisses			3
-dcfacebooktwitterlinkedinwhatsappeditor			3
 decisively			3
 realisation			3
 steepest			3
@@ -1194,7 +1185,6 @@ ramaphosa			3
 barclays			3
 elliott			3
 disgruntle			3
-facebooktwitterlinkedinwhatsappto			3
 bulletproof			3
 reynosa			3
 maria			3
@@ -1359,7 +1349,6 @@ napoleon			2
 enfeeble			2
 victimhood			2
 spontaneously			2
-yorkfacebooktwitterlinkedinwhatsappeditor			2
 nike			2
 exploration			2
 echoed			2
@@ -1391,7 +1380,6 @@ pcr			2
 insufficiently			2
 nkengasong			2
 independently			2
-berlinfacebooktwitterlinkedinwhatsappeditor			2
 ischgl			2
 scandinavian			2
 resurge			2
@@ -1427,7 +1415,6 @@ gansu			2
 harshly			2
 diligence			2
 mindset			2
-delhifacebooktwitterlinkedinwhatsappeditor			2
 strikingly			2
 tehran			2
 kerala			2
@@ -1456,7 +1443,6 @@ weaponised			2
 varies			2
 underpins			2
 appropriately			2
-beirutfacebooktwitterlinkedinwhatsappeditor			2
 kuwait			2
 sunni			2
 holiest			2
@@ -1558,7 +1544,6 @@ bologna			2
 chenault			2
 nonagenarian			2
 galloanserae			2
-madridfacebooktwitterlinkedinwhatsappeditor			2
 sol			2
 pedro			2
 ramped			2
@@ -1566,7 +1551,6 @@ pablo			2
 quim			2
 torra			2
 catalan			2
-dcfacebooktwitterlinkedinwhatsappwhen			2
 mi			2
 franklin			2
 ndu			2
@@ -1610,7 +1594,6 @@ ii			2
 macedonian			2
 naumoski			2
 vetoed			2
-facebooktwitterlinkedinwhatsappwomen			2
 y			2
 dy			2
 heterogameticity			2
@@ -1648,7 +1631,6 @@ eked			2
 consistently			2
 riverbed			2
 simplest			2
-facebooktwitterlinkedinwhatsapplast			2
 smer			2
 kuciak			2
 campbell			2
@@ -1688,7 +1670,6 @@ pesatori			2
 lassa			2
 stefan			2
 wong			2
-facebooktwitterlinkedinwhatsappwhen			2
 martian			2
 flashlamp			2
 preble			2
@@ -1704,7 +1685,6 @@ neo			2
 systematically			2
 millennial			2
 democratise			2
-facebooktwitterlinkedinwhatsappif			2
 kobe			2
 complains			2
 rhine			2
@@ -1779,7 +1759,6 @@ hallow			2
 jeffrey			2
 govindarajan			2
 leveraged			2
-yorkfacebooktwitterlinkedinwhatsappthe			2
 massey			2
 ryan			2
 csse			2
@@ -1805,7 +1784,6 @@ deserves			2
 modestly			2
 yorkshire			2
 participation			2
-facebooktwitterlinkedinwhatsappfew			2
 reinvigorate			2
 trickier			2
 austin			2
@@ -1906,7 +1884,6 @@ rodrigo			2
 lagos			2
 vested			2
 larraín			2
-facebooktwitterlinkedinwhatsapplike			2
 fargo			2
 interconnectedness			2
 farrar			2
@@ -2148,7 +2125,6 @@ cho			2
 taybridge			2
 au			2
 oscillation			2
-parisfacebooktwitterlinkedinwhatsappan			1
 mayoral			1
 gérard			1
 larcher			1
@@ -2187,7 +2163,6 @@ safest			1
 feasibility			1
 ian			1
 shepherdson			1
-facebooktwitterlinkedinwhatsappguyana			1
 newfound			1
 afro			1
 defends			1
@@ -2202,7 +2177,6 @@ destabilisation			1
 yellowhammer			1
 eurosceptics			1
 eurosceptic			1
-trevisofacebooktwitterlinkedinwhatsappeditor			1
 ryu			1
 fujimaki			1
 natsuko			1
@@ -2227,7 +2201,6 @@ susanna			1
 loeb			1
 suboptimal			1
 mindspark			1
-seoulfacebooktwitterlinkedinwhatsappeditor			1
 attestation			1
 ides			1
 continually			1
@@ -2253,7 +2226,6 @@ avigan			1
 hydroxychloroquine			1
 unrandomised			1
 gilbert			1
-facebooktwitterlinkedinwhatsappof			1
 capa			1
 filing			1
 qingming			1
@@ -2268,10 +2240,8 @@ luzon			1
 duffy			1
 cme			1
 informally			1
-beijingfacebooktwitterlinkedinwhatsappeditor			1
 alina			1
 coursework			1
-nekemtefacebooktwitterlinkedinwhatsappin			1
 aberra			1
 unfolds			1
 guliso			1
@@ -2290,7 +2260,6 @@ davison			1
 dawud			1
 ibsa			1
 federalist			1
-maléfacebooktwitterlinkedinwhatsappthe			1
 maldives			1
 stabbed			1
 scantily			1
@@ -2327,7 +2296,6 @@ brexiteer			1
 tragically			1
 agincourt			1
 waterloo			1
-mbandakafacebooktwitterlinkedinwhatsappciceron			1
 riverside			1
 goethe			1
 bonobo			1
@@ -2360,12 +2328,10 @@ schwarzman			1
 carmaking			1
 resurrection			1
 agonise			1
-facebooktwitterlinkedinwhatsappno			1
 ebitdar			1
 iag			1
 easyjet			1
 crisscross			1
-kampalafacebooktwitterlinkedinwhatsappnight			1
 bebe			1
 balladeer			1
 douglas			1
@@ -2428,7 +2394,6 @@ papatango			1
 fra			1
 performs			1
 todd			1
-facebooktwitterlinkedinwhatsapptop			1
 oligopoly			1
 fabulously			1
 extends			1
@@ -2449,7 +2414,6 @@ cleveland			1
 trickiest			1
 adrenalin			1
 reorientation			1
-sydneyfacebooktwitterlinkedinwhatsappthe			1
 hogan			1
 brighter			1
 keynesian			1
@@ -2471,7 +2435,6 @@ swedish			1
 onebreath			1
 mattias			1
 perjos			1
-facebooktwitterlinkedinwhatsappmy			1
 wye			1
 deniable			1
 rhapsodises			1
@@ -2530,7 +2493,6 @@ enthuses			1
 rajeev			1
 kumar			1
 mahasabha			1
-rosariofacebooktwitterlinkedinwhatsappa			1
 landmines			1
 iván			1
 cocaleros			1
@@ -2552,7 +2514,6 @@ carrasquilla			1
 gallup			1
 colmenares			1
 unwinnable			1
-facebooktwitterlinkedinwhatsappa			1
 downschumpeter			1
 shaun			1
 larcom			1
@@ -2576,7 +2537,6 @@ fdic			1
 occ			1
 ncua			1
 naic			1
-desanoispresidentstanding			1
 unionsparisjudges			1
 kongthe			1
 xia			1
@@ -2631,7 +2591,6 @@ undogmatic			1
 hannityever			1
 abruptly			1
 romney			1
-jerusalemfacebooktwitterlinkedinwhatsappbinyamin			1
 undeterred			1
 jewish			1
 avigdor			1
@@ -2672,7 +2631,6 @@ hidalgo			1
 terri			1
 ann			1
 lowenthal			1
-omihachimanfacebooktwitterlinkedinwhatsapp			1
 criminalise			1
 nouveau			1
 riche			1
@@ -2692,7 +2650,6 @@ counterparties			1
 buyback			1
 backstop			1
 relaunched			1
-facebooktwitterlinkedinwhatsappshakespeare			1
 abraham			1
 intimately			1
 macbeth			1
@@ -2735,7 +2692,6 @@ grimond			1
 deletion			1
 irascibility			1
 tenderness			1
-kongfacebooktwitterlinkedinwhatsappamerica			1
 krone			1
 zoltan			1
 befell			1
@@ -2745,7 +2701,6 @@ ehlers			1
 bailiwick			1
 dodgiest			1
 redact			1
-vancouverfacebooktwitterlinkedinwhatsappcanada			1
 conspicuously			1
 ottawa			1
 cyanobacteria			1
@@ -2786,7 +2741,6 @@ efficiently			1
 unleashedif			1
 lilliputian			1
 fiscally			1
-yorkfacebooktwitterlinkedinwhatsappmagnanimity			1
 responder			1
 cuban			1
 assertion			1
@@ -2800,7 +2754,6 @@ perez			1
 peremptorily			1
 ron			1
 wyden			1
-facebooktwitterlinkedinwhatsapphow			1
 monterey			1
 effectiveness			1
 autochthonous			1
@@ -2810,7 +2763,6 @@ bravest			1
 wasn			1
 pyjama			1
 stockpickers			1
-romefacebooktwitterlinkedinwhatsappeditor			1
 giulio			1
 milanese			1
 silvio			1
@@ -2826,7 +2778,6 @@ euroscepticism			1
 oversimplification			1
 underperform			1
 ephebic			1
-facebooktwitterlinkedinwhatsappfossil			1
 relict			1
 dinosauria			1
 asteriornis			1
@@ -2854,7 +2805,6 @@ gutenberg			1
 oversaw			1
 kloha			1
 evangelise			1
-facebooktwitterlinkedinwhatsappovercrowding			1
 firstgroup			1
 tfl			1
 whitehall			1
@@ -2869,7 +2819,6 @@ coulda			1
 shoulda			1
 woulda			1
 sugarcoat			1
-facebooktwitterlinkedinwhatsappmbs			1
 mohammed			1
 duggan			1
 collins			1
@@ -2892,12 +2841,10 @@ gchq			1
 sullivan			1
 akamai			1
 stayin			1
-facebooktwitterlinkedinwhatsappnomasomi			1
 limako			1
 miiro			1
 baselessly			1
 braille			1
-cheyennefacebooktwitterlinkedinwhatsappfor			1
 abc			1
 glaad			1
 cam			1
@@ -2920,7 +2867,6 @@ lijian			1
 worsens			1
 scapegoating			1
 scarily			1
-facebooktwitterlinkedinwhatsappgovernments			1
 warthe			1
 ariana			1
 manchester			1
@@ -2948,7 +2894,6 @@ holidaymaker			1
 benidorm			1
 meted			1
 woodward			1
-facebooktwitterlinkedinwhatsappas			1
 pragmatist			1
 trujillo			1
 uruguayan			1
@@ -2956,7 +2901,6 @@ zela			1
 maría			1
 fernanda			1
 ecuadorean			1
-skopjefacebooktwitterlinkedinwhatsappalexander			1
 yanked			1
 hegemon			1
 nikola			1
@@ -2970,7 +2914,6 @@ arachnid			1
 mistakenly			1
 cotonou			1
 khartoum			1
-lilongwefacebooktwitterlinkedinwhatsappone			1
 comlan			1
 hugues			1
 lomé			1
@@ -3032,7 +2975,6 @@ pikilana			1
 maliza			1
 lilongwe			1
 birmingham			1
-paulofacebooktwitterlinkedinwhatsappgabriel			1
 competitiveness			1
 professionalise			1
 allan			1
@@ -3053,12 +2995,10 @@ jeep			1
 pupo			1
 farsightedness			1
 costa			1
-facebooktwitterlinkedinwhatsappelections			1
 robinette			1
 jr			1
 terrifies			1
 energetically			1
-cityfacebooktwitterlinkedinwhatsappfrom			1
 sonia			1
 asteca			1
 ingrid			1
@@ -3076,7 +3016,6 @@ trimester			1
 oaxaca			1
 locas			1
 marta			1
-penrithfacebooktwitterlinkedinwhatsappbeneath			1
 hobgrumble			1
 mown			1
 maximise			1
@@ -3126,7 +3065,6 @@ deteriorates			1
 transmissibility			1
 dealsa			1
 destructively			1
-istanbulfacebooktwitterlinkedinwhatsappthe			1
 sochi			1
 stanch			1
 lebanese			1
@@ -3148,7 +3086,6 @@ outtrue			1
 enthusiastically			1
 rejection			1
 scruffily			1
-facebooktwitterlinkedinwhatsappsam			1
 maltese			1
 dashiell			1
 everyman			1
@@ -3158,7 +3095,6 @@ rebalancing			1
 stockpicker			1
 cheapness			1
 hardboiled			1
-dhakafacebooktwitterlinkedinwhatsappthe			1
 islampur			1
 patiently			1
 biru			1
@@ -3185,7 +3121,6 @@ pul			1
 awami			1
 citycell			1
 morshed			1
-washingtonfacebooktwitterlinkedinwhatsappspeaking			1
 abuja			1
 chikwe			1
 unconstrained			1
@@ -3232,7 +3167,6 @@ accurately			1
 starfire			1
 energises			1
 mesosphere			1
-jerusalemfacebooktwitterlinkedinwhatsappnever			1
 dirtiness			1
 yair			1
 reuven			1
@@ -3245,7 +3179,6 @@ kunduz			1
 baradar			1
 bombed			1
 esper			1
-facebooktwitterlinkedinwhatsappcapital			1
 goldhammer			1
 belknap			1
 honoré			1
@@ -3287,22 +3220,18 @@ yakuza			1
 nakano			1
 koichi			1
 sophia			1
-facebooktwitterlinkedinwhatsappbad			1
 appreciably			1
 veneto			1
-facebooktwitterlinkedinwhatsappone			1
 worrywart			1
 tradeweb			1
 schiffman			1
 arbitrageur			1
-facebooktwitterlinkedinwhatsappsmartphones			1
 abel			1
 ast			1
 repeater			1
 vodafone			1
 rakuten			1
 propagation			1
-dushanbefacebooktwitterlinkedinwhatsappmammoth			1
 regally			1
 motivator			1
 tajik			1
@@ -3326,7 +3255,6 @@ lurks			1
 deportation			1
 jamaica			1
 clarke			1
-monterreyfacebooktwitterlinkedinwhatsapplidia			1
 florencio			1
 chimalhuacán			1
 sloppily			1
@@ -3339,7 +3267,6 @@ alejandro			1
 gertz			1
 manero			1
 overtaxed			1
-colombofacebooktwitterlinkedinwhatsappjust			1
 sahodara			1
 samagama			1
 sinhala			1
@@ -3353,7 +3280,6 @@ ranil			1
 sajith			1
 malinda			1
 seneviratne			1
-shanghaifacebooktwitterlinkedinwhatsappwhen			1
 lijun			1
 tenfold			1
 qiaoshan			1
@@ -3364,7 +3290,6 @@ possibilitiesit			1
 xiao			1
 xingxing			1
 healthcare			1
-houstonfacebooktwitterlinkedinwhatsappeditor			1
 cannibalise			1
 bagging			1
 advertised			1
@@ -3382,7 +3307,6 @@ resubscribe			1
 uncontrollably			1
 kindliness			1
 steadiness			1
-berlinfacebooktwitterlinkedinwhatsappthe			1
 anglo			1
 carlyle			1
 martina			1
@@ -3416,7 +3340,6 @@ loses			1
 diehard			1
 laserna			1
 cochabamba			1
-yorkfacebooktwitterlinkedinwhatsappfifty			1
 newsweek			1
 ejection			1
 unencumbered			1
@@ -3424,7 +3347,6 @@ putatively			1
 chunying			1
 reapply			1
 kuala			1
-lumpurfacebooktwitterlinkedinwhatsapp			1
 sikh			1
 ibans			1
 kadazans			1
@@ -3459,7 +3381,6 @@ politicise			1
 crispusthe			1
 downplays			1
 incontestable			1
-edirnefacebooktwitterlinkedinwhatsappwhen			1
 tokat			1
 maritsa			1
 standoff			1
@@ -3480,11 +3401,9 @@ mitsotakis			1
 khoja			1
 tasered			1
 pazarkule			1
-facebooktwitterlinkedinwhatsapptalks			1
 airily			1
 primly			1
 coyness			1
-shanghaifacebooktwitterlinkedinwhatsappif			1
 smoothly			1
 sporadically			1
 sneezy			1
@@ -3521,7 +3440,6 @@ oracular			1
 ortega			1
 thieve			1
 stardust			1
-facebooktwitterlinkedinwhatsappthree			1
 multiparty			1
 chivvy			1
 kleptocracy			1
@@ -3531,7 +3449,6 @@ gutting			1
 tabulation			1
 liberalisation			1
 tardiness			1
-yorkfacebooktwitterlinkedinwhatsappin			1
 reginald			1
 poetically			1
 mourns			1
@@ -3575,7 +3492,6 @@ appalachia			1
 empathise			1
 internally			1
 whothis			1
-tallinnfacebooktwitterlinkedinwhatsappby			1
 anton			1
 maarja			1
 vaino			1
@@ -3589,7 +3505,6 @@ odyssey			1
 tanel			1
 impregnates			1
 postimees			1
-dcfacebooktwitterlinkedinwhatsappamerica			1
 repopulated			1
 dawes			1
 nonpolitical			1
@@ -3618,7 +3533,6 @@ merlin			1
 parcs			1
 hottest			1
 puttshack			1
-facebooktwitterlinkedinwhatsappstockmarkets			1
 diagnostics			1
 thermo			1
 evaluation			1
@@ -3631,7 +3545,6 @@ r			1
 topped			1
 crossroad			1
 dishearten			1
-franciscofacebooktwitterlinkedinwhatsappsince			1
 catchphrase			1
 hartley			1
 kennedy			1
@@ -3640,7 +3553,6 @@ babysitter			1
 sears			1
 fluctuation			1
 cavallo			1
-mexicofacebooktwitterlinkedinwhatsappin			1
 convolute			1
 cyprus			1
 sufficientyet			1
@@ -3653,7 +3565,6 @@ ahluwalia			1
 abigail			1
 prescribes			1
 gynaecologist			1
-yorkfacebooktwitterlinkedinwhatsappduring			1
 prudential			1
 indefensibly			1
 examines			1
@@ -3662,7 +3573,6 @@ brushy			1
 decomposes			1
 lignin			1
 viscacha			1
-parisfacebooktwitterlinkedinwhatsappa			1
 lycée			1
 sylvain			1
 limousin			1
@@ -3696,12 +3606,10 @@ chlorinate			1
 richmond			1
 cv			1
 elegantly			1
-facebooktwitterlinkedinwhatsappactress			1
 norton			1
 irished			1
 vicissitude			1
 ebbed			1
-beijingfacebooktwitterlinkedinwhatsappat			1
 deradicalise			1
 mercedes			1
 arranges			1
@@ -3709,7 +3617,6 @@ impugns			1
 acknowledges			1
 extols			1
 misbehaves			1
-facebooktwitterlinkedinwhatsapptricky			1
 hinders			1
 confidentiality			1
 ericsson			1
@@ -3732,7 +3639,6 @@ franciscolanguage			1
 singaporechinese			1
 chi			1
 hsiahigh			1
-singaporelondonabolish			1
 collegein			1
 derange			1
 laknersan			1
@@ -3745,7 +3651,6 @@ tulane			1
 flemingnew			1
 orleanslook			1
 alsothe			1
-lecciasingaporeaddicted			1
 oilnorwegians			1
 ecowarriors			1
 urbichzug			1
@@ -3763,7 +3668,6 @@ threadneedle			1
 gyration			1
 algorithmic			1
 sedately			1
-shanghaifacebooktwitterlinkedinwhatsappthe			1
 microblog			1
 cctv			1
 zhejiang			1
@@ -3777,7 +3681,6 @@ shenzhen			1
 mediator			1
 yuanzhong			1
 menstruation			1
-facebooktwitterlinkedinwhatsappjoe			1
 mcgahn			1
 bottlethe			1
 underreported			1
@@ -3790,7 +3693,6 @@ gnassingbé			1
 irregularity			1
 greta			1
 thunberg			1
-dublinfacebooktwitterlinkedinwhatsappno			1
 fianna			1
 gael			1
 dubliner			1
@@ -3824,14 +3726,12 @@ hardcore			1
 armageddon			1
 bugging			1
 gillingham			1
-facebooktwitterlinkedinwhatsappcults			1
 uniquely			1
 abase			1
 jong			1
 andrei			1
 kookmin			1
 remoter			1
-franciscofacebooktwitterlinkedinwhatsappcorporate			1
 newest			1
 gelsinger			1
 grail			1
@@ -3849,7 +3749,6 @@ reina			1
 sofía			1
 assigns			1
 economistthis			1
-santiagofacebooktwitterlinkedinwhatsappas			1
 teatro			1
 caupolicán			1
 víctor			1
@@ -3897,7 +3796,6 @@ neediest			1
 tito			1
 boeri			1
 bunds			1
-facebooktwitterlinkedinwhatsapppandemics			1
 ushered			1
 nico			1
 voigtländer			1
@@ -3914,7 +3812,6 @@ haemorrhagic			1
 guido			1
 alfani			1
 destinyin			1
-singaporefacebooktwitterlinkedinwhatsappwhen			1
 aerocity			1
 uber			1
 philz			1
@@ -3954,7 +3851,6 @@ dibs			1
 paytm			1
 competes			1
 discounting			1
-santiagofacebooktwitterlinkedinwhatsappwalk			1
 providencia			1
 baquedano			1
 ripped			1
@@ -4048,7 +3944,6 @@ arethe			1
 dos			1
 tricksiness			1
 hubfatality			1
-facebooktwitterlinkedinwhatsappwar			1
 nautilus			1
 greenland			1
 antarctica			1
@@ -4063,7 +3958,6 @@ fissile			1
 carbide			1
 contamination			1
 bangor			1
-facebooktwitterlinkedinwhatsappturtles			1
 alimentary			1
 colonise			1
 induces			1
@@ -4075,14 +3969,12 @@ drago			1
 xenia			1
 scheil			1
 sandnerdig			1
-facebooktwitterlinkedinwhatsappsaudi			1
 upped			1
 chafed			1
 nord			1
 oman			1
 rial			1
 rystad			1
-texasfacebooktwitterlinkedinwhatsappover			1
 dewey			1
 outskirt			1
 orsted			1
@@ -4101,7 +3993,6 @@ grassley			1
 incentivise			1
 headquarter			1
 sequestration			1
-shanghaifacebooktwitterlinkedinwhatsappchinese			1
 firewater			1
 kweichow			1
 sterilise			1
@@ -4118,14 +4009,12 @@ armsmaker			1
 awfully			1
 pent			1
 xiaomi			1
-yorkfacebooktwitterlinkedinwhatsapp			1
 repudiation			1
 profitability			1
 cuddlier			1
 lucian			1
 farsighted			1
 stakeholderism			1
-yangonfacebooktwitterlinkedinwhatsappas			1
 burmese			1
 avoids			1
 thant			1
@@ -4140,7 +4029,6 @@ convenes			1
 matthew			1
 arnold			1
 immaturely			1
-facebooktwitterlinkedinwhatsappwhat			1
 duma			1
 ivan			1
 valentina			1
@@ -4154,7 +4042,6 @@ vlad			1
 jawboning			1
 hamstrung			1
 enormouslyshould			1
-facebooktwitterlinkedinwhatsappover			1
 absorbs			1
 intesa			1
 sanpaolo			1
@@ -4181,7 +4068,6 @@ nearest			1
 queasiness			1
 maintainer			1
 usefulness			1
-mainefacebooktwitterlinkedinwhatsapp			1
 andy			1
 reboot			1
 barking			1
@@ -4190,7 +4076,6 @@ gouldsboro			1
 croydon			1
 burch			1
 opioids			1
-facebooktwitterlinkedinwhatsappfeeling			1
 bern			1
 legalisation			1
 insecurity			1
@@ -4228,7 +4113,6 @@ upat			1
 downturned			1
 scaffolder			1
 beresfordlondonthis			1
-facebooktwitterlinkedinwhatsappoccasionally			1
 reminds			1
 dinosaurian			1
 ankylosaurus			1
@@ -4242,7 +4126,6 @@ familarity			1
 lida			1
 geosciences			1
 tethys			1
-facebooktwitterlinkedinwhatsappapeirogon			1
 bloomsbury			1
 refers			1
 moralise			1
@@ -4266,7 +4149,6 @@ simultaneity			1
 baffling			1
 plainer			1
 bitterness			1
-yorkfacebooktwitterlinkedinwhatsappit			1
 pierpont			1
 authenticity			1
 spokespeople			1
@@ -4318,7 +4200,6 @@ wendy			1
 parmet			1
 northeastern			1
 unvarnished			1
-facebooktwitterlinkedinwhatsappstaggering			1
 riyal			1
 reluctance			1
 yesindia			1
@@ -4334,7 +4215,6 @@ guterres			1
 usualthe			1
 nba			1
 coachella			1
-facebooktwitterlinkedinwhatsappafghanistan			1
 wearily			1
 forebode			1
 pointman			1
@@ -4351,7 +4231,6 @@ fatally			1
 stokes			1
 cnn			1
 quintessentially			1
-facebooktwitterlinkedinwhatsappmanagement			1
 portmanteau			1
 univac			1
 enron			1
@@ -4373,7 +4252,6 @@ outsourcers			1
 tonicstill			1
 zippy			1
 blockchain			1
-facebooktwitterlinkedinwhatsappfirst			1
 jared			1
 brad			1
 antonio			1
@@ -4390,7 +4268,6 @@ meta			1
 karpf			1
 datajournalists			1
 unfiltered			1
-delhifacebooktwitterlinkedinwhatsapplast			1
 mangaluru			1
 engulfed			1
 instigation			1
@@ -4428,18 +4305,15 @@ hugely			1
 starkly			1
 immiseration			1
 leftish			1
-facebooktwitterlinkedinwhatsappfor			1
 identifies			1
 supermajority			1
 prolix			1
 utopian			1
 unaffordable			1
-franciscofacebooktwitterlinkedinwhatsappas			1
 pricestats			1
 maître			1
 oakland			1
 bounceback			1
-facebooktwitterlinkedinwhatsappfootprints			1
 straus			1
 giroux			1
 hiroshima			1
@@ -4469,7 +4343,6 @@ borges			1
 ballard			1
 alice			1
 oswald			1
-facebooktwitterlinkedinwhatsappvladimir			1
 ukrainian			1
 mh			1
 bidenjoe			1
@@ -4486,7 +4359,6 @@ eurobond			1
 abdel			1
 hamdok			1
 crisisthe			1
-dcfacebooktwitterlinkedinwhatsappin			1
 burlington			1
 americana			1
 missouri			1
@@ -4495,7 +4367,6 @@ suburbanite			1
 rustbelt			1
 sparsely			1
 berning			1
-mumbaifacebooktwitterlinkedinwhatsappindia			1
 stodgier			1
 rana			1
 laundering			1
@@ -4556,7 +4427,6 @@ coleridge			1
 wework			1
 donovan			1
 rowntree			1
-amsterdamfacebooktwitterlinkedinwhatsappin			1
 kankerlijer			1
 optyfussen			1
 krijg			1
@@ -4582,7 +4452,6 @@ marten			1
 meulen			1
 someday			1
 coronalijer			1
-facebooktwitterlinkedinwhatsappby			1
 starkness			1
 doomsayers			1
 malcolm			1
@@ -4610,7 +4479,6 @@ canapés			1
 pleasingly			1
 addis			1
 ababa			1
-kampalafacebooktwitterlinkedinwhatsappeditor			1
 lesedi			1
 soweto			1
 sowetans			1
@@ -4699,10 +4567,8 @@ levido			1
 keir			1
 starmer			1
 williamson			1
-facebooktwitterlinkedinwhatsappamerica			1
 homebuyers			1
 sickens			1
-paulofacebooktwitterlinkedinwhatsappeditor			1
 leblon			1
 priciest			1
 cinder			1
@@ -4722,7 +4588,6 @@ guedes			1
 brasília			1
 banging			1
 bolsonero			1
-taipeifacebooktwitterlinkedinwhatsappeditor			1
 hubhaving			1
 hebei			1
 elvis			1
@@ -4764,7 +4629,6 @@ citymapper			1
 spookily			1
 fuller			1
 revitalise			1
-slackfacebooktwitterlinkedinwhatsappeditor			1
 siberia			1
 automattic			1
 wordpress			1
@@ -4796,7 +4660,6 @@ atypically			1
 popped			1
 peninsular			1
 floridian			1
-chicagofacebooktwitterlinkedinwhatsapphowie			1
 vietnam			1
 dartmouth			1
 eco			1
@@ -4834,7 +4697,6 @@ rance			1
 nix			1
 brooklyn			1
 katie			1
-tijuanafacebooktwitterlinkedinwhatsappeditor			1
 hubtijuana			1
 renegotiate			1
 agustín			1
@@ -4845,7 +4707,6 @@ resells			1
 baja			1
 strengthens			1
 bersin			1
-facebooktwitterlinkedinwhatsappmany			1
 generalisation			1
 sweepingly			1
 tutsi			1
@@ -4879,7 +4740,6 @@ frontières			1
 planeloads			1
 khomeini			1
 absurdly			1
-wiltonfacebooktwitterlinkedinwhatsappeditor			1
 wilton			1
 wiltshire			1
 marlborough			1
@@ -4905,7 +4765,6 @@ foreignerssowing			1
 josep			1
 borrell			1
 pointedly			1
-tokyofacebooktwitterlinkedinwhatsappeditor			1
 kishi			1
 nobusuke			1
 gainsaid			1
@@ -4946,7 +4805,6 @@ unconditionally			1
 disinflationary			1
 unfairness			1
 backstopped			1
-chicagofacebooktwitterlinkedinwhatsappeditor			1
 quentin			1
 juggling			1
 improvises			1
@@ -4988,9 +4846,7 @@ primeur			1
 nouvelle			1
 greedily			1
 preferably			1
-facebooktwitterlinkedinwhatsapptaiwan			1
 lintaipei			1
-kingdomlondonpolitics			1
 myanmaryou			1
 steinbergprofessor			1
 universitybethesda			1
@@ -5024,7 +4880,6 @@ dylan			1
 llareggub			1
 rainbowspeen			1
 berkshirethis			1
-berlinfacebooktwitterlinkedinwhatsappit			1
 dortmund			1
 katja			1
 boldness			1
@@ -5059,7 +4914,6 @@ picchu			1
 kazakhstan			1
 generousthe			1
 copiously			1
-parisfacebooktwitterlinkedinwhatsappeditor			1
 hubman			1
 predictably			1
 cavistes			1
@@ -5084,7 +4938,6 @@ prototyping			1
 perspex			1
 shipley			1
 barcelona			1
-amsterdamfacebooktwitterlinkedinwhatsappwhen			1
 wright			1
 worldcom			1
 tyco			1
@@ -5102,7 +4955,6 @@ korn			1
 schaninger			1
 reskilled			1
 doughtiest			1
-facebooktwitterlinkedinwhatsappart			1
 webpage			1
 koons			1
 botticelli			1
@@ -5127,7 +4979,6 @@ museu			1
 arte			1
 tracey			1
 emin			1
-kongfacebooktwitterlinkedinwhatsappeditor			1
 cardinale			1
 puligny			1
 montrachet			1
@@ -5156,9 +5007,7 @@ borgia			1
 lucrezia			1
 florence			1
 wiser			1
-facebooktwitterlinkedinwhatsappwriters			1
 www			1
-yorkfacebooktwitterlinkedinwhatsappearly			1
 wallowed			1
 survives			1
 trafigura			1
@@ -5192,7 +5041,6 @@ markit			1
 hubpollution			1
 syncytial			1
 incubation			1
-shanghaifacebooktwitterlinkedinwhatsappeditor			1
 changshi			1
 replayed			1
 goodhart			1
@@ -5205,7 +5053,6 @@ wenjun			1
 spenderfor			1
 abounds			1
 uncharacteristically			1
-moscowfacebooktwitterlinkedinwhatsappvladimir			1
 diversified			1
 annexed			1
 oleg			1
@@ -5224,7 +5071,6 @@ ruben			1
 enikolopov			1
 confronts			1
 isolationomics			1
-facebooktwitterlinkedinwhatsappsometimes			1
 encapsulates			1
 youngest			1
 thabo			1
@@ -5240,7 +5086,6 @@ esade			1
 privatise			1
 mocked			1
 elcano			1
-dcfacebooktwitterlinkedinwhatsappby			1
 patchin			1
 sexters			1
 joris			1
@@ -5301,7 +5146,6 @@ heavier			1
 shouldn			1
 structurally			1
 wonk			1
-dcfacebooktwitterlinkedinwhatsappcontainer			1
 nightwatchmen			1
 dizzy			1
 audrey			1
@@ -5323,7 +5167,6 @@ grudgingly			1
 unco			1
 balochistan			1
 idlenessthis			1
-facebooktwitterlinkedinwhatsapppassing			1
 boldest			1
 pvh			1
 hilfiger			1
@@ -5404,7 +5247,6 @@ unregistered			1
 mototaxi			1
 rafael			1
 correa			1
-seoulfacebooktwitterlinkedinwhatsapp			1
 bitcoin			1
 ju			1
 baksa			1
@@ -5456,7 +5298,6 @@ typed			1
 hurriedly			1
 pr			1
 homeworker			1
-facebooktwitterlinkedinwhatsappmore			1
 khamenei			1
 chad			1
 modelo			1
