@@ -60,6 +60,7 @@ if __name__ == '__main__':
     word_count = dict()
     file_list = []
     for root, dirs, files in os.walk("./pages"):
+    # for root, dirs, files in os.walk("./test_pages"):
         for f in files:
             file_list.append(os.path.join(root, f))
     for file_path in file_list:
@@ -73,15 +74,28 @@ if __name__ == '__main__':
     sorted_word_count = sorted(word_count.items(), key=lambda x: x[1])
 
     # load word frequency data
+    freqs = []
     for i in range(5):
-        freq = set(open("../frequency/words-"+str(i+1)+".txt", "rt").read().split('\n'))
-        print(freq)
-        f = open("word_count-" + str(i+1) + ".txt", "wt")
-        for word in sorted_word_count:
+        freqs.append(set(open("../frequency/words-"+str(i+1)+".txt", "rt").read().split('\n')))
+
+    f = []
+    for i in range(5):
+        f.append(open("word_count-" + str(i+1) + ".txt", "wt"))
+
+    f_unknown = open("word_count-0.txt", "wt")
+        
+    for word in sorted_word_count:
+        for i in range(5):
+            freq = freqs[i]
             if len(word[0]) < 20 and word[0] in freq:
-                f.write("{}\t\t\t{}\n".format(word[0], word[1]))
-        f.close()
-    
-            
+                f[i].write("{}\t\t\t{}\n".format(word[0], word[1]))
+                break
+        else:
+            f_unknown.write("{}\t\t\t{}\n".format(word[0], word[1]))
+        
+
+    for i in range(5):
+        f[i].close()
+    f_unknown.close()
     
     
