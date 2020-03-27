@@ -56,11 +56,13 @@ def get_file_word_list(file_name):
 if __name__ == '__main__':
     word_count = dict()
     file_list = []
+    issues = 0
     current_folder = ""
     for root, dirs, files in os.walk("./pages"):
     # for root, dirs, files in os.walk("./test_pages"):
         for f in files:
             if root != current_folder:
+                issues += 1
                 current_folder = root
                 print("handling folder {}".format(current_folder))
             file_path = os.path.join(root, f)
@@ -89,14 +91,16 @@ if __name__ == '__main__':
         if len(word[0]) > 20:
             continue
         num_all_words += word[1]
+        fw = None
         for i in range(5):
             freq = freqs[i]
             if word[0] in freq:
-                f[i].write("{}\t\t\t{}\n".format(word[0], word[1]))
+                fw = f[i]
                 num_freq_words += word[1]
                 break
         else:
-            f_unknown.write("{}\t\t\t{}\n".format(word[0], word[1]))
+            fw = f_unknown
+        fw.write("{}\t\t\t{}\n".format(word[0], ("%.2f" % (word[1] / issues))))
 
     for i in range(5):
         f[i].close()
