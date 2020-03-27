@@ -6,7 +6,6 @@ import nltk
 from nltk.stem import WordNetLemmatizer
 
 def get_file_word_list(file_name):
-    print("handling {}".format(file_name))
     html_doc =  open(file_name, "rt").read()
     wordnet_lemmatizer = WordNetLemmatizer()
     soup = BeautifulSoup(html_doc, 'html.parser')
@@ -44,8 +43,6 @@ def get_file_word_list(file_name):
                 word = wordnet_lemmatizer.lemmatize(word)
             words.append(word)
 
-    print("{} words counted".format(len(words)))
-
     word_freq = dict()
     for word in words:
         if word in word_freq:
@@ -59,19 +56,21 @@ def get_file_word_list(file_name):
 if __name__ == '__main__':
     word_count = dict()
     file_list = []
+    current_folder = ""
     for root, dirs, files in os.walk("./pages"):
     # for root, dirs, files in os.walk("./test_pages"):
         for f in files:
-            file_list.append(os.path.join(root, f))
-    for file_path in file_list:
-        file_words = get_file_word_list(file_path)
-        for word_count_tuple in file_words.items():
-            if not word_count_tuple[0] in word_count:
-                word_count[word_count_tuple[0]] = 0
-            word_count[word_count_tuple[0]] += word_count_tuple[1]
-
+            if root != current_folder:
+                current_folder = root
+                print("handling folder {}".format(current_folder))
+            file_path = os.path.join(root, f)
+            file_words = get_file_word_list(file_path)
+            for word_count_tuple in file_words.items():
+                if not word_count_tuple[0] in word_count:
+                    word_count[word_count_tuple[0]] = 0
+                word_count[word_count_tuple[0]] += word_count_tuple[1]
             
-    sorted_word_count = sorted(word_count.items(), key=lambda x: x[1])
+    sorted_word_count = sorted(word_count.items(), key=lambda x: x[1], reverse=True)
 
     # load word frequency data
     freqs = []
@@ -83,19 +82,23 @@ if __name__ == '__main__':
         f.append(open("word_count-" + str(i+1) + ".txt", "wt"))
 
     f_unknown = open("word_count-0.txt", "wt")
-        
+
+    num_all_words = 0
+    num_freq_words = 0
     for word in sorted_word_count:
+        num_all_words += word[1]
         for i in range(5):
             freq = freqs[i]
             if len(word[0]) < 20 and word[0] in freq:
                 f[i].write("{}\t\t\t{}\n".format(word[0], word[1]))
+                num_freq_words += word[1]
                 break
         else:
             f_unknown.write("{}\t\t\t{}\n".format(word[0], word[1]))
-        
 
     for i in range(5):
         f[i].close()
     f_unknown.close()
     
+    print("{} words handled, {} words categorised.".format(num_all_words, num_freq_words))
     
