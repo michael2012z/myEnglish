@@ -1,5 +1,5 @@
 # cosmetic
-/kɒzmetɪk/ 
+**/kɒzmetɪk/**
 Cosmetic refers to how something or someone looks. Visit the cosmetics department of a store if you are looking to buy lipstick, and visit a cosmetic surgeon if you are looking to buy new lips.
 ### Definition
 - adj: serving an esthetic rather than a useful purpose
@@ -14,7 +14,7 @@ Cosmetic refers to how something or someone looks. Visit the cosmetics departmen
 - Yu said he spoke to an elderly woman who was robbed of her iPhone 7, cash and cosmetics by the suspects on Dec. 22.
 
 # scent
-/sent/ 
+**/sent/**
 A scent is a smell. Every house has a particular scent that is recognizable to people as belonging to that house.
 ### Definition
 - n: any property detected by the olfactory system
@@ -32,7 +32,7 @@ A scent is a smell. Every house has a particular scent that is recognizable to p
 - The scent, it transpires, is white tea and thyme.
 
 # vulgar
-/vʌlgəʳ/ 
+**/vʌlgəʳ/**
 Someone who's vulgar has bad taste, and could also be called unrefined or unsophisticated. Your snobby neighbor might mutter about your family's vulgar taste if you paint your house with rainbow stripes.
 ### Definition
 - adj: of or associated with the great masses of people
@@ -55,7 +55,7 @@ Someone who's vulgar has bad taste, and could also be called unrefined or unsoph
 - "People think it’s bad, that it’s vulgar," said one club manager, who like most of those interviewed declined to be named.
 
 # blur
-/blɜːʳ/ 
+**/blɜːʳ/**
 To blur is to make or become unfocused and fuzzy. Crying hard can cause your vision to blur until you wipe your tears away.
 ### Definition
 - v: make unclear, indistinct, or blurred
@@ -88,7 +88,7 @@ A caricature is a satirical, exaggerated portrayal of person. You'd better not c
 - But she’s tried to steer clear of caricatures about ’60s radicals.
 
 # homage
-/hɒmɪdʒ/ 
+**/hɒmɪdʒ/**
 Homage means great respect and honor, or something done to honor a person or thing. We pay homage to our ancestors and say prayers in homage to their memory.
 ### Definition
 - n: respectful deference
@@ -100,7 +100,7 @@ Homage means great respect and honor, or something done to honor a person or thi
 - Is there a nicer homage to our multiculturalism?
 
 # impulse
-/ɪmpʌls/ 
+**/ɪmpʌls/**
 An impulse is a sudden force or desire — this could be an electrical impulse, or an impulse to get some pizza.
 ### Definition
 - n: an impelling force or strength
@@ -117,7 +117,7 @@ An impulse is a sudden force or desire — this could be an electrical impulse, 
 - “Christa,” among the pieces in the current show, is still a radical gesture, and the other artworks here mostly align with that impulse.
 
 # infancy
-/ɪnfənsi/ 
+**/ɪnfənsi/**
 Infancy is the earliest part of a person's life, when they're a baby. It's extremely rare for anyone to remember their own infancy.
 ### Definition
 - n: the early stage of growth or development
@@ -131,7 +131,7 @@ Infancy is the earliest part of a person's life, when they're a baby. It's extre
 - "But the rebalancing process is still in its infancy and speculators want to position for that," he added.
 
 # extinction
-/ɪkstɪŋkʃən/ 
+**/ɪkstɪŋkʃən/**
 Extinction is when all members of a particular group die. Most often, we use it to discuss animal species. Many fear that the tiger is headed for extinction because of development and hunting.
 ### Definition
 - n: no longer in existence

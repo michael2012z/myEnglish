@@ -1,5 +1,5 @@
 # prosperous
-/prɒspərəs/ 
+**/prɒspərəs/**
 If you have a new car, a new high-paying job, and some flashy new shoes, then you could be described as prosperous, meaning you have material success that seems like it will continue to grow.
 ### Definition
 - adj: in fortunate circumstances financially; moderately rich
@@ -15,7 +15,7 @@ If you have a new car, a new high-paying job, and some flashy new shoes, then yo
 - Like today the original miners were secretive about their claims, often laying false trails and misinformation to lure their competitors away from prosperous sites.
 
 # incompetent
-/ɪnkɒmpɪtənt/ 
+**/ɪnkɒmpɪtənt/**
 If you are incompetent, you are not able to complete a task, like if you only ever made peanut butter and jelly sandwiches — you would be incompetent in the kitchen of a fancy French restaurant.
 ### Definition
 - adj: not qualified or suited for a purpose
@@ -37,7 +37,7 @@ If you are incompetent, you are not able to complete a task, like if you only ev
 - In June a judge declared Betwell was incompetent and ordered him to undergo treatment.
 
 # bacteria
-/bæktɪəriə/ 
+**/bæktɪəriə/**
 Bacteria are microscopic living organisms, usually one-celled, that can be found everywhere. They can be dangerous, such as when they cause infection, or beneficial, as in the process of fermentation (such as in wine) and that of decomposition.
 ### Definition
 - n: (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants
@@ -51,7 +51,7 @@ Bacteria are microscopic living organisms, usually one-celled, that can be found
 - The rice contained bacteria "above permissible limits", a senior Nafdac official said.
 
 # shrine
-/ʃraɪn/ 
+**/ʃraɪn/**
 Set up some candles and a photograph of someone important in your life in the corner of a room where you spend time reflecting silently, and you've created a shrine.
 ### Definition
 - n: a place of worship hallowed by association with some sacred thing or person
@@ -65,7 +65,7 @@ Set up some candles and a photograph of someone important in your life in the co
 - To be a Ranger is to sense the sacred trust of upholding all that such a name means in this shrine of football.
 
 # taboo
-/tæbuː/ 
+**/tæbuː/**
 Something considered taboo is naughty, something society considers a no-no. For example, it is taboo to ask people how much money they earn.
 ### Definition
 - n: an inhibition or ban resulting from social custom or emotional aversion
@@ -81,7 +81,7 @@ Something considered taboo is naughty, something society considers a no-no. For 
 - Divorce is taboo in the country, especially for women.
 
 # clutch
-/klʌtʃ/ 
+**/klʌtʃ/**
 To clutch is to grasp or hold on to tightly. Some people clutch the safety bar on the roller coaster for dear life; others throw their hands in the air.
 ### Definition
 - v: take hold of; grab
@@ -103,7 +103,7 @@ To clutch is to grasp or hold on to tightly. Some people clutch the safety bar o
 - The USS Dwight D. Eisenhower arrived Friday in Norfolk to cheers from hundreds of spouses and children clutching balloons and flowers and waving signs.
 
 # ferry
-/feri/ 
+**/feri/**
 A ferry is a boat that carries people, cars, and cargo back and forth across a body of water. The Staten Island Ferry ferries commuters from Manhattan to Staten Island every ten minutes during rush hour.
 ### Definition
 - n: a boat that transports people or vehicles across a body of water and operates on a regular schedule
@@ -120,7 +120,7 @@ A ferry is a boat that carries people, cars, and cargo back and forth across a b
 - Ferry accidents are common in Indonesia, the world’s largest archipelagic nation, with more than 17,000 islands.
 
 # drain
-/dreɪn/ 
+**/dreɪn/**
 Most commonly found at the bottom of sinks and bathtubs across the globe, a drain is the hole through which water is carried away.
 ### Definition
 - n: emptying something accomplished by allowing liquid to run out of it
@@ -154,7 +154,7 @@ If a company belongs to another company, then the owned company is a subsidiary.
 - Citilink is a subsidiary of national flag carrier Garuda Indonesia.
 
 # twist
-/twɪst/ 
+**/twɪst/**
 When you twist something, you turn it in a different direction. You might twist off a bottle cap, or you might even twist the plot of a story you are writing.
 ### Definition
 - v: cause (a plastic object) to assume a crooked or angular form

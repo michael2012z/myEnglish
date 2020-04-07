@@ -1,5 +1,5 @@
 # serene
-/sɪriːn/ 
+**/sɪriːn/**
 Choose the adjective serene to describe someone who is calm and untroubled. If you tell someone horrible news and they remain serene, you might wonder if they heard you!
 ### Definition
 - adj: not agitated; without losing self-possession
@@ -12,7 +12,7 @@ Choose the adjective serene to describe someone who is calm and untroubled. If y
 - Their whiskery, puppy-like faces and lolling, seemingly serene behavior often delights onlookers.
 
 # persona
-/pəʳsoʊnə/ 
+**/pəʳsoʊnə/**
 Your persona is the public image you present to the world. When T.S. Eliot wrote in "The Love Song of J. Alfred Prufrock" about preparing "a face to meet the faces that you meet," he had the persona in mind.
 ### Definition
 - n: (Jungian psychology) a personal facade that one presents to the world
@@ -28,7 +28,7 @@ Your persona is the public image you present to the world. When T.S. Eliot wrote
 - A priest contrasted Gabor's public persona with her private life.
 
 # solicitor
-/səlɪsɪtəʳ/ 
+**/səlɪsɪtəʳ/**
 If you get into trouble in England, don't ask for a lawyer. Find a solicitor. England has two levels of attorneys: for big problems, you'll need a barrister, but for your hypothetical legal troubles, a solicitor should do nicely.
 ### Definition
 - n: a British lawyer who gives legal advice and prepares legal documents
@@ -46,7 +46,7 @@ If you get into trouble in England, don't ask for a lawyer. Find a solicitor. En
 - Solicitors say people are increasingly using their will to say they want social media updated after death.
 
 # lid
-/lɪd/ 
+**/lɪd/**
 A lid is a top, or a cap — some kind of removable or hinged cover for a container. If you forget to put the lid on your tin of cat food, you may discover that your cat and dog have eaten it all by the end of the day.
 ### Definition
 - n: a movable top or cover (hinged or separate) for closing the opening at the top of a box, chest, jar, pan, etc.
@@ -60,7 +60,7 @@ A lid is a top, or a cap — some kind of removable or hinged cover for a contai
 - An obituary on the funeral home’s website credits Hulseman with developing the Red Solo Cup and the Traveler coffee cup lid.
 
 # parade
-/pəreɪd/ 
+**/pəreɪd/**
 A parade is a group of people marching in ceremony, celebration, or protest. Often a parade involves fire trucks, costumed adults throwing candy to children, baton twirlers, and members of the armed forces.
 ### Definition
 - n: a ceremonial procession including people marching
@@ -77,7 +77,7 @@ A parade is a group of people marching in ceremony, celebration, or protest. Oft
 - The 128th annual parade got started Monday with an added police presence and measures to prevent a vehicle from barreling into the route.
 
 # signify
-/sɪgnɪfaɪ/ 
+**/sɪgnɪfaɪ/**
 To signify means to "mean." When Paul Revere looked for the lanterns in the church tower, he knew that one would signify that the British were coming by land and two would indicate that they were coming by sea.
 ### Definition
 - v: denote or connote
@@ -106,7 +106,7 @@ To signify means to "mean." When Paul Revere looked for the lanterns in the chur
 - To David Bowie, whose beauty and talent and refusal to quit signified something beyond words: your passing brought us together in sadness and silent adulation.
 
 # uneven
-/ʌniːvən/ 
+**/ʌniːvən/**
 Uneven is the opposite of uniform and predictable. If the road is uneven, it's bumpy and rough, and you’ll have to dodge the potholes.
 ### Definition
 - adj: (of a contest or contestants) not fairly matched as opponents
@@ -124,7 +124,7 @@ Uneven is the opposite of uniform and predictable. If the road is uneven, it's b
 - It is always uneven, discontinuous, reversible, contradictory, producing winners and losers, no force of nature but manmade.”
 
 # hindrance
-/hɪndrəns/ 
+**/hɪndrəns/**
 A hindrance is something in the way, an obstacle. An untied shoelace is a hindrance to walking, and tripping in the lunchroom might be a hindrance to getting a seat at the cool table.
 ### Definition
 - n: any obstruction that impedes or is burdensome
@@ -155,7 +155,7 @@ Do you dream again and again that you are flying? If so, you could say that you 
 - It hasn’t moved so far because of recurrent worries about slow growth, weak inflation and turbulence overseas.
 
 # potassium
-/pətæsiəm/ 
+**/pətæsiəm/**
 ### Definition
 - n: a light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite
 ### Family

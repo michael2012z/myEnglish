@@ -1,5 +1,5 @@
 # indignant
-/ɪndɪgnənt/ 
+**/ɪndɪgnənt/**
 When you're indignant, you're angry about an unfair situation. If you discovered that a teacher gave ten extra points on a test to all students who sat in the front row, you'd be indignant.
 ### Definition
 - adj: angered at something unjust or wrong
@@ -11,7 +11,7 @@ When you're indignant, you're angry about an unfair situation. If you discovered
 - The most effective ways for people to resist aren’t through indignant tweets.
 
 # weep
-/wiːp/ 
+**/wiːp/**
 When you weep, you cry. If you're very empathetic, you might start to weep whenever you see other people weep.
 ### Definition
 - v: shed tears because of sadness, rage, or pain
@@ -25,7 +25,7 @@ When you weep, you cry. If you're very empathetic, you might start to weep whene
 - When it ends, it will be the only game after which players from both teams will weep.
 
 # bald
-/bɔːld/ 
+**/bɔːld/**
 Use the adjective bald to describe someone who has no hair on his head. If your uncle has a smooth, hairless scalp, he's bald.
 ### Definition
 - adj: lacking hair on all or most of the scalp
@@ -42,7 +42,7 @@ Use the adjective bald to describe someone who has no hair on his head. If your 
 - Binoculars are suggested, because Toronto Reservoir is often home to wintering bald eagles.
 
 # vent
-/vent/ 
+**/vent/**
 When you vent, you let something out, whether it's hot air or your feelings. If you vent your feelings, you let out a strong and sometimes angry emotion and just say what you think.
 ### Definition
 - n: a hole for the escape of gas or air
@@ -69,7 +69,7 @@ When you vent, you let something out, whether it's hot air or your feelings. If 
 - Mr. Baldwin continued venting early Friday by saying he wanted to perform at Mr. Trump’s inauguration.
 
 # federation
-/fedəreɪʃən/ 
+**/fedəreɪʃən/**
 A federation is an organization made up of smaller groups, parties, or states. The United States is a federation; the states all fall under the same federal government.
 ### Definition
 - n: an organization formed by merging several groups or parties
@@ -84,7 +84,7 @@ A federation is an organization made up of smaller groups, parties, or states. T
 - Cyber Command and aimed at targets or assets that are important not merely to the Russian Federation but to President Vladimir Putin himself.
 
 # marital
-/mærɪtəl/ 
+**/mærɪtəl/**
 Use the adjective marital to describe something that relates to a marriage. You may envy the marital contentment of spouses who communicate well with each other.
 ### Definition
 - adj: of or relating to the state of marriage
@@ -96,7 +96,7 @@ Use the adjective marital to describe something that relates to a marriage. You 
 - Ms McLaughlin's barristers argued that she was being unlawfully discriminated against due to her marital situation.
 
 # rack
-/ræk/ 
+**/ræk/**
 A rack is a device meant to hold something, or several things. A coat rack has hooks for hanging coats, and a magazine rack has shelves or slots to hold magazines.
 ### Definition
 - n: framework for holding objects
@@ -127,7 +127,7 @@ A rack is a device meant to hold something, or several things. A coat rack has h
 - “Sing,” the latest collaboration between Illumination and Universal, racked up $41.4 million during its second weekend in theaters.
 
 # momentous
-/moʊmentəs/ 
+**/moʊmentəs/**
 Momentous describes an important event or moment in time. It is used for a time of great consequence or for a major accomplishment, and is almost always reserved for good things.
 ### Definition
 - adj: of very great significance
@@ -141,7 +141,7 @@ Momentous describes an important event or moment in time. It is used for a time 
 - It represents a momentous victory for President Bashar Assad and a crushing defeat for Syria’s opposition which will struggle to forge a way forward.
 
 # fetus
-/fiːtəs/ 
+**/fiːtəs/**
 A fetus is a mammal before it's born. Once upon a time, you started as an embryo, matured into a fetus, and were then thrust into the world as a newborn.
 ### Definition
 - n: an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal
@@ -153,7 +153,7 @@ A fetus is a mammal before it's born. Once upon a time, you started as an embryo
 - A nearby site also contained remains of human cadavers and stillborn fetuses used in medical classes.
 
 # inspector
-/ɪnspektəʳ/ 
+**/ɪnspektəʳ/**
 An inspector is someone who looks into, observes, and examines things — it's also a word for a detective.
 ### Definition
 - n: an investigator who observes carefully

@@ -1,5 +1,5 @@
 # fortress
-/fɔːʳtrɪs/ 
+**/fɔːʳtrɪs/**
 A fortress is a large building or complex of buildings used as a military stronghold. In a military sense, a fortress is often called a “fort."
 ### Definition
 - n: a fortified defensive structure
@@ -11,7 +11,7 @@ A fortress is a large building or complex of buildings used as a military strong
 - KAWKABAN, Yemen — The majestic fortress nestled atop a mountain here in northwestern Yemen survived the armies of the Islamic warrior Saladin in the 12th century.
 
 # paranoia
-/pærənɔɪə/ 
+**/pærənɔɪə/**
 Something that happens to a person's thinking can lead to paranoia. You may believe that your friends no longer like you, but it's just that your paranoia makes you suspicious of everyone.
 ### Definition
 - n: a psychological disorder characterized by delusions of persecution or grandeur
@@ -25,7 +25,7 @@ Something that happens to a person's thinking can lead to paranoia. You may beli
 - Paranoia became the national mood and vigilante surveillance the national pastime.
 
 # rung
-/rʌŋ/ 
+**/rʌŋ/**
 A rung is one of the horizontal steps of a ladder. You should never stand on the very top rung of a ladder — it can be dangerous!
 ### Definition
 - n: one of the crosspieces that form the steps of a ladder
@@ -38,7 +38,7 @@ A rung is one of the horizontal steps of a ladder. You should never stand on the
 - They were never meant to serve as a lower rung of government.
 
 # parody
-/pærədi/ 
+**/pærədi/**
 A parody is a humorous or mocking imitation of something, using the same form as the original. To parody a poem, you have to write another poem.
 ### Definition
 - n: a composition that imitates or misrepresents somebody's style, usually in a humorous way
@@ -54,7 +54,7 @@ A parody is a humorous or mocking imitation of something, using the same form as
 - He showed anew the crispness of his enunciation — in this case stretched to farcical parody — and his talent for broad comedy.
 
 # cunning
-/kʌnɪŋ/ 
+**/kʌnɪŋ/**
 In fairy tales, always watch out for the cunning fox or the cunning witch. Cunning means clever, in the sense of trickery. A cunning plan might involve setting traps for the innocent and pure at heart to fall into.
 ### Definition
 - adj: showing inventiveness and skill
@@ -70,7 +70,7 @@ In fairy tales, always watch out for the cunning fox or the cunning witch. Cunni
 - The Deceptive Bike Box. A mild sensation online, this object from the oft-neglected packaging category may be the year’s most cunning design solution.
 
 # discriminate
-/dɪskrɪmɪneɪt/ 
+**/dɪskrɪmɪneɪt/**
 When you discriminate between two things, you can tell the difference between them and can tell them apart.
 ### Definition
 - adj: marked by the ability to see or make fine distinctions
@@ -92,7 +92,7 @@ When you discriminate between two things, you can tell the difference between th
 - “I always thought liberals were all encompassing and conservatives discriminating. This restaurant is an example of reverse discrimination or hypocritical discrimination.”
 
 # connotation
-/kɒnəteɪʃən/ 
+**/kɒnəteɪʃən/**
 When you're talking about the implied subtext of words rather than their literal meaning, reach for the noun connotation. A political boss might not want to be called "boss" because of the negative connotations.
 ### Definition
 - n: an idea that is implied or suggested
@@ -107,7 +107,7 @@ When you're talking about the implied subtext of words rather than their literal
 - She said she received a message stating her request was ineligible as it “may carry connotations offensive to good taste and decency.”
 
 # relentless
-/rɪlentləs/ 
+**/rɪlentləs/**
 Relentless is a good word for describing something that's harsh, unforgiving, and persistent, like the hot sun in the desert, or a cold that keeps you in bed for days with a nose like a strawberry.
 ### Definition
 - adj: never-ceasing
@@ -123,7 +123,7 @@ Relentless is a good word for describing something that's harsh, unforgiving, an
 - The song from 1988 reminds me of the necessity of positivity as a force in this relentless epoch of fear.
 
 # embody
-/ɪmbɒdi/ 
+**/ɪmbɒdi/**
 To embody a role is to fill it completely. If a high schooler seems to embody the character of Macbeth, his performance might make the audience forget they're watching a dorky 15-year-old with braces.
 ### Definition
 - v: represent in bodily form
@@ -140,7 +140,7 @@ To embody a role is to fill it completely. If a high schooler seems to embody th
 - She believes the process of embodying characters profoundly affects the people playing them.
 
 # drill
-/drɪl/ 
+**/drɪl/**
 A drill is a power tool that's used for making narrow holes or sometimes for pushing screws into wood or other hard material. The word is also a verb to describe the action a drill performs. For example, a dentist might drill into your tooth if you have a cavity.
 ### Definition
 - n: a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)

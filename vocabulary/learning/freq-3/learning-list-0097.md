@@ -1,5 +1,5 @@
 # trunk
-/trʌŋk/ 
+**/trʌŋk/**
 The noun trunk refers to the main stem of a tree. If you want to make maple syrup, you need to tap the trunk of the maple tree and collect the tree's sap, which can then be boiled into a sticky syrup.
 ### Definition
 - n: the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber
@@ -15,7 +15,7 @@ The noun trunk refers to the main stem of a tree. If you want to make maple syru
 - Big, classic American cars fit a driver plus five passengers — and the trunks are huge.
 
 # moist
-/mɔɪst/ 
+**/mɔɪst/**
 Moist things feel damp when you touch them — they're just a little bit wet. You might want to bring a blanket to sit on for a picnic, especially if it rained yesterday and the grass is still moist.
 ### Definition
 - adj: slightly wet
@@ -32,7 +32,7 @@ Moist things feel damp when you touch them — they're just a little bit wet. Yo
 - To his surprise, microwaves emanating from the ground suggested that in some parts of the oven-hot desert, the soil is moist.
 
 # intricate
-/ɪntrɪkət/ 
+**/ɪntrɪkət/**
 Intricate things are complex and have many elements: they're not simple. Think of the intricate wiring of a computer's motherboard, or the intricate plot of a movie that you have a hard time following.
 ### Definition
 - adj: having many complexly arranged elements; elaborate
@@ -61,7 +61,7 @@ If you know the definition of this noun by quick insight without relying on reas
 - “He told me that the shooting animations are deliberately not accurate recreations of the real thing. They leave room for player intuition and invention.”
 
 # dumb
-/dʌm/ 
+**/dʌm/**
 Today, most of the time someone or something is described as dumb when it shows a lack of thought, like your dumb idea of wearing flip-flops in a snowstorm.
 ### Definition
 - adj: slow to learn or understand; lacking intellectual acuity
@@ -76,7 +76,7 @@ Today, most of the time someone or something is described as dumb when it shows 
 - In other words, country folks should stay bought and the working class is too dumb to understand what’s good for them.
 
 # chatter
-/tʃætəʳ/ 
+**/tʃætəʳ/**
 To chatter is to talk lightly or casually — to shoot the breeze or chitchat. You might chatter with your workmates about the weather or where you'll eat lunch.
 ### Definition
 - v: talk socially without exchanging too much information
@@ -97,7 +97,7 @@ To chatter is to talk lightly or casually — to shoot the breeze or chitchat. Y
 - Amid all the chatter, it was easy to miss that 2016 was also a turning point for fashions themselves.
 
 # idiot
-/ɪdiət/ 
+**/ɪdiət/**
 The noun idiot means a person of lower-than-normal intelligence or someone who does foolish things, like your neighbor who car got stolen because he left it unlocked with the key in the ignition. What an idiot.
 ### Definition
 - n: a person of subnormal intelligence
@@ -111,7 +111,7 @@ The noun idiot means a person of lower-than-normal intelligence or someone who d
 - Walliams played me like he plays a lot of people – as a camp idiot.
 
 # thief
-/θiːf/ 
+**/θiːf/**
 A thief is someone who steals something. A thief can be anything from a cyberspace criminal mastermind who steals credit card information around the world, to the petty thief who picks people's pockets on the subway.
 ### Definition
 - n: a criminal who takes property belonging to someone else with the intention of keeping it or selling it
@@ -123,7 +123,7 @@ A thief is someone who steals something. A thief can be anything from a cyberspa
 - Laundromat owner Rhonda Emerson says the thieves kicked a hole in the wall underneath the change machine and crawled into the locked office.
 
 # penalty
-/penəlti/ 
+**/penəlti/**
 A penalty is a punishment or consequence for doing something wrong, such as having to pay a fee for not bringing your library book back when it was due.
 ### Definition
 - n: the disadvantage or painful consequences of an action or condition
@@ -140,7 +140,7 @@ A penalty is a punishment or consequence for doing something wrong, such as havi
 - Any suspect who steps forward would face a misdemeanor trespassing charge —  a penalty equivalent to “a slap on the hand,” Ramirez said.
 
 # plough
-/plaʊ/ 
+**/plaʊ/**
 ### Definition
 - n: a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing
 - v: to break and turn over earth especially with a plow

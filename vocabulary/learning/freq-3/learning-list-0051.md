@@ -27,7 +27,7 @@ Frost is a thin, icy coating that forms on very cold, damp nights. During a New 
 - “That doesn’t happen unless a whole teams buys in and are working together,” first-year UCF coach Scott Frost said of Arkansas State.
 
 # gospel
-/gɒspəl/ 
+**/gɒspəl/**
 Follow advice like gospel and you're following it as though it was the final word or authority on the matter.
 ### Definition
 - n: the written body of teachings of a religious group that are generally accepted by that group
@@ -50,7 +50,7 @@ Follow advice like gospel and you're following it as though it was the final wor
 - Gospel music will be performed by the Welcome Table Choir and pianist.
 
 # ditch
-/dɪtʃ/ 
+**/dɪtʃ/**
 A ditch is a long trench or pit dug into the ground. If your lawns are always soggy, build a drainage ditch for the excess water to flow into.
 ### Definition
 - n: a long narrow excavation in the earth
@@ -86,7 +86,7 @@ If you notice that crumbs appear on your little brother's shirt whenever the coo
 - Household formation is closely correlated with housing affordability and income.
 
 # generosity
-/dʒenərɒsɪti/ 
+**/dʒenərɒsɪti/**
 Generosity is a quality that's a lot like unselfishness. Someone showing generosity is happy to give time, money, food, or kindness to people in need.
 ### Definition
 - n: the trait of being willing to give your money or time
@@ -102,7 +102,7 @@ Generosity is a quality that's a lot like unselfishness. Someone showing generos
 - I was constantly stunned by Carrie’s generosity, refusing it often, which seemed to move her.
 
 # metric
-/metrɪk/ 
+**/metrɪk/**
 If something’s metric, it’s related to a system that uses the meter as a basic measurement. If someone says they'll sell you 3 meters of silk, then you know that the metric system is being used.
 ### Definition
 - adj: based on the meter as a standard of measurement
@@ -119,7 +119,7 @@ If something’s metric, it’s related to a system that uses the meter as a bas
 - A metric ton of restaurants opened in Seattle this year, while some favorites closed.
 
 # surrender
-/sərendəʳ/ 
+**/sərendəʳ/**
 To surrender is to give up control of something to someone else. If you miss curfew, your parents might make you surrender the keys to the car. Okay, it's only a minivan, but it's still cooler than being on foot patrol.
 ### Definition
 - v: relinquish possession or control over
@@ -136,7 +136,7 @@ To surrender is to give up control of something to someone else. If you miss cur
 - The suspect fled the scene but later returned and surrendered.
 
 # consequential
-/kɒnsɪkwenʃəl/ 
+**/kɒnsɪkwenʃəl/**
 Things that are consequential are important — extremely important. Electing a new president and having a baby are consequential. Killing a fly? Not so much.
 ### Definition
 - adj: having important issues or results
@@ -154,7 +154,7 @@ Things that are consequential are important — extremely important. Electing a 
 - Some of the new energy efficiency standards, or regulations, are pretty consequential, DeLaski says.
 
 # trivial
-/trɪviəl/ 
+**/trɪviəl/**
 Something that is trivial is not important or significant, such as the trivial details you shared with me about your trip to the post office this morning.
 ### Definition
 - adj: (informal) small and of little importance
@@ -172,7 +172,7 @@ Something that is trivial is not important or significant, such as the trivial d
 - Mr. Chait informed his followers on Twitter that, “The distinction between a president and a king is not trivial,” while Mr. Drezner said, “OMFG.”
 
 # depiction
-/dɪpɪkʃən/ 
+**/dɪpɪkʃən/**
 A depiction is a true representation of something, like the depiction of life as a Jewish teenager in hiding during World War II in Anne Frank's "The Diary of a Young Girl."
 ### Definition
 - n: representation by drawing, painting, etc.

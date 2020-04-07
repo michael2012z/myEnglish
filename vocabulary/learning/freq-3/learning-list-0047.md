@@ -1,5 +1,5 @@
 # sediment
-/sedɪmənt/ 
+**/sedɪmənt/**
 Sediment is the accumulation of sand and dirt that settles in the bottom of lakes. Sediment is also what you get in the bottom of a glass of iced tea when the sugar doesn’t all dissolve.
 ### Definition
 - n: matter that has been deposited by some natural process
@@ -13,7 +13,7 @@ Sediment is the accumulation of sand and dirt that settles in the bottom of lake
 - Before the Champagne is finished, the sediment left by the dead yeast is expelled, or disgorged, from the bottle.
 
 # imperative
-/ɪmperətɪv/ 
+**/ɪmperətɪv/**
 When something absolutely has to be done and cannot be put off, use the adjective imperative.
 ### Definition
 - adj: requiring attention or action
@@ -28,7 +28,7 @@ When something absolutely has to be done and cannot be put off, use the adjectiv
 - Clearly, research and funding are imperative to get a true grasp on how Lyme and other diseases interact with other forms of infection.
 
 # acre
-/eɪkəʳ/ 
+**/eɪkəʳ/**
 A acre is a unit for measuring area, especially larger areas like farms. An acre is 4840 square yards.
 ### Definition
 - n: a unit of area (4840 square yards) used in English-speaking countries
@@ -46,7 +46,7 @@ A acre is a unit for measuring area, especially larger areas like farms. An acre
 - Three isolated groups live in Acre state, said José Carlos Meirelles, an expert in Brazil’s indigenous peoples who was also on the flight.
 
 # herd
-/hɜːʳd/ 
+**/hɜːʳd/**
 A herd is a bunch of animals — or people who act like a bunch of animals. It's also a verb — when people herd animals, they try to keep them moving in the same direction.
 ### Definition
 - n: a group of cattle or sheep or other domestic mammals all of the same kind that are herded by humans
@@ -64,7 +64,7 @@ A herd is a bunch of animals — or people who act like a bunch of animals. It's
 - The herd typically summers northwest of Meeteetse and migrates into the Bighorn Basin in winter.
 
 # complacency
-/kəmpleɪsənsi/ 
+**/kəmpleɪsənsi/**
 The word complacency is often hurled, in a rather scornful manner, at people who are unwilling to be political. It connotes a sense of ease and contentment with the status quo.
 ### Definition
 - n: the feeling you have when you are satisfied with yourself
@@ -78,7 +78,7 @@ The word complacency is often hurled, in a rather scornful manner, at people who
 - Darcy’s letter to Elizabeth shows a man shaken from the easy complacency of wealth and self-regard.
 
 # bunch
-/bʌntʃ/ 
+**/bʌntʃ/**
 A group or cluster of something is a bunch. It could be a bunch of people or a bunch of grapes. If you pick a bunch of bananas, you might end up being followed by a bunch of monkeys.
 ### Definition
 - n: a grouping of a number of similar things
@@ -95,7 +95,7 @@ A group or cluster of something is a bunch. It could be a bunch of people or a b
 - The newest of the bunch is the trendy Off Paris Seine, which opened last summer.
 
 # martyr
-/mɑːʳtəʳ/ 
+**/mɑːʳtəʳ/**
 Someone who suffers, or is even killed, for his or her political or religious beliefs is called a martyr.
 ### Definition
 - n: one who voluntarily suffers death as the penalty for refusing to renounce their religion
@@ -113,7 +113,7 @@ Someone who suffers, or is even killed, for his or her political or religious be
 - The high-stakes question — for them and consequently for Christianity’s future in Asia — is whether to renounce Jesus or die a martyr.
 
 # stride
-/straɪd/ 
+**/straɪd/**
 The noun stride means "significant progress." You might make a huge stride towards making peace with the rival school by hosting a block party and inviting their students.
 ### Definition
 - v: walk with long steps
@@ -130,7 +130,7 @@ The noun stride means "significant progress." You might make a huge stride towar
 - The maple floorboards were bubbled, and my twelve-year-old stride activated a creak.
 
 # plight
-/plaɪt/ 
+**/plaɪt/**
 A plight is a situation that's hard to get out of. Learning about the plight of very poor people trying to rebuild their homes after a devastating earthquake might inspire you to send money to a charity.
 ### Definition
 - n: a situation from which extrication is difficult especially an unpleasant or trying one
@@ -145,7 +145,7 @@ A plight is a situation that's hard to get out of. Learning about the plight of 
 - Until LeBron James leaves Cleveland, that will be the plight of most teams in the Eastern Conference.
 
 # sink
-/sɪŋk/ 
+**/sɪŋk/**
 When things sink, they settle or drop to a lower level. If your kayak has a leak, it might fill with water and sink to the bottom of the lake.
 ### Definition
 - v: fall or descend to a lower place or level

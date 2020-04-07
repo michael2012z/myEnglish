@@ -1,5 +1,5 @@
 # glory
-/glɔːri/ 
+**/glɔːri/**
 Glory is brilliant, radiant beauty. You might admire a princess in all her glory, since she seems almost too gorgeous to be real.
 ### Definition
 - n: a state of high honor
@@ -36,7 +36,7 @@ Reactionary describes people on the far right politically. Reactionaries occupy 
 - The movie, and the way it was received and viciously attacked online, told us something vital about the hive mind of the US’s reactionary right.
 
 # unite
-/juːnaɪt/ 
+**/juːnaɪt/**
 Use the verb unite to describe two or more things merging into one, like several angry citizens who unite to form a political group.
 ### Definition
 - v: join or combine
@@ -60,7 +60,7 @@ Use the verb unite to describe two or more things merging into one, like several
 - A year ago, a robot called HitchBOT traveled across Canada, the United Kingdom and the Netherlands before it was brought to the United States.
 
 # dairy
-/deəri/ 
+**/deəri/**
 A dairy is a farm that specializes in milk and products made from milk. Cheese, yogurt, cream, and ice cream are all things that might be produced at a dairy.
 ### Definition
 - n: a farm where dairy products are produced
@@ -72,7 +72,7 @@ A dairy is a farm that specializes in milk and products made from milk. Cheese, 
 - Dairy operators said Heartland is the one of the few, if the only, option available for getting rid of manure.
 
 # beset
-/bɪset/ 
+**/bɪset/**
 Beset means to attack from all sides––an invading army will beset a castle, or you might find yourself beset by a devastating storm.
 ### Definition
 - v: assail or attack on all sides: "The zebra was beset by leopards"
@@ -86,7 +86,7 @@ Beset means to attack from all sides––an invading army will beset a castle, 
 - Amazon last year was beset with a scramble to deliver orders resulting from an unanticipated spike in demand.
 
 # ascertain
-/æsəʳteɪn/ 
+**/æsəʳteɪn/**
 Ascertain is a verb that means to find out something. You might have to go to the bank to ascertain if there is any money in your account.
 ### Definition
 - v: learn or discover with certainty
@@ -102,7 +102,7 @@ Ascertain is a verb that means to find out something. You might have to go to th
 - Writing for the majority, Justice Mary Fairhurst noted that “mental-health professionals face an incredibly difficult task in ascertaining whether a patient will act violently.”
 
 # forensic
-/fərensɪk/ 
+**/fərensɪk/**
 The adjective forensic describes scientific methods used to investigate crimes. If you're looking for forensic evidence, you're using your scientific know-how to find proof that will help solve crimes.
 ### Definition
 - adj: used or applied in the investigation and establishment of facts or evidence in a court of law
@@ -131,7 +131,7 @@ When you give testimony you are telling what you saw or what you know. Your test
 - Testimony in the case opened and closed with two of the massacre’s survivors.
 
 # thumb
-/θʌm/ 
+**/θʌm/**
 ### Definition
 - n: the thick short innermost digit of the forelimb
 - n: the part of a glove that provides a covering for the thumb
@@ -147,7 +147,7 @@ When you give testimony you are telling what you saw or what you know. Your test
 - Mr. Trump is considered likely to abandon that pledge, thumbing Uncle Sam’s nose at the world’s destitute people.
 
 # anniversary
-/ænɪvɜːʳsəri/ 
+**/ænɪvɜːʳsəri/**
 An anniversary marks the date on which an event happened — a five-year wedding anniversary occurs exactly five years after a wedding.
 ### Definition
 - n: the date on which an event occurred in some previous year (or the celebration of it)

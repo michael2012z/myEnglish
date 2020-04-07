@@ -1,5 +1,5 @@
 # vegetation
-/vedʒɪteɪʃən/ 
+**/vedʒɪteɪʃən/**
 Use the word vegetation to refer to all plants and trees collectively, typically those in a specific region. The vegetation in your backyard might look very lush and green in the springtime, unless you forget to water it.
 ### Definition
 - n: the process of growth in plants
@@ -16,7 +16,7 @@ Use the word vegetation to refer to all plants and trees collectively, typically
 - Officials say managing the number of deer is necessary for a healthy, diverse forest that supports native vegetation and wildlife.
 
 # mate
-/meɪt/ 
+**/meɪt/**
 Someone's mate is their spouse, partner, boyfriend, or girlfriend. Your grandmother's long-term sweetheart is her mate. Awwww.
 ### Definition
 - n: a person's partner in marriage
@@ -44,7 +44,7 @@ Someone's mate is their spouse, partner, boyfriend, or girlfriend. Your grandmot
 - A tiger mates with a lion in the distance.
 
 # canopy
-/kænəpi/ 
+**/kænəpi/**
 A canopy is a roof-like covering for a bed, made of fabric. A lot of little girls dream of having a four-poster bed with a ruffled canopy.
 ### Definition
 - n: a covering (usually of cloth) that serves as a roof to shelter an area from the weather
@@ -59,7 +59,7 @@ A canopy is a roof-like covering for a bed, made of fabric. A lot of little girl
 - The tree canopy filtered the light for a blue-green effect as we approached the redwoods of Muir Woods.
 
 # velvet
-/velvɪt/ 
+**/velvɪt/**
 Use the noun velvet to describe a plush, smooth fabric that is used to make elegant dresses and fancy drapes.
 ### Definition
 - n: a silky densely piled fabric with a plain back
@@ -73,7 +73,7 @@ Use the noun velvet to describe a plush, smooth fabric that is used to make eleg
 - Inside, young women dressed in soft linen and fluorescent lace hijabs sat with men wearing velvet pinstriped blazers and fake leather jackets.
 
 # jacket
-/dʒækɪt/ 
+**/dʒækɪt/**
 A jacket is a lightweight or cropped coat. Most jackets end at your waist or hips, while coats can be much longer. If you have outerwear made of denim or leather, feel free to call them jackets.
 ### Definition
 - n: a short coat
@@ -91,7 +91,7 @@ A jacket is a lightweight or cropped coat. Most jackets end at your waist or hip
 - Sort clothes by type, grouping pants together, then shirts or blouses, jackets or dresses.
 
 # exhaustive
-/ɪgzɔːstɪv/ 
+**/ɪgzɔːstɪv/**
 Exhaustive means performed comprehensively and completely. When you recruit a new employee (or spouse), you undertake an exhaustive search for the best talent.
 ### Definition
 - adj: performed comprehensively and completely
@@ -107,7 +107,7 @@ Exhaustive means performed comprehensively and completely. When you recruit a ne
 - “It also demands a diligent and exhaustive investigation.”
 
 # preclude
-/prɪkluːd/ 
+**/prɪkluːd/**
 To preclude something is to prevent it from happening. A muzzle precludes a dog from biting.
 ### Definition
 - v: make impossible, especially beforehand
@@ -135,7 +135,7 @@ Elitist is another word for snob.If you wear only the finest silk suits, expect 
 
 
 # outward
-/aʊtwəʳd/ 
+**/aʊtwəʳd/**
 ### Definition
 - adj: that is going out or leaving
 - adv: toward the outside

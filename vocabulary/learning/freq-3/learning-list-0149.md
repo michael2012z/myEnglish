@@ -1,5 +1,5 @@
 # utmost
-/ʌtmoʊst/ 
+**/ʌtmoʊst/**
 Utmost means "the greatest extent or amount." When you work as part as you possibly can, you do your utmost to accomplish your goal.
 ### Definition
 - adj: highest in extent or degree
@@ -14,7 +14,7 @@ Utmost means "the greatest extent or amount." When you work as part as you possi
 - His career culminated with an honor of utmost significance for the Bakken staple.
 
 # mainstay
-/meɪnsteɪ/ 
+**/meɪnsteɪ/**
 A mainstay is something that acts as a source of support for a community. If your hometown's economy depends on tourists visiting every summer, you could say that tourism is the mainstay of your town.
 ### Definition
 - n: a prominent supporter
@@ -28,7 +28,7 @@ A mainstay is something that acts as a source of support for a community. If you
 - A mainstay of the industry, the business involves delivering gas by truck to customers within a radius of a few hundred miles.
 
 # manic
-/mænɪk/ 
+**/mænɪk/**
 Manic means frenzied. If you drink 18 cups of coffee in a single sitting and haven't slept for three days, chances are you're manic.
 ### Definition
 - adj: affected with or marked by frenzy or mania uncontrolled by reason
@@ -43,7 +43,7 @@ Manic means frenzied. If you drink 18 cups of coffee in a single sitting and hav
 - Stephen Fry visits a manic Fisher at home.
 
 # sewage
-/suːɪdʒ/ 
+**/suːɪdʒ/**
 The waste water that flows down drains and through pipes from toilets and sinks is called sewage. There's nothing quite like smelling sewage on a hot summer day.
 ### Definition
 - n: waste matter carried away in sewers or drains
@@ -55,7 +55,7 @@ The waste water that flows down drains and through pipes from toilets and sinks 
 - There’s hardly any sewage treatment in Haiti more than six years after the worst epidemic of cholera in recent history began here.
 
 # posit
-/pɒzɪt/ 
+**/pɒzɪt/**
 To posit something is to assume or suggest that it is true. You can posit an idea or opinion.
 ### Definition
 - v: take as a given; assume as a postulate or axiom
@@ -70,7 +70,7 @@ To posit something is to assume or suggest that it is true. You can posit an ide
 - Perhaps the solution is glaringly obvious: In “Abominable Bride,” Watson posits his own theory for how the woman and Moriarty got away with their suicide.
 
 # catalyst
-/kætəlɪst/ 
+**/kætəlɪst/**
 A catalyst is an event or person causing a change. Getting kicked out of your parents' house might be a catalyst for becoming more independent.
 ### Definition
 - n: (chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected
@@ -83,7 +83,7 @@ A catalyst is an event or person causing a change. Getting kicked out of your pa
 - Former Hull Labour MP, Lord Prescott, said he hoped the event would be a catalyst for change in Hull.
 
 # susceptibility
-/səseptɪbɪlɪti/ 
+**/səseptɪbɪlɪti/**
 Susceptibility is a tendency to be affected by something. Some people have a greater susceptibility to colds than others.
 ### Definition
 - n: the state of being susceptible; easily affected
@@ -97,7 +97,7 @@ Susceptibility is a tendency to be affected by something. Some people have a gre
 - The media feeds our susceptibility to filter bubbles and capitalizes on contagious emotions such as anger.
 
 # deceptive
-/dɪseptɪv/ 
+**/dɪseptɪv/**
 Something that's deceptive is not what it seems. A deceptive person will lead you to believe something other than the truth. Of course, I would never be deceptive when explaining the word deceptive.
 ### Definition
 - adj: designed to deceive or mislead either deliberately or inadvertently
@@ -115,7 +115,7 @@ Something that's deceptive is not what it seems. A deceptive person will lead yo
 - They want the FDA to require plant-based products to adopt a name other than milk, which they say is deceptive.
 
 # cornerstone
-/kɔːʳnəʳstoʊn/ 
+**/kɔːʳnəʳstoʊn/**
 A cornerstone is literally a stone at the corner of a building. It’s an important stone, so it also means “the basic part of something,” as in, the cornerstone of the suffragette movement was getting women the right to vote.
 ### Definition
 - n: a stone at the outer corner of two intersecting masonry walls
@@ -129,7 +129,7 @@ A cornerstone is literally a stone at the corner of a building. It’s an import
 - International collaboration and shared responsibility must be cornerstones of serious attempts to prevent catastrophic outcomes.
 
 # resurgence
-/rɪsɜːʳdʒəns/ 
+**/rɪsɜːʳdʒəns/**
 Resurgence means coming back. Biker jackets are always cool––but in certain decades they experience a resurgence, and suddenly you see them everywhere.
 ### Definition
 - n: bringing again into activity and prominence

@@ -1,5 +1,5 @@
 # enlist
-/ɪnlɪst/ 
+**/ɪnlɪst/**
 To enlist is to voluntarily join the military. You may have seen television commercials or posters encouraging people to enlist.
 ### Definition
 - v: join the military
@@ -23,7 +23,7 @@ To enlist is to voluntarily join the military. You may have seen television comm
 - Weaver enlisted in the Pennsylvania State Police in December 2015 and was assigned to the Patrol Unit in Troop G in Huntingdon.
 
 # endorsement
-/ɪndɔːʳsmənt/ 
+**/ɪndɔːʳsmənt/**
 An endorsement is a form of public support or approval. Endorsements are given to politicians and products.
 ### Definition
 - n: the act of endorsing
@@ -41,7 +41,7 @@ An endorsement is a form of public support or approval. Endorsements are given t
 - He dismisses Rasputin’s crude endorsement of vigilantism against Jews — so they “won’t even dream about asking for equality” — as an isolated utterance.
 
 # tilt
-/tɪlt/ 
+**/tɪlt/**
 Tilt is both a noun and a verb. It has many shades of meaning, but most involve a slope or slant. When you're dizzy from eating too much, you might tilt when you walk away from the table.
 ### Definition
 - v: heel over
@@ -62,7 +62,7 @@ Tilt is both a noun and a verb. It has many shades of meaning, but most involve 
 - In the U.S., officials at some colleges say it’s clear Trump’s election is tilting enrollment patterns.
 
 # irresistible
-/ɪrɪzɪstɪbəl/ 
+**/ɪrɪzɪstɪbəl/**
 If something is irresistible, you have to have it, like the plate of gooey chocolate chip cookies sitting in front of a group of dieters who one by one help themselves to a handful.
 ### Definition
 - adj: impossible to resist; overpowering
@@ -77,7 +77,7 @@ If something is irresistible, you have to have it, like the plate of gooey choco
 - The treats proved irresistible to the exhausted staff.
 
 # heir
-/eəʳ/ 
+**/eəʳ/**
 If your grandfather leaves his candy factory to you in his will, it means you're the heir to the family candy business, and after your grandfather dies, you will inherit the factory.
 ### Definition
 - n: a person who is entitled by law or by the terms of a will to inherit the estate of another
@@ -90,7 +90,7 @@ If your grandfather leaves his candy factory to you in his will, it means you're
 - The Tata Group was founded by a Parsi and run by his heirs for more than a century.
 
 # antigen
-/æntɪdʒən/ 
+**/æntɪdʒən/**
 An antigen is a substance that your immune system reacts against. A harmful virus is one kind of antigen.
 ### Definition
 - n: any substance (as a toxin or enzyme) that stimulates an immune response in the body (especially the production of antibodies)
@@ -120,7 +120,7 @@ A costume is a set of clothes you wear when you want to dress up like another pe
 - In costume, they visit hospitals and raise money for charity.
 
 # bleak
-/bliːk/ 
+**/bliːk/**
 Something that is bleak is gloomy and depressing. If it's raining and dark, you might describe the night as bleak. If you have looked for work and no one will hire you, you could describe your prospects as bleak.
 ### Definition
 - adj: unpleasantly cold and damp
@@ -137,7 +137,7 @@ Something that is bleak is gloomy and depressing. If it's raining and dark, you 
 
 
 # coma
-/koʊmə/ 
+**/koʊmə/**
 Medically speaking, a coma is the state of protective deep sleep your body goes into when severely injured, as in a car crash. Daytime soap operas would be lost without a good coma every few weeks.
 ### Definition
 - n: a state of deep and often prolonged unconsciousness; usually the result of disease or injury

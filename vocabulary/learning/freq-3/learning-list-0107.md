@@ -1,5 +1,5 @@
 # optimum
-/ɒptɪməm/ 
+**/ɒptɪməm/**
 An optimum is the best condition or highest extent of something. He didn't mean to create a science experiment, but the unwashed coffee cup under his desk became the optimum dark, wet environment for growing lots of mold.
 ### Definition
 - adj: most desirable possible under a restriction expressed or implied
@@ -14,7 +14,7 @@ An optimum is the best condition or highest extent of something. He didn't mean 
 - "Only the communication between the video assistant referee and the referee was not optimum."
 
 # reflective
-/rɪflektɪv/ 
+**/rɪflektɪv/**
 Reflective is an adjective that can describe a person who thinks things through, or a surface that reflects light or sound, like the reflective lettering on a stop sign.
 ### Definition
 - adj: capable of physically reflecting light or sound
@@ -34,7 +34,7 @@ Reflective is an adjective that can describe a person who thinks things through,
 - What this parade is about for me is capturing those moments that are reflective of our resilience and our optimism.
 
 # coating
-/koʊtɪŋ/ 
+**/koʊtɪŋ/**
 ### Definition
 - n: a thin layer covering something
 - n: a decorative texture or appearance of a surface (or the substance that gives it that appearance)
@@ -53,7 +53,7 @@ Reflective is an adjective that can describe a person who thinks things through,
 - Consumers may be wary of a new coating on fresh food, for example, and growers may decide it adds too much cost.
 
 # indistinguishable
-/ɪndɪstɪŋgwɪʃəbəl/ 
+**/ɪndɪstɪŋgwɪʃəbəl/**
 If you can't tell the difference between two things, they're indistinguishable — they appear the same. Although their parents can tell them apart, identical twins are indistinguishable to most people.
 ### Definition
 - adj: exactly alike; incapable of being perceived as different
@@ -70,7 +70,7 @@ If you can't tell the difference between two things, they're indistinguishable �
 - One thing is indistinguishable between the eras—all the winning to start a season.
 
 # indictment
-/ɪndaɪtmənt/ 
+**/ɪndaɪtmənt/**
 An indictment, or a legal document charging you with a crime, is something you don't want to be the recipient of, so try not to rob any banks or start any money laundering schemes, and you'll probably be okay.
 ### Definition
 - n: an accusation of wrongdoing
@@ -103,7 +103,7 @@ A gloss is a shiny finish on an object. It’s also an explanation about a word 
 - Stash those muted eye shadows and barely there lip glosses.
 
 # sequel
-/siːkwəl/ 
+**/siːkwəl/**
 A sequel is a continuation or part two. The Empire Strikes Back and Toy Story 2 are sequels. Many successful movies have sequels.
 ### Definition
 - n: something that follows something else
@@ -116,7 +116,7 @@ A sequel is a continuation or part two. The Empire Strikes Back and Toy Story 2 
 - This is the logic of many video game sequels: Over time, they become more about the auto-nostalgia for previous games in the series.
 
 # clergy
-/klɜːʳdʒi/ 
+**/klɜːʳdʒi/**
 In the Christian church, the clergy is the entire class of religious officials, from priests to pastors to bishops and beyond. If you have a sense that your life path lies in helping others practice their faith, you should go into the clergy
 ### Definition
 - n: in Christianity, clergymen collectively (as distinguished from the laity)
@@ -128,7 +128,7 @@ In the Christian church, the clergy is the entire class of religious officials, 
 - Dozens of interviews with clergy and faithful show both sides wish for a positive outcome to the current talks.
 
 # nobility
-/noʊbɪlɪti/ 
+**/noʊbɪlɪti/**
 Nobility refers to a privileged class of people — often receiving hereditary titles — also called the aristocracy. You know the type. They hang around manors and castles, or curry favor at court.
 ### Definition
 - n: a privileged class holding hereditary titles
@@ -147,7 +147,7 @@ Nobility refers to a privileged class of people — often receiving hereditary t
 - ‘Dream’ has all the same qualities of those pieces: the eloquence, the excitement, the nobility.
 
 # gentry
-/dʒentri/ 
+**/dʒentri/**
 The gentry are the powerful members of society. In the United Kingdom, where there are still kings and queens and dukes and duchesses, the gentry are the people who rank just below the nobility.
 ### Definition
 - n: the most powerful members of a society

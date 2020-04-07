@@ -1,5 +1,5 @@
 # accompaniment
-/əkʌmpnɪmənt/ 
+**/əkʌmpnɪmənt/**
 If your menu tonight consists of grilled pork and savory apples, then the pork is the main item and the apples are the accompaniment, meaning they complement the main dish.
 ### Definition
 - n: a musical part (vocal or instrumental) that supports or provides background for other musical parts
@@ -17,7 +17,7 @@ If your menu tonight consists of grilled pork and savory apples, then the pork i
 - Now they seemed independent of any music, now they seemed connected to their accompaniment.
 
 # dread
-/dred/ 
+**/dred/**
 The noun dread describes the fear of something bad happening, like the dread you feel when walking alone on a deserted street in the dark.
 ### Definition
 - n: fearful expectation or anticipation
@@ -33,7 +33,7 @@ The noun dread describes the fear of something bad happening, like the dread you
 - As dread and social conflict built through the fall, it was hard for many of us to think much about music at all.
 
 # entrepreneurial
-/ɒntrəprənɜːriəl/ 
+**/ɒntrəprənɜːriəl/**
 You can call someone willing to take financial risks in new ventures entrepreneurial. Caught up in the entrepreneurial spirit, you felt like a modern-day pioneer braving the wild frontier of business. Then you ran out of lemonade.
 ### Definition
 - adj: of or relating to an entrepreneur
@@ -46,7 +46,7 @@ You can call someone willing to take financial risks in new ventures entrepreneu
 - Entrepreneurial OTC firms will do well in the digital trading age.
 
 # antagonistic
-/æntægənɪstɪk/ 
+**/æntægənɪstɪk/**
 If you're antagonistic, you're hard to get along with. Harmony is not your friend — you prefer hostility and struggle.
 ### Definition
 - adj: characterized by antagonism or antipathy
@@ -66,7 +66,7 @@ If you're antagonistic, you're hard to get along with. Harmony is not your frien
 - "Despite the West's antagonistic policy and the unavoidable reaction of Moscow, which limited these opportunities in the past few decades, the possibilities today are unique."
 
 # carriage
-/kærɪdʒ/ 
+**/kærɪdʒ/**
 A carriage is a vehicle with wheels that's usually pulled by horses. In some cities, you can go for a carriage ride through the park.
 ### Definition
 - n: a vehicle with wheels drawn by one or more horses
@@ -87,7 +87,7 @@ A carriage is a vehicle with wheels that's usually pulled by horses. In some cit
 - Eyewitnesses told local TV channels that there was dense fog when the carriages derailed.
 
 # snake
-/sneɪk/ 
+**/sneɪk/**
 ### Definition
 - n: limbless scaly elongate reptile; some are venomous
 - n: a deceitful or treacherous person
@@ -114,7 +114,7 @@ A carriage is a vehicle with wheels that's usually pulled by horses. In some cit
 - But for many, its brand, ringtone and Snake game will be forever associated with the dawn of the mobile age.
 
 # seventeen
-/sevəntiːn/ 
+**/sevəntiːn/**
 ### Definition
 - n: the cardinal number that is the sum of sixteen and one
 - adj: being one more than sixteen
@@ -127,7 +127,7 @@ A carriage is a vehicle with wheels that's usually pulled by horses. In some cit
 - Seventeen years later, after working on several prototypes, his plane was ready.
 
 # defiance
-/dɪfaɪəns/ 
+**/dɪfaɪəns/**
 Stand up when the powers that be order you to sit down, and you've given a fine example of defiance. It happens when someone or a group of someones openly flouts or challenges authority.
 ### Definition
 - n: a hostile challenge
@@ -143,7 +143,7 @@ Stand up when the powers that be order you to sit down, and you've given a fine 
 - And although it’s overseen by the Kremlin, it’s also a tacit symbol of defiance to President Vladimir Putin’s authoritarian rule. 
 
 # vibrant
-/vaɪbrənt/ 
+**/vaɪbrənt/**
 Vibrant colors are bright. Vibrant sounds are loud and resonant. Vibrant people are ones you remember––they're bright and full of personality.
 ### Definition
 - adj: vigorous and animated
@@ -157,7 +157,7 @@ Vibrant colors are bright. Vibrant sounds are loud and resonant. Vibrant people 
 - It’s a vibrant place with buzzing sidewalk cafes, bars and independent boutiques, including a honey shop managed by a local beekeeper.
 
 # indifferent
-/ɪndɪfərənt/ 
+**/ɪndɪfərənt/**
 If you're indifferent about something, you don't care much about it one way or another. You might feel indifferent about politics, changing the channel whenever the TV news comes on.
 ### Definition
 - adj: marked by a lack of interest

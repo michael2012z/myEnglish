@@ -1,5 +1,5 @@
 # conclusive
-/kənkluːsɪv/ 
+**/kənkluːsɪv/**
 If you've got a theory that you're trying to prove, and you uncover a conclusive piece of evidence, then the case is closed. Conclusive means you've got your answer, you've proved your theory, and there can't be any doubt about it.
 ### Definition
 - adj: forming an end or termination; especially putting an end to doubt or question
@@ -14,7 +14,7 @@ If you've got a theory that you're trying to prove, and you uncover a conclusive
 - Climate science was by now pretty conclusive, with UN assessments increasingly pointing the finger at mankind.
 
 # placebo
-/pləsiːboʊ/ 
+**/pləsiːboʊ/**
 A patient's symptoms sometimes disappear just because they believe that they are being treated. Even when doctors give them a biologically inactive drug, otherwise known as a placebo, the patients swear they are cured.
 ### Definition
 - n: an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug
@@ -27,7 +27,7 @@ A patient's symptoms sometimes disappear just because they believe that they are
 - For certain ailments, so many people respond so strongly to placebos that it’s impossible to tell if the drug being tested is working or not.
 
 # mock
-/mɒk/ 
+**/mɒk/**
 Imitation may be the most sincere form of flattery, but to mock is to make fun of or mimic someone with contempt, ridicule or derision. "Louise’s favorite pastime was to mock her brother’s inability to sing on key."
 ### Definition
 - v: treat with contempt
@@ -45,7 +45,7 @@ Imitation may be the most sincere form of flattery, but to mock is to make fun o
 - According to Almond, “The queasy irony here is that Stewart and Colbert are parasites of the dysfunction they mock.”
 
 # remnant
-/remnənt/ 
+**/remnənt/**
 A remnant is something that's left over, once the rest is used up. If you plan to sew a shirt using only a remnant, it might have to be a midriff shirt.
 ### Definition
 - n: a small part or portion that remains after the main part no longer exists
@@ -58,7 +58,7 @@ A remnant is something that's left over, once the rest is used up. If you plan t
 - An excavator crumpled remnants of the building’s roof and corner walls Wednesday afternoon.
 
 # triangle
-/traɪæŋgəl/ 
+**/traɪæŋgəl/**
 ### Definition
 - n: a three-sided polygon
 - n: something approximating the shape of a triangle
@@ -80,7 +80,7 @@ A remnant is something that's left over, once the rest is used up. If you plan t
 - The balance, including $33,000 from the Golden Triangle Business Improvement District, went to completing the project.
 
 # generational
-/dʒenəreɪʃənəl/ 
+**/dʒenəreɪʃənəl/**
 ### Definition
 - adj: of or relating to a generation
 ### Family
@@ -99,7 +99,7 @@ A remnant is something that's left over, once the rest is used up. If you plan t
 - Some of the difference, of course, is generational.
 
 # topography
-/təpɒgrəfi/ 
+**/təpɒgrəfi/**
 Topography is a detailed map of the surface features of land. It includes the mountains, hills, creeks, and other bumps and lumps on a particular hunk of earth.
 ### Definition
 - n: the configuration of a surface and the relations among its man-made and natural features
@@ -113,7 +113,7 @@ Topography is a detailed map of the surface features of land. It includes the mo
 - Her initial analysis of glaciers across Greenland revealed that different areas showed varying seasonal movement patterns, probably associated with regional topography.
 
 # hull
-/hʌl/ 
+**/hʌl/**
 A sailor who is far out at sea has to hope that the hull of her boat is watertight. The hull of a boat or a ship is its outer body.
 ### Definition
 - n: dry outer covering of a fruit or seed or nut
@@ -138,7 +138,7 @@ A sailor who is far out at sea has to hope that the hull of her boat is watertig
 - A huge fireworks display and videos projected on to buildings will launch Hull's year as UK City of Culture.
 
 # folly
-/fɒli/ 
+**/fɒli/**
 Folly is a noun that means "foolish or crazy behavior." It would be folly to spend all night playing video games when you have a difficult exam the next day.
 ### Definition
 - n: the trait of acting stupidly or rashly
@@ -153,7 +153,7 @@ Folly is a noun that means "foolish or crazy behavior." It would be folly to spe
 - The weight of folly either side was not equal.
 
 # carpenter
-/kɑːʳpɪntəʳ/ 
+**/kɑːʳpɪntəʳ/**
 A carpenter is a person who makes things out of wood. You could hire a carpenter to build you a dining room table and two long benches.
 ### Definition
 - n: a woodworker who makes or repairs wooden objects

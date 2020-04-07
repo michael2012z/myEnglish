@@ -1,5 +1,5 @@
 # turbulence
-/tɜːʳbjʊləns/ 
+**/tɜːʳbjʊləns/**
 Use the noun turbulence to describe instability or disturbance. If you’re on an airplane during a storm, turbulence is that horrible thing that is causing the plane (and your stomach) to bounce around.
 ### Definition
 - n: instability in the atmosphere
@@ -15,7 +15,7 @@ Use the noun turbulence to describe instability or disturbance. If you’re on a
 - “But the ocean is all about flux and turbulence and movement.”
 
 # contentious
-/kəntenʃəs/ 
+**/kəntenʃəs/**
 A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.
 ### Definition
 - adj: inclined or showing an inclination to dispute or disagree, even to engage in law suits
@@ -31,7 +31,7 @@ A contentious issue is one that people are likely to argue about, and a contenti
 - At a contentious NFL owners meeting in Houston, Davis finished third in the sweepstakes to get a team to Los Angeles.
 
 # zeal
-/ziːl/ 
+**/ziːl/**
 Zeal is dedication or enthusiasm for something. If you have zeal, you're willing, energized, and motivated.
 ### Definition
 - n: a feeling of strong eagerness (usually in favor of a person or cause)
@@ -47,7 +47,7 @@ Zeal is dedication or enthusiasm for something. If you have zeal, you're willing
 - Yet Cambodians, mistrustful of the sincerity of these conversions, dismiss their newly adopted zeal for religious ideology.
 
 # precursor
-/priːkɜːʳsəʳ/ 
+**/priːkɜːʳsəʳ/**
 You've heard the old saying "Pride comes before the fall?" Well, you could just as easily say pride is a precursor to the fall. A precursor is something that happens before something else.
 ### Definition
 - n: something that precedes and indicates the approach of something or someone
@@ -61,7 +61,7 @@ You've heard the old saying "Pride comes before the fall?" Well, you could just 
 - This year the sport added a putrid precursor, Bowel Week, as schools in three Power 5 conferences smeared us with excrement.
 
 # spurious
-/spjʊəriəs/ 
+**/spjʊəriəs/**
 Something false or inauthentic is spurious. Don't trust spurious ideas and stories. Spurious statements often are lies, just as a spurious coin is a counterfeit coin — a fake.
 ### Definition
 - adj: plausible but false
@@ -75,7 +75,7 @@ Something false or inauthentic is spurious. Don't trust spurious ideas and stori
 - “But is that just a spurious correlation? In all likelihood, it is.”
 
 # unfinished
-/ʌnfɪnɪʃt/ 
+**/ʌnfɪnɪʃt/**
 ### Definition
 - adj: not brought to the desired final state
 - adj: not brought to an end or conclusion
@@ -92,7 +92,7 @@ Something false or inauthentic is spurious. Don't trust spurious ideas and stori
 - The athletes’ village was unfinished, all leaky pipes, faulty locks and unlit stairwells.
 
 # corrective
-/kərektɪv/ 
+**/kərektɪv/**
 ### Definition
 - adj: tending or intended to correct or counteract or restore to a normal condition
 - n: a device for treating injury or disease
@@ -113,7 +113,7 @@ Something false or inauthentic is spurious. Don't trust spurious ideas and stori
 - Qualcomm said in a statement it will file for an immediate stay of the corrective order and appeal the decision to the Seoul High Court.
 
 # participant
-/pɑːʳtɪsɪpənt/ 
+**/pɑːʳtɪsɪpənt/**
 A participant is a person who participates, or takes part in something. Vote on Election Day and you've just taken part in or become a participant in United States democracy.
 ### Definition
 - n: someone who takes part in an activity
@@ -144,7 +144,7 @@ To divert means to shift or turn from one thing to another. A magician might att
 - A news release from the Tampa Police Department said traffic was diverted while police investigated.
 
 # pact
-/pækt/ 
+**/pækt/**
 A pact is a treaty or other agreement between parties, and it's usually written. Countries can have pacts or you can make a pact with your friends, promising each other that you'll all show up for the spelling bee.
 ### Definition
 - n: a written agreement between two states or sovereigns

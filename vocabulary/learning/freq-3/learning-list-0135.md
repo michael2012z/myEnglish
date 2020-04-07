@@ -1,5 +1,5 @@
 # labyrinth
-/læbɪrɪnθ/ 
+**/læbɪrɪnθ/**
 A labyrinth is a structure with many connected paths or passages in which it is hard to find your way. In figurative use, a labyrinth is a complicated situation: our tax code is a labyrinth of rules and regulations.
 ### Definition
 - n: complex system of paths or tunnels in which it is easy to get lost
@@ -12,7 +12,7 @@ A labyrinth is a structure with many connected paths or passages in which it is 
 - When he was able to return home, life was still a labyrinth of complications.
 
 # reservation
-/rezəʳveɪʃən/ 
+**/rezəʳveɪʃən/**
 A reservation is something set aside, like a table at a restaurant or land for Native Americans.
 ### Definition
 - n: the act of keeping back or setting aside for some future occasion
@@ -47,7 +47,7 @@ Debris is trash scattered around after a disaster, like shattered glass on the r
 - Debris from the twister was everywhere, she said.
 
 # rug
-/rʌg/ 
+**/rʌg/**
 A rug is something made of woven fabric that covers a floor. If your downstairs neighbor is complaining about the noise, try buying a rug.
 ### Definition
 - n: floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)
@@ -59,7 +59,7 @@ A rug is something made of woven fabric that covers a floor. If your downstairs 
 - Or using black rugs near forbidden doorways, because patients often dislike stepping on black.
 
 # awesome
-/ɔːsəm/ 
+**/ɔːsəm/**
 An awesome something or someone is amazing, breathtaking, or overwhelming. Like traveling the globe in a hot air balloon or visiting the Taj Mahal. Or, if you're 7, hearing someone burp the alphabet.
 ### Definition
 - adj: inspiring awe or admiration or wonder
@@ -89,7 +89,7 @@ An epoch is a period of time marked by certain characteristics: you might descri
 - Epochs demarcate time on the order of a few million years.
 
 # sway
-/sweɪ/ 
+**/sweɪ/**
 Back and forth...back and forth...back and forth...are you sea-sick yet? The sway, or rocking motion, of a boat is too much for many stomachs.
 ### Definition
 - v: move back and forth or sideways
@@ -108,7 +108,7 @@ Back and forth...back and forth...back and forth...are you sea-sick yet? The swa
 - Perhaps just as important, the old warlord’s sway over hundreds of thousands of ethnic Uzbeks in the north may be weakening.
 
 # tomb
-/tuːm/ 
+**/tuːm/**
 A tomb is a place where a dead person is buried. Usually, a tomb is under a tombstone, which says the name of the person who died and when they lived.
 ### Definition
 - n: a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)
@@ -122,7 +122,7 @@ A tomb is a place where a dead person is buried. Usually, a tomb is under a tomb
 - In the tombs of queens were found troves of gold and jewelry.
 
 # imprint
-/ɪmprɪnt/ 
+**/ɪmprɪnt/**
 To imprint is to mark or stamp something, like with the name of a publisher. It also can refer to any kind of impression or influence.
 ### Definition
 - v: mark or stamp with or as if with pressure

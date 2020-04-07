@@ -1,5 +1,5 @@
 # disappearance
-/dɪsəpɪərəns/ 
+**/dɪsəpɪərəns/**
 ### Definition
 - n: the event of passing out of sight
 - n: gradually ceasing to be visible
@@ -20,7 +20,7 @@
 - “I am deeply saddened to witness the disappearance of a fellow culinary landmark,” Dell wrote about the Carnegie Deli.
 
 # prescription
-/prɪskrɪpʃən/ 
+**/prɪskrɪpʃən/**
 A prescription is an order written by a doctor for someone to get a drug that is not available without this permission. If you get a bad ear infection, you'll need a prescription for antibiotics.
 ### Definition
 - n: directions prescribed beforehand; the action of prescribing authoritative rules or directions
@@ -38,7 +38,7 @@ A prescription is an order written by a doctor for someone to get a drug that is
 - “The major things are refilling prescriptions without doctors’ orders,” Ray said about one of the more typical mistakes by a pharmacy.
 
 # tragedy
-/trædʒɪdi/ 
+**/trædʒɪdi/**
 Tragedy is a noun that indicates disaster or bad fortune. It would be a tragedy to lose your job, but an even greater tragedy to fall ill while unemployed and without health care.
 ### Definition
 - n: an event resulting in great loss and misfortune
@@ -53,7 +53,7 @@ Tragedy is a noun that indicates disaster or bad fortune. It would be a tragedy 
 - As mundanity mingles with tragedy, we confront the inevitable Popian letdown: Do we care enough?
 
 # advent
-/ædvent/ 
+**/ædvent/**
 The advent of something means that it's finally here. You might be waiting for the advent of a new iPhone or for the advent of cloning. Don't hold your breath.
 ### Definition
 - n: arrival that has been awaited (especially of something momentous)
@@ -71,7 +71,7 @@ The advent of something means that it's finally here. You might be waiting for t
 - There’s also a specifically Christian season that includes Advent, beginning on the Sunday closest to Nov. 30, and extends until Epiphany on Jan. 6.
 
 # constituency
-/kənstɪtʃuənsi/ 
+**/kənstɪtʃuənsi/**
 If you're an elected official, your constituency is the group of people whose interests you were elected to represent.
 ### Definition
 - n: the body of voters who elect a representative for their area
@@ -93,7 +93,7 @@ If you're an elected official, your constituency is the group of people whose in
 - "Erdington as a constituency is rich in talent and diversity, but is one of the poorest in the country," said the local MP, Jack Dromey.
 
 # reciprocity
-/resɪprɒsɪti/ 
+**/resɪprɒsɪti/**
 When two or more people or nations have equal exchanges of goods or services, they are enjoying reciprocity, a situation where each enjoys an equal benefit from the relationship.
 ### Definition
 - n: a relation of mutual dependence or action or influence
@@ -107,7 +107,7 @@ When two or more people or nations have equal exchanges of goods or services, th
 - Gun control advocates have called the potential reciprocity law “dangerous”.
 
 # provocation
-/prɒvəkeɪʃən/ 
+**/prɒvəkeɪʃən/**
 A provocation makes someone angry or sometimes even violent. Telling a professional boxer how ugly he is would be considered a provocation — one that might get you punched in the face.
 ### Definition
 - n: something that incites or provokes; a means of arousing or stirring to action
@@ -127,7 +127,7 @@ A provocation makes someone angry or sometimes even violent. Telling a professio
 - Getting kicked off Twitter hardly stopped Yiannopoulos in his tracks, but it did deny him a major platform for his provocations.
 
 # verdict
-/vɜːʳdɪkt/ 
+**/vɜːʳdɪkt/**
 A verdict is a decision made after a lot of considering, usually made by the jury in a courtroom. If you've finally decided that the test was unfair, that's your verdict and you should talk to the teacher about it.
 ### Definition
 - n: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment
@@ -139,7 +139,7 @@ A verdict is a decision made after a lot of considering, usually made by the jur
 - The jury in his first trial failed to reach a verdict.
 
 # jury
-/dʒʊəri/ 
+**/dʒʊəri/**
 A jury is a group that decides a contest or a court case together. If you get summoned for jury duty and get picked as one of the 12 members of the jury, you’ll help decide if someone guilty or not.
 ### Definition
 - n: a body of citizens sworn to give a true verdict according to the evidence presented in a court of law
@@ -152,7 +152,7 @@ A jury is a group that decides a contest or a court case together. If you get su
 - District Court in Boston, with jury selection expected to get underway Friday.
 
 # tout
-/taʊt/ 
+**/taʊt/**
 To tout means to praise, boast, or brag about. If you like to tout your skill as a skier, you tell people you can go down expert-level hills.
 ### Definition
 - v: advertise in strongly positive terms

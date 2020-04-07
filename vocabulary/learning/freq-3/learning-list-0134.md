@@ -1,5 +1,5 @@
 # detector
-/dɪtektəʳ/ 
+**/dɪtektəʳ/**
 A detector is a machine that responds to particular substances in a consistent way. Everyone who flies on an airplane must pass through a metal detector, which beeps when it senses metal.
 ### Definition
 - n: any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner
@@ -19,7 +19,7 @@ A detector is a machine that responds to particular substances in a consistent w
 - With new security put in place, metal detectors and gun lockers, will you ban that practice?
 
 # modem
-/moʊdem/ 
+**/moʊdem/**
 Simply put, a modem is an electronic device that changes a digital computer signal to audio so it can be carried on telephone lines. It also changes an incoming signal back so it can be read on the computer.
 ### Definition
 - n: (from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line
@@ -31,7 +31,7 @@ Simply put, a modem is an electronic device that changes a digital computer sign
 - "Qualcomm has those modems, and that in combination with our own products will give us an edge over the competition."
 
 # noisy
-/nɔɪzi/ 
+**/nɔɪzi/**
 Anything noisy is loud. Your noisy party probably won't go over too well with your downstairs neighbors — especially if it's late on a Tuesday night and they have a sleeping baby.
 ### Definition
 - adj: full of or characterized by loud and nonmusical sounds
@@ -46,7 +46,7 @@ Anything noisy is loud. Your noisy party probably won't go over too well with yo
 - Phelps attempted to speak over the noisy room as he explained the rules to a game he designed for the program.
 
 # lane
-/leɪn/ 
+**/leɪn/**
 A lane is a relatively narrow street or road. Most country lanes never get backed up with rush hour traffic.
 ### Definition
 - n: a narrow way or road
@@ -59,7 +59,7 @@ A lane is a relatively narrow street or road. Most country lanes never get backe
 - The San Ysidro plan also calls for new bicycle lanes and pedestrian improvements to encourage people to stop commuting by car.
 
 # bloom
-/bluːm/ 
+**/bluːm/**
 A bloom is a flower. You might mark the beginning of spring by the very first bloom you see in your garden.
 ### Definition
 - v: produce or yield flowers
@@ -79,7 +79,7 @@ A bloom is a flower. You might mark the beginning of spring by the very first bl
 - The Nassau County medical examiner, Dr. Tamara Bloom, did not comment on the new numbers.
 
 # salient
-/seɪliənt/ 
+**/seɪliənt/**
 If something stands out in a very obvious way, it can be called salient. It's time to find new friends if the differences between you and your current friends are becoming more and more salient.
 ### Definition
 - adj: having a quality that thrusts itself into attention
@@ -96,7 +96,7 @@ If something stands out in a very obvious way, it can be called salient. It's ti
 - This would increase their expenses of having to deal with more regulation, more red tape, and it’s a fairly salient argument they have.
 
 # complicity
-/kəmplɪsɪti/ 
+**/kəmplɪsɪti/**
 Complicity is involvement in a wrongful act — like when you drove your newly-turned-vegetarian friend to a fast food joint so that she could scarf down a hamburger.
 ### Definition
 - n: guilt as an accomplice in a crime or offense
@@ -108,7 +108,7 @@ Complicity is involvement in a wrongful act — like when you drove your newly-t
 - As we eulogize the dead of Aleppo, we must acknowledge the United States’ complicity in this tragedy.
 
 # synonymous
-/sɪnɒnɪməs/ 
+**/sɪnɒnɪməs/**
 If two words are synonymous, they mean the same thing. You tried to convince her that "love" and "chocolate" were not synonymous, but it was no use.
 ### Definition
 - adj: (of words) meaning the same or nearly the same
@@ -121,7 +121,7 @@ If two words are synonymous, they mean the same thing. You tried to convince her
 - As J.J. became synonymous with “Star Wars” and more of a household name and face, the inquiries increased.
 
 # accrue
-/əkruː/ 
+**/əkruː/**
 To accrue is to accumulate or to keep growing in value or size. If you can accrue enough extra credit to build up your grade, you won't have to take the final exam.
 ### Definition
 - v: grow by addition
@@ -136,7 +136,7 @@ To accrue is to accumulate or to keep growing in value or size. If you can accru
 - Accrued liabilities in the Teamsters pension, which benefits 34,000 current and former truckers in New York, exceed its assets by $1.8 billion.
 
 # manifestation
-/mænɪfesteɪʃən/ 
+**/mænɪfesteɪʃən/**
 A manifestation is the public display of emotion or feeling, or something theoretical made real.
 ### Definition
 - n: a clear appearance

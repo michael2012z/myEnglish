@@ -1,5 +1,5 @@
 # glamorous
-/glæmərəs/ 
+**/glæmərəs/**
 Movie stars look glamorous when they walk down the red carpet in their designer gowns. Glamorous means full of glamour, beauty, and excitement.
 ### Definition
 - adj: having an air of allure, romance and excitement
@@ -16,7 +16,7 @@ Movie stars look glamorous when they walk down the red carpet in their designer 
 - Her glamorous mother starred in Orson Welles’s Touch of Evil, but is forever the doomed woman in the shower in Psycho.
 
 # celebrity
-/sɪlebrɪti/ 
+**/sɪlebrɪti/**
 A celebrity is a very famous person. If you single-handedly save an entire family from a burning building, you'll become a local celebrity.
 ### Definition
 - n: the state or quality of being widely honored and acclaimed
@@ -29,7 +29,7 @@ A celebrity is a very famous person. If you single-handedly save an entire famil
 - The celebrity businessman, who complained in recent years that he wasn’t named the magazine’s Person of the Year, received the award in 2016.
 
 # shy
-/ʃaɪ/ 
+**/ʃaɪ/**
 Making small talk is not much fun for a shy person. Shy means being nervous or reserved around other people, especially in a social situation.
 ### Definition
 - adj: lacking self-confidence
@@ -47,7 +47,7 @@ Making small talk is not much fun for a shy person. Shy means being nervous or r
 - It is barely shy of the $400 million mark globally, Disney officials report.
 
 # notch
-/nɒtʃ/ 
+**/nɒtʃ/**
 A notch is a small cut or nick in something. People make notches to keep track of things.
 ### Definition
 - n: a small cut
@@ -110,7 +110,7 @@ A blast is an explosion, or a sudden sharp noise. When you blast someone, you ei
 - There are no immediate details on the midday blasts.
 
 # instinct
-/ɪnstɪŋkt/ 
+**/ɪnstɪŋkt/**
 An instinct is something you don't need to learn — it happens naturally, without you even thinking about it. Babies cry by instinct, and ducks follow their mother by instinct.
 ### Definition
 - n: inborn pattern of behavior often responsive to specific stimuli
@@ -124,7 +124,7 @@ An instinct is something you don't need to learn — it happens naturally, witho
 - To deny the tug of that on all your most primitive instincts is to deny that you are human at all.
 
 # skull
-/skʌl/ 
+**/skʌl/**
 ### Definition
 - n: the bony skeleton of the head of vertebrates
 ### Family
@@ -135,7 +135,7 @@ An instinct is something you don't need to learn — it happens naturally, witho
 - His short sleeves offered glimpses of grim tattoos — a skull resting on an hourglass on his right forearm, among others — common to many grunts.
 
 # balcony
-/bælkəni/ 
+**/bælkəni/**
 A balcony is a porch or platform that extends from an upper floor of a building. Your apartment might have a balcony with a view of a city park.
 ### Definition
 - n: a platform projecting from the wall of a building and surrounded by a balustrade or railing or parapet
@@ -148,7 +148,7 @@ A balcony is a porch or platform that extends from an upper floor of a building.
 - Playgrounds are vital in Los Angeles, a city where many families live without backyards or balconies.
 
 # ward
-/wɔːʳd/ 
+**/wɔːʳd/**
 A ward is a group of rooms or a section in a hospital or prison; in a hospital, different wards deal with different needs, like the psychiatric ward or maternity ward.
 ### Definition
 - n: a person who is under the protection or in the custody of another

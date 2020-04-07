@@ -1,5 +1,5 @@
 # flank
-/flæŋk/ 
+**/flæŋk/**
 A flank is the side of something, whether of beef or a military formation.
 ### Definition
 - n: the side between ribs and hipbone
@@ -16,7 +16,7 @@ A flank is the side of something, whether of beef or a military formation.
 - Mr. Trump was flanked by legendary boxing promoter Don King as he answered several questions from reporters.
 
 # meadow
-/medoʊ/ 
+**/medoʊ/**
 The noun meadow is another word for a hayfield, but offers a much more picturesque view as an open field of lush grass filled with butterflies and birds, with room to run. It can also refer to a piece of land found along a river.
 ### Definition
 - n: a field where grass or alfalfa are grown to be made into hay
@@ -28,7 +28,7 @@ The noun meadow is another word for a hayfield, but offers a much more picturesq
 - One search operation still under way in Meadow Heights on Friday morning, Ashton said.
 
 # inclination
-/ɪnklɪneɪʃən/ 
+**/ɪnklɪneɪʃən/**
 You can see the word "incline" inside inclination, which clues you in to the fact that inclination has to do with leaning. Sometimes the inclination is literal; in most cases it's about what you incline toward in a figurative sense.
 ### Definition
 - n: the act of inclining; bending forward
@@ -51,7 +51,7 @@ You can see the word "incline" inside inclination, which clues you in to the fac
 - My first inclination is to agree with anything a person is saying to me.
 
 # gravel
-/grævəl/ 
+**/grævəl/**
 Gravel is very small, irregular pieces of rock and stone. Your gravel driveway might crunch under your boots as you walk to the mailbox.
 ### Definition
 - n: rock fragments and pebbles
@@ -66,7 +66,7 @@ Gravel is very small, irregular pieces of rock and stone. Your gravel driveway m
 - I followed a sign that advertised Te Motu Vineyard as a short walk up a gravel road.
 
 # bliss
-/blɪs/ 
+**/blɪs/**
 Bliss is a state of complete happiness or joy. Marriage is often associated with this joyous feeling: people who are married and still in love are described as living in wedded bliss.
 ### Definition
 - n: a state of extreme happiness
@@ -80,7 +80,7 @@ Bliss is a state of complete happiness or joy. Marriage is often associated with
 - And to watch divas and divos in bliss delights the audience.
 
 # pedigree
-/pedɪgriː/ 
+**/pedɪgriː/**
 The noun pedigree refers to the genetic background of an animal, although it is sometimes applied to people as well. A purebred dog, for example, comes with a verified pedigree, a list of all past parentage.
 ### Definition
 - n: the descendants of one individual
@@ -95,7 +95,7 @@ The noun pedigree refers to the genetic background of an animal, although it is 
 - Such a pedigree is unlikely in her successor, especially if Sessions is confirmed as the next attorney general.
 
 # divisive
-/dɪvaɪsɪv/ 
+**/dɪvaɪsɪv/**
 If you say something that is intended to make people angry with each other, your words are divisive. If you want to avoid divisive talk at your family's Thanksgiving dinner, it's probably best to avoid discussing politics.
 ### Definition
 - adj: dissenting (especially dissenting with the majority opinion)
@@ -107,7 +107,7 @@ If you say something that is intended to make people angry with each other, your
 - A resident of Sugar Land, Texas, evidently paid for the object, which was installed in a public plaza in May—and proved divisive.
 
 # respectable
-/rɪspektəbəl/ 
+**/rɪspektəbəl/**
 Something or someone respectable is honest, good, and proper. Respectable behavior includes things like contributing to charity, volunteering at an animal shelter, and helping your friends study vocabulary.
 ### Definition
 - adj: deserving of esteem and respect
@@ -129,7 +129,7 @@ Something or someone respectable is honest, good, and proper. Respectable behavi
 - They straddle the boundaries of the public and private, the respectable and the reviled.
 
 # crooked
-/krʊkɪd/ 
+**/krʊkɪd/**
 Something crooked is not straight, like a trail through the woods, or your cousin's unfortunate set of teeth.
 ### Definition
 - adj: having or marked by bends or angles; not straight or aligned

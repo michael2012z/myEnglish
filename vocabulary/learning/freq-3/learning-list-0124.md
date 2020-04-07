@@ -1,5 +1,5 @@
 # uninterrupted
-/ʌnɪntərʌptɪd/ 
+**/ʌnɪntərʌptɪd/**
 ### Definition
 - adj: having undisturbed continuity
 - adj: continuing in time or space without interruption
@@ -38,7 +38,7 @@ Plaster is a building material that's applied as a wet paste and dries very hard
 - Ancient bricks, mortar and plaster aren’t the only targets here, however.
 
 # proletariat
-/proʊlɪteəriæt/ 
+**/proʊlɪteəriæt/**
 Proletariat is an old term for the working class. It was commonly used by Marxists and other people who believed that capitalism had created a class of workers who were exploited by company owners. They called those owners "the bourgeoisie."
 ### Definition
 - n: a social class comprising those who do manual labor or work for wages
@@ -51,7 +51,7 @@ Proletariat is an old term for the working class. It was commonly used by Marxis
 - In some countries these questions are socio-economic: Are you for the industrialists or the landowners, for the proletariat or the bourgeoisie?
 
 # anarchy
-/ænəʳki/ 
+**/ænəʳki/**
 Use the noun anarchy to describe a complete lack of government — or the chaotic state of affairs created by such an absence. A substitute teacher might worry that an unruly classroom will descend into anarchy.
 ### Definition
 - n: a state of lawlessness and disorder (usually resulting from a failure of government)
@@ -66,7 +66,7 @@ Use the noun anarchy to describe a complete lack of government — or the chaoti
 - There’s a punk-like anarchy to the Marx Brothers that I really admire and find very funny.
 
 # propagate
-/prɒpəgeɪt/ 
+**/prɒpəgeɪt/**
 To propagate is to be fruitful and multiply, by the usual routes of reproduction, or by spreading something around — like a rumor.
 ### Definition
 - v: multiply through reproduction
@@ -87,7 +87,7 @@ To propagate is to be fruitful and multiply, by the usual routes of reproduction
 - This is a fallacy propagated by rejectionists of Israel and accepted unquestioningly by the international diplomatic community.
 
 # abyss
-/æbɪs/ 
+**/æbɪs/**
 The noun abyss refers to a deep void or chasm — either literal or figurative. Making a momentous life decision with great uncertainty, like enrolling in clown college, might feel like jumping into the abyss.
 ### Definition
 - n: a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)
@@ -99,7 +99,7 @@ The noun abyss refers to a deep void or chasm — either literal or figurative. 
 - The zone is also an abyss of lawlessness.
 
 # consultative
-/kənsʌltətɪv/ 
+**/kənsʌltətɪv/**
 Consultative is an adjective that describes giving advice or assistance. Do people turn to you for advice about love? What about your expertise in helping job-seekers land their dream job? If so, then you are providing consultative services, whether you know it or not.
 ### Definition
 - adj: giving advice
@@ -114,7 +114,7 @@ Consultative is an adjective that describes giving advice or assistance. Do peop
 - Diageo said it had been holding a consultative review with employees of its final salary pension scheme since February this year.
 
 # collusion
-/kəluːʒən/ 
+**/kəluːʒən/**
 If you are making secret agreements with someone, then you are in collusion with them. Every time gas prices jump, consumers suspect the gas station owners of collusion and price fixing.
 ### Definition
 - n: secret agreement
@@ -129,7 +129,7 @@ If you are making secret agreements with someone, then you are in collusion with
 - The students were abducted and presumably killed by drug gangsters in collusion with police officers.
 
 # nasal
-/neɪzəl/ 
+**/neɪzəl/**
 Anything nasal relates to the nose, including a nasal voice that you can make by pinching your nose.
 ### Definition
 - adj: of or in or relating to the nose

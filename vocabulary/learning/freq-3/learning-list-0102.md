@@ -1,5 +1,5 @@
 # infantile
-/ɪnfəntaɪl/ 
+**/ɪnfəntaɪl/**
 Infantile means immature or childish. Thumb-sucking and temper tantrums are examples of infantile behavior.
 ### Definition
 - adj: of or relating to infants or infancy
@@ -13,7 +13,7 @@ Infantile means immature or childish. Thumb-sucking and temper tantrums are exam
 - The girl — Bao Bao or Mei Mei or something equally infantile — grumbles an interruption, timbre slightly defiant, as she secures her hair in double loops.
 
 # honourable
-/ɒnrəbəl/ 
+**/ɒnrəbəl/**
 ### Definition
 - adj: worthy of being honored; entitled to honor and respect
 - adj: adhering to ethical and moral principles
@@ -28,7 +28,7 @@ Infantile means immature or childish. Thumb-sucking and temper tantrums are exam
 - It’s natural to see things you consider honourable as good for society, and things that are base, as bad.
 
 # impress
-/ɪmpres/ 
+**/ɪmpres/**
 Think of the verb impress as "leaving a mark." You might impress a print onto canvas, or you might impress prospective employers in a job interview. Whether that impression will be good or bad is up to you!
 ### Definition
 - v: have an emotional or cognitive impact upon
@@ -55,7 +55,7 @@ Think of the verb impress as "leaving a mark." You might impress a print onto ca
 - Not that Baldwin seemed too impressed about it afterward.
 
 # proclamation
-/prɒkləmeɪʃən/ 
+**/prɒkləmeɪʃən/**
 A proclamation is a formal public statement. If the mayor of your town issued a proclamation honoring the state champion field hockey team, this is an official statement of praise and celebration.
 ### Definition
 - n: a formal public statement
@@ -70,7 +70,7 @@ A proclamation is a formal public statement. If the mayor of your town issued a 
 - But Niel Lawrence, a senior attorney at the Natural Resources Defense Council, said the result of a Trump proclamation isn’t so clear-cut.
 
 # puppet
-/pʌpɪt/ 
+**/pʌpɪt/**
 A doll or figure controlled by a person so that it appears to be moving on its own is a puppet. A puppet can be fun, but if you feel like a puppet, it seems like someone is controlling you. Not fun.
 ### Definition
 - n: a small figure of a person operated from above with strings by a puppeteer
@@ -85,7 +85,7 @@ A doll or figure controlled by a person so that it appears to be moving on its o
 - Q: Your campaign ad that portrayed your opponent as an Asian-American puppet of Wall Street was heavily criticized.
 
 # vocal
-/voʊkəl/ 
+**/voʊkəl/**
 ### Definition
 - n: music intended to be performed by one or more singers, usually with instrumental accompaniment
 - n: a short musical composition with words
@@ -109,7 +109,7 @@ A doll or figure controlled by a person so that it appears to be moving on its o
 - But what the world heard from Times Square was a backing track awaiting a lead vocal — presumably a live one.
 
 # antique
-/æntiːk/ 
+**/æntiːk/**
 An antique is an old-fashioned thing, like a lamp from the sixties. Anything antique is old or at least old-ish.
 ### Definition
 - adj: made in or typical of earlier times and valued for its age
@@ -129,7 +129,7 @@ An antique is an old-fashioned thing, like a lamp from the sixties. Anything ant
 - The auction of legally obtained ivory antiques, under "strict supervision", will also be allowed after obtaining authorization.
 
 # purge
-/pɜːʳdʒ/ 
+**/pɜːʳdʒ/**
 To purge is to get rid of something or someone, and often it’s done suddenly. Purge rhymes with urge, and when you have a really strong urge to throw stuff away or clean something out, you have an urge to purge.
 ### Definition
 - v: rid of impurities
@@ -153,7 +153,7 @@ To purge is to get rid of something or someone, and often it’s done suddenly. 
 - A management shake-up purged those responsible for a series of past mistakes, and a big bump in spending has not hurt, either.
 
 # accession
-/ækseʃən/ 
+**/ækseʃən/**
 Accession is the act of advancing into a position. Being elected class president is a kind of accession.
 ### Definition
 - n: the act of attaining or gaining access to a new office or right or position (especially the throne)
@@ -172,7 +172,7 @@ Accession is the act of advancing into a position. Being elected class president
 - Last week the European Parliament voted to recommend suspending Turkey’s accession talks.
 
 # spiral
-/spaɪərəl/ 
+**/spaɪərəl/**
 A spiral is a coil or curl, like the shape of a piece of hair wound around your finger, a Slinky toy, or a corkscrew.
 ### Definition
 - n: a structure consisting of something wound in a continuous series of loops

@@ -1,5 +1,5 @@
 # asymptomatic
-/eɪsɪmptəmætɪk/ 
+**/eɪsɪmptəmætɪk/**
 If you're asymptomatic, you don't show any signs of being sick. In some cases, you can have a disease but still be asymptomatic.
 ### Definition
 - adj: having no symptoms of illness or disease
@@ -11,7 +11,7 @@ If you're asymptomatic, you don't show any signs of being sick. In some cases, y
 - Peripheral treatment with such antibodies, if safe, should enable the eradication of prions in asymptomatic infected individuals before neuroinvasion occurs.
 
 # conjecture
-/kəndʒektʃəʳ/ 
+**/kəndʒektʃəʳ/**
 Can you guess what conjecture means? It's a word to use when you are not sure of something and have to "guess or surmise."
 ### Definition
 - v: to believe especially on uncertain or tentative grounds
@@ -27,7 +27,7 @@ Can you guess what conjecture means? It's a word to use when you are not sure of
 - The coach added that he is trying to stop the conjecture from affecting the dressing room.
 
 # disdain
-/dɪsdeɪn/ 
+**/dɪsdeɪn/**
 If you feel that something isn't worthy of your consideration, you may disdain it (or treat it with disdain).
 ### Definition
 - n: lack of respect accompanied by a feeling of intense dislike
@@ -43,7 +43,7 @@ If you feel that something isn't worthy of your consideration, you may disdain i
 - Playing up his Southern backwoods roots, his military career and his disdain of the political establishment, he treated politics as a form of performance art.
 
 # contempt
-/kəntempt/ 
+**/kəntempt/**
 Reserve the noun contempt for an extreme lack of respect: a food snob has nothing but contempt for mass-produced burgers and fries at a fast-food joint.
 ### Definition
 - n: lack of respect accompanied by a feeling of intense dislike
@@ -59,7 +59,7 @@ Reserve the noun contempt for an extreme lack of respect: a food snob has nothin
 - Is he, and we say this with contempt, “just trolling”?
 
 # cosmic
-/kɒzmɪk/ 
+**/kɒzmɪk/**
 If it has to do with the universe, it's cosmic. The planets, for instance, are cosmic bodies.
 ### Definition
 - adj: of or from or pertaining to or characteristic of the cosmos or universe
@@ -91,7 +91,7 @@ A stratum is a layer of something, whether abstract, like a social stratum compo
 - If the 12th Man brings his vegetarian girlfriend to brunch, she might enjoy the breakfast strata.
 
 # kin
-/kɪn/ 
+**/kɪn/**
 Some say kin, others "family," or "relatives." Call them what you will, but you’re stuck with those people related to you by blood or marriage.
 ### Definition
 - n: a person having kinship with another or others
@@ -106,7 +106,7 @@ Some say kin, others "family," or "relatives." Call them what you will, but you�
 - But to properly return their remains to next of kin, someone must determine who they were.
 
 # nail
-/neɪl/ 
+**/neɪl/**
 A nail is the pointed piece of metal that you pound with a hammer when you're building something. When you go to a nail salon, however, don't bring a pack of nails; bring your toes and fingers instead!
 ### Definition
 - n: a thin pointed piece of metal that is hammered into materials as a fastener
@@ -128,7 +128,7 @@ A nail is the pointed piece of metal that you pound with a hammer when you're bu
 - Nail’s attorney, Brad Engberg, says his client is “factually and legally innocent of any wrongdoing.”
 
 # molecular
-/məlekjʊləʳ/ 
+**/məlekjʊləʳ/**
 Use the adjective molecular to describe something that has to do with or is made up of molecules. If you're studying molecular biology, you're focusing on the molecules that make up living things.
 ### Definition
 - adj: relating to or produced by or consisting of molecules
@@ -143,7 +143,7 @@ Use the adjective molecular to describe something that has to do with or is made
 - She returned to teaching after her resignation and led an undergraduate course for the Department of Molecular and Integrative Physiology last spring.
 
 # rigorous
-/rɪgərəs/ 
+**/rɪgərəs/**
 If you are rigorous when you do something, you do it extremely carefully and precisely. A rigorous inspection of your tax records has revealed the government owes you money. Congratulations!
 ### Definition
 - adj: rigidly accurate; allowing no deviation from a standard

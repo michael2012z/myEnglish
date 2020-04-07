@@ -1,5 +1,5 @@
 # coach
-/koʊtʃ/ 
+**/koʊtʃ/**
 Nowadays, we mostly think of a coach as someone who trains a team, but it can also refer to a vehicle, such as a horse-drawn coach or coach bus (the kind with a bathroom in the back).
 ### Definition
 - n: a vehicle carrying many passengers; used for public transport
@@ -18,7 +18,7 @@ Nowadays, we mostly think of a coach as someone who trains a team, but it can al
 - The Wildcats coach did not specify during his weekly radio show Monday night when the previously-taped talk with Pitino would air.
 
 # redemption
-/rɪdempʃən/ 
+**/rɪdempʃən/**
 Redemption is the buying back of something. You might try for redemption by attempting to buy back a bike you sold, or you might attempt to buy back your soul after you steal someone else’s bike.
 ### Definition
 - n: the act of purchasing back something previously sold
@@ -42,7 +42,7 @@ Redemption is the buying back of something. You might try for redemption by atte
 - After devoting a year to getting back on top, Rousey is determined to earn her redemption Friday night with her skills, not her words.
 
 # oppressive
-/əpresɪv/ 
+**/əpresɪv/**
 Think of something crushing you, and you will understand what oppressive is. It can be something that crushes your spirit, like a bad relationship, or something that crushes you with its tyranny, like the oppressive rule of a dictator.
 ### Definition
 - adj: weighing heavily on the senses or spirit
@@ -58,7 +58,7 @@ Think of something crushing you, and you will understand what oppressive is. It 
 - Syria’s opposition, to them, are agents of Saudi Arabia’s Wahhabism and the United States’ imperialism, rather than people who rose up against an oppressive regime.
 
 # cruelty
-/kruːəlti/ 
+**/kruːəlti/**
 Cruelty is a characteristic of deliberately causing someone pain. Years of cruelty by their leaders can cause citizens to rise up together and revolt.
 ### Definition
 - n: the quality of being cruel and causing tension or annoyance
@@ -72,7 +72,7 @@ Cruelty is a characteristic of deliberately causing someone pain. Years of cruel
 - State prosecutors put them all in foster care and arrested the parents on charges of cruelty to juveniles and second-degree murder.
 
 # culmination
-/kʌlmɪneɪʃən/ 
+**/kʌlmɪneɪʃən/**
 The culmination is the end point or final stage of something you've been working toward or something that's been building up. The culmination of your high school career, for example, should be graduation day — and probably not prom night.
 ### Definition
 - n: a concluding action
@@ -88,7 +88,7 @@ The culmination is the end point or final stage of something you've been working
 - It was supposed to be the culmination of an expansive prosecution of corruption and misconduct in the Los Angeles County jail system.
 
 # squad
-/skwɒd/ 
+**/skwɒd/**
 A squad is a group, gang, or team, often made up of soldiers or police officers, but any gang will do. Some people call their group of friends a squad, probably so they seem organized and tough.
 ### Definition
 - n: the smallest army unit
@@ -102,7 +102,7 @@ A squad is a group, gang, or team, often made up of soldiers or police officers,
 - Just to be part of the Olympics was extra-special, again with my squad.
 
 # lottery
-/lɒtəri/ 
+**/lɒtəri/**
 A lottery is a contest where players buy tickets and have a random (and low) chance of winning. Finding true love and getting hit by lightning are often said to be as likely as winning the lottery.
 ### Definition
 - n: players buy (or are given) chances and prizes are distributed by casting lots
@@ -115,7 +115,7 @@ A lottery is a contest where players buy tickets and have a random (and low) cha
 - Luck is loud and clear when a person wins millions in a lottery.
 
 # junction
-/dʒʌŋkʃən/ 
+**/dʒʌŋkʃən/**
 The noun junction refers to a meeting or a joining of some kind. If you live at the junction of Main and State streets, then your house is where those two streets meet.
 ### Definition
 - n: an act of joining or adjoining things
@@ -131,7 +131,7 @@ The noun junction refers to a meeting or a joining of some kind. If you live at 
 - It will use the money for a new electrical duct bank, cabling, and above-ground, high-voltage cable junction boxes to maximize energy efficiency.
 
 # ecological
-/iːkəlɒdʒɪkəl/ 
+**/iːkəlɒdʒɪkəl/**
 Anything ecological relates to the science of ecology, which is the study of how living things and the environment do their thing.
 ### Definition
 - adj: characterized by the interdependence of living organisms in an environment
@@ -146,7 +146,7 @@ Anything ecological relates to the science of ecology, which is the study of how
 - “The whole idea of the dam is that there would be some economic benefit, but there may be potential long-term ecological problems,” he added.
 
 # veil
-/veɪl/ 
+**/veɪl/**
 A veil is a cloth covering the head and face, mostly worn by women. Wedding veils are drawn back when the groom hears, "Now you may kiss the bride." (Or else the groom gets a gauzy mouthful.)
 ### Definition
 - n: a garment that covers the head and face

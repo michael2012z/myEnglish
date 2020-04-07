@@ -1,5 +1,5 @@
 # mortar
-/mɔːʳtəʳ/ 
+**/mɔːʳtəʳ/**
 A mortar is a bowl-shaped container that you can grind things in using a pestle. You probably buy your spices pre-ground at the store, but if you wanted to be old-school, you could grind them yourself with a mortar and pestle.
 ### Definition
 - n: a bowl-shaped vessel in which substances can be ground and mixed with a pestle
@@ -14,7 +14,7 @@ A mortar is a bowl-shaped container that you can grind things in using a pestle.
 - They watched mortar shells or stray bullets kill their relatives and neighbors.
 
 # axe
-/æks/ 
+**/æks/**
 ### Definition
 - n: an edge tool with a heavy bladed head mounted across a handle
 - v: chop or split with an ax
@@ -27,7 +27,7 @@ A mortar is a bowl-shaped container that you can grind things in using a pestle.
 - Cancellation became a relative term as shows axed from broadcast lineups found homes on Hulu.
 
 # volcanic
-/vɒlkænɪk/ 
+**/vɒlkænɪk/**
 ### Definition
 - adj: igneous rock produced by eruption and solidified on or near the earth's surface; rhyolite or andesite or basalt
 - adj: relating to or produced by or consisting of volcanoes
@@ -41,7 +41,7 @@ A mortar is a bowl-shaped container that you can grind things in using a pestle.
 - Few other drummers were as integral to the development of fusion as Mr. Mouzon, who combined volcanic intensity with a brisk attunement to dynamic flow.
 
 # attainment
-/əteɪnmənt/ 
+**/əteɪnmənt/**
 The effort put into something and the pay-off when the work is over is called attainment. Attainment of your goal of learning to make the perfect omelet requires breaking a lot of eggs.
 ### Definition
 - n: the act of achieving an aim
@@ -58,7 +58,7 @@ The effort put into something and the pay-off when the work is over is called at
 - As well as age, educational attainment and national identity were also key factors in how the UK voted.
 
 # motive
-/moʊtɪv/ 
+**/moʊtɪv/**
 Your reason for doing something is your motive. Your motive to go to school every day is to learn. Or maybe the thought of your parents' anger and a run-in with the truant officer is motive enough.
 ### Definition
 - n: the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior
@@ -80,7 +80,7 @@ Your reason for doing something is your motive. Your motive to go to school ever
 - Like: Should shelters be concerned about the motives of a person who adopts an animal when it’s free, and the care that animal will receive?
 
 # differentiate
-/dɪfərenʃieɪt/ 
+**/dɪfərenʃieɪt/**
 To differentiate is to identify the differences between things, to discriminate among them. For example, if the light is dim at the party, you might find it hard to differentiate between the spicy bean dip and the chocolate sauce.
 ### Definition
 - v: become distinct and acquire a different character
@@ -105,7 +105,7 @@ To differentiate is to identify the differences between things, to discriminate 
 - What the local hikes in the minimum wage also point to is the way cities are increasingly differentiating themselves by the economic policies they enact.
 
 # transfusion
-/trænsfjuːʒən/ 
+**/trænsfjuːʒən/**
 A transfusion is when doctors put blood into a patient's vein. An accident victim might need a transfusion if he's lost blood.
 ### Definition
 - n: the introduction of blood or blood plasma into a vein or artery
@@ -119,7 +119,7 @@ A transfusion is when doctors put blood into a patient's vein. An accident victi
 - The woman had become infected with H.I.V., the virus that causes AIDS, through a blood transfusion obtained from a blood bank.
 
 # unreasonable
-/ʌnriːzənəbəl/ 
+**/ʌnriːzənəbəl/**
 ### Definition
 - adj: beyond normal limits
 - adj: not reasonable; not showing good judgment
@@ -137,7 +137,7 @@ A transfusion is when doctors put blood into a patient's vein. An accident victi
 - She wants everyone to shed the unreasonable fears and misconceptions.
 
 # solvent
-/sɒlvənt/ 
+**/sɒlvənt/**
 Solvent’s meaning changes pretty drastically depending on its part of speech. As a noun, solvent is either a certain kind of chemical or an idea that solves a problem. As an adjective, solvent describes someone who's got cash on hand.
 ### Definition
 - adj: capable of meeting financial obligations
@@ -159,7 +159,7 @@ Solvent’s meaning changes pretty drastically depending on its part of speech. 
 - Xylene is a petrochemical used as a solvent in products such as paints and inks.
 
 # delinquent
-/dɪlɪŋkwənt/ 
+**/dɪlɪŋkwənt/**
 The adjective delinquent describes something that is past due or people who are negligent in doing their duty. If you are delinquent in paying your delinquent library fines, you won't be able to check out any more books.
 ### Definition
 - n: a young offender

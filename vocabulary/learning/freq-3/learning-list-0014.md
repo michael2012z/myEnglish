@@ -1,5 +1,5 @@
 # detention
-/dɪtenʃən/ 
+**/dɪtenʃən/**
 Detention is a word for confinement or imprisonment, usually for a short time. It's also a punishment where children must stay after school.
 ### Definition
 - n: a state of being confined (usually for a short time)
@@ -15,7 +15,7 @@ Detention is a word for confinement or imprisonment, usually for a short time. I
 - Army Reserve Center and escaped from a Rhode Island detention center.
 
 # rage
-/reɪdʒ/ 
+**/reɪdʒ/**
 Rage is a really intense anger. Some frustrated drivers let their emotions boil over into road rage when another car cuts them off, for example.
 ### Definition
 - n: a feeling of intense anger
@@ -37,7 +37,7 @@ Rage is a really intense anger. Some frustrated drivers let their emotions boil 
 - Despite reeling from a collective gut punch, women who were opposed to President-elect Donald Trump channeled their sadness and rage into activism and organization.
 
 # cult
-/kʌlt/ 
+**/kʌlt/**
 People argue about whether the major religions of the world are just well-established cults — that, age and size aside, they are no different from any group that follows a spiritual leader.
 ### Definition
 - n: a system of religious beliefs and rituals
@@ -55,7 +55,7 @@ People argue about whether the major religions of the world are just well-establ
 - His revival of the work, in 1829, inaugurated the modern cult of Bach.
 
 # commerce
-/kɒmɜːʳs/ 
+**/kɒmɜːʳs/**
 Commerce is the exchange of goods and services. It's business. Competition between cities wanting to host the Olympics is fierce because the games increase tourism and commerce.
 ### Definition
 - n: transactions (sales and purchases) having the objective of supplying commodities (goods and services)
@@ -74,7 +74,7 @@ Commerce is the exchange of goods and services. It's business. Competition betwe
 - Sen. John Thune’s position on the Senate’s Commerce, Science and Transportation Committee, South Dakota landed two people in the 25-member working group.
 
 # hail
-/heɪl/ 
+**/heɪl/**
 Hail is when chunks of ice fall from the sky. Also, to hail someone is to greet them or say good things about them. Or it can be a way to tell people of your homeland, as in: "I hail from the Moon."
 ### Definition
 - n: precipitation of ice pellets when there are strong rising air currents
@@ -93,7 +93,7 @@ Hail is when chunks of ice fall from the sky. Also, to hail someone is to greet 
 - Many of them hailed from the Middle East.
 
 # ghetto
-/getoʊ/ 
+**/getoʊ/**
 Ghetto means a crowded poor part of a city lived in by a specific ethnic group. The word is powerful, often associated with a rich cultural heritage or a sense of shame and a desire to escape.
 ### Definition
 - n: a poor densely populated city district occupied by a minority ethnic group linked together by economic hardship and social restrictions
@@ -108,7 +108,7 @@ Ghetto means a crowded poor part of a city lived in by a specific ethnic group. 
 - After a few days in a ghetto they would leave.
 
 # exacerbate
-/ɪgzæsəʳbeɪt/ 
+**/ɪgzæsəʳbeɪt/**
 For a formal-sounding verb that means to make worse, try exacerbate. If you're in trouble, complaining about it will only exacerbate the problem.
 ### Definition
 - v: make worse
@@ -122,7 +122,7 @@ For a formal-sounding verb that means to make worse, try exacerbate. If you're i
 - In the past year, such attacks tended to exacerbate Turkey’s deep societal divisions.
 
 # levy
-/levi/ 
+**/levi/**
 Use the word levy as you would use the word tax: “When the state government imposed a levy on soft drinks, thousands of citizens took to the streets in protest.”
 ### Definition
 - v: impose and collect
@@ -137,7 +137,7 @@ Use the word levy as you would use the word tax: “When the state government im
 - The report says lawmakers should refrain from levying the fees until more people are driving electric vehicles.
 
 # stringent
-/strɪndʒənt/ 
+**/strɪndʒənt/**
 That teacher's demands are stringent — she wants the homework typed in her favorite font, on special paper, and each essay must be exactly 45 lines!
 ### Definition
 - adj: demanding strict attention to rules and procedures
@@ -150,7 +150,7 @@ That teacher's demands are stringent — she wants the homework typed in her fav
 - "Financial regulation should be progressively more stringent for firms of greater importance," Tarullo said at the time.
 
 # prestigious
-/prestɪdʒəs/ 
+**/prestɪdʒəs/**
 Eagle Scout is a prestigious position within the Boy Scouts. It requires a lot of hard work over a number of years, and if you become one, lots of people will respect you.
 ### Definition
 - adj: having an illustrious reputation; respected

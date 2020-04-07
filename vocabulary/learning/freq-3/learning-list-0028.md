@@ -1,5 +1,5 @@
 # condemn
-/kəndem/ 
+**/kəndem/**
 You can condemn, or openly criticize, someone who is behaving inappropriately. If you are an animal rights activist, you would probably condemn someone for wearing fur.
 ### Definition
 - v: express strong disapproval of
@@ -19,7 +19,7 @@ You can condemn, or openly criticize, someone who is behaving inappropriately. I
 - The federal government moved a decade ago to condemn the last privately owned mineral rights to protect against geothermal development within the preserve.
 
 # susceptible
-/səseptɪbəl/ 
+**/səseptɪbəl/**
 If you are susceptible to something such as infections or earaches, it means you are likely to become sick with these things.
 ### Definition
 - adj: (often followed by `of' or `to') yielding readily to or capable of
@@ -34,7 +34,7 @@ If you are susceptible to something such as infections or earaches, it means you
 - But with Coleman lined up wide, Foster sensed that Coleman would flare, leaving him susceptible to a pick from the wide receiver.
 
 # intrusive
-/ɪntruːsɪv/ 
+**/ɪntruːsɪv/**
 Something intrusive is getting in your face or invading your space. Nosey questions, a poke in the ribs, and a hovering mother are all intrusive.
 ### Definition
 - adj: tending to intrude (especially upon privacy)
@@ -52,7 +52,7 @@ Something intrusive is getting in your face or invading your space. Nosey questi
 - In 1986, for instance, when he testified before Congress, he called the Voting Rights Act “intrusive” but “necessary.”
 
 # contemplate
-/kɒntəmpleɪt/ 
+**/kɒntəmpleɪt/**
 Before you accept a job offer, or a college's offer of admission, you should take time to contemplate the pros and cons of your decision. If you contemplate something, you think about it carefully.
 ### Definition
 - v: think intently and at length, as for spiritual purposes
@@ -69,7 +69,7 @@ Before you accept a job offer, or a college's offer of admission, you should tak
 - David Pagel reviews a series of gallery shows to contemplate in the new year.
 
 # scarcity
-/skeəʳsɪti/ 
+**/skeəʳsɪti/**
 If there is a cupcake scarcity in your kitchen, there are hardly any cupcakes around, and you're not sure that any will be appearing any time soon.
 ### Definition
 - n: a small and inadequate amount
@@ -99,7 +99,7 @@ Premier is another way of saying “first” or “best” like the premier  ice
 - The problem today is that for these teams to play in the Premier League, they need to pay the wages of the Premier League.
 
 # boarding
-/bɔːʳdɪŋ/ 
+**/bɔːʳdɪŋ/**
 ### Definition
 - n: the act of passengers and crew getting aboard a ship or aircraft
 - n: a structure of boards
@@ -114,7 +114,7 @@ Premier is another way of saying “first” or “best” like the premier  ice
 - He attended boarding school and a prep school, Bradford College, and in 1938 enrolled at Oxford University.
 
 # wreck
-/rek/ 
+**/rek/**
 A wreck is something that's been destroyed. Your hair might be a wreck after a bad day at the barber. Your car might be a wreck after you hit a telephone pole.
 ### Definition
 - n: something or someone that has suffered ruin or dilapidation
@@ -133,7 +133,7 @@ A wreck is something that's been destroyed. Your hair might be a wreck after a b
 - Ms. Gussoff, who visited the hospital every day, was emotionally wrecked to see her mother in such fragile condition.
 
 # cruel
-/kruːəl/ 
+**/kruːəl/**
 Someone or something that inflicts pain or causes suffering can be described as cruel. It would be cruel of you to offer chocolate to someone on a diet.
 ### Definition
 - adj: (of persons or their actions) able or disposed to inflict pain or suffering
@@ -145,7 +145,7 @@ Someone or something that inflicts pain or causes suffering can be described as 
 - When his top-flight debut finally arrived, at home to Atalanta on 18 September, one more cruel twist lay in store.
 
 # jurisdiction
-/dʒʊərɪsdɪkʃən/ 
+**/dʒʊərɪsdɪkʃən/**
 Jurisdiction means having a legal right over something. A court can have jurisdiction over a legal question, a government can have jurisdiction over another country or territory. Even your parents could be said to have jurisdiction over you while you're under 18.
 ### Definition
 - n: in law; the territory within which power can be exercised

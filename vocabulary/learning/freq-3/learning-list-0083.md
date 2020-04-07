@@ -1,5 +1,5 @@
 # vintage
-/vɪntɪdʒ/ 
+**/vɪntɪdʒ/**
 A vintage is the specific year that a wine was made. Different vintages are better than others.
 ### Definition
 - n: the oldness of wines
@@ -12,7 +12,7 @@ A vintage is the specific year that a wine was made. Different vintages are bett
 - Small stages display his purple Yamaha piano and a collection of vintage costumes.
 
 # reckless
-/rekləs/ 
+**/rekləs/**
 If you are reckless, you don't think or care about the consequences of your words or actions, like a reckless driver who speeds while texting, knitting, and eating a sandwich.
 ### Definition
 - adj: marked by defiant disregard for danger or consequences
@@ -26,7 +26,7 @@ If you are reckless, you don't think or care about the consequences of your word
 - Driver Johnthony Walker, 24, faces charges of vehicular homicide, reckless driving and reckless endangerment.
 
 # tragic
-/trædʒɪk/ 
+**/trædʒɪk/**
 Tragic means sad on a grand scale. Rain on your parade? Sad. Weeks of rain leading to the destruction of a small town and the lives of those in it? Tragic.
 ### Definition
 - adj: very sad; especially involving grief or death or destruction
@@ -41,7 +41,7 @@ Tragic means sad on a grand scale. Rain on your parade? Sad. Weeks of rain leadi
 - The tragic lesson of Syria is that when the eagle flies away, the vultures move in.
 
 # afresh
-/əfreʃ/ 
+**/əfreʃ/**
 When you do something afresh, you start it again as if it's the first time. You might, for example, start afresh baking a new apple pie after burning the first one.
 ### Definition
 - adv: again but in a new or different way
@@ -53,7 +53,7 @@ When you do something afresh, you start it again as if it's the first time. You 
 - WHY is it unsettling to see Republicans and Democrats squabbling afresh about Russian meddling in last month’s presidential election?
 
 # cramped
-/kræmpt/ 
+**/kræmpt/**
 ### Definition
 - adj: constricted in size
 ### Family
@@ -90,7 +90,7 @@ The action of soaking or washing yourself in water is a bath. You might take a b
 - Here, three “petrol” pumps silently rust, on a road in Trowbridge, Britain, west England, a Wiltshire town a few miles from the city Bath.
 
 # ski
-/skiː/ 
+**/skiː/**
 ### Definition
 - n: narrow wood or metal or plastic runners used in pairs for gliding over snow
 - v: move along on skis
@@ -104,7 +104,7 @@ The action of soaking or washing yourself in water is a bath. You might take a b
 - Vuarnet was also the first person to win the event using metal skis.
 
 # hatch
-/hætʃ/ 
+**/hætʃ/**
 A bird such as a hen that sits on eggs to incubate them can be said to hatch the eggs. Then, when the chick emerges from the egg, you can also say it hatched.
 ### Definition
 - n: a movable barrier covering a hatchway
@@ -126,7 +126,7 @@ A bird such as a hen that sits on eggs to incubate them can be said to hatch the
 - They are pushed by currents away from the reefs on which they were hatched for days or weeks until they learn to swim.
 
 # maid
-/meɪd/ 
+**/meɪd/**
 A maid is a household worker who cleans and performs various other tasks. Today, only very wealthy people have maids — it's much more common to hire an occasional housekeeper or cleaner instead.
 ### Definition
 - n: a female domestic
@@ -139,7 +139,7 @@ A maid is a household worker who cleans and performs various other tasks. Today,
 - As the humble maid Aibileen Clark during the civil rights movement of the 1960s, Davis wows with emotional depth and nuance.
 
 # piecemeal
-/piːsmiːl/ 
+**/piːsmiːl/**
 When you do something piecemeal, you're doing it little by little, but in a seemingly random way, with no order or system.
 ### Definition
 - adj: one thing at a time

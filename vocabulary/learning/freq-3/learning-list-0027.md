@@ -1,5 +1,5 @@
 # amplify
-/æmplɪfaɪ/ 
+**/æmplɪfaɪ/**
 The verb amplify means to crank up the volume. Speakers amplify, or raise, the volume of the noise coming through a microphone so that everyone at the rock show can hear.
 ### Definition
 - v: increase the volume of
@@ -16,7 +16,7 @@ The verb amplify means to crank up the volume. Speakers amplify, or raise, the v
 - “The music would add something — add some dialogue, add a level of understanding or suggestion or provocativeness — rather than amplify what was already there.”
 
 # evade
-/ɪveɪd/ 
+**/ɪveɪd/**
 When you evade something, you escape it. You could evade a police chase by slipping into a secret alley, or you could evade your mother's questions about the missing cookies by slipping into another topic.
 ### Definition
 - v: avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)
@@ -54,7 +54,7 @@ If you watch cop shows, you know that a warrant is something police need to get 
 - These cases certainly warrant a deeper examination of state policy and practices by Inspector General Julie Rogers.
 
 # salmon
-/sæmən/ 
+**/sæmən/**
 A salmon is a big, silver-skinned fish that lives in both the Atlantic and Pacific oceans. Many commercial fishermen catch salmon.
 ### Definition
 - n: any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn
@@ -77,7 +77,7 @@ A salmon is a big, silver-skinned fish that lives in both the Atlantic and Pacif
 - Sunday at the intersection of Chestnut and Salmon streets.
 
 # gown
-/gaʊn/ 
+**/gaʊn/**
 A gown is a formal dress. When your date to a party or dance is wearing a tuxedo, you'll probably want to wear a gown.
 ### Definition
 - n: a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions
@@ -94,7 +94,7 @@ A gown is a formal dress. When your date to a party or dance is wearing a tuxedo
 - The lush green gown she wore in the Pablo Casals concert scene was certainly beautiful.
 
 # humble
-/hʌmbəl/ 
+**/hʌmbəl/**
 A person or a place can be humble, but a person who brags about being humble, or not proud, may have too much pride in being "humble" to actually be humble.
 ### Definition
 - adj: marked by meekness or modesty; not arrogant or prideful
@@ -111,7 +111,7 @@ A person or a place can be humble, but a person who brags about being humble, or
 - He remained “incredibly humble,” living until his death in the single room above his studio in Bamako.
 
 # meagre
-/miːgəʳ/ 
+**/miːgəʳ/**
 ### Definition
 - adj: deficient in amount or quality or extent
 ### Family
@@ -122,7 +122,7 @@ A person or a place can be humble, but a person who brags about being humble, or
 - The tax is aimed at bolstering the city’s meagre supply of rental stock.
 
 # contingency
-/kəntɪndʒənsi/ 
+**/kəntɪndʒənsi/**
 If you plan to walk home if the weather is nice, but bring subway fare just in case, then taking the subway is your contingency plan. A contingency is an event you can't be sure will happen or not.
 ### Definition
 - n: the state of being contingent on something
@@ -136,7 +136,7 @@ If you plan to walk home if the weather is nice, but bring subway fare just in c
 - Tillerson remained a contingency, but his stock was starting to rise.
 
 # dismal
-/dɪzməl/ 
+**/dɪzməl/**
 Dismal is a dreary, depressing sort of bad. "With the cold rain and their team behind by six field goals, the mood in the stands was so dismal even the cheerleaders had lost their 'Rah.'"
 ### Definition
 - adj: causing dejection

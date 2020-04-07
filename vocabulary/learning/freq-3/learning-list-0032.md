@@ -1,5 +1,5 @@
 # cling
-/klɪŋ/ 
+**/klɪŋ/**
 To cling is to tightly grasp something or to stick closely to something, like how wet clothes cling to the wearer.
 ### Definition
 - v: hold on tightly or tenaciously
@@ -14,7 +14,7 @@ To cling is to tightly grasp something or to stick closely to something, like ho
 - After five seasons spent clinging to the narrative of George R.R.
 
 # coastal
-/koʊstəl/ 
+**/koʊstəl/**
 ### Definition
 - adj: of or relating to a coast
 - adj: located on or near or bordering on a coast
@@ -39,7 +39,7 @@ What do the national debt, your old gym teacher, and your mother-in-law have in 
 - Attuned to the deception, United States immigration officials put Chinese arrivals through a formidable inquisition to ensure they were who they claimed to be.
 
 # vicious
-/vɪʃəs/ 
+**/vɪʃəs/**
 Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out!
 ### Definition
 - adj: having the nature of vice
@@ -55,7 +55,7 @@ Vicious is an adjective that means intentionally harmful or nasty. If you spread
 - After Bennett’s “vicious, high-speed direct slam,” as the Times put it, Alabama seized the momentum and won, 28–10.
 
 # dislike
-/dɪslaɪk/ 
+**/dɪslaɪk/**
 Put simply, to dislike can be used as a transitive verb that means to "not like." Maybe you dislike spinach. But it can also be a noun, as in "You seem to have developed quite a dislike for spinach."
 ### Definition
 - n: a feeling of aversion or antipathy
@@ -81,7 +81,7 @@ Put simply, to dislike can be used as a transitive verb that means to "not like.
 - When I met him, he was very immature and generally a jerk to almost everyone, including my friends, who all still dislike him.
 
 # dioxide
-/daɪɒksaɪd/ 
+**/daɪɒksaɪd/**
 ### Definition
 - n: an oxide containing two atoms of oxygen in the molecule
 ### Family
@@ -92,7 +92,7 @@ Put simply, to dislike can be used as a transitive verb that means to "not like.
 - Once injected into basalt rock, the carbon dioxide rapidly was mineralized, or turned into rock.
 
 # vow
-/vaʊ/ 
+**/vaʊ/**
 To vow is to make an earnest promise or pledge. People getting married often vow to stick together “till death do us part,” while a presidential candidate might vow to lower taxes.
 ### Definition
 - n: a solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner
@@ -107,7 +107,7 @@ To vow is to make an earnest promise or pledge. People getting married often vow
 - He vowed to return better, an approach teammates echoed after seeing their title hopes slip away.
 
 # rethink
-/riːθɪŋk/ 
+**/riːθɪŋk/**
 When you rethink, you consider something again, often reaching the opposite conclusion. You'll rethink your decision to go bungee jumping as soon as you're standing at the top of a tall bridge getting ready to jump.
 ### Definition
 - v: change one's mind
@@ -134,7 +134,7 @@ When you rethink, you consider something again, often reaching the opposite conc
 - In July this year, the Brazilian government rejected calls from two US anthropologists to rethink its policy of contact.
 
 # gauge
-/geɪdʒ/ 
+**/geɪdʒ/**
 If you ask your friend, "How do you feel, generally, about loaning your car to people?" your intention might be to gauge his reaction before you flat-out ask if you can borrow his car. To gauge is to measure or test.
 ### Definition
 - n: a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain etc.
@@ -157,7 +157,7 @@ If you ask your friend, "How do you feel, generally, about loaning your car to p
 - “Looking at your gauges,” he explained, “gets you in trouble.”
 
 # artillery
-/ɑːʳtɪləri/ 
+**/ɑːʳtɪləri/**
 Artillery refers to large-caliber guns — guns with big barrels — which can be moved from one place to another for land battles. The artillery is also the name for the army unit that uses these big guns.
 ### Definition
 - n: large but transportable armament

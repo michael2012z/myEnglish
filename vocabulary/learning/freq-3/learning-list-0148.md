@@ -1,5 +1,5 @@
 # unconventional
-/ʌnkənvenʃənəl/ 
+**/ʌnkənvenʃənəl/**
 To be unconventional is to act, dress, speak, or otherwise exist out of the bounds of cultural norms. If you eat cheeseburgers for breakfast, that's somewhat unconventional.
 ### Definition
 - adj: not conventional or conformist
@@ -25,7 +25,7 @@ To be unconventional is to act, dress, speak, or otherwise exist out of the boun
 - With the 22-year-old representing himself, the process is sure to be unconventional.
 
 # induction
-/ɪndʌkʃən/ 
+**/ɪndʌkʃən/**
 After a baseball player's induction into the Baseball Hall of Fame, his name remains on the wall there for life. Induction is something that begins a process or a series of events.
 ### Definition
 - n: the act of bringing about something (especially at an early time)
@@ -45,7 +45,7 @@ After a baseball player's induction into the Baseball Hall of Fame, his name rem
 - Ali lost prime years as a fighter, refusing military induction during the Vietnam War.
 
 # sculpture
-/skʌlptʃəʳ/ 
+**/skʌlptʃəʳ/**
 Sculpture is a type of artwork that's two- or three-dimensional, so you can see it from different sides. You can make sculpture from clay, marble, wood, and even mashed potatoes, though the potato kind might not make it into an art museum.
 ### Definition
 - n: a three-dimensional work of plastic art
@@ -64,7 +64,7 @@ Sculpture is a type of artwork that's two- or three-dimensional, so you can see 
 - Tippet Rise Art Center is, in short, the world’s largest sculpture park—but it’s also a concert hall, a working ranch, and a wilderness.
 
 # interactive
-/ɪntəræktɪv/ 
+**/ɪntəræktɪv/**
 Something that is interactive is something that you can communicate or interact with. The coolest thing about the Internet is how interactive it is. You're constantly putting information and getting other information back.
 ### Definition
 - adj: capable of acting on or influencing each other
@@ -110,7 +110,7 @@ Something that is interactive is something that you can communicate or interact 
 - Here is a selection of the best in interactive and multimedia storytelling from the past year.
 
 # magnificent
-/mægnɪfɪsənt/ 
+**/mægnɪfɪsənt/**
 The adjective magnificent describes something that has grandeur, like the magnificent Great Wall of China or the Pyramids, which usually inspire awe in the people who see them.
 ### Definition
 - adj: characterized by grandeur
@@ -123,7 +123,7 @@ The adjective magnificent describes something that has grandeur, like the magnif
 - Sometimes the story, in all its magnificent ridiculousness, seems like mere scaffolding, propping up the ritual of the performance.
 
 # converse
-/kənvɜːʳs/ 
+**/kənvɜːʳs/**
 Converse is a more formal way of saying "carry on a conversation." You could converse with your best friend for hours over lunch, but continue the chit-chat through the afternoon matinee and you might get shushed.
 ### Definition
 - v: carry on a conversation
@@ -142,7 +142,7 @@ Converse is a more formal way of saying "carry on a conversation." You could con
 - Which is a funny thought considering the most popular characters of this world carry around lightsabers and converse with Wookiees.
 
 # resonant
-/rezənənt/ 
+**/rezənənt/**
 Resonant describes sound that is deep and rich. It also can mean deeply evocative. A resonant  speech moves you by bringing to mind all that is good in the world: family, friends, laughter.
 ### Definition
 - adj: characterized by resonance
@@ -156,7 +156,7 @@ Resonant describes sound that is deep and rich. It also can mean deeply evocativ
 - Former Exxon executives noted that he even fit the mold of a Texas oilman — physically imposing, with a resonant voice and a drawl.
 
 # tease
-/tiːz/ 
+**/tiːz/**
 To tease is to pick on someone or to give false hope. You can tease your little sister by saying "nanny nanny boo boo" or by holding a cookie just out of her reach.
 ### Definition
 - v: mock or make fun of playfully
@@ -181,7 +181,7 @@ To tease is to pick on someone or to give false hope. You can tease your little 
 - Asked if she was harboring any underwear secrets, singer and actress Soko teased: “Like not wearing any?”
 
 # grandiose
-/grændioʊs/ 
+**/grændioʊs/**
 You've got big plans. Huge plans. Whatever it is, it's going to blow minds and absolutely rock worlds! Well, to some people those plans might sound a bit grandiose, or unnecessarily overblown and even highfalutin.
 ### Definition
 - adj: impressive because of unnecessary largeness or grandeur; used to show disapproval
@@ -195,7 +195,7 @@ You've got big plans. Huge plans. Whatever it is, it's going to blow minds and a
 - My tastes run more towards the dark and absurd than the epic and grandiose.
 
 # mantle
-/mæntəl/ 
+**/mæntəl/**
 A mantle is a word for something that blankets over something else, like the loose cloak worn by Little Red Riding Hood or the layer of earth between the crust and core.
 ### Definition
 - n: a sleeveless garment like a cloak but shorter

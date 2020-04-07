@@ -19,7 +19,7 @@ If your mom can magically conjure up the most delicious meals from the most rand
 - The year was haunted by a sense of doom conjured by the candidates themselves, who argued that choosing the other would summon the apocalypse.
 
 # wrist
-/rɪst/ 
+**/rɪst/**
 ### Definition
 - n: a joint between the distal end of the radius and the proximal row of carpal bones
 ### Family
@@ -30,7 +30,7 @@ If your mom can magically conjure up the most delicious meals from the most rand
 - Oladipo was 4 for 9 from the field and 5 for 5 at the free-throw line in his return from a right wrist injury.
 
 # negligence
-/neglɪdʒəns/ 
+**/neglɪdʒəns/**
 When you are careless or reckless and you don’t take care of a person, object or situation like you ought to, you are practicing negligence. "Her negligence of the house resulted in its being condemned by the city."
 ### Definition
 - n: failure to act with the prudence that a reasonable person would exercise under the same circumstances
@@ -44,7 +44,7 @@ When you are careless or reckless and you don’t take care of a person, object 
 - Some online called for them to be prosecuted for negligence.
 
 # mythology
-/mɪθɒlədʒi/ 
+**/mɪθɒlədʒi/**
 A mythology is a collection of myths or stories about a specific person, culture, religion, or any group with shared beliefs. Most people don’t consider mythology to be entirely true, but they still take it seriously.
 ### Definition
 - n: myths collectively; the body of stories associated with a culture or institution or person
@@ -64,7 +64,7 @@ A mythology is a collection of myths or stories about a specific person, culture
 - Trump offered a version of this claim many times, part of the mythology that he built a real estate empire by himself.
 
 # imperialism
-/ɪmpɪəriəlɪzəm/ 
+**/ɪmpɪəriəlɪzəm/**
 Imperialism is a type of government that seeks to increase its size, either by forcing (through war) or influencing (through politics) other countries to submit to their rule.
 ### Definition
 - n: a policy of extending your rule over foreign countries
@@ -81,7 +81,7 @@ Imperialism is a type of government that seeks to increase its size, either by f
 - In Dugin’s case, the “central complex” is a mess of imperialism, bigotry, reactionary religiosity and a loathing of social diversity.
 
 # geology
-/dʒiɒlədʒi/ 
+**/dʒiɒlədʒi/**
 Geology is the study of the Earth and what it's made of, including its natural history.
 ### Definition
 - n: a science that deals with the history of the earth as recorded in rocks
@@ -95,7 +95,7 @@ Geology is the study of the Earth and what it's made of, including its natural h
 - Zinke graduated from the University of Oregon, where he played football and earned a degree in geology.
 
 # redundancy
-/rɪdʌndənsi/ 
+**/rɪdʌndənsi/**
 Use the noun redundancy to refer to something that's needlessly repeated. As much as you hate the redundancy of math drills, you have to admit that repetition is how you learned to multiply in the first place.
 ### Definition
 - n: the attribute of being superfluous and unneeded
@@ -126,7 +126,7 @@ If you own something, especially something of value, then you have proprietary r
 - The company’s research is aided by proprietary software called Riff, which generates feeds based on niche viral keywords.
 
 # predicate
-/predɪkət/ 
+**/predɪkət/**
 The predicate is the part of a sentence that includes the verb and verb phrase. The predicate of "The boys went to the zoo" is "went to the zoo."
 ### Definition
 - v: involve as a necessary condition of consequence; as in logic

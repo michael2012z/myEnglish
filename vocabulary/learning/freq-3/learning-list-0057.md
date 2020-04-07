@@ -1,5 +1,5 @@
 # plethora
-/pleθərə/ 
+**/pleθərə/**
 Plethora means an abundance or excess of something. If you have 15 different people who want to take you on a date, you have a plethora of romantic possibilities.
 ### Definition
 - n: extreme excess
@@ -12,7 +12,7 @@ Plethora means an abundance or excess of something. If you have 15 different peo
 - But instead I was struck with a plethora of emotions, avalanching with such intensity that I was unable to negotiate them.
 
 # tangible
-/tændʒɪbəl/ 
+**/tændʒɪbəl/**
 When you can touch something, it's tangible: "I need tangible proof that aliens exist — I want to shake their little green hands!"
 ### Definition
 - adj: perceptible by the senses especially the sense of touch
@@ -32,7 +32,7 @@ When you can touch something, it's tangible: "I need tangible proof that aliens 
 
 
 # irresponsible
-/ɪrɪspɒnsɪbəl/ 
+**/ɪrɪspɒnsɪbəl/**
 If you're irresponsible, you're careless about the consequences of your actions. You can't really rely on irresponsible people.
 ### Definition
 - adj: showing lack of care for consequences
@@ -47,7 +47,7 @@ If you're irresponsible, you're careless about the consequences of your actions.
 - Putin on Friday accused the United States of engaging in “irresponsible ‘kitchen’ diplomacy” and said Russia would retain its “right to retaliate.”
 
 # transit
-/trænzɪt/ 
+**/trænzɪt/**
 Transit means “journey,” and saying you’re "in transit" means you’re on your way somewhere. Before we had cell phones, one of the upsides of being in transit was that no one could get in touch with you.
 ### Definition
 - n: a journey usually by ship
@@ -67,7 +67,7 @@ Transit means “journey,” and saying you’re "in transit" means you’re on 
 - Transit: Metro’s Gold Line opens downtown L.A. to Pasadena at 3 a.m.
 
 # unrest
-/ʌnrest/ 
+**/ʌnrest/**
 ### Definition
 - n: a state of agitation or turbulent change or development
 - n: a feeling of restless agitation
@@ -85,7 +85,7 @@ Transit means “journey,” and saying you’re "in transit" means you’re on 
 - Her shop was on the commercial boulevard in Barcelona, another coastal town racked by unrest last week.
 
 # convoy
-/kɒnvɔɪ/ 
+**/kɒnvɔɪ/**
 To travel in a convoy is to be escorted by a group of protective vehicles. If you are a teenage rock star with millions of fans, you probably need a security convoy just to go visit your grandmother.
 ### Definition
 - n: the act of escorting while in transit
@@ -100,7 +100,7 @@ To travel in a convoy is to be escorted by a group of protective vehicles. If yo
 - The Old Bailey heard the high-profile convoys led by the Muslim community became unwitting vehicles for the plan to fund terrorism.
 
 # informant
-/ɪnfɔːʳmənt/ 
+**/ɪnfɔːʳmənt/**
 ### Definition
 - n: a person who supplies information
 - n: someone who sees an event and reports what happened
@@ -120,7 +120,7 @@ To travel in a convoy is to be escorted by a group of protective vehicles. If yo
 - Federal court records show that Francis methodically cultivated a network of paid Navy informants over many years and planted them throughout the bureaucracy.
 
 # reliance
-/rɪlaɪəns/ 
+**/rɪlaɪəns/**
 The word reliance is the noun form of the verb rely, which means to depend. Your reliance on the Internet for your information will be your undoing, if the power ever goes out.
 ### Definition
 - n: the state of relying on something
@@ -138,7 +138,7 @@ The word reliance is the noun form of the verb rely, which means to depend. Your
 - He rejects even the customary reliance on an eventful plot.
 
 # piety
-/paɪɪti/ 
+**/paɪɪti/**
 Piety is devotion to God or to religious practices. Nuns who pray all day long are famous for their piety. If you have filial piety it means you're devoted to your parents.
 ### Definition
 - n: righteousness by virtue of being pious

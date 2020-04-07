@@ -1,5 +1,5 @@
 # cue
-/kjuː/ 
+**/kjuː/**
 A cue is the long stick used for playing pool. A cue is also a reminder or stimulus to do something.
 ### Definition
 - n: an actor's line that immediately precedes and serves as a reminder for some action or speech
@@ -16,7 +16,7 @@ A cue is the long stick used for playing pool. A cue is also a reminder or stimu
 - “Let the audience sing,” she urged, and she cued one of her dancers to grab her in a lift.
 
 # genocide
-/dʒenəsaɪd/ 
+**/dʒenəsaɪd/**
 Genocide refers to the systematic destruction of a race or cultural group. In the Rwandan genocide of 1994, members of one ethnic group, the Hutus, killed some 850,000 Tutsis in an attempt to wipe them out completely.
 ### Definition
 - n: systematic killing of a racial or cultural group
@@ -28,7 +28,7 @@ Genocide refers to the systematic destruction of a race or cultural group. In th
 - Tens of thousands of Namibians were killed in what historians call the 20th century’s first genocide.
 
 # mo
-/moʊ/ 
+**/moʊ/**
 ### Definition
 - n: an indefinitely short time
 - n: an indefinitely short time
@@ -50,7 +50,7 @@ Genocide refers to the systematic destruction of a race or cultural group. In th
 - “Warren wants powerful people to be sympathetic to his business plans and donating to them is his MO.”
 
 # sanitation
-/sænɪteɪʃən/ 
+**/sænɪteɪʃən/**
 Sanitation has to do with making things clean, especially by sterilizing.
 ### Definition
 - n: the state of being clean and conducive to health
@@ -63,7 +63,7 @@ Sanitation has to do with making things clean, especially by sterilizing.
 - The Sanitation Department says that what he does is legal.
 
 # spoil
-/spɔɪl/ 
+**/spɔɪl/**
 When you spoil something, you destroy it or ruin its quality. If you spoil a surprise, you tell the secret you were supposed to keep.
 ### Definition
 - v: make a mess of, destroy or ruin
@@ -91,7 +91,7 @@ When you spoil something, you destroy it or ruin its quality. If you spoil a sur
 - We are spoiled for choice in this multi-platform, multimedia culture.
 
 # haze
-/heɪz/ 
+**/heɪz/**
 Haze is the fog or mist that's caused by small particles in the air. There is often a haze hovering over the city of Los Angeles.
 ### Definition
 - n: atmospheric moisture or dust or smoke that causes reduced visibility
@@ -107,7 +107,7 @@ Haze is the fog or mist that's caused by small particles in the air. There is of
 - Additionally, all new pledges must complete an online hazing prevention course.
 
 # blaze
-/bleɪz/ 
+**/bleɪz/**
 A blaze is a bright, strong flame. A raging fire is blazing and you can also say other types of shining, like with talent, are types of blazing.
 ### Definition
 - n: a strong flame that burns brightly
@@ -129,7 +129,7 @@ A blaze is a bright, strong flame. A raging fire is blazing and you can also say
 - The blaze was extinguished swiftly by other people at the scene, but the man was seriously injured.
 
 # unparalleled
-/ʌnpærəleld/ 
+**/ʌnpærəleld/**
 If something's unparalleled, there's never been anything like it — such as a brilliant musical performance or a record-breaking time for an athlete.
 ### Definition
 - adj: radically distinctive and without equal
@@ -144,7 +144,7 @@ If something's unparalleled, there's never been anything like it — such as a b
 - “They are committed to growing women’s soccer and provide the women with first-class facilities and an unparalleled training environment on par with the men’s team.”
 
 # converge
-/kənvɜːʳdʒ/ 
+**/kənvɜːʳdʒ/**
 Use the verb converge to describe something that comes together at a common point: “Thousands of Elvis fans plan to converge on the small Arkansas town where unconfirmed sightings of the deceased superstar eating at a local barbeque restaurant had been widely reported.”
 ### Definition
 - v: be adjacent or come together
@@ -162,7 +162,7 @@ Use the verb converge to describe something that comes together at a common poin
 - In August next year, skywatchers from all over the world are expected to converge on the United States for this spectacular cosmic event.
 
 # perilous
-/perɪləs/ 
+**/perɪləs/**
 Something that is dangerous or very risky can be described with the adjective perilous. If you are driving in a blizzard, you may kick yourself for making such a perilous journey.
 ### Definition
 - adj: fraught with danger

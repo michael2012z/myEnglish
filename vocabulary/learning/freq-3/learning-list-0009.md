@@ -1,5 +1,5 @@
 # bloc
-/blɒk/ 
+**/blɒk/**
 ### Definition
 - n: a group of countries in special alliance
 ### Family
@@ -10,7 +10,7 @@
 - Both want to reduce immigration and strengthen border controls, though Fillon prefers to do so from within the EU bloc.
 
 # stall
-/stɔːl/ 
+**/stɔːl/**
 Stall means to stop or delay. If your car stalls, it comes to a stop. When you want a horse to stop, you put him in a stall, or small enclosure inside a barn.
 ### Definition
 - n: small area set off by walls for special use
@@ -38,7 +38,7 @@ Stall means to stop or delay. If your car stalls, it comes to a stop. When you w
 - A measure to allow government agencies in New Jersey to publish their own legal notices stalled in December.
 
 # molecule
-/mɒlɪkjuːl/ 
+**/mɒlɪkjuːl/**
 A molecule, or the simplest structural unit of a substance that still keeps the properties of that substance, is a scientific word that gets used by the nonscientific, as in "Every single molecule in my body wants that chocolate cake!"
 ### Definition
 - n: (physics and chemistry) the simplest structural unit of an element or compound
@@ -53,7 +53,7 @@ A molecule, or the simplest structural unit of a substance that still keeps the 
 - Here’s how Tim Hunt, who won a Nobel Prize in 2001 for his work on protein molecules, explained the problem with “girls” in his world.
 
 # outfit
-/aʊtfɪt/ 
+**/aʊtfɪt/**
 You can use the noun outfit to mean clothes that go together, like a shirt and pants that you always wear to job interviews. You might have spent hours choosing your first-day-of-school outfit.
 ### Definition
 - n: a set of clothing (with accessories)
@@ -95,7 +95,7 @@ The aftermath of a car crash might include a broken fender, a sprained rib, and 
 - And while an onslaught of publications ably assessed the aftermath of the presidential election, the most surprising was Teen Vogue.
 
 # dire
-/daɪəʳ/ 
+**/daɪəʳ/**
 Dire refers to situations or events that cause great fear and worry. A dire calamity causes much suffering.
 ### Definition
 - adj: fraught with extreme danger; nearly hopeless
@@ -109,7 +109,7 @@ Dire refers to situations or events that cause great fear and worry. A dire cala
 - That’s how players overcome inconsistency, by playing their best when the alternative seems dire.
 
 # wipe
-/waɪp/ 
+**/waɪp/**
 ### Definition
 - v: rub with a circular motion
 - n: the act of rubbing or wiping
@@ -122,7 +122,7 @@ Dire refers to situations or events that cause great fear and worry. A dire cala
 - “It is misery,” she said, wiping her eyes with a knuckle.
 
 # incentive
-/ɪnsentɪv/ 
+**/ɪnsentɪv/**
 If your mom wants you to mow the lawn but you don't feel like it, she might offer to treat you to ice cream after as an incentive. An incentive is something that stimulates you to take action or work harder.
 ### Definition
 - n: a positive motivational influence
@@ -136,7 +136,7 @@ If your mom wants you to mow the lawn but you don't feel like it, she might offe
 - U.S. operations, earlier this month said the boost in incentive spending by rival car companies concerns him.
 
 # oblige
-/əblaɪdʒ/ 
+**/əblaɪdʒ/**
 To oblige is to do something you have to, because you're bound by either good manners or the law.
 ### Definition
 - v: force somebody to do something

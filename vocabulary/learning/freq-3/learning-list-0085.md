@@ -1,5 +1,5 @@
 # sauce
-/sɔːs/ 
+**/sɔːs/**
 ### Definition
 - n: flavorful relish or dressing or topping served as an accompaniment to food
 - v: dress (food) with a relish
@@ -15,7 +15,7 @@
 - In another bowl mix the soy sauce with the rice wine and the sesame oil.
 
 # sponge
-/spʌndʒ/ 
+**/spʌndʒ/**
 ### Definition
 - n: primitive multicellular marine animal whose porous body is supported by a fibrous skeletal framework; usually occurs in sessile colonies
 - n: a porous mass of interlacing fibers that forms the internal skeleton of various marine animals and usable to absorb water or any porous rubber or cellulose product similarly used
@@ -36,7 +36,7 @@
 - “And then you don’t even stop and think. The image is there and your camera is like a sponge to absorb the moment.”
 
 # tidal
-/taɪdəl/ 
+**/taɪdəl/**
 ### Definition
 - adj: of or relating to or caused by tides
 ### Family
@@ -50,7 +50,7 @@
 - Expense is one factor that currently limits the worldwide number of tidal power plants.
 
 # swamp
-/swɒmp/ 
+**/swɒmp/**
 A swamp is an area that floods every year because the land is low. Watch out for alligators if you visit Atchafalaya National Wildlife Refuge in Louisiana, the largest swamp in the United States.
 ### Definition
 - n: low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog
@@ -65,7 +65,7 @@ A swamp is an area that floods every year because the land is low. Watch out for
 - How easily we fall into the trap of seeing female writers as either iconoclastically breaking free from gender roles, or damagingly swamped by them.
 
 # remuneration
-/rɪmjuːnəreɪʃən/ 
+**/rɪmjuːnəreɪʃən/**
 When you politely refuse your neighbor’s offer of remuneration for your efforts with the lawn, you may have made a mistake. Remuneration refers to payment for a service, so the neighbor was basically offering you cash.
 ### Definition
 - n: the act of paying for goods or services or to recompense for losses
@@ -80,7 +80,7 @@ When you politely refuse your neighbor’s offer of remuneration for your effort
 - Surprisingly, more Africans receive remuneration this way - 11% - than those in the promised land of Europe.
 
 # juxtaposition
-/dʒʌkstəpəzɪʃən/ 
+**/dʒʌkstəpəzɪʃən/**
 If a waiter served you a whole fish and a scoop of chocolate ice cream on the same plate, your surprise might be caused by the juxtaposition, or the side-by-side contrast, of the two foods.
 ### Definition
 - n: the act of positioning close together (or side by side)
@@ -94,7 +94,7 @@ If a waiter served you a whole fish and a scoop of chocolate ice cream on the sa
 - In this image, the juxtaposition with the youngster on his bright red bike creates a bizarre yet compelling tableau.
 
 # retention
-/rɪtenʃən/ 
+**/rɪtenʃən/**
 You can use retention to mean the ability to keep or hold. If you have extraordinary powers of retention, you remember everything you hear or learn.
 ### Definition
 - n: the act of retaining something
@@ -111,7 +111,7 @@ You can use retention to mean the ability to keep or hold. If you have extraordi
 - “The focus is retention. The system talks a lot about housing people, which is what we’re doing,” Turner said.
 
 # redefine
-/riːdɪfaɪn/ 
+**/riːdɪfaɪn/**
 Redefine means to "give new meaning to." A really fantastic song might redefine what rock and roll can mean to people. A great muffin might redefine the idea of what a muffin can be.
 ### Definition
 - v: give a new or different definition to
@@ -132,7 +132,7 @@ Redefine means to "give new meaning to." A really fantastic song might redefine 
 - But they transcended those forces to commune with space, and thereby redefined themselves and those around them.
 
 # catering
-/keɪtərɪŋ/ 
+**/keɪtərɪŋ/**
 ### Definition
 - n: providing food and services
 ### Family
@@ -145,7 +145,7 @@ Redefine means to "give new meaning to." A really fantastic song might redefine 
 - Ibrahim Anyars, 32, a tall, slender native of Ghana, was sitting one recent afternoon at an outdoor table in a restaurant catering to the travelers.
 
 # obese
-/oʊbiːs/ 
+**/oʊbiːs/**
 Obese means excessively fat. In medical terms, it means you have a body mass index (BMI) of 30 or more, at which point your body's excess fat begins to threaten your health.
 ### Definition
 - adj: excessively fat

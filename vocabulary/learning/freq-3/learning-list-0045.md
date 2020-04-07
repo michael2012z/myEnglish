@@ -1,5 +1,5 @@
 # taxation
-/tækseɪʃən/ 
+**/tækseɪʃən/**
 Taxation refers to the practice of a government collecting money from its citizens to pay for public services. Without taxation, there would be no public libraries or parks.
 ### Definition
 - n: the imposition of taxes; the practice of the government in levying taxes on the subjects of a state
@@ -19,7 +19,7 @@ Taxation refers to the practice of a government collecting money from its citize
 - Et voila: finally a system of corporate taxation that raises revenue efficiently, discourages debt and promotes capital investment right here in the USA.
 
 # terrain
-/təreɪn/ 
+**/təreɪn/**
 An ATV, or all-terrain vehicle, is useful for people who drive on lots of different terrain, hence the name. Terrain is a noun used to talk about the ground, when you're specifically interested in how it appears or is shaped.
 ### Definition
 - n: a piece of ground having specific characteristics or military potential
@@ -31,7 +31,7 @@ An ATV, or all-terrain vehicle, is useful for people who drive on lots of differ
 - To the north and west are fields of corn and soybeans, a classic, flat Midwestern terrain.
 
 # distrust
-/dɪstrʌst/ 
+**/dɪstrʌst/**
 Distrust is a feeling of doubt about some person or thing. We distrust people who aren't honest.
 ### Definition
 - n: doubt about someone's honesty
@@ -59,7 +59,7 @@ Distrust is a feeling of doubt about some person or thing. We distrust people wh
 - “We’ve effectively brainwashed the core of our audience to distrust anything that they disagree with,” one conservative radio host said.
 
 # alleviate
-/əliːvieɪt/ 
+**/əliːvieɪt/**
 Do all these words make your head ache? If so, take an aspirin to alleviate, or relieve, your pain.
 ### Definition
 - v: provide physical relief, as from pain
@@ -89,7 +89,7 @@ Hysteria is a medical condition or general state of extreme fear and panic. When
 - Ms. Chebli’s defenders say her views were badly misrepresented in the midst of the rising populist hysteria over Muslims.
 
 # refrain
-/rɪfreɪn/ 
+**/rɪfreɪn/**
 When someone burps in a quiet classroom it can be hard to refrain from laughing. Use the verb refrain if you have a sudden impulse to do something, and you have stopped yourself from doing it.
 ### Definition
 - v: resist doing something
@@ -103,7 +103,7 @@ When someone burps in a quiet classroom it can be hard to refrain from laughing.
 - In another, she holds a placard printed with Sojourner Truth’s famous refrain, “Ar’n’t I a Woman,” on a narrow stretch of Canal Street.
 
 # absurd
-/æbsɜːʳd/ 
+**/æbsɜːʳd/**
 Something absurd is really silly, absolutely ridiculous, or total nonsense. Thinking you can wear flip flops and a bikini to the North Pole is an absurd idea, for example.
 ### Definition
 - adj: inconsistent with reason or logic or common sense
@@ -118,7 +118,7 @@ Something absurd is really silly, absolutely ridiculous, or total nonsense. Thin
 - Sure, the previous sentence looks absurd when read in isolation, because that’s quite a list of occurrences.
 
 # orthodox
-/ɔːʳθədɒks/ 
+**/ɔːʳθədɒks/**
 Orthodox practices or beliefs are generally accepted as true or correct. If you are an orthodox vegetarian, you never, ever eat meat––not like those people who have chicken once in awhile, or even––gasp!––bacon.
 ### Definition
 - adj: adhering to what is commonly accepted
@@ -136,7 +136,7 @@ Orthodox practices or beliefs are generally accepted as true or correct. If you 
 - He called it “a win” for Muslims, Sikhs, Orthodox Jews and others who wear beards in expression of their faiths.
 
 # chromosome
-/kroʊməsoʊm/ 
+**/kroʊməsoʊm/**
 A chromosome is a strand of DNA that is encoded with genes. In most cells, humans have 22 pairs of these chromosomes plus the two sex chromosomes (XX in females and XY in males) for a total of 46.
 ### Definition
 - n: a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order
@@ -149,7 +149,7 @@ A chromosome is a strand of DNA that is encoded with genes. In most cells, human
 - Literary biographies remind us that even the gods are human — primates, like the rest of us, just a few chromosomes away from the sapajous.
 
 # longevity
-/lɒndʒevɪti/ 
+**/lɒndʒevɪti/**
 Something with longevity has the ability to last for a long time. While tortoises are not known for their quickness, their longevity is amazing. Just ask the Hare.
 ### Definition
 - n: the property of being long-lived

@@ -1,5 +1,5 @@
 # ensemble
-/ɒnsɒmbəl/ 
+**/ɒnsɒmbəl/**
 An ensemble is a group of musicians, dancers, or actors who perform together, like an ensemble which has been playing music together for several years.
 ### Definition
 - n: an assemblage of parts or details (as in a work of art) considered as forming a whole
@@ -15,7 +15,7 @@ An ensemble is a group of musicians, dancers, or actors who perform together, li
 - The Alexandrov Ensemble, the army choir, is more noble and highbrow.
 
 # harness
-/hɑːʳnɪs/ 
+**/hɑːʳnɪs/**
 A harness is a set of straps that are put on a horse so it can be hitched to a wagon or a carriage. The harness distributes the effort across larger sections of the horse's body.
 ### Definition
 - n: stable gear consisting of an arrangement of leather straps fitted to a draft animal so that it can be attached to and pull a cart
@@ -33,7 +33,7 @@ A harness is a set of straps that are put on a horse so it can be hitched to a w
 - Alongside public appearances, Sanders also set up the “Our Revolution” organization, which aims to harness the energy that the Vermont senator’s presidential bid created.
 
 # prognosis
-/prɒgnoʊsɪs/ 
+**/prɒgnoʊsɪs/**
 If you come down with an illness, you might ask your doctor what your prognosis is. A prognosis is a prediction about the course of a disease.
 ### Definition
 - n: a prediction of the course of a disease
@@ -51,7 +51,7 @@ If you come down with an illness, you might ask your doctor what your prognosis 
 - But perhaps the finality of the prognosis was in some sense also a blessing.
 
 # unpaid
-/ʌnpeɪd/ 
+**/ʌnpeɪd/**
 ### Definition
 - adj: not paid
 - adj: without payment
@@ -64,7 +64,7 @@ If you come down with an illness, you might ask your doctor what your prognosis 
 - She was working more than 100 hours of overtime a month, according to an inquiry, much of it unreported and unpaid.
 
 # antiquity
-/æntɪkwɪti/ 
+**/æntɪkwɪti/**
 If you find an antiquity, call a museum: you just found something very old. Antiquity can also mean the idea of oldness.
 ### Definition
 - n: the historic period preceding the Middle Ages in Europe
@@ -80,7 +80,7 @@ If you find an antiquity, call a museum: you just found something very old. Anti
 - He used powers Congress duly designated to the White House under the Antiquities Act.
 
 # arable
-/ærəbəl/ 
+**/ærəbəl/**
 If you describe land as arable, it means that something can grow there. If you're looking to raise crops, you better find yourself a patch of arable land.
 ### Definition
 - adj: (of farmland) capable of being farmed productively
@@ -92,7 +92,7 @@ If you describe land as arable, it means that something can grow there. If you'r
 - With the largest arable area in eastern Aleppo, it's the potential breadbasket for surviving siege.
 
 # congenial
-/kəndʒiːniəl/ 
+**/kəndʒiːniəl/**
 A congenial person is easy to get along with. If you're trying to decide which of your friends to take on a road trip, choose the most congenial one.
 ### Definition
 - adj: suitable to your needs
@@ -108,7 +108,7 @@ A congenial person is easy to get along with. If you're trying to decide which o
 - He admits that when he first envisioned a film career, he didn’t see the internet as a congenial home for his work.
 
 # pinpoint
-/pɪnpɔɪnt/ 
+**/pɪnpɔɪnt/**
 To pinpoint something is to nail down its exact location.
 ### Definition
 - n: the sharp point of a pin
@@ -123,7 +123,7 @@ To pinpoint something is to nail down its exact location.
 - Rodgers buys precious seconds and delivers a pinpoint pass.
 
 # embark
-/ɪmbɑːʳk/ 
+**/ɪmbɑːʳk/**
 When you embark on something, you are starting it — and it's exciting. You might embark on a new career or embark on a trip to the Galapagos Islands. You wouldn't embark on a trip to the grocery store.
 ### Definition
 - v: go on board
@@ -141,7 +141,7 @@ When you embark on something, you are starting it — and it's exciting. You mig
 - Then the rink embarked on its four-tier plan to eventually reach net zero.
 
 # splendour
-/splendəʳ/ 
+**/splendəʳ/**
 ### Definition
 - n: the quality of being magnificent or splendid or grand
 - n: a quality that outshines the usual

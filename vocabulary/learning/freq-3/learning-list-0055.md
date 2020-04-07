@@ -1,5 +1,5 @@
 # temper
-/tempəʳ/ 
+**/tempəʳ/**
 Temper can refer to a tendency to become unreasonably angry. If you’re not sure whether you have a temper, ask your friends — but don’t get mad if you dislike what they have to say.
 ### Definition
 - n: a characteristic (habitual or relatively temporary) state of feeling
@@ -24,7 +24,7 @@ Temper can refer to a tendency to become unreasonably angry. If you’re not sur
 - At times you lose your temper, and shock your children by shouting or screaming at them.
 
 # unwelcome
-/ʌnwelkəm/ 
+**/ʌnwelkəm/**
 Things that are unwelcome are unpleasant or objectionable in some way. An unwelcome guest is one you didn't invite and you're not particularly happy to see.
 ### Definition
 - adj: not welcome; not giving pleasure or received with pleasure
@@ -39,7 +39,7 @@ Things that are unwelcome are unpleasant or objectionable in some way. An unwelc
 - Baroness Ruth Deech, the former adjudicator for universities, told the Telegraph that Jewish students felt "unwelcome" on some campuses.
 
 # lip
-/lɪp/ 
+**/lɪp/**
 Your lips are the external, fleshy part of your mouth. You have a top lip and a bottom lip. Lips are what make kissing possible.
 ### Definition
 - n: either of two fleshy folds of tissue that surround the mouth and play a role in speaking
@@ -57,7 +57,7 @@ Your lips are the external, fleshy part of your mouth. You have a top lip and a 
 - I use it on my cuticles, not my lips.
 
 # supplement
-/sʌplɪmənt/ 
+**/sʌplɪmənt/**
 A supplement is something added to something else. Nutritional supplements add vitamins and minerals to the ones already included in the food you eat.
 ### Definition
 - n: a supplementary component that improves capability
@@ -75,7 +75,7 @@ A supplement is something added to something else. Nutritional supplements add v
 - She’s not ashamed of her father’s work, and it helped supplement his firefighter’s income.
 
 # sinking
-/sɪŋkɪŋ/ 
+**/sɪŋkɪŋ/**
 ### Definition
 - n: a slow fall or decline (as for lack of strength)
 - n: a descent as through liquid (especially through water)
@@ -92,7 +92,7 @@ A supplement is something added to something else. Nutritional supplements add v
 - Mysteries at the Museum This special episode focuses on the sinking of the Titanic.
 
 # optimistic
-/ɒptɪmɪstɪk/ 
+**/ɒptɪmɪstɪk/**
 An optimistic person thinks the best possible thing will happen, and hopes for it even if it's not likely. Someone who's a tad too confident this way is also sometimes called optimistic.
 ### Definition
 - adj: expecting the best in this best of all possible worlds
@@ -131,7 +131,7 @@ A stronghold is a building or other structure that is safe from attack. A fortre
 - The strikes appeared to be the first Russian support for a Turkish-backed rebel offensive aimed at recapturing the last IS stronghold in Aleppo province.
 
 # anticipation
-/æntɪsɪpeɪʃən/ 
+**/æntɪsɪpeɪʃən/**
 Anticipation is excitement, waiting eagerly for something you know is going to happen. Someone who has just proposed marriage waits in anticipation for a positive reply.
 ### Definition
 - n: the act of predicting (as by reasoning about the future)
@@ -151,7 +151,7 @@ Anticipation is excitement, waiting eagerly for something you know is going to h
 - In anticipation of booming global gas demand in recent years, Royal Dutch Shell PLC, Chevron Corp.,
 
 # timetable
-/taɪmteɪbəl/ 
+**/taɪmteɪbəl/**
 ### Definition
 - n: a schedule of times of arrivals and departures
 - n: a schedule listing events and the times at which they will take place

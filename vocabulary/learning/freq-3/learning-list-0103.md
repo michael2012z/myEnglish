@@ -1,5 +1,5 @@
 # orderly
-/ɔːʳdəʳli/ 
+**/ɔːʳdəʳli/**
 Orderly means neat, tidy, and well-organized. An orderly library makes it easy to find the books you want.
 ### Definition
 - adj: clean or organized
@@ -23,7 +23,7 @@ Orderly means neat, tidy, and well-organized. An orderly library makes it easy t
 - Most of the “extra-continentals” turn themselves in voluntarily to Mexican authorities, forming orderly queues each morning outside the federal immigration detention center in Tapachula.
 
 # muscular
-/mʌskjʊləʳ/ 
+**/mʌskjʊləʳ/**
 If you're strong and athletic, with powerfully developed muscles, you can describe yourself as muscular.
 ### Definition
 - adj: having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer
@@ -40,7 +40,7 @@ If you're strong and athletic, with powerfully developed muscles, you can descri
 - These works drew comparisons to muscular abstract paintings by Franz Kline, Jack Tworkov and others.
 
 # bony
-/boʊni/ 
+**/boʊni/**
 Someone who's bony is very thin. Your cat may have been plump when he was young, and become bony as he got older.
 ### Definition
 - adj: composed of or containing bone
@@ -58,7 +58,7 @@ Someone who's bony is very thin. Your cat may have been plump when he was young,
 - In contrast, Trump’s vote “was incredibly efficient,” said Tom Bonier of Target­Smart, a Democratic data and strategy firm based in Washington.
 
 # passionate
-/pæʃənət/ 
+**/pæʃənət/**
 Something that is passionate packs emotion, and possibly romantic emotion. A passionate plea will tug on your heartstrings and a passionate kiss will sweep you off your feet. If you want to stay unmoved, stay away from the passionate.
 ### Definition
 - adj: having or expressing strong emotions
@@ -71,7 +71,7 @@ Something that is passionate packs emotion, and possibly romantic emotion. A pas
 - He balanced his conflict photography with commercial ventures, which served the purpose of financing the work he was truly passionate about.
 
 # aspiration
-/æspɪreɪʃən/ 
+**/æspɪreɪʃən/**
 If your aspiration, or ambition, is to climb Mt. Everest someday, you better start training, because it’s a long, hard climb that requires a lot of preparation.
 ### Definition
 - n: a cherished desire
@@ -90,7 +90,7 @@ If your aspiration, or ambition, is to climb Mt. Everest someday, you better sta
 - Naypyidaw, the grand but empty capital Myanmar’s generals built for themselves, means “abode of kings”, a hint at their aspirations.
 
 # mismatch
-/mɪsmætʃ/ 
+**/mɪsmætʃ/**
 When two things (or people) don't work well together or correspond with each other, it's a mismatch. If there's a mismatch between the amount of free time you have and the hours of exercise your puppy needs, you might want to hire a dog walker.
 ### Definition
 - n: a bad or unsuitable match
@@ -109,7 +109,7 @@ When two things (or people) don't work well together or correspond with each oth
 - South Carolina: The Gamecocks were in need of a win, no matter how big of a mismatch it was.
 
 # cursory
-/kɜːʳsəri/ 
+**/kɜːʳsəri/**
 No reason to get excited — cursory has nothing to do with bad language. Instead, it means not paying attention to details, like friends who are so busy studying for a test that they only give your new haircut a cursory glance.
 ### Definition
 - adj: hasty and without attention to detail; not thorough
@@ -121,7 +121,7 @@ No reason to get excited — cursory has nothing to do with bad language. Instea
 - Once I did a cursory scan of some of my favorite genre shows from 2016, this theme was everywhere.
 
 # vie
-/vaɪ/ 
+**/vaɪ/**
 To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver.
 ### Definition
 - v: compete for something; engage in a contest; measure oneself against others
@@ -134,7 +134,7 @@ To vie for something means to compete for it. Two teams may vie for the gold med
 - In this way, China is not unlike other countries, including the United States, where states and cities vie for companies.
 
 # apathy
-/æpəθi/ 
+**/æpəθi/**
 Use the noun apathy when someone isn't interested in the important things that are happening. You might feel apathy for the political process after watching candidates bicker tediously with one another.
 ### Definition
 - n: an absence of emotion or enthusiasm
@@ -148,7 +148,7 @@ Use the noun apathy when someone isn't interested in the important things that a
 - Since a union was first mooted a few years ago, the idea has been met with apathy from the public and the fighters at large.
 
 # reign
-/reɪn/ 
+**/reɪn/**
 Rain falls from above, and people who reign rule from a position above others. They reign over countries and governments, and even over businesses and arts, as in "She used to reign over punk music, always topping the charts."
 ### Definition
 - n: royal authority; the dominion of a monarch

@@ -12,7 +12,7 @@ Think of a repository as a storehouse, a place where things are kept until neede
 - It is the awareness that their bodies are repositories for other people’s narratives and stereotypes that burdens all the women I spoke to.
 
 # monarch
-/mɒnəʳk/ 
+**/mɒnəʳk/**
 If you think the Queen of England is just the coolest thing ever, then you like monarchs: hereditary rulers of countries usually known as King or Queen.
 ### Definition
 - n: a nation's ruler or head of state usually by hereditary right
@@ -46,7 +46,7 @@ A nucleus is often called the brain, or control center, of a eukaryotic cell (th
 - As the picture shows, ZNF554 is restricted to the cell’s nucleus.
 
 # tract
-/trækt/ 
+**/trækt/**
 A tract is a large, open piece of land — like that tract of farmland you bought when you decided your dream in life was to raise llamas. Tract is also a word for a short pamphlet or booklet, like that tract you recently read entitled "The Care and Feeding of Llamas."
 ### Definition
 - n: an extended area of land
@@ -61,7 +61,7 @@ A tract is a large, open piece of land — like that tract of farmland you bough
 - The agency got 33 bids from only three companies in an August sale of tracts off the Texas coast.
 
 # exterior
-/ɪkstɪəriəʳ/ 
+**/ɪkstɪəriəʳ/**
 Something that's exterior is on the outside of some structure or object. An exterior door on a house opens to the outdoors, rather than connecting one room to another.
 ### Definition
 - adj: situated in or suitable for the outdoors or outside of a building
@@ -77,7 +77,7 @@ Something that's exterior is on the outside of some structure or object. An exte
 - Exterior materials include stainless steel, stucco and concrete.
 
 # fusion
-/fjuːʒən/ 
+**/fjuːʒən/**
 Fusion is the process of combining two or more things together into one. If your favorite genres are Westerns and reality dating shows, maybe when you become a TV executive, you'll create a fusion of the two, where competing dates have shoot-outs in saloons.
 ### Definition
 - n: the act of fusing (or melting) together
@@ -96,7 +96,7 @@ Fusion is the process of combining two or more things together into one. If your
 - Macdonald, who scientifically designed National Golf Links as a fusion of his favorite features from grand old British golf holes.
 
 # inhibit
-/ɪnhɪbɪt/ 
+**/ɪnhɪbɪt/**
 When you inhibit something, you block it or hold it back. If you put plants in a dark room, you inhibit their growth. A teacher who mocks their students for giving wrong answers inhibits their willingness to speak up in class.
 ### Definition
 - v: limit the range or extent of
@@ -133,7 +133,7 @@ In medical terms, something that is inflammatory causes a local reaction that sh
 - They are part of the body’s inflammatory response that protects people from infection.
 
 # mediate
-/miːdieɪt/ 
+**/miːdieɪt/**
 If your two best friends aren't speaking to each other, you might find yourself trying to mediate a peace accord between them. To mediate is to go from one to another and try to make peace.
 ### Definition
 - v: act between parties with a view to reconciling differences
@@ -155,7 +155,7 @@ If your two best friends aren't speaking to each other, you might find yourself 
 - Russia’s efforts to mediate the civil war in that country are at the top of the nightly news here. 
 
 # receptor
-/rɪseptəʳ/ 
+**/rɪseptəʳ/**
 ### Definition
 - n: a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response
 - n: an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation

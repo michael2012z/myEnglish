@@ -1,5 +1,5 @@
 # virtuous
-/vɜːʳtʃuəs/ 
+**/vɜːʳtʃuəs/**
 Virtuous is “good” with a halo. If you call someone virtuous, you are saying that person is living according to high moral standards. Someone virtuous is who you want leading your Girl Scout troop.
 ### Definition
 - adj: morally excellent
@@ -14,7 +14,7 @@ Virtuous is “good” with a halo. If you call someone virtuous, you are saying
 - The magical thinking went like this: One could lead a virtuous life, modeling Christ’s humility, but however morally upright, it would never be enough.
 
 # naval
-/neɪvəl/ 
+**/neɪvəl/**
 Naval means "about a navy or navies." If you are interested in naval history, you probably enjoy seeing ships used in sea battles.
 ### Definition
 - adj: connected with or belonging to or used in a navy
@@ -27,7 +27,7 @@ Naval means "about a navy or navies." If you are interested in naval history, yo
 - Tartus is home to a Russian naval base.
 
 # distortion
-/dɪstɔːʳʃən/ 
+**/dɪstɔːʳʃən/**
 A distortion is a change, twist, or exaggeration that makes something appear different from the way it really is. You can distort an image, a thought, or even an idea. To say that I never take out the garbage is a distortion of the facts.
 ### Definition
 - n: a shape resulting from distortion
@@ -46,7 +46,7 @@ A distortion is a change, twist, or exaggeration that makes something appear dif
 - When we’re being criticized by someone who wants an apology, we automatically listen for the inaccuracies, distortions and exaggerations that will inevitably be there.
 
 # withstand
-/wɪðstænd/ 
+**/wɪðstænd/**
 In the story of the three little pigs, only the house made of brick was able to withstand the huffing and puffing of the Big Bad Wolf. To withstand is to hold up against something strong.
 ### Definition
 - v: resist or confront with resistance
@@ -60,7 +60,7 @@ In the story of the three little pigs, only the house made of brick was able to 
 - And research is still underway on critical questions of how these buildings withstand fire and earthquakes in high-seismic regions.
 
 # complication
-/kɒmplɪkeɪʃən/ 
+**/kɒmplɪkeɪʃən/**
 ### Definition
 - n: the act or process of complicating
 - n: a situation or condition that is complex or confused
@@ -79,7 +79,7 @@ In the story of the three little pigs, only the house made of brick was able to 
 - The likely outcome of such complications is that the effective date for Obamacare repeal and replacement will be deferred for several years.
 
 # faction
-/fækʃən/ 
+**/fækʃən/**
 Fractions are smaller parts of whole numbers: one-quarter, one-tenth, one-half, and a faction is a smaller portion of a larger group that breaks away from it. A faction might take a fraction of the people from a large group and start a new group.
 ### Definition
 - n: a dissenting clique
@@ -93,7 +93,7 @@ Fractions are smaller parts of whole numbers: one-quarter, one-tenth, one-half, 
 - The Syrian army said the truce does not include al-Qaida’s branch in Syria and the Islamic State group, two of the most powerful armed factions.
 
 # linger
-/lɪŋgəʳ/ 
+**/lɪŋgəʳ/**
 When someone lingers, he or she takes an unexpectedly long time to depart, as Romeo lingers when bidding Juliet farewell (or as annoying houseguests almost always tend to do).
 ### Definition
 - v: remain present although waning or gradually dying
@@ -111,7 +111,7 @@ When someone lingers, he or she takes an unexpectedly long time to depart, as Ro
 - The stench will linger due to the stakes.
 
 # valuation
-/væljueɪʃən/ 
+**/væljueɪʃən/**
 ### Definition
 - n: an appraisal of the value of something
 - n: assessed price
@@ -139,7 +139,7 @@ When someone lingers, he or she takes an unexpectedly long time to depart, as Ro
 - This is one of many reasons it is ill-advised to use valuation as a timing mechanism.
 
 # heal
-/hiːl/ 
+**/hiːl/**
 To heal is to recover or become healthy again. You'll need to wait until your blisters heal before you put your hiking boots back on and climb Mt. Everest.
 ### Definition
 - v: heal or recover
@@ -156,7 +156,7 @@ To heal is to recover or become healthy again. You'll need to wait until your bl
 - This was an overwhelming process that consumed her life, Grogan said, but she was determined to heal quickly.
 
 # din
-/dɪn/ 
+**/dɪn/**
 Walk into the average school cafeteria at lunchtime, and you'll get a good sense of what a din is — loud, confused, continuous, generally unpleasant, and often potentially headache-inducing noise.
 ### Definition
 - n: a loud harsh or strident noise

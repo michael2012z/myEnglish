@@ -1,5 +1,5 @@
 # casual
-/kæʒuəl/ 
+**/kæʒuəl/**
 "Oh, no, are you kidding me? He's not my boyfriend, we're just in a casual relationship," means that our relationship lacks serious intent or commitment.
 ### Definition
 - adj: without or seeming to be without plan or method; offhand
@@ -19,7 +19,7 @@
 - Alliance is more cool city kid: The space, in a former warehouse, is casual, clamorous and crowded.
 
 # intermediary
-/ɪntəʳmiːdiəri/ 
+**/ɪntəʳmiːdiəri/**
 An intermediary is someone who acts as a go-between or a mediator between two other people. Be careful when you're the intermediary between two friends who are fighting, because they might both end up mad at you!
 ### Definition
 - n: a negotiator who acts as a link between parties
@@ -31,7 +31,7 @@ An intermediary is someone who acts as a go-between or a mediator between two ot
 - One of them, a rabbi, declined to comment through an intermediary.
 
 # filthy
-/fɪlθi/ 
+**/fɪlθi/**
 Filthy is a dirty word. Sure, you can say it aloud in public, but it means "dirty" — like your dirty laundry pile by the end of the week.
 ### Definition
 - adj: disgustingly dirty; filled or smeared with offensive matter
@@ -47,7 +47,7 @@ Filthy is a dirty word. Sure, you can say it aloud in public, but it means "dirt
 - Former inmate Prince - not his real name - described 1735 as "filthy".
 
 # outrage
-/aʊtreɪdʒ/ 
+**/aʊtreɪdʒ/**
 If you consider how people are treated in airports an outrage, you get really angry over airport security or the price of airport food. Six dollars for a piece of pizza? What an outrage!
 ### Definition
 - n: a disgraceful event
@@ -66,7 +66,7 @@ If you consider how people are treated in airports an outrage, you get really an
 - Instead, it has fueled outrage and brought the country’s culture of official impunity into glaring focus.
 
 # cosy
-/koʊzi/ 
+**/koʊzi/**
 ### Definition
 - adj: enjoying or affording comforting warmth and shelter especially in a small space
 - n: a padded cloth covering to keep a teapot warm
@@ -78,7 +78,7 @@ If you consider how people are treated in airports an outrage, you get really an
 - It was a white Christmas, we were cosy and it was bright.
 
 # dearth
-/dɜːʳθ/ 
+**/dɜːʳθ/**
 If there is a dearth of something, there is not enough of it. A dearth of cupcakes is unfortunate, but a dearth of nutritious food is a serious problem.
 ### Definition
 - n: an insufficient quantity or number
@@ -91,7 +91,7 @@ If there is a dearth of something, there is not enough of it. A dearth of cupcak
 - The dearth of homes for sale is frustrating buyers.
 
 # succumb
-/səkʌm/ 
+**/səkʌm/**
 Use the verb succumb to say that someone yields to something they've tried to fight off, such as despair, temptation, disease or injury.
 ### Definition
 - v: consent reluctantly
@@ -104,7 +104,7 @@ Use the verb succumb to say that someone yields to something they've tried to fi
 - His father is Sting, hence the Newcastle allegiance and a refusal “to succumb to Spurs or Arsenal” while growing up in north London.
 
 # sting
-/stɪŋ/ 
+**/stɪŋ/**
 Sting most commonly refers to the wound inflicted by a bee or hornet, or to a kind of burning pain, like the brief sting when your doctor gives you a vaccine. A nasty remark can also sting.
 ### Definition
 - v: deliver a sting to
@@ -126,7 +126,7 @@ Sting most commonly refers to the wound inflicted by a bee or hornet, or to a ki
 - You'd expect the British embassy to choose something more boring, like Sting...
 
 # rev
-/rev/ 
+**/rev/**
 Rev your engine at a stoplight if you want to race the car next to you. On second thought, don’t — to rev is to crank the engine without going anywhere. Also, a rev is one complete rotation of a motor.
 ### Definition
 - n: rate of revolution of a motor

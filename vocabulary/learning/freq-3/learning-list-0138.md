@@ -1,5 +1,5 @@
 # undesirable
-/ʌndɪzaɪərəbəl/ 
+**/ʌndɪzaɪərəbəl/**
 ### Definition
 - adj: not wanted
 - adj: not worthy of being chosen (especially as a spouse)
@@ -19,7 +19,7 @@
 - “Governor Roosevelt considers it undesirable for him to assent to my suggestions for cooperative action,” he said.
 
 # cholera
-/kɒlərə/ 
+**/kɒlərə/**
 ### Definition
 - n: an acute intestinal infection caused by ingestion of contaminated water or food
 ### Family
@@ -30,7 +30,7 @@
 - “We simply didn’t do enough with regard to the cholera outbreak and its spread in Haiti,” Mr. Ban said.
 
 # fuss
-/fʌs/ 
+**/fʌs/**
 If you are making a fuss, settle down! A fuss is a state of excitement, and it's usually about something not worth worrying or "fussing" about.
 ### Definition
 - n: an excited state of agitation
@@ -49,7 +49,7 @@ If you are making a fuss, settle down! A fuss is a state of excitement, and it's
 - Meanwhile, let’s put the fuss in some context.
 
 # worldly
-/wɜːʳldli/ 
+**/wɜːʳldli/**
 You can use the adjective worldly to describe people who have knowledge of many topics or experience in many areas. You don't have to travel the globe to be worldly; reading and talking about many things with knowledge and enthusiasm is worldly too.
 ### Definition
 - adj: characteristic of or devoted to the temporal world as opposed to the spiritual world
@@ -65,7 +65,7 @@ You can use the adjective worldly to describe people who have knowledge of many 
 - By the standards of basketball coaches, they were worldly men with interests far beyond the court.
 
 # starvation
-/stɑːʳveɪʃən/ 
+**/stɑːʳveɪʃən/**
 ### Definition
 - n: the act of depriving of food or subjecting to famine
 - n: a state of extreme hunger resulting from lack of essential nutrients over a prolonged period
@@ -80,7 +80,7 @@ You can use the adjective worldly to describe people who have knowledge of many 
 - The United Nations said earlier this year there were credible reports of people dying of starvation there.
 
 # layout
-/leɪaʊt/ 
+**/leɪaʊt/**
 ### Definition
 - n: a plan or design of something that is laid out
 - n: the act of laying out (as by making plans for something)
@@ -92,7 +92,7 @@ You can use the adjective worldly to describe people who have knowledge of many 
 - They played with typography and page layout—a poem about a train might be shaped like one, for example.
 
 # decoration
-/dekəreɪʃən/ 
+**/dekəreɪʃən/**
 A decoration is anything used to make something more attractive or festive. If you’re having a Valentine’s Day party, drape your house in red and pink decorations. Decoration is also a type of honor, like a soldier's medal or stripe.
 ### Definition
 - n: the act of decorating something (in the hope of making it more attractive)
@@ -112,7 +112,7 @@ A decoration is anything used to make something more attractive or festive. If y
 - “We are here for decoration, nothing else,” she said.
 
 # unused
-/ʌnjuːzd/ 
+**/ʌnjuːzd/**
 ### Definition
 - adj: not yet used or soiled
 - adj: not yet put into use
@@ -141,7 +141,7 @@ A decoration is anything used to make something more attractive or festive. If y
 - But these companies will not get away with simply letting the cash sit on their balance sheet unused for too long.
 
 # novelist
-/nɒvəlɪst/ 
+**/nɒvəlɪst/**
 ### Definition
 - n: one who writes novels
 ### Family
@@ -155,7 +155,7 @@ A decoration is anything used to make something more attractive or festive. If y
 - The death was confirmed by his wife, the novelist Mary Gordon.
 
 # parasitic
-/pærəsɪtɪk/ 
+**/pærəsɪtɪk/**
 The adjective parasitic is mainly a scientific term for talking about an organism that lives on a host, taking what it needs to stay alive while often injuring the host.
 ### Definition
 - adj: relating to or caused by parasites

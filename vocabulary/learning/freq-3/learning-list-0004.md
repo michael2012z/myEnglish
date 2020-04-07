@@ -1,5 +1,5 @@
 # reckon
-/rekən/ 
+**/rekən/**
 Reckon means guess, or imagine, and is often used by rural types in Hollywood movies who say things like "I reckon I'll be moseyin' on."
 ### Definition
 - v: expect, believe, or suppose
@@ -19,7 +19,7 @@ Reckon means guess, or imagine, and is often used by rural types in Hollywood mo
 - Mr Tidwell reckons another 50 million acres is in urgent need of treatment.
 
 # sweep
-/swiːp/ 
+**/swiːp/**
 ### Definition
 - v: sweep with a broom or as if with a broom
 - v: clean by sweeping
@@ -46,7 +46,7 @@ Reckon means guess, or imagine, and is often used by rural types in Hollywood mo
 - Security Council resolution criticizing Israel on settlements, then slapped Russia with sweeping penalties over U.S. allegations of hacking against the U.S. political process.
 
 # disrupt
-/dɪsrʌpt/ 
+**/dɪsrʌpt/**
 To disrupt is to interrupt or throw something into disorder. If you don't turn your phone off before a play, it might ring and disrupt the actors and the audience.
 ### Definition
 - v: make a break in
@@ -62,7 +62,7 @@ To disrupt is to interrupt or throw something into disorder. If you don't turn y
 - Police raids to disrupt suspected holiday terror plots led to several shootouts in which five militants were killed and 20 arrested.
 
 # subsidy
-/sʌbsɪdi/ 
+**/sʌbsɪdi/**
 A subsidy is a grant of financial assistance. Many school districts, for example, offer a subsidy to low-income families for book fees and lunch costs. The family pays a set amount and the district makes up the difference.
 ### Definition
 - n: a grant paid by a government to an enterprise that benefits the public
@@ -77,7 +77,7 @@ A subsidy is a grant of financial assistance. Many school districts, for example
 - For instance, that bill eliminated the tax penalties, tax credits and cost-sharing subsidies central to the ACA’s individual mandate to purchase health insurance.
 
 # pub
-/pʌb/ 
+**/pʌb/**
 A pub is a bar or tavern that serves food and often acts as a community gathering place. People visit pubs to eat lunch, to drink beer, or to play darts with their friends.
 ### Definition
 - n: tavern consisting of a building with a bar and public rooms; often provides light meals
@@ -89,7 +89,7 @@ A pub is a bar or tavern that serves food and often acts as a community gatherin
 - London Fire Brigade said it rescued six people from a first-floor flat above the pub.
 
 # genome
-/dʒiːnoʊm/ 
+**/dʒiːnoʊm/**
 The human genome is the map of your DNA, the double helix that contains all your genes. Your genome is all the genetic material contained in your 23 pairs of chromosomes, a total of more than 20,000 genes.
 ### Definition
 - n: the ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism
@@ -101,7 +101,7 @@ The human genome is the map of your DNA, the double helix that contains all your
 - The researchers compared the genomes of nearly 200 Inuit with genomes of Neanderthals, Denisovans and modern populations around the world.
 
 # rid
-/rɪd/ 
+**/rɪd/**
 When you clear out or eliminate something you don't want, you rid yourself of it. If even one child is allergic to peanuts, a school will often rid the cafeteria of all food made with peanuts.
 ### Definition
 - v: relieve from
@@ -114,7 +114,7 @@ When you clear out or eliminate something you don't want, you rid yourself of it
 - Anthony said she was “relieved” to get rid of her list.
 
 # endorse
-/ɪndɔːʳs/ 
+**/ɪndɔːʳs/**
 To endorse is to give support to someone or something. "I endorse this!" means "I think this is a good thing, and so should you."
 ### Definition
 - v: be behind; approve of
@@ -131,7 +131,7 @@ To endorse is to give support to someone or something. "I endorse this!" means "
 - Seen as a progressive, Harris was endorsed by the outgoing senator for California, Barbara Boxer, and Massachusetts senator Elizabeth Warren in her Senate run.
 
 # sovereign
-/sɒvrɪn/ 
+**/sɒvrɪn/**
 Put simply, your sovereign is your king or queen. George III was the sovereign of Great Britain and her colonies — including the American ones. At least, he was until a little thing called the Revolutionary War upset everything.
 ### Definition
 - n: a nation's ruler or head of state usually by hereditary right
@@ -145,7 +145,7 @@ Put simply, your sovereign is your king or queen. George III was the sovereign o
 - Singapore sovereign wealth fund GIC is a financial investor, he said.
 
 # bolster
-/boʊlstəʳ/ 
+**/boʊlstəʳ/**
 When you cheer up a friend who's feeling down, you bolster them. To bolster is to offer support or strengthen.
 ### Definition
 - v: support and strengthen

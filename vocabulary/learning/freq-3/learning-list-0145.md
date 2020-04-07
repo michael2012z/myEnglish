@@ -1,5 +1,5 @@
 # incomprehensible
-/ɪnkɒmprɪhensɪbəl/ 
+**/ɪnkɒmprɪhensɪbəl/**
 If your poetry is incomprehensible, it's difficult to understand, and it might be impossible to explain. Could be you're a genius! Could be you're just not very good at poetry.
 ### Definition
 - adj: difficult to understand
@@ -26,7 +26,7 @@ If your poetry is incomprehensible, it's difficult to understand, and it might b
 
 
 # tranquil
-/træŋkwɪl/ 
+**/træŋkwɪl/**
 When a place or your state of mind is peaceful, quiet and serene, it is tranquil.
 ### Definition
 - adj: (of a body of water) free from disturbance by heavy waves
@@ -45,7 +45,7 @@ When a place or your state of mind is peaceful, quiet and serene, it is tranquil
 - The atmosphere is as tranquil as the flowing Irrawaddy.
 
 # discrete
-/dɪskriːt/ 
+**/dɪskriːt/**
 Discrete means separate or divided. A discrete unit is a separate part of something larger. A room is a discrete space within a house, just as the transmission is a discrete part of a car engine.
 ### Definition
 - adj: constituting a separate entity or part
@@ -58,7 +58,7 @@ Discrete means separate or divided. A discrete unit is a separate part of someth
 - He believes the pictures reveal a "discrete, low profile wedding" in a small town or rural area in the UK.
 
 # intangible
-/ɪntændʒɪbəl/ 
+**/ɪntændʒɪbəl/**
 You can't touch this word — it is intangible. You can grasp the meaning of the word in your head, but you can't close your hands around it; you'll just put fingerprints on your monitor.
 ### Definition
 - adj: incapable of being perceived by the senses, especially the sense of touch
@@ -77,7 +77,7 @@ You can't touch this word — it is intangible. You can grasp the meaning of the
 - But it’s hard to argue the intangible gains outweigh potential risks.
 
 # covenant
-/kʌvənənt/ 
+**/kʌvənənt/**
 A covenant is an agreement between two people, or companies, or even countries. It is formal, solemn, sometimes even sacred.
 ### Definition
 - n: (Bible) an agreement between God and his people in which God makes certain promises and requires certain behavior from them in return
@@ -92,7 +92,7 @@ A covenant is an agreement between two people, or companies, or even countries. 
 - For commercial loans, the OCC found looser standards in pricing, guarantor requirements, and loan covenants.
 
 # infusion
-/ɪnfjuːʒən/ 
+**/ɪnfjuːʒən/**
 The most common example of an infusion you are likely to encounter in your daily life is your morning cup of coffee. An infusion is the creation of a new substance by steeping another substance in a liquid, usually water.
 ### Definition
 - n: the act of infusing or introducing a certain modifying element or quality
@@ -122,7 +122,7 @@ If a sign says "Swimming Prohibited," don't go for a dip. It's not allowed. To p
 - Detroit police spokesman Dan Donakowski says tenants of the home told officers they never entered the garage because the landlord prohibited it.
 
 # adept
-/ædept/ 
+**/ædept/**
 Are you looking for another word to describe a person who is highly skilled, very proficient or expert at something? Try the adjective adept!
 ### Definition
 - adj: having or showing knowledge and skill and aptitude
@@ -135,7 +135,7 @@ Are you looking for another word to describe a person who is highly skilled, ver
 - But he gets quite adept at violence; he grows feral.
 
 # citation
-/saɪteɪʃən/ 
+**/saɪteɪʃən/**
 If you hear you’re getting a citation, wait before bragging about it. A citation can be an official award, but it can also mean something less thrilling, like a summons to appear in court.
 ### Definition
 - n: an official award (as for bravery or service) usually given as formal public statement

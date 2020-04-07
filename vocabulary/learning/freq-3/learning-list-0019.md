@@ -1,5 +1,5 @@
 # consecutive
-/kənsekjʊtɪv/ 
+**/kənsekjʊtɪv/**
 If things are consecutive, they happen one after the other with no break. If there are five consecutive snowstorms on five consecutive days, you'll have to shovel your way out on day six.
 ### Definition
 - adj: one after the other
@@ -14,7 +14,7 @@ If things are consecutive, they happen one after the other with no break. If the
 - Mr. Netanyahu, the leader of the conservative Likud Party, is serving his third consecutive term in office, and his fourth overall.
 
 # lucrative
-/luːkrətɪv/ 
+**/luːkrətɪv/**
 Use lucrative to refer to a business or investment that makes money. The drug trade has proved very lucrative, if dangerous, for people willing to risk their lives to take part in it.
 ### Definition
 - adj: producing a sizeable profit
@@ -26,7 +26,7 @@ Use lucrative to refer to a business or investment that makes money. The drug tr
 - They were also supposed to encourage farmers to abandon the cultivation of opium poppy, the region’s most lucrative cash crop.
 
 # breathe
-/briːð/ 
+**/briːð/**
 When you breathe you take air into your lungs and let it out in a regular rhythm. Living things need to breathe to live.
 ### Definition
 - v: draw air into, and expel out of, the lungs
@@ -48,7 +48,7 @@ When you breathe you take air into your lungs and let it out in a regular rhythm
 - His seizures became more severe, and he underwent a tracheotomy to help him breathe.
 
 # prop
-/prɒp/ 
+**/prɒp/**
 A prop is something you use as a support, like a broom that serves as a prop to hold a door open. A prop is also something that goes on stage, like a garbage can in a Beckett play.
 ### Definition
 - n: a support placed beneath or against something to keep it from shaking or falling
@@ -63,7 +63,7 @@ A prop is something you use as a support, like a broom that serves as a prop to 
 - Ted Turner bought the film library, which left the studio grounds and all its holdings, including props, costumes, scripts and ephemera.
 
 # backdrop
-/bækdrɒp/ 
+**/bækdrɒp/**
 A backdrop is the scenery that hangs behind the actors in a play. You might help to paint the backdrop for your school's production of "The Sound of Music."
 ### Definition
 - n: scenery hung at back of stage
@@ -91,7 +91,7 @@ An inventory is an itemized list of everything you have. So you better take inve
 - The company slashed output by 30 percent in the January-March quarter this year due to accumulated inventory, the Nikkei reported.
 
 # scant
-/skænt/ 
+**/skænt/**
 Scant is an adjective that means "a tiny amount," like your scant attendance at practice this week that results in being benched from the big game.
 ### Definition
 - adj: less than the correct or legal or full amount often deliberately so
@@ -117,7 +117,7 @@ Tuberculosis is a contagious and deadly disease. It mainly affects the lungs, bu
 - “It’s just like watching someone gradually develop tuberculosis,” he says.
 
 # cocaine
-/koʊkeɪn/ 
+**/koʊkeɪn/**
 ### Definition
 - n: a narcotic (alkaloid) extracted from coca leaves; used as a surface anesthetic or taken for pleasure; can become powerfully addictive
 ### Family
@@ -129,7 +129,7 @@ Tuberculosis is a contagious and deadly disease. It mainly affects the lungs, bu
 - “In the ‘80s, cocaine was huge here and there was a small heroin population.
 
 # comply
-/kəmplaɪ/ 
+**/kəmplaɪ/**
 Comply is to act according to someone's wishes or rules. Although you might like to stay out with your friends, you'll have to comply with your parents' rules and be home by midnight.
 ### Definition
 - v: act in accordance with someone's rules, commands, or wishes

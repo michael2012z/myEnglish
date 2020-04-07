@@ -1,5 +1,5 @@
 # pessimistic
-/pesɪmɪstɪk/ 
+**/pesɪmɪstɪk/**
 Pessimistic describes the state of mind of someone who always expects the worst. A pessimistic attitude isn't very hopeful, shows little optimism, and can be a downer for everyone else.
 ### Definition
 - adj: expecting the worst possible outcome
@@ -13,7 +13,7 @@ Pessimistic describes the state of mind of someone who always expects the worst.
 - That said, she rejects the notion that the message of “Good Bones” is pessimistic.
 
 # expectancy
-/ɪkspektənsi/ 
+**/ɪkspektənsi/**
 ### Definition
 - n: an expectation
 - n: something expected (as on the basis of a norm)
@@ -31,7 +31,7 @@ Pessimistic describes the state of mind of someone who always expects the worst.
 - Last year, overall life expectancy in the United States fell for the first time since 1993, when HIV was rampant.
 
 # testify
-/testɪfaɪ/ 
+**/testɪfaɪ/**
 To testify is to make a statement or provide evidence, usually in court. Witnesses testify for the prosecution or defense.
 ### Definition
 - v: give testimony in a court of law
@@ -47,7 +47,7 @@ To testify is to make a statement or provide evidence, usually in court. Witness
 - The Arizona senator John McCain scheduled a hearing on foreign cyber threats for 5 January, and called senior intelligence officials to testify.
 
 # feeble
-/fiːbəl/ 
+**/fiːbəl/**
 You know how you feel when you can’t open a jar of pickles? And then grandma walks in and does it in one shot without even grunting? That’s called feeling feeble, or lacking strength.
 ### Definition
 - adj: pathetically lacking in force or effectiveness
@@ -64,7 +64,7 @@ You know how you feel when you can’t open a jar of pickles? And then grandma w
 - His completion rate over the past three games is a feeble 44.7%.
 
 # relay
-/riːleɪ/ 
+**/riːleɪ/**
 If you relay something, you pass it to another person. When you relay the information that your pet monkey is known to attack people to your neighbors, you should bring a basket of muffins.
 ### Definition
 - n: the act of passing something along from one person or group to another
@@ -82,7 +82,7 @@ If you relay something, you pass it to another person. When you relay the inform
 - Her phone rang with calls from relatives from her village, but she couldn’t bring herself to relay the news.
 
 # cellular
-/seljʊləʳ/ 
+**/seljʊləʳ/**
 ### Definition
 - adj: relating to cells
 - adj: characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)
@@ -96,7 +96,7 @@ If you relay something, you pass it to another person. When you relay the inform
 - This kind of technique is intended to prevent children from inheriting disorders involving mitochondria — the cellular structures that produce energy.
 
 # devotion
-/dɪvoʊʃən/ 
+**/dɪvoʊʃən/**
 If you feel loyal and loving toward someone or something, that's devotion. If your devotion to your pet hamster truly knows no limits, you might splurge on a solid-gold hamster wheel.
 ### Definition
 - n: commitment to some purpose
@@ -115,7 +115,7 @@ If you feel loyal and loving toward someone or something, that's devotion. If yo
 - Their attention and devotion growing up in an era of frauds will be affirmed.
 
 # sore
-/sɔːʳ/ 
+**/sɔːʳ/**
 A sore is a broken patch of skin — something you might put a bandage on — or it's something that gives you pain, like a sore throat, that’s red and scratchy and painful.
 ### Definition
 - adj: causing misery or pain or distress
@@ -131,7 +131,7 @@ A sore is a broken patch of skin — something you might put a bandage on — or
 - He’s dealt with a sore right calf but showed no ill effects while smoothly eluding Detroit’s pass rush all night.
 
 # heighten
-/haɪtən/ 
+**/haɪtən/**
 When you heighten something, you increase it or make it more intense. If you want to heighten awareness about homelessness, you might write an article for your local newspaper.
 ### Definition
 - v: make more extreme; raise in quantity, degree, or intensity
@@ -148,7 +148,7 @@ When you heighten something, you increase it or make it more intense. If you wan
 - He drank prodigious amounts of alcohol to dim his heightened alertness and to muffle his sorrows.
 
 # degrade
-/dɪgreɪd/ 
+**/dɪgreɪd/**
 Degrade means to put down––a degrading comment is one that makes the subject feel bad, a degraded field is one whose soil has been worn out. If you move from an A average to a B, you've been degraded.
 ### Definition
 - v: reduce in worth or character, usually verbally

@@ -1,5 +1,5 @@
 # pilgrimage
-/pɪlgrɪmɪdʒ/ 
+**/pɪlgrɪmɪdʒ/**
 A pilgrimage is a journey to a sacred place. People make pilgrimages to places like Jerusalem, Bethlehem, and Dharamsala as part of their religious or spiritual practice.
 ### Definition
 - n: a journey to a sacred place
@@ -11,7 +11,7 @@ A pilgrimage is a journey to a sacred place. People make pilgrimages to places l
 - I fittingly ended my day of peregrinations with “Pilgrimage.”
 
 # turf
-/tɜːʳf/ 
+**/tɜːʳf/**
 When you're walking on the perfect green grass of a golf course, you might remark on the gorgeous turf. Turf is the top layer of ground, especially when it's planted with grass.
 ### Definition
 - n: the territory claimed by a juvenile gang as its own
@@ -26,7 +26,7 @@ When you're walking on the perfect green grass of a golf course, you might remar
 - SAP SE and Oracle Corp. are encroaching on its turf.
 
 # limp
-/lɪmp/ 
+**/lɪmp/**
 If you walk unevenly, you have a limp. Maybe you pulled your hamstring at the annual Thanksgiving Day Football Showdown, or maybe one leg is three inches shorter than the other. Whatever the reason, if your gait is off kilter, you limp.
 ### Definition
 - v: walk impeded by some physical limitation or injury
@@ -44,7 +44,7 @@ If you walk unevenly, you have a limp. Maybe you pulled your hamstring at the an
 - Clippers center DeAndre Jordan limped throughout the Thunder game after he hurt his left hip and left ankle.
 
 # solace
-/sɒlɪs/ 
+**/sɒlɪs/**
 If something eases your disappointment or grief, consider it a solace. If you're sad, you might find solace in music or in talking to your friends.
 ### Definition
 - n: comfort in disappointment or misery
@@ -60,7 +60,7 @@ If something eases your disappointment or grief, consider it a solace. If you're
 - Still, there was solace: The Knicks looked alive on defense and on the boards.
 
 # discretion
-/dɪskreʃən/ 
+**/dɪskreʃən/**
 If you have the freedom to decide something on your own, the decision is left to your discretion. You're in charge.
 ### Definition
 - n: the power of making free choices unconstrained by external agencies
@@ -78,7 +78,7 @@ If you have the freedom to decide something on your own, the decision is left to
 - The agency shared the information with Urquhart’s department to handle at its discretion.
 
 # orthodoxy
-/ɔːʳθədɒksi/ 
+**/ɔːʳθədɒksi/**
 A widely accepted belief or theory is an orthodoxy. You could call the scientific theory of gravity an orthodoxy, since it's generally considered to be an established fact.
 ### Definition
 - n: the quality of being orthodox (especially in religion)
@@ -93,7 +93,7 @@ A widely accepted belief or theory is an orthodoxy. You could call the scientifi
 - Voters concluded that an ideology-free businessman would turn hope into change better than yet another bearer of liberal orthodoxy.
 
 # germ
-/dʒɜːʳm/ 
+**/dʒɜːʳm/**
 A germ is a tiny life form that spreads disease. Germs are also small things that grow into larger things — whether animals, plants, or ideas.
 ### Definition
 - n: a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism
@@ -110,7 +110,7 @@ A germ is a tiny life form that spreads disease. Germs are also small things tha
 - At the earliest stages of life, in the embryo, our germ cells begin to develop.
 
 # distressed
-/dɪstrest/ 
+**/dɪstrest/**
 Distressed is an adjective that describes a general feeling of unhappiness, like the distressed feeling you have when your team is about to lose the big game.
 ### Definition
 - adj: generalized feeling of distress
@@ -128,7 +128,7 @@ Distressed is an adjective that describes a general feeling of unhappiness, like
 - Distressed sales--foreclosures and short sales--accounted for 6% of last month’s purchases, the Realtors group said.
 
 # akin
-/əkɪn/ 
+**/əkɪn/**
 If two things are akin, then they're similar or related. A cupcake is akin to a cake and relatives are akin to each other.
 ### Definition
 - adj: related by blood
@@ -141,7 +141,7 @@ If two things are akin, then they're similar or related. A cupcake is akin to a 
 - He described Obama as a “retrenchment president” akin to Dwight Eisenhower.
 
 # playwright
-/pleɪraɪt/ 
+**/pleɪraɪt/**
 A playwright is someone who writes plays. Playwrights are also known as dramatists.
 ### Definition
 - n: someone who writes plays

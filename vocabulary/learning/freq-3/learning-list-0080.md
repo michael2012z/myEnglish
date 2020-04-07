@@ -1,5 +1,5 @@
 # subsistence
-/səbsɪstəns/ 
+**/səbsɪstəns/**
 Subsistence means the minimal resources that are necessary for survival. If you work for subsistence, you'll probably receive food, water, and lodging (internet access not included).
 ### Definition
 - n: the state of existing in reality; having substance
@@ -14,7 +14,7 @@ Subsistence means the minimal resources that are necessary for survival. If you 
 - It also suggests that halfway houses stop charging residents 25 percent of their income for subsistence fees.
 
 # precipitate
-/prɪsɪpəteɪt/ 
+**/prɪsɪpəteɪt/**
 Precipitate usually means "bringing something on" or "making it happen" — and not always in a good way. An unpopular verdict might "precipitate violence" or one false step at the Grand Canyon could precipitate you down into the gorge.
 ### Definition
 - v: bring about abruptly
@@ -34,7 +34,7 @@ Precipitate usually means "bringing something on" or "making it happen" — and 
 - The coup fueled separatist sentiments in the republics and weakened the Kremlin’s power, precipitating the Soviet breakup.
 
 # impede
-/ɪmpiːd/ 
+**/ɪmpiːd/**
 To impede something is to delay or block its progress or movement. Carrying six heavy bags will impede your progress if you're trying to walk across town.
 ### Definition
 - v: be a hindrance or obstacle to
@@ -50,7 +50,7 @@ To impede something is to delay or block its progress or movement. Carrying six 
 - It was that the measure would impede rather than advance Israeli-Palestinian peace — and he was right.
 
 # periphery
-/pərɪfəri/ 
+**/pərɪfəri/**
 When something is on the periphery of your vision, you can only see it when you’re looking sideways. Periphery means outside the boundary of something.
 ### Definition
 - n: the outside boundary or surface of something
@@ -63,7 +63,7 @@ When something is on the periphery of your vision, you can only see it when you�
 - But the 2016 season knocked Washington off that course, leaving Taylor, who turns 26 in March, on the periphery again entering 2017.
 
 # confluence
-/kɒnfluəns/ 
+**/kɒnfluəns/**
 Confluence means a flowing together. In a literal sense, it's about rivers. But it's more often used to talk about the coming together of factors or ideas, or of cultures in a diverse city.
 ### Definition
 - n: a place where things merge or flow together (especially rivers)
@@ -78,7 +78,7 @@ Confluence means a flowing together. In a literal sense, it's about rivers. But 
 - “It became our way of saying goodbye, essentially. It was a really beautiful confluence of art and life.”
 
 # martial
-/mɑːʳʃəl/ 
+**/mɑːʳʃəl/**
 An adjective referring to the military, the word martial adds a warlike tone to any noun it describes.
 ### Definition
 - adj: suggesting war or military life
@@ -99,7 +99,7 @@ An adjective referring to the military, the word martial adds a warlike tone to 
 - The government is also spending $5bn on a marble-clad sports complex that will host the Asian Indoor and Martial Arts Games next year.
 
 # prosecution
-/prɒsɪkjuːʃən/ 
+**/prɒsɪkjuːʃən/**
 You know the lawyers who try to make the jury believe the guy on trial for stealing the bananas actually stole the bananas? That team of lawyers is known as the prosecution.
 ### Definition
 - n: the institution and conduct of legal proceedings against a defendant for criminal behavior
@@ -127,7 +127,7 @@ You know the lawyers who try to make the jury believe the guy on trial for steal
 - Depending on the severity of these symptoms, patients may need to delay treatment and begin a course of steroids and or discontinue the drug immediately.
 
 # parity
-/pærɪti/ 
+**/pærɪti/**
 All things being equal, parity means, basically, equality. It’s used in finance, physics, math, and even sports. When people talk about parity in a football league, for example, they mean the teams are evenly matched. Go, evenly matched team, go!
 ### Definition
 - n: functional equality
@@ -143,7 +143,7 @@ All things being equal, parity means, basically, equality. It’s used in financ
 - On Thursday, the Palestinian statistics bureau said demographic parity would be reached by the end of 2017.
 
 # reminiscent
-/remɪnɪsənt/ 
+**/remɪnɪsənt/**
 If your uncle tells you that your outfit is reminiscent of the way your mother dressed when she was young, it means your clothes remind him of your mother. Hopefully that doesn't mean your mother is still dressing you.
 ### Definition
 - adj: serving to bring to mind

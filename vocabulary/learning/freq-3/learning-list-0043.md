@@ -1,5 +1,5 @@
 # accent
-/æksənt/ 
+**/æksənt/**
 An accent is a stress or emphasis on a particular part of something, usually a word. Pronounce the word "doofus" with the accent on the first syllable: DOO-fuss.
 ### Definition
 - n: special importance or significance
@@ -21,7 +21,7 @@ An accent is a stress or emphasis on a particular part of something, usually a w
 - It was particularly important not to stay in accent on this set.
 
 # clip
-/klɪp/ 
+**/klɪp/**
 Use the noun clip to talk about a fastener that holds things together, like a paper clip or a hair clip.
 ### Definition
 - n: any of various small fasteners used to hold loose articles together
@@ -47,7 +47,7 @@ Use the noun clip to talk about a fastener that holds things together, like a pa
 - All the newspaper articles, television clips and political ads suggesting he was a racist.
 
 # contend
-/kəntend/ 
+**/kəntend/**
 To defend a belief or keep affirming that it's true is to contend. People used to contend that the earth was flat, but eventually, when no one dropped off the edge no matter how far they traveled, the "round" theory won.
 ### Definition
 - v: compete for something; engage in a contest; measure oneself against others
@@ -67,7 +67,7 @@ To defend a belief or keep affirming that it's true is to contend. People used t
 - The attorneys contend Gomez lacked the authority to allow a search of the computer.
 
 # poignant
-/pɔɪnjənt/ 
+**/pɔɪnjənt/**
 Something that is poignant touches you deeply. Watching a poignant YouTube video about baby penguins chasing their mothers, for example, might give you a lump in your throat.
 ### Definition
 - adj: keenly distressing to the mind or feelings
@@ -81,7 +81,7 @@ Something that is poignant touches you deeply. Watching a poignant YouTube video
 - This book is tragic, no question — but it’s also poignant, tender and funny.
 
 # prone
-/proʊn/ 
+**/proʊn/**
 If you're prone to doing something, it means you're likely to do it, have a habit of doing it, or are susceptible to it. People who are prone to getting the flu every winter should probably get a flu shot in the fall.
 ### Definition
 - adj: having a tendency (to); often used in combination
@@ -108,7 +108,7 @@ A composite is something made up of complicated and related parts. A composite p
 - The Shanghai Composite index was unchanged at 3,287.25 and shares in New Zealand, Taiwan and Southeast Asia were mixed.
 
 # bench
-/bentʃ/ 
+**/bentʃ/**
 A bench is a long, flat seat that can usually accommodate several people. A city park bench is a nice place to sit and eat a sandwich.
 ### Definition
 - n: a long seat for more than one person
@@ -139,7 +139,7 @@ A bench is a long, flat seat that can usually accommodate several people. A city
 - Hence the bold wines selected for the evening, including the 2014 East Bench by Ridge Vineyards from California with the entree, said the chef.
 
 # dice
-/daɪs/ 
+**/daɪs/**
 Dice are what you roll when you're playing Yahtzee or Monopoly; they are two cubes marked with dots on each side that represent the numbers one through six.
 ### Definition
 - n: a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers
@@ -154,7 +154,7 @@ Dice are what you roll when you're playing Yahtzee or Monopoly; they are two cub
 - Or is rolling dice just as likely to yield a useful forecast?
 
 # rubbish
-/rʌbɪʃ/ 
+**/rʌbɪʃ/**
 Rubbish is a synonym for garbage or trash. The word is more commonly used by speakers of British English than by speakers of American English.
 ### Definition
 - n: worthless material that is to be disposed of

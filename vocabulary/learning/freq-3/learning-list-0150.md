@@ -1,5 +1,5 @@
 # diligent
-/dɪlɪdʒənt/ 
+**/dɪlɪdʒənt/**
 Someone who is diligent works hard and carefully. If you want to write the epic history of your family, you'll have to be very diligent in tracking down and interviewing all of your relatives.
 ### Definition
 - adj: quietly and steadily persevering especially in detail or exactness
@@ -13,7 +13,7 @@ Someone who is diligent works hard and carefully. If you want to write the epic 
 - In court papers responding to a lawsuit by Fee’s family, the medical center said the nursing home’s care was diligent.
 
 # imitation
-/ɪmɪteɪʃən/ 
+**/ɪmɪteɪʃən/**
 Imitation means copying the words, facial expressions, or actions of another person. Sometimes imitation is flattering, but often it's just annoying — like when your little brother does it to drive you crazy.
 ### Definition
 - n: copying (or trying to copy) the actions of someone else
@@ -33,7 +33,7 @@ Imitation means copying the words, facial expressions, or actions of another per
 - Some even dubbed them “Swanselona” over the years, a reference to Swansea’s passable imitation of Barcelona’s preferred style.
 
 # spectral
-/spektrəl/ 
+**/spektrəl/**
 When something is spectral, it has a ghostlike quality; it seems to vanish or disappear. You may have heard of ghosts referred to as "specters": that means that they're spectral.
 ### Definition
 - adj: resembling or characteristic of a phantom
@@ -58,7 +58,7 @@ Tactile has to do with the sense of touch. There's a huge tactile difference bet
 - Thursdays at Noon: Portrait Insight Visualize art through a detailed verbal description of selected works; tactile objects may also be included.
 
 # immediacy
-/ɪmiːdiəsi/ 
+**/ɪmiːdiəsi/**
 Use the noun immediacy to talk about the lighting-fast speed with which something happens. If you order pizza and see the delivery driver pull up in front of your house two minutes later, you'll be amazed at the immediacy of your pizza's arrival.
 ### Definition
 - n: the quickness of action or occurrence
@@ -73,7 +73,7 @@ Use the noun immediacy to talk about the lighting-fast speed with which somethin
 - A black-and-white volume that captures the essence of The New York Times obituary: superbly researched pieces of history that retain the immediacy of it-just-happened.
 
 # ashamed
-/əʃeɪmd/ 
+**/əʃeɪmd/**
 When you have done something you know you shouldn't have, or just something embarrassing, you feel ashamed, or remorseful. Don't be ashamed of your unusual dance moves — you were the life of the party!
 ### Definition
 - adj: feeling shame or guilt or embarrassment or remorse
@@ -86,7 +86,7 @@ When you have done something you know you shouldn't have, or just something emba
 - Michael Rapaport: The actor thinks anyone who performs at the inauguration “should be ashamed of themselves.”
 
 # misconception
-/mɪskənsepʃən/ 
+**/mɪskənsepʃən/**
 A misconception is a conclusion that's wrong because it's based on faulty thinking or facts that are wrong. Your accusation about your brother's role in that unfortunate event at your party may be based on a misconception.
 ### Definition
 - n: an incorrect conception
@@ -114,7 +114,7 @@ A misconception is a conclusion that's wrong because it's based on faulty thinki
 - We worked well together several more times before I left the firm, because we succeeded in rectifying our misconceptions.
 
 # abstinence
-/æbstɪnəns/ 
+**/æbstɪnəns/**
 If you are a chocolate lover, you'll have to show great restraint when the dessert cart rolls over if you are practicing abstinence, another word for "refraining." It might take a lot of willpower not to throw yourself at the cart.
 ### Definition
 - n: the trait of abstaining (especially from alcohol)
@@ -131,7 +131,7 @@ If you are a chocolate lover, you'll have to show great restraint when the desse
 - Abstinence became a popular message in some parts of the U.S.
 
 # exaggerate
-/ɪgzædʒəreɪt/ 
+**/ɪgzædʒəreɪt/**
 When you exaggerate you stretch the truth. Fishermen tend to exaggerate the size of their fish. And children tend to exaggerate the seriousness of their cuts in order to get cute Band-Aids.
 ### Definition
 - v: enlarge beyond bounds or the truth
@@ -146,7 +146,7 @@ When you exaggerate you stretch the truth. Fishermen tend to exaggerate the size
 - “It’s hard not to use very exaggerated terms when you are talking about this, because it really is a pretty major step forward,” Brandsema said.
 
 # ivory
-/aɪvəri/ 
+**/aɪvəri/**
 Ivory is a hard, white substance found in the tusks of animals such as elephants. Ivory also refers to a white-ish color, like the ivory keys on a piano.
 ### Definition
 - n: a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses

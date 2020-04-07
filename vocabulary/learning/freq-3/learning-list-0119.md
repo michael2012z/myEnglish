@@ -1,5 +1,5 @@
 # autism
-/ɔːtɪzəm/ 
+**/ɔːtɪzəm/**
 Autism is a neurological condition that's marked by differences in learning styles, passionate interests in specific subjects, repetitive motion, and sometimes difficulty with language and communication.
 ### Definition
 - n: (psychiatry) an abnormal absorption with the self; marked by communication disorders and short attention span and inability to treat others as people
@@ -12,7 +12,7 @@ Autism is a neurological condition that's marked by differences in learning styl
 - New research is showing that female children with autism often display unique traits, leading many to be misdiagnosed.
 
 # vigilant
-/vɪdʒɪlənt/ 
+**/vɪdʒɪlənt/**
 Use vigilant to describe someone who keeps awake and alert in order to avoid danger or problems. When taking the subway, be vigilant about your wallet––always know where it is, or someone might steal it from you.
 ### Definition
 - adj: carefully observant or attentive; on the lookout for possible danger
@@ -25,7 +25,7 @@ Use vigilant to describe someone who keeps awake and alert in order to avoid dan
 - And yet, like many vigilant parents, Wright concedes she’s not always the best role model: “I’m on Facebook far too much.”
 
 # propensity
-/prəpensɪti/ 
+**/prəpensɪti/**
 A propensity is a natural tendency to behave in a certain way. We all have propensities — things we tend to do. Dogs have a propensity to bark, and many people have a propensity for getting annoyed by it.
 ### Definition
 - n: a natural inclination
@@ -39,7 +39,7 @@ A propensity is a natural tendency to behave in a certain way. We all have prope
 - And it highlights Trump’s propensity to double down on his original statements even as his advisers seek to shift the focus to other issues.
 
 # departmental
-/diːpɑːʳtmentəl/ 
+**/diːpɑːʳtmentəl/**
 ### Definition
 - adj: of or relating to a department
 ### Family
@@ -51,7 +51,7 @@ A propensity is a natural tendency to behave in a certain way. We all have prope
 - But as is typical in such cases, departmental hearings that could lead to his dismissal have been delayed during the criminal investigations.
 
 # sterling
-/stɜːʳlɪŋ/ 
+**/stɜːʳlɪŋ/**
 Sterling is British money, but it also describes anything of very high quality. A sterling report card has all A’s, and sterling manners are needed for a visit with the Queen of England.
 ### Definition
 - adj: highest in quality
@@ -79,7 +79,7 @@ Insulation is the process of keeping heat, sound, or electricity from spreading.
 - The sheath also acts like wire insulation to help electrical signals travel down the nerve.
 
 # splash
-/splæʃ/ 
+**/splæʃ/**
 A splash is a tiny amount of a liquid. You might, for example, prefer your coffee with just a splash of cream.
 ### Definition
 - v: cause (a liquid) to spatter about, especially with force
@@ -106,7 +106,7 @@ A splash is a tiny amount of a liquid. You might, for example, prefer your coffe
 - It will include a lap pool and splash pad, and it will be fully accessible to the disabled.
 
 # hasten
-/heɪsən/ 
+**/heɪsən/**
 The verb hasten means to move at a high speed. If you hasten to your room, no one will know that you came in late.
 ### Definition
 - v: move fast
@@ -121,7 +121,7 @@ The verb hasten means to move at a high speed. If you hasten to your room, no on
 - Civilian deaths do not matter and may in fact aid the cause by hastening the ultimate Russian and Syrian victory.
 
 # ridicule
-/rɪdɪkjuːl/ 
+**/rɪdɪkjuːl/**
 When you ridicule someone, you mock or make fun of them. They become the object of your ridicule or mockery. Your bad behavior might bring ridicule on your parents, who raised you to know better.
 ### Definition
 - n: language or behavior intended to mock or humiliate
@@ -138,7 +138,7 @@ When you ridicule someone, you mock or make fun of them. They become the object 
 - Earlier Thursday, in her defence statement to a packed court in Istanbul, Erdoğan ridiculed the charges against her.
 
 # irritation
-/ɪrɪteɪʃən/ 
+**/ɪrɪteɪʃən/**
 An irritation is a situation or action that annoys someone — emotionally or physically. Your off-key singing in the car might be an irritation to the driver, or that poison ivy could be an irritation as well.
 ### Definition
 - n: the act of troubling or annoying someone

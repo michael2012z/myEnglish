@@ -1,5 +1,5 @@
 # perpetual
-/pəʳpetʃuəl/ 
+**/pəʳpetʃuəl/**
 Use the adjective perpetual to describe something that never ends or changes. If you're a perpetual procrastinator, your dilly-dallying ways are never going to improve.
 ### Definition
 - adj: continuing forever or indefinitely
@@ -13,7 +13,7 @@ Use the adjective perpetual to describe something that never ends or changes. If
 - "The status quo is leading towards one state and perpetual occupation," he said.
 
 # revival
-/rɪvaɪvəl/ 
+**/rɪvaɪvəl/**
 If something experiences a revival, that means it’s once again popular or important. If a news story mentions a revival in the technology industry, that means the industry, having gone through a slump, is once again thriving.
 ### Definition
 - n: bringing again into activity and prominence
@@ -31,7 +31,7 @@ If something experiences a revival, that means it’s once again popular or impo
 - Ms. Reynolds later played Molly Brown on stage in a touring revival.
 
 # scepticism
-/skeptɪsɪzəm/ 
+**/skeptɪsɪzəm/**
 ### Definition
 - n: doubt about the truth of something
 - n: the disbelief in any claims of ultimate knowledge
@@ -45,7 +45,7 @@ If something experiences a revival, that means it’s once again popular or impo
 - But Trump’s scepticism – cynicism is a better word – operates on a different level.
 
 # brink
-/brɪŋk/ 
+**/brɪŋk/**
 The brink of something is the very edge of it. If you want to give your mom a good scare, stand on the brink of a steep cliff and slowly lean forward.
 ### Definition
 - n: the edge of a steep place
@@ -59,7 +59,7 @@ The brink of something is the very edge of it. If you want to give your mom a go
 - But, in the months that followed, American officials inspected the dam and became concerned that it was on the brink of collapse.
 
 # focal
-/foʊkəl/ 
+**/foʊkəl/**
 ### Definition
 - adj: of or relating to a focus
 - adj: having or localized centrally at a focus
@@ -73,7 +73,7 @@ The brink of something is the very edge of it. If you want to give your mom a go
 - It was the end of the game’s focal point for the last 60.
 
 # relish
-/relɪʃ/ 
+**/relɪʃ/**
 Relish isn't just a hotdog topping. The verb relish means to enjoy something immensely. You may relish eating the relish on your hotdog, or you may relish taking an afternoon nap.
 ### Definition
 - n: vigorous and enthusiastic enjoyment
@@ -88,7 +88,7 @@ Relish isn't just a hotdog topping. The verb relish means to enjoy something imm
 - Unlike his coach, Staal sees nothing wrong with relishing Saturday’s history, if only to spice up the monotony of the regular season.
 
 # guise
-/gaɪz/ 
+**/gaɪz/**
 Guise, a noun, is the art of pretending to be something you aren't, like when, in the guise of an invited guest, you fake your way into the party of the century.
 ### Definition
 - n: an artful or simulated semblance
@@ -103,7 +103,7 @@ Guise, a noun, is the art of pretending to be something you aren't, like when, i
 - Civility was the order of the day, not ordering others about under the guise of telling them to follow their own conscience.
 
 # frighten
-/fraɪtən/ 
+**/fraɪtən/**
 To frighten is to make someone feel afraid. Your new look — pink hair, tattoos, and piercings — will probably frighten your grandparents.
 ### Definition
 - v: cause fear in
@@ -118,7 +118,7 @@ To frighten is to make someone feel afraid. Your new look — pink hair, tattoos
 - And a top national security official who values dialogue over diatribes is what we need to put the brakes on Trump’s most frightening counterterrorism proposals.
 
 # obstruct
-/ɒbstrʌkt/ 
+**/ɒbstrʌkt/**
 When you obstruct something, you block it. If you’re gobbling down your pizza, a chunk of crust you didn’t chew so well might obstruct your airway and you'll choke.
 ### Definition
 - v: block passage through
@@ -140,7 +140,7 @@ When you obstruct something, you block it. If you’re gobbling down your pizza,
 - Court records show Worthington was previously charged on Aug. 10 for second-degree robbery, possessing a firearm after a felony conviction and obstructing an officer.
 
 # patriarchy
-/peɪtriɑːʳki/ 
+**/peɪtriɑːʳki/**
 A patriarchy is a social system or organization run by men. If Dad always gets the last word in your house, then you're living under a patriarchy!
 ### Definition
 - n: a form of social organization in which a male is the family head and title is traced through the male line

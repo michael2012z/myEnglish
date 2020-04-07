@@ -1,5 +1,5 @@
 # empathy
-/empəθi/ 
+**/empəθi/**
 Use empathy if you're looking for a noun meaning "the ability to identify with another's feelings."
 ### Definition
 - n: understanding and entering into another's feelings
@@ -15,7 +15,7 @@ Use empathy if you're looking for a noun meaning "the ability to identify with a
 
 
 # tier
-/tɪəʳ/ 
+**/tɪəʳ/**
 A tier is a level or a layer. If you sit in the top tier of seats at a concert, you can see the whole stage and most of the audience — but you probably have to climb lots of stairs.
 ### Definition
 - n: one of two or more layers one atop another
@@ -35,7 +35,7 @@ A tier is a level or a layer. If you sit in the top tier of seats at a concert, 
 - The top tier is the Ultimate Fighting Championship – generally called the UFC – and it’s a business worth several billion pounds.
 
 # disguise
-/dɪsgaɪz/ 
+**/dɪsgaɪz/**
 A disguise is something you put on so no one recognizes you. It also can be used as a verb. You can disguise yourself with a wig and mustache; that's a great disguise.
 ### Definition
 - n: any attire that modifies the appearance in order to conceal the wearer's identity
@@ -53,7 +53,7 @@ A disguise is something you put on so no one recognizes you. It also can be used
 - Nanki-Poo, the son of the Japanese emperor Mikado, disguises himself as a minstrel to avoid being married off to Katisha, an older woman.
 
 # humour
-/hjuːməʳ/ 
+**/hjuːməʳ/**
 ### Definition
 - n: the quality of being funny
 - n: a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter
@@ -83,7 +83,7 @@ An aptitude is something you're good at. A rock star might have an aptitude for 
 - But Gonzalez started her graduate studies as a theoretical physicist and only later switched to experimental work, when she showed uncommon aptitude.
 
 # sage
-/seɪdʒ/ 
+**/seɪdʒ/**
 Use the word sage for someone or something wise and judicious. Thanks to the sage advice of your friend, you didn't write your teacher an angry e-mail!
 ### Definition
 - n: a mentor in spiritual and philosophical topics who is renowned for profound wisdom
@@ -99,7 +99,7 @@ Use the word sage for someone or something wise and judicious. Thanks to the sag
 - On this date in 1947, Henry Chee Dodge, the first chairman of the Navajo Tribal Council, died at Sage Memorial Hospital at age 86.
 
 # disposable
-/dɪspoʊzəbəl/ 
+**/dɪspoʊzəbəl/**
 Something disposable is not meant to last. It's OK to throw it out after you use it.
 ### Definition
 - n: an item that can be disposed of after it has been used
@@ -123,7 +123,7 @@ Something disposable is not meant to last. It's OK to throw it out after you use
 - For many employers, contingent—or “gig economy”—workers are interchangeable and disposable.
 
 # appropriation
-/əproʊprieɪʃən/ 
+**/əproʊprieɪʃən/**
 Appropriation is the act of taking something, usually without permission, like stealing your brother's french fries when he is momentarily distracted.
 ### Definition
 - n: a deliberate act of acquisition of something, often without the permission of the owner
@@ -141,7 +141,7 @@ Appropriation is the act of taking something, usually without permission, like s
 - It is hard to talk about cultural appropriation in food.
 
 # avail
-/əveɪl/ 
+**/əveɪl/**
 To avail means to take advantage of an opportunity, the way you'd be crazy not to avail yourself of a chocolate milkshake on Free Milkshake Day at your local ice cream parlor.
 ### Definition
 - v: be of use to, be useful to

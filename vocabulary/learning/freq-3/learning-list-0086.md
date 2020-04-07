@@ -20,7 +20,7 @@ A contractor is someone who is hired to build something. As a contractor at a bu
 - Contractors cut the tree down in late June.
 
 # serpent
-/sɜːʳpənt/ 
+**/sɜːʳpənt/**
 A serpent is a snake. If you keep a serpent as a pet, you may have to get used to feeding it live mice.
 ### Definition
 - n: limbless scaly elongate reptile; some are venomous
@@ -34,7 +34,7 @@ A serpent is a snake. If you keep a serpent as a pet, you may have to get used t
 - In Geneva Lake, witnesses saw a creature described as a giant scale-covered sea serpent as recently as the 20th century, Lewis said.
 
 # anomaly
-/ənɒməli/ 
+**/ənɒməli/**
 An anomaly is an abnormality, a blip on the screen of life that doesn’t fit with the rest of the pattern. If you are a breeder of black dogs and one puppy comes out pink, that puppy is an anomaly.
 ### Definition
 - n: deviation from the normal or common order or form or rule
@@ -65,7 +65,7 @@ Discretionary means it's up to you to decide. Bathing regularly is a discretiona
 - The most generous federal programs cap payments at 10% of a borrower’s discretionary income.
 
 # dispel
-/dɪspel/ 
+**/dɪspel/**
 To dispel is to get rid of something that's bothering or threatening you, regardless of whether that's warts, worries, or wild dogs.
 ### Definition
 - v: to cause to separate and go in different directions
@@ -92,7 +92,7 @@ Concurrent means happening at the same time, as in two movies showing at the sam
 - The judge imposed a mix of consecutive and concurrent nine-year jail terms, adding up to a total of 45 years.
 
 # rejoice
-/rɪdʒɔɪs/ 
+**/rɪdʒɔɪs/**
 To rejoice is to be incredibly happy, or to express your incredible happiness. If you just won millions in the lottery, you might rejoice by screaming at the top of your lungs.
 ### Definition
 - v: feel happiness or joy
@@ -107,7 +107,7 @@ To rejoice is to be incredibly happy, or to express your incredible happiness. I
 - Angels rejoice, dumb animals recognise the weight of this moment, and all eyes are on the child who will redeem the world.
 
 # reconsider
-/riːkənsɪdəʳ/ 
+**/riːkənsɪdəʳ/**
 When you reconsider something, you think about it again or in a new way. You might decline your grandfather's invitation to the circus, but then reconsider when you see that Gunther the famous lion tamer is showing up.
 ### Definition
 - v: consider again; give new consideration to; usually with a view to changing
@@ -127,7 +127,7 @@ When you reconsider something, you think about it again or in a new way. You mig
 - Perhaps instead of dismissing the religious beliefs of those who oppose liberty, more elites should reconsider the faith that upholds it.
 
 # midday
-/mɪddeɪ/ 
+**/mɪddeɪ/**
 As a noun, the word midday refers to the middle of the day. You should avoid the sun at midday, especially if you have very fair skin.
 ### Definition
 - n: the middle of the day

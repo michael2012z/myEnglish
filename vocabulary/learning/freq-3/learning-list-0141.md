@@ -1,5 +1,5 @@
 # sensation
-/senseɪʃən/ 
+**/senseɪʃən/**
 A sensation is a type of feeling, picked up by one of the five senses. Peppercorns will give you the sensation of a million tiny pinpricks on your tongue.
 ### Definition
 - n: an unelaborated elementary awareness of stimulation
@@ -61,7 +61,7 @@ A mast is a pole that rises vertically from a ship and supports the sails. Reall
 - By the 1970s, the Elvstrom name was stamped on sails, masts and boats around the world.
 
 # incur
-/ɪnkɜːʳ/ 
+**/ɪnkɜːʳ/**
 To incur is to get or receive — and usually it's something you brought upon yourself. If you don't pay your credit card bills on time, you'll likely incur lots of fees and some serious debt.
 ### Definition
 - v: make oneself subject to; bring upon oneself; become liable to
@@ -75,7 +75,7 @@ To incur is to get or receive — and usually it's something you brought upon yo
 - Returns up to three months late will incur a fine of at least £100.
 
 # rub
-/rʌb/ 
+**/rʌb/**
 To rub is to push firmly and repeatedly, like when you rub your sore foot. When Hamlet says, "aye, there's the rub," he's not talking about getting a massage. Rub, as a noun, is an obstacle or something in your way.
 ### Definition
 - v: move over something with pressure
@@ -92,7 +92,7 @@ To rub is to push firmly and repeatedly, like when you rub your sore foot. When 
 - He grabbed a tissue, doused it with rubbing alcohol and started furiously rubbing at his fingers. 
 
 # sombre
-/sɒmbəʳ/ 
+**/sɒmbəʳ/**
 When you're sombre — or somber — you're acting glum, depressed, or sad. Being sombre is the opposite of being perky or happy.
 ### Definition
 - adj: grave or even gloomy in character
@@ -105,7 +105,7 @@ When you're sombre — or somber — you're acting glum, depressed, or sad. Bein
 - Ten years ago the mood in the city was sombre, certainly at the Peugeot plant, near Ryton, where production was ending.
 
 # instinctive
-/ɪnstɪŋktɪv/ 
+**/ɪnstɪŋktɪv/**
 The adjective instinctive describes something you do without thinking about it. If you have an instinctive desire to help animals, you might automatically stop your car to pick up every stray dog you see.
 ### Definition
 - adj: unthinking; prompted by (or as if by) instinct
@@ -118,7 +118,7 @@ The adjective instinctive describes something you do without thinking about it. 
 - For now, one popular suggestion by news-literacy educators is to tap teenagers’ instinctive aversion to people telling them what to think.
 
 # liberalism
-/lɪbərəlɪzəm/ 
+**/lɪbərəlɪzəm/**
 Liberalism in politics favors social progress, through the agency of government, while liberalism in economics favors a free and open market, without government interference.
 ### Definition
 - n: a political orientation that favors social progress by reform and by changing laws rather than by revolution
@@ -140,7 +140,7 @@ Liberalism in politics favors social progress, through the agency of government,
 - Deals surged in the 1980s and 1990s with the rise of economic liberalism in the region.
 
 # compulsion
-/kəmpʌlʃən/ 
+**/kəmpʌlʃən/**
 Let's say you have a secret. You've promised not to tell, but there's something forcing you to call a friend and spill the beans. This force is compulsion, that urge to do something even though you know you shouldn't.
 ### Definition
 - n: using force to cause something to occur
@@ -157,7 +157,7 @@ Let's say you have a secret. You've promised not to tell, but there's something 
 - The latest collision between the glorious variety of humanity and the dreary compulsion to split it into opposing pairs is in our attitude to gender.
 
 # seaside
-/siːsaɪd/ 
+**/siːsaɪd/**
 ### Definition
 - n: the shore of a sea or ocean regarded as a resort
 ### Family
@@ -168,7 +168,7 @@ Let's say you have a secret. You've promised not to tell, but there's something 
 - Adnams ale is usually evocative of summers spent at its seaside brewery and warm afternoons eating fish and chips on the shore.
 
 # persuasive
-/pəʳsweɪsɪv/ 
+**/pəʳsweɪsɪv/**
 If you are persuasive, then you have a knack for getting people to do things. Your most persuasive friend might be able to talk you into riding in a hot air balloon despite your fear of heights.
 ### Definition
 - adj: intended or having the power to induce action or belief

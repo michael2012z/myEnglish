@@ -1,5 +1,5 @@
 # fairness
-/feəʳnəs/ 
+**/feəʳnəs/**
 Fairness is the quality of making judgments that are free from discrimination. Judges, umpires, and teachers should all strive to practice fairness.
 ### Definition
 - n: conformity with rules or standards
@@ -17,7 +17,7 @@ Fairness is the quality of making judgments that are free from discrimination. J
 - Sen. Bob Casey also called on the FCC to keep the money in the state, calling it a matter of fairness.
 
 # realist
-/riːəlɪst/ 
+**/riːəlɪst/**
 Some may say you never expect good things to happen, but maybe you’re just a realist, a person who uses facts and past events, rather than hopeful feelings and wishes, to predict the future.
 ### Definition
 - n: a person who accepts the world as it literally is and deals with it accordingly
@@ -41,7 +41,7 @@ Some may say you never expect good things to happen, but maybe you’re just a r
 - He is a “tough-minded realist” who understands Putin, he said.
 
 # corpse
-/kɔːʳps/ 
+**/kɔːʳps/**
 Another name for a dead body is corpse. You might hear the word on TV crime shows, but a corpse doesn't have to be a crime victim, just any lifeless body.
 ### Definition
 - n: the dead body of a human being
@@ -53,7 +53,7 @@ Another name for a dead body is corpse. You might hear the word on TV crime show
 - She shot him and slipped his corpse into a coffin with another cadaver to escape detection.
 
 # eldest
-/eldɪst/ 
+**/eldɪst/**
 Someone who's described as eldest in their family was born first. Your eldest sister is the oldest one.
 ### Definition
 - adj: first in order of birth
@@ -66,7 +66,7 @@ Someone who's described as eldest in their family was born first. Your eldest si
 - My eldest son calls it 'Mummy's smiley face'.
 
 # clan
-/klæn/ 
+**/klæn/**
 A clan is an extended family. Your clan might include your parents and siblings, but also your cousins and second cousins, aunts and uncles, and grandparents.
 ### Definition
 - n: group of people related by blood or marriage
@@ -79,7 +79,7 @@ A clan is an extended family. Your clan might include your parents and siblings,
 - And that was just some of the clan’s style news.
 
 # interrogation
-/ɪnterəgeɪʃən/ 
+**/ɪnterəgeɪʃən/**
 An interrogation is a question or an intense questioning session. Police do interrogations of suspects all the time.
 ### Definition
 - n: an instance of questioning
@@ -98,7 +98,7 @@ An interrogation is a question or an intense questioning session. Police do inte
 - He also underwent questioning by a special Marine interrogation squad.
 
 # proportional
-/prəpɔːʳʃənəl/ 
+**/prəpɔːʳʃənəl/**
 The adjective proportional describes something that has a relative size or amount to something else. When you're a mom, you know it's best to make sure chores are given out proportional amounts according to age and size of your kids.
 ### Definition
 - adj: having a constant ratio
@@ -117,7 +117,7 @@ The adjective proportional describes something that has a relative size or amoun
 - The centrifugal force is proportional to the radius of your circular path.
 
 # juncture
-/dʒʌŋktʃəʳ/ 
+**/dʒʌŋktʃəʳ/**
 A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically.
 ### Definition
 - n: the shape or manner in which things come together and a connection is made
@@ -131,7 +131,7 @@ A juncture is a crucial point in time when a decision must be made. At this junc
 - But they are particularly unwelcome at this juncture for China’s leader, Xi Jinping.
 
 # pulse
-/pʌls/ 
+**/pʌls/**
 The word pulse has many shades of meaning, but most of them involve something characterized by short, rhythmic bursts. If you’re angry, the muscles in your jaw might pulse — meaning they contract quickly in short bursts.
 ### Definition
 - n: the rhythmic contraction and expansion of the arteries with each beat of the heart
@@ -152,7 +152,7 @@ The word pulse has many shades of meaning, but most of them involve something ch
 - Mr. Thomas and the bride formally met one day earlier, when he suggested she grip his wrist, where his pulse is strongest.
 
 # epilepsy
-/epɪlepsi/ 
+**/epɪlepsi/**
 If you have epilepsy, you have a central nervous system disorder that may cause you to lose consciousness and have convulsions.
 ### Definition
 - n: a disorder of the central nervous system characterized by loss of consciousness and convulsions

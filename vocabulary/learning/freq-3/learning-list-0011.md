@@ -1,5 +1,5 @@
 # junk
-/dʒʌŋk/ 
+**/dʒʌŋk/**
 Junk is trash, debris, or garbage — it's something that's left behind or thrown away because it's not wanted. You might view the broken toaster as junk, while your sister sees it as an interesting repair project.
 ### Definition
 - n: the remains of something that has been destroyed or broken up
@@ -31,7 +31,7 @@ To lure is to entice or bait someone. A lure is used to bait or entice fish to a
 - In Davao City, he helped lure investors, dramatically cut red tape and fired inept officials.
 
 # constraint
-/kənstreɪnt/ 
+**/kənstreɪnt/**
 A constraint is a limit or restriction. Hopefully your school won't cut the sports or music programs due to budget constraints!
 ### Definition
 - n: the state of being physically constrained
@@ -45,7 +45,7 @@ A constraint is a limit or restriction. Hopefully your school won't cut the spor
 - With a higher risk of unemployment, rising inflation and "affordability constraints", housing demand was likely to be curbed, Mr Ellis said.
 
 # ramp
-/ræmp/ 
+**/ræmp/**
 A ramp is a slope or an incline, a surface that tilts from one level to another. Someone using a wheelchair might need a ramp to get from the doorway of a building down to its parking lot.
 ### Definition
 - n: an inclined surface connecting two levels
@@ -67,7 +67,7 @@ A ramp is a slope or an incline, a surface that tilts from one level to another.
 - With reports of rising incidents of Islamophobia and anti-Semitism during the 2016 campaign, activists will need to ramp up their efforts to counter bigotry.
 
 # scarce
-/skeəʳs/ 
+**/skeəʳs/**
 If something is scarce, there isn't much of it around. Crops are scarce after a long drought, or you might find babysitters scarce if your kids are a nightmare to watch.
 ### Definition
 - adj: deficient in quantity or number compared with the demand
@@ -81,7 +81,7 @@ If something is scarce, there isn't much of it around. Crops are scarce after a 
 - But precipitation remains scarce in isolated areas, including some New Mexico mountains.
 
 # trajectory
-/trədʒektəri/ 
+**/trədʒektəri/**
 If you stay on your current trajectory of constant shopping, dining out, and yacht rentals, you'll end up broke. A trajectory is the path of an object through space, or the path of life that a person chooses.
 ### Definition
 - n: the path followed by an object moving through space
@@ -93,7 +93,7 @@ If you stay on your current trajectory of constant shopping, dining out, and yac
 - This is the year that Brexit turns from conjecture into trajectory.
 
 # surplus
-/sɜːʳpləs/ 
+**/sɜːʳpləs/**
 A surplus is something extra or left over. If your tree produces more apples than you can eat, you can make applesauce with the surplus of apples.
 ### Definition
 - n: a quantity much larger than is needed
@@ -106,7 +106,7 @@ A surplus is something extra or left over. If your tree produces more apples tha
 - He added that he expects a "further surplus" once accounts for the event are finalised.
 
 # austerity
-/ɔːsterɪti/ 
+**/ɔːsterɪti/**
 If you've ever had a teacher who was particularly stern and strict, you might have (quietly) remarked on his austerity. When you're talking about the character of a person, austerity means "sternness and severity."
 ### Definition
 - n: the trait of great self-denial (especially refraining from worldly pleasures)

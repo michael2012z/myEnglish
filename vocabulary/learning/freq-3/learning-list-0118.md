@@ -1,5 +1,5 @@
 # refute
-/rɪfjuːt/ 
+**/rɪfjuːt/**
 The verb refute is to prove that something is wrong. When the kids you're babysitting swear they brushed their teeth, you can refute their claim by presenting the dry toothbrushes.
 ### Definition
 - v: overthrow by argument, evidence, or proof
@@ -16,7 +16,7 @@ The verb refute is to prove that something is wrong. When the kids you're babysi
 - The data that scientists are rushing to preserve clearly refutes those who say there is no warming — hence the urgency to protect the information.
 
 # pamphlet
-/pæmflət/ 
+**/pæmflət/**
 A pamphlet is a little booklet with a soft (usually paper) cover that briefly addresses a particular subject of interest.
 ### Definition
 - n: a small book usually having a paper cover
@@ -30,7 +30,7 @@ A pamphlet is a little booklet with a soft (usually paper) cover that briefly ad
 - In 2013, New Directions published “Two American Scenes,” a poetry pamphlet, for which each writer contributed a piece based on obscure nineteenth-century American texts.
 
 # conquest
-/kɒŋkwest/ 
+**/kɒŋkwest/**
 Alexander the Great's famous conquest of the Persian Empire was an act of conquering. For Casanova, on the other hand, a conquest was an act of seduction.
 ### Definition
 - n: the act of conquering
@@ -44,7 +44,7 @@ Alexander the Great's famous conquest of the Persian Empire was an act of conque
 - Hahn paints the latter half of the 19th century as an era of unchecked corporate expansion and imperial conquest.
 
 # hue
-/hjuː/ 
+**/hjuː/**
 Green, orange, yellow, and blue — each of these is a hue, a color or a shade that's true. A rainbow shows the melting of one hue into another, from red to violet, and all shades in between.
 ### Definition
 - n: the quality of a color as determined by its dominant wavelength
@@ -58,7 +58,7 @@ Green, orange, yellow, and blue — each of these is a hue, a color or a shade t
 - “His wife thought he was dead in the Battle of Hue City.”
 
 # deception
-/dɪsepʃən/ 
+**/dɪsepʃən/**
 Deception is a trick or scheme used to get what you want, like the deception you used to get your sister to agree to do all your chores for a month.
 ### Definition
 - n: a misleading falsehood
@@ -77,7 +77,7 @@ Deception is a trick or scheme used to get what you want, like the deception you
 - Attuned to the deception, United States immigration officials put Chinese arrivals through a formidable inquisition to ensure they were who they claimed to be.
 
 # maiden
-/meɪdən/ 
+**/meɪdən/**
 A maiden is an old-fashioned term a girl or an unmarried young woman. If you see the words "Fair maiden!' you're probably reading a fairy tale.
 ### Definition
 - n: an unmarried girl (especially a virgin)
@@ -93,7 +93,7 @@ A maiden is an old-fashioned term a girl or an unmarried young woman. If you see
 - But after he reached his maiden century, the 25-year-old right-hander began to sparkle.
 
 # shrewd
-/ʃruːd/ 
+**/ʃruːd/**
 If you are shrewd in your spending, you can make a small salary go a long way. Use the adjective shrewd to describe a person or thing that is smart or clever in a practical sort of way.
 ### Definition
 - adj: marked by practical hardheaded intelligence
@@ -106,7 +106,7 @@ If you are shrewd in your spending, you can make a small salary go a long way. U
 - It’s her character’s job to be the rational one, the shrewd warrior who uses logic and calm in the face of nature’s thuggishness.
 
 # innocuous
-/ɪnɒkjuəs/ 
+**/ɪnɒkjuəs/**
 Something that's innocuous isn't harmful or likely to cause injury. Public figures like mayors and governors have to expect they'll get critical or even hurtful emails and phone calls, as well as more innocuous feedback.
 ### Definition
 - adj: not injurious to physical or mental health
@@ -120,7 +120,7 @@ Something that's innocuous isn't harmful or likely to cause injury. Public figur
 - Any sign of difference in social norms among a younger generation is not innocuous change, and it is surely not evidence of growth.
 
 # intercept
-/ɪntəʳsept/ 
+**/ɪntəʳsept/**
 When you intercept a pass in football, you grab the ball that your opponent had thrown to a member of his own team. To intercept is to stop something from reaching its intended destination.
 ### Definition
 - v: seize on its way
@@ -136,7 +136,7 @@ When you intercept a pass in football, you grab the ball that your opponent had 
 - Kirk Cousins’ stepped up in the pocket, threw over the middle and Dominique Rodgers-Cromartie stepped in front to intercept.
 
 # conversational
-/kɒnvəʳseɪʃənəl/ 
+**/kɒnvəʳseɪʃənəl/**
 ### Definition
 - adj: characteristic of informal spoken language or conversation
 ### Family

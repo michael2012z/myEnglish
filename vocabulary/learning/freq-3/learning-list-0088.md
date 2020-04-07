@@ -1,5 +1,5 @@
 # torch
-/tɔːʳtʃ/ 
+**/tɔːʳtʃ/**
 A torch is a handheld light. Although flashlights are sometimes called "torches," technically a torch has a burning flame.
 ### Definition
 - n: a light usually carried in the hand; consists of some flammable substance
@@ -15,7 +15,7 @@ A torch is a handheld light. Although flashlights are sometimes called "torches,
 - You’ve got to be wired a little bit different to even carry the torch, it’s a great honor when it’s yours.
 
 # spear
-/spɪəʳ/ 
+**/spɪəʳ/**
 A spear consists of a long shaft that has a sharp point at one end. You might use one to go spear fishing, but that's about it. Spears are no longer the weapon of choice.
 ### Definition
 - n: a long pointed rod used as a tool or weapon
@@ -30,7 +30,7 @@ A spear consists of a long shaft that has a sharp point at one end. You might us
 - It’s not somber scientists who drive human ingenuity, nor the warrior class and its quest for a better spear.
 
 # prosper
-/prɒspəʳ/ 
+**/prɒspəʳ/**
 As any fan of Star Trek knows, “live long and prosper” is good advice. The verb prosper means to do well, succeed, or thrive.
 ### Definition
 - v: make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
@@ -42,7 +42,7 @@ As any fan of Star Trek knows, “live long and prosper” is good advice. The v
 - Aberdeen prospered by being assertive and more certain in their attacking play.
 
 # shabby
-/ʃæbi/ 
+**/ʃæbi/**
 The adjective shabby describes something that is threadbare or worn out. Your last apartment was clean, but the furniture and carpets were so shabby that you were embarrassed to invite your friends over.
 ### Definition
 - adj: showing signs of wear and tear
@@ -56,7 +56,7 @@ The adjective shabby describes something that is threadbare or worn out. Your la
 - “When kids see a guy in a shabby suit and a beard hanging down past his face, it just isn’t believable,” Gable said.
 
 # roadside
-/roʊdsaɪd/ 
+**/roʊdsaɪd/**
 ### Definition
 - n: edge of a way or road or path
 ### Family
@@ -67,7 +67,7 @@ The adjective shabby describes something that is threadbare or worn out. Your la
 - Taliban insurgents frequently usually use roadside bombs to attack Afghan security forces in different parts of the country, particularly the volatile southern region.
 
 # hymn
-/hɪm/ 
+**/hɪm/**
 A hymn is a religious song, especially one praising God. People often sing hymns during church services.
 ### Definition
 - n: a song of praise (to God or to a saint or to a nation)
@@ -81,7 +81,7 @@ A hymn is a religious song, especially one praising God. People often sing hymns
 - Through a series of readings from scripture, congregational hymns, choral anthems and instrumental music, we move from creation to the manger in Bethlehem.
 
 # promoter
-/prəmoʊtəʳ/ 
+**/prəmoʊtəʳ/**
 If you’ve been trying to get anyone and everyone to go see your friend’s band perform, then you could call yourself a promoter of that band. A promoter is a supporter, advocate, or booster for a person, group, or event.
 ### Definition
 - n: someone who is an active supporter and advocate
@@ -98,7 +98,7 @@ If you’ve been trying to get anyone and everyone to go see your friend’s ban
 - Promoters wasted little time, organizing a high-profile event at Madison Square Garden only a few months after the ban was lifted.
 
 # grin
-/grɪn/ 
+**/grɪn/**
 ### Definition
 - v: to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
 - n: a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement
@@ -112,7 +112,7 @@ If you’ve been trying to get anyone and everyone to go see your friend’s ban
 - About 35 minutes after Seacrest’s initial post he sent a video of a grinning New York firefighter prying open the elevator doors to cheers.
 
 # chorus
-/kɔːrəs/ 
+**/kɔːrəs/**
 A chorus is a group of singers or that catchy part of a song that repeats several times.
 ### Definition
 - n: a company of actors who comment (by speaking or singing in unison) on the action in a classical Greek play
@@ -130,7 +130,7 @@ A chorus is a group of singers or that catchy part of a song that repeats severa
 - Beneath brightly colored pictures featuring a wounded heart with wings, a chorus of students sang Michael Jackson’s “Man in the Mirror.”
 
 # earnest
-/ɜːʳnɪst/ 
+**/ɜːʳnɪst/**
 If you are earnest, it means you are serious about something. Your parents might not want you to drop out of school to follow some fly-by-night dream, but if you're earnest about wanting a career in show biz, they'll support you.
 ### Definition
 - adj: characterized by a firm and humorless belief in the validity of your opinions

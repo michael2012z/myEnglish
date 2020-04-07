@@ -1,5 +1,5 @@
 # congregation
-/kɒŋgrɪgeɪʃən/ 
+**/kɒŋgrɪgeɪʃən/**
 Although the word is most usually assigned to the members of a church, any gathering might be called a congregation, including a gathering of animals. Come to think of it, a congregation of church members is often called a "flock."
 ### Definition
 - n: the act of congregating
@@ -16,7 +16,7 @@ Although the word is most usually assigned to the members of a church, any gathe
 - Professor Smith soon became president of a Hindu society and associate minister of a Methodist congregation in St. Louis.
 
 # rivalry
-/raɪvəlri/ 
+**/raɪvəlri/**
 Rivalry is the act of competing for the same thing against another person. Your rivalry with your older sister is amusing to the family but very annoying to her.
 ### Definition
 - n: the act of competing as for profit or a prize
@@ -32,7 +32,7 @@ Rivalry is the act of competing for the same thing against another person. Your 
 - Imagine, if you will, the Cowboys and Pittsburgh Steelers facing off in the Super Bowl in a reprise of their 1970s rivalry.
 
 # diffuse
-/dɪfjuːz/ 
+**/dɪfjuːz/**
 Diffuse mean spread out, or the action of spreading out. If lots of people in school believe invisible angels are everywhere, you could say that opinion is diffuse. You might even think angels are diffuse as well.
 ### Definition
 - adj: spread out; not concentrated in one place
@@ -54,7 +54,7 @@ Diffuse mean spread out, or the action of spreading out. If lots of people in sc
 - The next morning, the woman’s husband arrived at the hospital, enveloped in the same diffuse, blanching rash.
 
 # asymmetric
-/eɪsɪmetrɪk/ 
+**/eɪsɪmetrɪk/**
 You describe something as asymmetric when it lacks the mirror-image quality of symmetry. That dress your sister sewed for you may appear stylishly asymmetric, but really the reason the sleeves are different lengths is because she doesn’t know how to use a tape measure.
 ### Definition
 - adj: characterized by asymmetry in the spatial arrangement or placement of parts or components
@@ -67,7 +67,7 @@ You describe something as asymmetric when it lacks the mirror-image quality of s
 - I hope that Mr. Trump’s asymmetric, weirdly brazen dishonesty has broken reporters of the bad habits of false equivalency, euphemism and forced balance.
 
 # tentative
-/tentətɪv/ 
+**/tentətɪv/**
 Choose the adjective tentative to describe something you are unsure or hesitant about. On Monday, you can make tentative plans for the weekend, but it's too early to commit to one party or another.
 ### Definition
 - adj: unsettled in mind or opinion
@@ -80,7 +80,7 @@ Choose the adjective tentative to describe something you are unsure or hesitant 
 - She is free yet guarded, proud yet insecure, forceful yet tentative, cynical yet naive.
 
 # devastation
-/devəsteɪʃən/ 
+**/devəsteɪʃən/**
 When there's devastation, there's terrible destruction. You can see the devastation from a violent hurricane and feel devastation over all the people that were injured.
 ### Definition
 - n: the state of being decayed or destroyed
@@ -98,7 +98,7 @@ When there's devastation, there's terrible destruction. You can see the devastat
 - And when some of Ben’s choices lead to disastrous consequences, the nakedness of his devastation is painful to watch.
 
 # abide
-/əbaɪd/ 
+**/əbaɪd/**
 Abide means to be able to live with, or stand. If you can't abide with something, it means you can't stand it. If you can abide it, it means you can live with it.
 ### Definition
 - v: dwell
@@ -112,7 +112,7 @@ Abide means to be able to live with, or stand. If you can't abide with something
 - Ray painstakingly tries to abide by all the rules, but that doesn’t mean tensions can’t run high when the board decides to drop in.
 
 # sabotage
-/sæbətɑːʒ/ 
+**/sæbətɑːʒ/**
 Sabotage isn't very nice: It's when you ruin or disrupt something by messing up a part of it on purpose. Loosening the blades on your competitor's ice skates would definitely be considered sabotage.
 ### Definition
 - n: a deliberate act of destruction or disruption in which equipment is damaged
@@ -125,7 +125,7 @@ Sabotage isn't very nice: It's when you ruin or disrupt something by messing up 
 - It said the evidence points to human error, not technical problems or sabotage.
 
 # affinity
-/əfɪnɪti/ 
+**/əfɪnɪti/**
 If you get along with someone very well, you have an affinity with them. Sometimes opposites attract, so you might feel a strange affinity to someone who is seemingly very different from you.
 ### Definition
 - n: a natural attraction or feeling of kinship
@@ -144,7 +144,7 @@ If you get along with someone very well, you have an affinity with them. Sometim
 - But it is Mr Trump’s affinity with Mr Putin, rather than Russia’s active measures, that helped him win.
 
 # murmur
-/mɜːʳməʳ/ 
+**/mɜːʳməʳ/**
 A murmur is a quiet, blurred sound often heard from a distance. It can be comforting when you're little to fall asleep listening to the murmur of your parents talking downstairs.
 ### Definition
 - n: a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech

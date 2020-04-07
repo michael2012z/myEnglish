@@ -1,5 +1,5 @@
 # pillar
-/pɪləʳ/ 
+**/pɪləʳ/**
 If someone describes you as a pillar of strength, he's saying you're reliable and supportive, much like a pillar or column of a building that helps hold the structure up.
 ### Definition
 - n: (architecture) a tall vertical cylindrical structure standing upright and used to support a structure
@@ -15,7 +15,7 @@ If someone describes you as a pillar of strength, he's saying you're reliable an
 - Each of the nine letters in “UCC Strong” rest on the front face of the pillars.
 
 # compulsory
-/kəmpʌlsəri/ 
+**/kəmpʌlsəri/**
 When something is compulsory, it is required or must be done. In most states, it's compulsory for kids to attend school (or an equivalent homeschool) from age six to seventeen.
 ### Definition
 - adj: required by rule
@@ -27,7 +27,7 @@ When something is compulsory, it is required or must be done. In most states, it
 - It isn’t compulsory to earn more money, achieve more goals, realise our potential on every dimension, or fit more in.
 
 # affluent
-/æfluənt/ 
+**/æfluənt/**
 You know you're driving through an affluent neighborhood when you see large houses, perfect landscaping, and expensive cars. Use affluent to describe wealthy people or areas.
 ### Definition
 - adj: having an abundant supply of money or possessions of value
@@ -42,7 +42,7 @@ You know you're driving through an affluent neighborhood when you see large hous
 - Romney–Clinton counties were especially affluent, though, with a median home price above $300,000 — twice that of the typical county carried by Trump.
 
 # colossal
-/kəlɒsəl/ 
+**/kəlɒsəl/**
 Colossal describes something so large it makes you say, "Whoa!" You might have a colossal amount of homework, or see a colossal pyramid while vacationing in Egypt.
 ### Definition
 - adj: so great in size or force or extent as to elicit awe
@@ -54,7 +54,7 @@ Colossal describes something so large it makes you say, "Whoa!" You might have a
 - I’m more concerned conceptually with how to power such a colossal battle station and how to generate gravity for everyone on board.
 
 # sow
-/soʊ/ 
+**/soʊ/**
 When you plant seeds in the ground, you sow them. You can also sow things like doubts or ideas, simply by spreading them around. If your ideas (or your seeds) develop and grow, you've successfully sown them.
 ### Definition
 - v: place (seeds) in or on the ground for future growth
@@ -72,7 +72,7 @@ When you plant seeds in the ground, you sow them. You can also sow things like d
 - His key argument focuses on sowing doubt about the accuracy of climate models.
 
 # peasant
-/pezənt/ 
+**/pezənt/**
 If you enjoy reading tales set in the Middle Ages, you’ve probably encountered your fair share of knights, dragons, and peasants, or residents of the countryside.
 ### Definition
 - n: one of a (chiefly European) class of agricultural laborers
@@ -86,7 +86,7 @@ If you enjoy reading tales set in the Middle Ages, you’ve probably encountered
 - The decline that began then was not caused by manufactured imports from today’s designated villain, China, which was a peasant society.
 
 # influx
-/ɪnflʌks/ 
+**/ɪnflʌks/**
 If there is a forceful flowing inward or coming in, you can say there is an influx. Every fall, the college town sees an influx of students and the population jumps 30 percent.
 ### Definition
 - n: the process of flowing in
@@ -100,7 +100,7 @@ If there is a forceful flowing inward or coming in, you can say there is an infl
 - They still are quarreling over how to handle a mass influx of migrants from the Middle East and Africa.
 
 # prudent
-/pruːdənt/ 
+**/pruːdənt/**
 Describe an action as prudent if it is the wise thing to do under the existing circumstances. If you're getting in trouble, it is probably prudent to keep your mouth closed and just listen.
 ### Definition
 - adj: careful and sensible; marked by sound judgment
@@ -131,7 +131,7 @@ A chant is a type of song with a repetitive, monotonous structure. It’s also s
 - Fans in Denver, anticipating his departure, chanted “Kooooobes” with less than a minute left in the game.
 
 # foul
-/faʊl/ 
+**/faʊl/**
 Foul is most commonly used as an adjective to describe a bad smell. As a verb, foul usually means “make dirty or messy.” You might foul your room to the point where it smells a bit foul.
 ### Definition
 - adj: highly offensive; arousing aversion or disgust

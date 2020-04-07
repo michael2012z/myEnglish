@@ -1,5 +1,5 @@
 # wary
-/weəri/ 
+**/weəri/**
 Describe yourself as wary if you don't quite trust someone or something and want to proceed with caution. Be wary of risky things like wild mushrooms and Internet deals!
 ### Definition
 - adj: marked by keen caution and watchful prudence
@@ -14,7 +14,7 @@ Describe yourself as wary if you don't quite trust someone or something and want
 - While he’s wary of the government, “No matter what, they are still better than Daesh,” he said.
 
 # sack
-/sæk/ 
+**/sæk/**
 A sack is a bag. In some parts of the country, store clerks put your stuff in a sack, but in other parts the same stuff goes in a bag. Sack is also an exciting verb.
 ### Definition
 - n: a bag made of paper or plastic for holding customer's purchases
@@ -40,7 +40,7 @@ A sack is a bag. In some parts of the country, store clerks put your stuff in a 
 - Manning was limited to 199 yards passing and was sacked three times.
 
 # revive
-/rɪvaɪv/ 
+**/rɪvaɪv/**
 To revive something is to provide it with new energy or life, like when you revive a drooping plant by watering it, or when you revive a boring party by breaking out the karaoke machine.
 ### Definition
 - v: cause to regain consciousness
@@ -61,7 +61,7 @@ To revive something is to provide it with new energy or life, like when you revi
 - The figure was revived again in the 2016 presidential election.
 
 # concession
-/kənseʃən/ 
+**/kənseʃən/**
 The noun concession comes in handy in negotiations — between countries, political parties, or even parents and their kids. Want a raise in your allowance? You may have to agree to do more chores as a concession before your parents will agree.
 ### Definition
 - n: the act of conceding or yielding
@@ -77,7 +77,7 @@ The noun concession comes in handy in negotiations — between countries, politi
 - The one concession will be that the game will be broadcast with a five-second delay — just enough time to censor any colorful language.
 
 # owe
-/oʊ/ 
+**/oʊ/**
 People owe things when they're in debt to someone. A friend can owe you a favor, and your employer owes you a paycheck.
 ### Definition
 - v: be obliged to pay or repay
@@ -102,7 +102,7 @@ A turbine is a device used to generate energy as a flowing liquid causes a blade
 - Last December, Trump lost his appeal against the turbines at the supreme court.
 
 # drastic
-/dræstɪk/ 
+**/dræstɪk/**
 Something that is drastic is violent, forceful, and extreme. If you are saving for a car and you only have $50, you need to make a drastic change to your money accumulation scheme.
 ### Definition
 - adj: forceful and extreme and rigorous
@@ -114,7 +114,7 @@ Something that is drastic is violent, forceful, and extreme. If you are saving f
 - I was very hesitant about a drastic step such as removing his anal glands, so I started researching, trying to find alternative causes.
 
 # tackle
-/tækəl/ 
+**/tækəl/**
 To tackle a challenge means taking it on, so if you set out to tackle the classics of English literature, you should be prepared spend a lot of time in the library.
 ### Definition
 - v: seize and throw down an opponent player, who usually carries the ball
@@ -134,7 +134,7 @@ To tackle a challenge means taking it on, so if you set out to tackle the classi
 - Beyond defining its scope, there are competing ideas about what a convention should tackle.
 
 # enact
-/ɪnækt/ 
+**/ɪnækt/**
 You often hear that Congress is going to enact a new statute, which means that they will make it into a law. But enact also means to perform, like in a play. (Makes you wonder if the lawmakers are actors!)
 ### Definition
 - v: order by virtue of superior authority; decree
@@ -180,7 +180,7 @@ You often hear that Congress is going to enact a new statute, which means that t
 - Farah’s arrest was the result of a new policy enacted a few years prior.
 
 # compound
-/kɒmpaʊnd/ 
+**/kɒmpaʊnd/**
 If you compound a problem you add something to it to make it worse, like say, putting water on a grease fire. Compound means to combine; a compound is a combination or mixture of two or more things.
 ### Definition
 - n: a whole formed by a union of two or more elements or parts

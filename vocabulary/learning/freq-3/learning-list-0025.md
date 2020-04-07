@@ -1,5 +1,5 @@
 # steer
-/stɪəʳ/ 
+**/stɪəʳ/**
 In defining steer, I would steer clear of complicated examples and just say: to steer is to control which direction one is going.
 ### Definition
 - v: be a guiding or motivating force or drive
@@ -36,7 +36,7 @@ The point where two things split off from each other is called a divergence. Whe
 - “Divergence can’t get too wide without the dollar getting too strong,” he said, adding that will slow upward movement on U.S. rates.
 
 # stigma
-/stɪgmə/ 
+**/stɪgmə/**
 If something has a negative association attached to it, call this a stigma. Bed-wetting can lead to a social stigma for a six year old, while chewing tobacco might have the same effect for a sixty year old.
 ### Definition
 - n: a symbol of disgrace or infamy
@@ -54,7 +54,7 @@ If something has a negative association attached to it, call this a stigma. Bed-
 - And yet she did much to dispel the stigma around mental illness, even cheekily proposing a Bipolar Pride Day.
 
 # metropolitan
-/metrəpɒlɪtən/ 
+**/metrəpɒlɪtən/**
 The adjective metropolitan describes something that's characteristic of a city. You really enjoy metropolitan life — there's always something happening, and you can walk or take the subway anywhere you want to go.
 ### Definition
 - adj: relating to or characteristic of a metropolis
@@ -69,7 +69,7 @@ The adjective metropolitan describes something that's characteristic of a city. 
 - The Metropolitan Police Department said in a news release that 28-year-old Shawn J. Brown was arrested Saturday and charged with second-degree murder.
 
 # derivative
-/dɪrɪvətɪv/ 
+**/dɪrɪvətɪv/**
 Alert: shifting parts of speech! As a noun, a derivative is kind of financial agreement or deal. As an adjective, though, derivative describes something that borrows heavily from something else that came before it.
 ### Definition
 - n: a compound obtained from, or regarded as derived from, another compound
@@ -88,7 +88,7 @@ Alert: shifting parts of speech! As a noun, a derivative is kind of financial ag
 - Other settlements were reached with varying groups of banks over cartels related to derivatives and benchmarks in Swiss francs and yen.
 
 # disregard
-/dɪsrɪgɑːʳd/ 
+**/dɪsrɪgɑːʳd/**
 If everyone at the city council meeting tends to disregard anything that's said by the eccentric gentleman with the parrot on his shoulder, it means that no one pays any attention to him.
 ### Definition
 - n: lack of attention and due care
@@ -107,7 +107,7 @@ If everyone at the city council meeting tends to disregard anything that's said 
 - Spencer: When society disregards the contributions of any people, it reflects badly.
 
 # sibling
-/sɪblɪŋ/ 
+**/sɪblɪŋ/**
 A sibling is your brother or sister. It's that simple.
 ### Definition
 - n: a person's brother or sister
@@ -119,7 +119,7 @@ A sibling is your brother or sister. It's that simple.
 - In the past, the presidents’ siblings and sons, while holding no official titles, often wielded enormous power as “junior presidents.”
 
 # commonplace
-/kɒmənpleɪs/ 
+**/kɒmənpleɪs/**
 Something commonplace is ordinary. It can also be something dull and unchallenging or tired and clichéd. Coffee shops in cities are commonplace, so are berets in Paris. You see them all over the place.
 ### Definition
 - adj: completely ordinary and unremarkable
@@ -135,7 +135,7 @@ Something commonplace is ordinary. It can also be something dull and unchallengi
 - In 2016, robots became more commonplace in warehouses, factories and public spaces, like malls.
 
 # fracture
-/fræktʃəʳ/ 
+**/fræktʃəʳ/**
 Think of something hard breaking in a crisp, snapping manner, and you've just imagined a fracture. The word is most often applied to a broken bone, but it can used to describe any sharp, sudden break of something solid.
 ### Definition
 - n: breaking of hard tissue such as bone

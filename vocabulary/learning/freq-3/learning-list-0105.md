@@ -12,7 +12,7 @@ An excursion is taken more for pleasure than for practical reasons. Your busines
 - “The hunting/fishing excursion is not confirmed and is not something we are offering to sponsors.”
 
 # toil
-/tɔɪl/ 
+**/tɔɪl/**
 Toil is another word for work. You toil as a customer service rep all day, but you'd prefer to work as a rock goddess. Unfortunately, there weren't many ads in the employment section for goddesses — rock or otherwise.
 ### Definition
 - v: work hard
@@ -28,7 +28,7 @@ Toil is another word for work. You toil as a customer service rep all day, but y
 - "The president is not simply working, he's toiling. And I respect him for that."
 
 # lounge
-/laʊndʒ/ 
+**/laʊndʒ/**
 It's hard to lounge, or recline comfortably, in the lounge, or waiting area, of an airport terminal. Maybe they shouldn't call it a lounge.
 ### Definition
 - v: sit or recline comfortably
@@ -44,7 +44,7 @@ It's hard to lounge, or recline comfortably, in the lounge, or waiting area, of 
 - Better to opt for the petite pool, where an inflatable gold swan bobs next to the chic lounge.
 
 # unaffected
-/ʌnəfektɪd/ 
+**/ʌnəfektɪd/**
 When bad weather or a mean aunt or some other force takes over and you still don't change, you're unaffected. If your party was unaffected by the rain and Aunt Emma's no-fun attitude, then everyone probably had a good time.
 ### Definition
 - adj: undergoing no change when acted upon
@@ -67,7 +67,7 @@ When bad weather or a mean aunt or some other force takes over and you still don
 - Yet for all their fame and influence, Kahneman and Tversky’s own discipline, psychology, remained somehow unaffected by the first and founding insight of their partnership.
 
 # incontinence
-/ɪnkɒntɪnəns/ 
+**/ɪnkɒntɪnəns/**
 Incontinence is a lack of control. Sometimes that means you can't help but pee your pants. Another, more pleasant type of incontinence has to do with being undisciplined and addicted to life's pleasures.
 ### Definition
 - n: involuntary urination or defecation
@@ -85,7 +85,7 @@ Incontinence is a lack of control. Sometimes that means you can't help but pee y
 - More of us will dwindle away, and succumb to dementia, incontinence, loss of mobility and chronic or acute pain.
 
 # manoeuvre
-/mənuːvəʳ/ 
+**/mənuːvəʳ/**
 ### Definition
 - n: a military training exercise
 - n: a plan for attaining a particular goal
@@ -104,7 +104,7 @@ Incontinence is a lack of control. Sometimes that means you can't help but pee y
 - “Experienced people still failed to dislodge the obstruction with non-invasive first aid manoeuvres,” Cooper added.
 
 # infantry
-/ɪnfəntri/ 
+**/ɪnfəntri/**
 Armies usually contain different divisions for different purposes. For example, soldiers on horseback belong to the Cavalry, those who work in communications are in the Signal Corps, and soldiers specially trained to fight on foot are members of the Infantry.
 ### Definition
 - n: an army unit consisting of soldiers who fight on foot
@@ -116,7 +116,7 @@ Armies usually contain different divisions for different purposes. For example, 
 - Asencio served in Mosul during the initial invasion, first to provide artillery support and then as infantry.
 
 # demarcation
-/diːmɑːʳkeɪʃən/ 
+**/diːmɑːʳkeɪʃən/**
 A demarcation is a line, boundary, or other conceptual separation between things. Geographically, a demarcation might be the border that separates two countries or the river that divides two regions.
 ### Definition
 - n: the boundary of a specific area
@@ -130,7 +130,7 @@ A demarcation is a line, boundary, or other conceptual separation between things
 - The greatest threat today is a border between Russia and Estonia—traditionally more of a suggestion than a demarcation—that divides the Setos.
 
 # retribution
-/retrɪbjuːʃən/ 
+**/retrɪbjuːʃən/**
 Retribution is the act of taking revenge. If you pull a prank on someone, expect retribution.
 ### Definition
 - n: a justly deserved penalty
@@ -144,7 +144,7 @@ Retribution is the act of taking revenge. If you pull a prank on someone, expect
 - He added: “So there is a question about whether there’s a political retribution here versus a diplomatic response.”
 
 # reinforcement
-/riːɪnfɔːʳsmənt/ 
+**/riːɪnfɔːʳsmənt/**
 Reinforcement is a way to learn and remember things, like a student who repeats the facts he has studied for a test over and over, or the ways we praise children when they share their toys or say "please" and "thank you" — reinforcement of the good manners we want them to use.
 ### Definition
 - n: an act performed to strengthen approved behavior

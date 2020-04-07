@@ -1,5 +1,5 @@
 # melt
-/melt/ 
+**/melt/**
 To melt means to fade away slowly and disappear, like a snowman in the middle of the Sahara.
 ### Definition
 - v: reduce or cause to be reduced from a solid to a liquid state, usually by heating
@@ -20,7 +20,7 @@ To melt means to fade away slowly and disappear, like a snowman in the middle of
 - Continue stirring until the cheese is completely melted.
 
 # projection
-/prədʒekʃən/ 
+**/prədʒekʃən/**
 When you push something away from a central structure, that's called projection. If you predict that the Jets will win tomorrow's game, that's a projection, too — you're pushing your mind away from the present and into the future.
 ### Definition
 - n: the act of expelling or projecting or ejecting
@@ -44,7 +44,7 @@ When you push something away from a central structure, that's called projection.
 - Historic buildings across the city will become backdrops for projections illustrating the history of Hull.
 
 # stray
-/streɪ/ 
+**/streɪ/**
 Little Red Riding Hood strayed from the path and ended up getting eaten by the Big Bad Wolf. When you stray, you wander off without paying attention to where you're going, and sometimes you get in trouble.
 ### Definition
 - v: wander from a direct course or at random
@@ -62,7 +62,7 @@ Little Red Riding Hood strayed from the path and ended up getting eaten by the B
 - A stray backpack prompted the partial evacuation of the tower Tuesday.
 
 # weed
-/wiːd/ 
+**/wiːd/**
 ### Definition
 - n: any plant that crowds out cultivated plants
 - n: street names for marijuana
@@ -78,7 +78,7 @@ Little Red Riding Hood strayed from the path and ended up getting eaten by the B
 - Those are some of the measures taken at The Ed Weed Fish Hatchery in South Hero, to protect nearby Lake Champlain.
 
 # blockade
-/blɒkeɪd/ 
+**/blɒkeɪd/**
 A blockade is an obstacle that stands between you and something you're trying to reach. After a robbery, police might set up a blockade around the neighborhood to catch the thief.
 ### Definition
 - n: a war measure that isolates some area of importance to the enemy
@@ -95,7 +95,7 @@ A blockade is an obstacle that stands between you and something you're trying to
 - But among the runners, the molecular blockade was much less effective.
 
 # pornography
-/pɔːʳnɒgrəfi/ 
+**/pɔːʳnɒgrəfi/**
 Pornography is sexual material — movies, books, songs, etc. — that are 100% about sex. They have no other value.
 ### Definition
 - n: creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire
@@ -109,7 +109,7 @@ Pornography is sexual material — movies, books, songs, etc. — that are 100% 
 - An earlier study in the Journal of Sexual Medicine linked the phenomenon to the availability of pornography.
 
 # petition
-/pətɪʃən/ 
+**/pətɪʃən/**
 If you're angry about the new rule that you have to wear bright pink shoes to work every day, why not write up a petition, get all your co-workers to sign it, and submit it to your boss.
 ### Definition
 - n: a formal message requesting something that is submitted to an authority
@@ -124,7 +124,7 @@ If you're angry about the new rule that you have to wear bright pink shoes to wo
 - One online petition referred to the refugees as “the same people who hate us.”
 
 # abusive
-/əbjuːsɪv/ 
+**/əbjuːsɪv/**
 People or actions that are hurtful or harmful are abusive. Being abusive is one of the worst things a parent — or anyone else — can do.
 ### Definition
 - adj: characterized by physical or psychological maltreatment
@@ -141,7 +141,7 @@ People or actions that are hurtful or harmful are abusive. Being abusive is one 
 - He said the fighters were abusive with the passengers, then beat him, wounded a friend’s hand and then detained them both.
 
 # apex
-/eɪpeks/ 
+**/eɪpeks/**
 When there's no mountain left to climb and nothing but blue sky above, you know you've reached the highest peak — the apex.
 ### Definition
 - n: the highest point (of something)
@@ -154,7 +154,7 @@ When there's no mountain left to climb and nothing but blue sky above, you know 
 - Many countries settle for just an alliterative adjective: Brilliant Barbados, Epic Estonia, Incredible India, Remarkable Rwanda and, at the alliterative apex, Pristine Paradise Palau.
 
 # exotic
-/ɪgzɒtɪk/ 
+**/ɪgzɒtɪk/**
 Something so unusual that it must be from some unfamiliar place is exotic. An exotic pet might be a panda, instead of a hamster. An exotic trip might be a journey to the Galapagos Islands, instead of to Orlando's Sea World.
 ### Definition
 - adj: being or from or characteristic of another place or part of the world

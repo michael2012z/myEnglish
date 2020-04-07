@@ -1,5 +1,5 @@
 # dissolution
-/dɪsəluːʃən/ 
+**/dɪsəluːʃən/**
 The dissolution of a relationship means that it's broken up or ended. The dissolution of your band means you better get started on your solo album.
 ### Definition
 - n: separation into component parts
@@ -19,7 +19,7 @@ The dissolution of a relationship means that it's broken up or ended. The dissol
 - With the dissolution of the Soviet Union in 1991, Mr. Castro faced one of his biggest challenges: surviving without huge Communist subsidies.
 
 # clumsy
-/klʌmzi/ 
+**/klʌmzi/**
 Someone clumsy is a klutz. They're awkward, ungraceful, and walk like they have two left feet. Something hard to handle — like a huge box — is also clumsy.
 ### Definition
 - adj: lacking grace in movement or posture
@@ -35,7 +35,7 @@ Someone clumsy is a klutz. They're awkward, ungraceful, and walk like they have 
 - What about a clumsy, anxious Luddite who's paranoid about slicing someone's ear off?
 
 # pivotal
-/pɪvətəl/ 
+**/pɪvətəl/**
 High school graduation is a pivotal moment in most people's lives — an important point that signifies a shift in direction.
 ### Definition
 - adj: being of crucial importance
@@ -48,7 +48,7 @@ High school graduation is a pivotal moment in most people's lives — an importa
 - Then, in the game’s most pivotal play, Alabama linebacker Ryan Anderson intercepted a poor pass from Browning and returned it 26 yards for a touchdown.
 
 # inventive
-/ɪnventɪv/ 
+**/ɪnventɪv/**
 To be inventive is to be creative. Inventive people are good at using their imaginations.
 ### Definition
 - adj: (used of persons or artifacts) marked by independence and creativity in thought or action
@@ -65,7 +65,7 @@ To be inventive is to be creative. Inventive people are good at using their imag
 - Mixing elements of steampunk with a pro-science message, this inventive French animated adventure is a sophisticated, riveting story about the power of innovation in society.
 
 # elusive
-/ɪluːsɪv/ 
+**/ɪluːsɪv/**
 Things that are elusive are hard to find, pin down, or remember. They slip right out of your grasp.
 ### Definition
 - adj: skillful at eluding capture
@@ -95,7 +95,7 @@ A protagonist is the central character in a story: the protagonist of Huckleberr
 - But both the show’s protagonist and the world she inhabits are underdeveloped.
 
 # vitality
-/vaɪtælɪti/ 
+**/vaɪtælɪti/**
 Are you full of life? Vigorous and energetic? Lucky you. You have vitality, the state of being strong and in great health.
 ### Definition
 - n: the property of being able to survive and grow
@@ -121,7 +121,7 @@ Are you full of life? Vigorous and energetic? Lucky you. You have vitality, the 
 - I'd like to find a little more vitality in my work.
 
 # thirteenth
-/θɜːʳtiːnθ/ 
+**/θɜːʳtiːnθ/**
 ### Definition
 - n: position 13 in a countable series of things
 - adj: coming next after the twelfth in position
@@ -134,7 +134,7 @@ Are you full of life? Vigorous and energetic? Lucky you. You have vitality, the 
 - Shortly after my thirteenth birthday, my mother announced somewhat mysteriously that it was time for me “to get to know the books.”
 
 # delighted
-/dɪlaɪtɪd/ 
+**/dɪlaɪtɪd/**
 You can use the adjective delighted to describe being really pleased or happy with something. Maybe you would be "stoked" about getting backstage passes to a concert, while someone getting backstage passes to the symphony would be delighted.
 ### Definition
 - adj: greatly pleased
@@ -149,7 +149,7 @@ You can use the adjective delighted to describe being really pleased or happy wi
 - It’s a passion Wentz shares with Eagles guard Allen Barbre, who was delighted with his gift, which bears his jersey number and name.
 
 # thirst
-/θɜːʳst/ 
+**/θɜːʳst/**
 ### Definition
 - n: a physiological need to drink
 - n: strong desire for something (not food or drink)

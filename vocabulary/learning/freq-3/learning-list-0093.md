@@ -1,5 +1,5 @@
 # wretched
-/retʃɪd/ 
+**/retʃɪd/**
 The fairy tale Cinderella gives us many examples of uses for the word wretched. Poor Cinderella had a wretched childhood, living in wretched conditions with a wretched stepmother. It would be enough to make anyone feel wretched, or absolutely terrible.
 ### Definition
 - adj: deserving or inciting pity
@@ -16,7 +16,7 @@ The fairy tale Cinderella gives us many examples of uses for the word wretched. 
 - An estimated quarter-million people are trapped in wretched conditions in rebel-held eastern Aleppo since the government sealed its siege of the enclave in late August.
 
 # assimilate
-/əsɪmɪleɪt/ 
+**/əsɪmɪleɪt/**
 If you are trying to fit in, you are trying to assimilate.
 ### Definition
 - v: make similar
@@ -34,7 +34,7 @@ If you are trying to fit in, you are trying to assimilate.
 - But the immigrant reactions to this foreign culture are not monolithic, ranging from an eagerness to assimilate to a desperate need to return home.
 
 # mat
-/mæt/ 
+**/mæt/**
 When you walk into someone else's house, it's polite to wipe your feet on the mat — the pad that covers part of the floor inside the front door.
 ### Definition
 - n: a small pad of material that is used to protect surface from an object placed on it
@@ -67,7 +67,7 @@ When you walk into someone else's house, it's polite to wipe your feet on the ma
 - MAT stock is down 17 percent so far in 2015.
 
 # sec
-/sek/ 
+**/sek/**
 ### Definition
 - n: 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites
 - adj: (of champagne) moderately dry
@@ -103,7 +103,7 @@ To be opportunistic is to quickly take advantage of a situation, usually in a wa
 - The Islamic State on Tuesday claimed responsibility for inspiring the unknown attacker — a claim as yet unproven and possibly just opportunistic.
 
 # midway
-/mɪdweɪ/ 
+**/mɪdweɪ/**
 Anything midway between two points is halfway between them. A midway is also a place at a carnival where sideshow entertainment is located.
 ### Definition
 - adv: at half the distance; at the middle
@@ -124,7 +124,7 @@ Anything midway between two points is halfway between them. A midway is also a p
 - The Chicago Department of Aviation said Tuesday that passenger volume at O’Hare and Midway international airports is expected to be higher than last year.
 
 # immutable
-/ɪmjuːtəbəl/ 
+**/ɪmjuːtəbəl/**
 If you can't change it, it's immutable. There are many things in life that are immutable; these unchangeable things include death, taxes, and the laws of physics.
 ### Definition
 - adj: not subject or susceptible to change or variation in form or quality or nature
@@ -140,7 +140,7 @@ If you can't change it, it's immutable. There are many things in life that are i
 - The court, meeting in closed session, unanimously accepted labor unions’ appeal of a decision that said government pensions were not “immutable” and could be trimmed.
 
 # prophet
-/prɒfɪt/ 
+**/prɒfɪt/**
 By the time you finish reading this definition, you will understand what a prophet is. How do I know? Perhaps I am a prophet, someone who can predict the future. Or maybe it’s just a guess.
 ### Definition
 - n: someone who speaks by divine inspiration; someone who is an interpreter of the will of God
@@ -156,7 +156,7 @@ By the time you finish reading this definition, you will understand what a proph
 - He also repeatedly invoked the Prophet Muhammad, before dying in a shoot-out with other policemen.
 
 # sermon
-/sɜːʳmən/ 
+**/sɜːʳmən/**
 A sermon is a speech, usually religious in nature, given by a priest, preacher, rabbi, or other religious leader as part of a service.
 ### Definition
 - n: an address of a religious nature (usually delivered during a church service)
@@ -173,7 +173,7 @@ A sermon is a speech, usually religious in nature, given by a priest, preacher, 
 - From the professor and radio host, “a sermon to white America” on the racial divide.
 
 # granite
-/grænɪt/ 
+**/grænɪt/**
 Granite is a type of rock that's commonly polished smooth and used for things like kitchen counters. Granite is dark and textured, with swirls of lighter colors.
 ### Definition
 - n: plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz

@@ -11,7 +11,7 @@ A predecessor is something that came before the current version. The person you 
 - Metro’s sleek new stainless steel rail cars are noticeably different from their clanking aluminum predecessors: They’re shiny, brightly lighted, far more modern.
 
 # mandate
-/mændeɪt/ 
+**/mændeɪt/**
 A mandate is an official command or a go-ahead. When a politician wins an election by a wide margin, that's a mandate to implement her ideas.
 ### Definition
 - n: a document giving an official instruction or command
@@ -30,7 +30,7 @@ A mandate is an official command or a go-ahead. When a politician wins an electi
 - A bipartisan collection of U.S. lawmakers is gearing up to expand CFIUS’s legal mandate, in part to demand greater access by U.S. investors into China.
 
 # pump
-/pʌmp/ 
+**/pʌmp/**
 A pump is a machine that sucks up liquid from one place and moves it somewhere else, like a gas pump. If you’re pumped about this word, you can put on pumps,  pump up the volume, and pump some iron!
 ### Definition
 - n: a mechanical device that moves fluid or gas by pressure or suction
@@ -52,7 +52,7 @@ A pump is a machine that sucks up liquid from one place and moves it somewhere e
 - The host business for the engineering strand will be Viking Pump.
 
 # conspiracy
-/kənspɪrəsi/ 
+**/kənspɪrəsi/**
 A conspiracy is a secret agreement between two or more people to commit an unlawful or harmful act. Conspiracy theorists are people who believe that the government is secretly controlled by power brokers in flagrant violation of the constitution.
 ### Definition
 - n: a plot to carry out some harmful or illegal act (especially a political plot)
@@ -69,7 +69,7 @@ A conspiracy is a secret agreement between two or more people to commit an unlaw
 - His assassins acted in hopes of saving the czar — and themselves — but the conspiracy backfired.
 
 # scrap
-/skræp/ 
+**/skræp/**
 A scrap is a little leftover bit of something. You might jot down notes on a scrap of paper, or you might toss a scrap of food to your happy dog.
 ### Definition
 - n: a small fragment of something broken off from the whole
@@ -89,7 +89,7 @@ A scrap is a little leftover bit of something. You might jot down notes on a scr
 - The backlash saw sports events and concerts cancelled and businesses scrapping investment plans.
 
 # bust
-/bʌst/ 
+**/bʌst/**
 If you bust something, you have broken it. A bust can also be a statue of someone from the shoulders up. Be careful to not bust a bust on your next field trip!
 ### Definition
 - n: a sculpture of the head and shoulders of a person
@@ -111,7 +111,7 @@ If you bust something, you have broken it. A bust can also be a statue of someon
 - Weirdly enough, it never occurred to me that smashing busts of Thatcher might be considered a little dig.
 
 # circulate
-/sɜːʳkjʊleɪt/ 
+**/sɜːʳkjʊleɪt/**
 To circulate is to move continuously in a specific circuit, often in a circle. A ceiling fan circulates cool air around the room on a warm day.
 ### Definition
 - v: move through a space, circuit or system, returning to the starting point
@@ -142,7 +142,7 @@ To circulate is to move continuously in a specific circuit, often in a circle. A
 - As a result, prominent patrons circulated a petition imploring Beethoven to keep the premiere in Vienna.
 
 # loom
-/luːm/ 
+**/luːm/**
 Loom has two distinct meanings. First, it's a tool for weaving. Second, it means to appear or stand over someone in a threatening way. The future loomed grim. The shadow loomed above us.
 ### Definition
 - n: a textile machine for weaving yarn into a textile
@@ -158,7 +158,7 @@ Loom has two distinct meanings. First, it's a tool for weaving. Second, it means
 - A row of rugged mountain peaks loomed to the west.
 
 # advocate
-/ædvəkeɪt/ 
+**/ædvəkeɪt/**
 An advocate (AD-və-kit) is someone who supports a cause, like an advocate for outdoor recess. Advocate (AD-və-kate) is also a verb meaning to speak in favor of, so you can advocate for that outdoor recess by urging your school to play outside!
 ### Definition
 - n: a person who pleads for a person, cause, or idea
@@ -174,7 +174,7 @@ An advocate (AD-və-kit) is someone who supports a cause, like an advocate for o
 - More recently, advocates for “new space” got Trump’s ear and were added to the transition team for “balance.”
 
 # populist
-/pɒpʊlɪst/ 
+**/pɒpʊlɪst/**
 Use the noun populist to describe a person — especially a politician or activist — who works to give regular working people a voice in their government.
 ### Definition
 - n: an advocate of democratic principles

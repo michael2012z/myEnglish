@@ -1,5 +1,5 @@
 # broaden
-/brɔːdən/ 
+**/brɔːdən/**
 ### Definition
 - v: make broader
 - v: extend in scope or range or area
@@ -15,7 +15,7 @@
 - Boston police broadened their use of body cameras after months of rancorous testing.
 
 # plurality
-/plʊərælɪti/ 
+**/plʊərælɪti/**
 In an election with three or more candidates, where no one gets more than half of the votes, you would win if you had the plurality.
 ### Definition
 - n: the state of being plural
@@ -35,7 +35,7 @@ In an election with three or more candidates, where no one gets more than half o
 - The public interest centres on plurality and fitness.
 
 # predominate
-/prɪdɒmɪneɪt/ 
+**/prɪdɒmɪneɪt/**
 Of all the social networks, one predominates. Facebook is by far the biggest and most influential. When someone or something predominates, it's the largest or most powerful of all.
 ### Definition
 - v: be larger in number, quantity, power, status or importance
@@ -53,7 +53,7 @@ Of all the social networks, one predominates. Facebook is by far the biggest and
 
 
 # augment
-/ɔːgment/ 
+**/ɔːgment/**
 Do you need to make something bigger, better, or stronger? Then you need to augment it. To augment is to increase the amount or strength of something.
 ### Definition
 - v: enlarge or increase
@@ -67,7 +67,7 @@ Do you need to make something bigger, better, or stronger? Then you need to augm
 - The mobile title became a sensation — albeit briefly — and brought augmented reality to the populace.
 
 # decency
-/diːsənsi/ 
+**/diːsənsi/**
 The personal quality of decency is one of honesty, good manners, and respect for other people.
 ### Definition
 - n: the quality of conforming to standards of propriety and morality
@@ -83,7 +83,7 @@ The personal quality of decency is one of honesty, good manners, and respect for
 - Dialogue and decency: In today’s hyper-polarized political climate, these are as rare as unicorns.
 
 # supervisory
-/suːpəʳvaɪzəri/ 
+**/suːpəʳvaɪzəri/**
 ### Definition
 - adj: of or limited to or involving supervision
 ### Family
@@ -97,7 +97,7 @@ The personal quality of decency is one of honesty, good manners, and respect for
 - Tabb and the supervisory agent in charge of the investigation, Russ Fox, both said Monday that the investigation was active and ongoing.
 
 # dismay
-/dɪsmeɪ/ 
+**/dɪsmeɪ/**
 If you discover late Sunday night that the dog really did eat your homework, you might cry out in dismay. Dismay describes an emotional state of alarm, fear, or serious disappointment.
 ### Definition
 - n: the feeling of despair in the face of obstacles
@@ -115,7 +115,7 @@ If you discover late Sunday night that the dog really did eat your homework, you
 - Construction began in 2007, to the dismay of some businesses and residents who endured shaking, clanging and dust as the work proceeded.
 
 # instability
-/ɪnstəbɪlɪti/ 
+**/ɪnstəbɪlɪti/**
 Instability is the quality of not being stable, balanced, or predictable. If you've ever walked out onto a diving board, you've probably noticed its instability — meaning the board bends and bounces as you move.
 ### Definition
 - n: a lack of balance or state of disequilibrium
@@ -141,7 +141,7 @@ Instability is the quality of not being stable, balanced, or predictable. If you
 - The year might be drawing to a close but the instability of 2016 will continue.
 
 # audit
-/ɔːdɪt/ 
+**/ɔːdɪt/**
 An audit is a thorough counting, review, or assessment of a situation or collection of things. Before baking cookies, you'd better make an audit of the ingredients available to see whether there is enough sugar and butter.
 ### Definition
 - v: examine carefully for accuracy with the intent of verification

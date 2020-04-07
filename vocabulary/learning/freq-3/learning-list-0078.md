@@ -10,7 +10,7 @@ If it's prospective, it hasn't happened yet. Prospective students are students w
 - Marine Aaron White, who with his wife, are prospective next generation farmers.
 
 # attain
-/əteɪn/ 
+**/əteɪn/**
 The verb attain is all about reaching some mark of achievement. You can attain a goal. You can even attain a destination. If you consistently have the highest grades in your class, you might attain a reputation for success.
 ### Definition
 - v: gain with effort
@@ -28,7 +28,7 @@ The verb attain is all about reaching some mark of achievement. You can attain a
 - “These live training events are fundamental to the ability of our airmen, sailors, and marines to attain and sustain the highest levels of military readiness.”
 
 # inherit
-/ɪnherɪt/ 
+**/ɪnherɪt/**
 When your grandmother dies, you might inherit her tea set. Regardless of her death, you might inherit her sense of humor or rather large nose. To inherit is to receive from a predecessor.
 ### Definition
 - v: receive from a predecessor
@@ -47,7 +47,7 @@ When your grandmother dies, you might inherit her tea set. Regardless of her dea
 - The women’s wealth gap would be even worse without inherited fortunes.
 
 # modesty
-/mɒdɪsti/ 
+**/mɒdɪsti/**
 Modesty is that shy feeling you get when someone brags about how great you are, or when you need to take off your shirt to go swimming and showing skin makes you squirm. If you blush, you’ve got some modesty.
 ### Definition
 - n: formality and propriety of manner
@@ -61,7 +61,7 @@ Modesty is that shy feeling you get when someone brags about how great you are, 
 - But the most striking aspect of this film’s aesthetic — a better word might be temperament — is its gentle, unassuming modesty.
 
 # wrestling
-/reslɪŋ/ 
+**/reslɪŋ/**
 ### Definition
 - n: the sport of hand-to-hand struggle between unarmed contestants who try to throw each other down
 - n: the act of engaging in close hand-to-hand combat
@@ -75,7 +75,7 @@ Modesty is that shy feeling you get when someone brags about how great you are, 
 - Mr. Ford, who follows WWE extensively, noted similarities in Mr. Trump’s political rise and the McMahons’ construction of a worldwide wrestling empire.
 
 # existential
-/egzɪstenʃəl/ 
+**/egzɪstenʃəl/**
 If something is existential, it has to do with human existence. If you wrestle with big questions involving the meaning of life, you may be having an existential crisis.
 ### Definition
 - adj: relating to or dealing with existence (especially with human existence)
@@ -102,7 +102,7 @@ If something is existential, it has to do with human existence. If you wrestle w
 - Yet in searching the internet for an answer, it also reveals the question to be one of the great existential tensions of our time.
 
 # abundant
-/əbʌndənt/ 
+**/əbʌndənt/**
 On Halloween, you can find candy in abundant supply. Use abundant to describe something that exists in large amounts that are more than what's needed.
 ### Definition
 - adj: present in great quantity
@@ -119,7 +119,7 @@ On Halloween, you can find candy in abundant supply. Use abundant to describe so
 - In the past, Chinese tech firms found easier pickings among consumers, rather than enterprises, which counted on an abundant supply of skilled workers.
 
 # decidedly
-/dɪsaɪdɪdli/ 
+**/dɪsaɪdɪdli/**
 Something described as being decidedly a certain way is absolutely that way, with no hint of doubt. If a character in a movie is decidedly evil, there's no question in your mind about it, it's so clearly true.
 ### Definition
 - adv: without question and beyond doubt
@@ -137,7 +137,7 @@ Something described as being decidedly a certain way is absolutely that way, wit
 - Paterson’s home is ordinary and decidedly not beautiful.
 
 # scorn
-/skɔːʳn/ 
+**/skɔːʳn/**
 Scorn is open disrespect for someone or something. It can also be disrespect coupled with feelings of intense dislike.
 ### Definition
 - n: lack of respect accompanied by a feeling of intense dislike

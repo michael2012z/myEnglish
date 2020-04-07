@@ -1,5 +1,5 @@
 # knit
-/nɪt/ 
+**/nɪt/**
 If you decide to knit a sweater, you will need yarn, knitting needles, an instruction manual, and lots of patience! Knitting involves different kinds of stitches or consecutive loops that you create in rows.
 ### Definition
 - v: make (textiles) by knitting
@@ -18,7 +18,7 @@ If you decide to knit a sweater, you will need yarn, knitting needles, an instru
 - In the back room, where Ms. Cook-Lopez used to do her schoolwork as a girl, she now runs knitting and crocheting classes.
 
 # rife
-/raɪf/ 
+**/raɪf/**
 Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it.
 ### Definition
 - adj: excessively abundant
@@ -31,7 +31,7 @@ Use the adjective rife to mean "full of" or "widespread," especially when you're
 - In Indonesia, for example, competition is rife, with strong local players such as online marketplace Tokopedia.
 
 # bolt
-/boʊlt/ 
+**/boʊlt/**
 We love words that sound like what they mean, and bolt is no exception. It's a quick, sharp word that either means to move quickly or refers to a stroke of lightning, as in "lightning bolt."
 ### Definition
 - n: a screw that screws into a nut to form a fastener
@@ -70,7 +70,7 @@ When something happens anew, it happens again, but in a fresh way that might be 
 - Schoonmaker also brings up the spiritual aspect -- how, in a time of religious persecution, “Silence” will resonate anew.
 
 # compliment
-/kɒmplɪment/ 
+**/kɒmplɪment/**
 A compliment is an expression of respect or admiration, like, "You're such a good writer," or "You know so many words!" Keep them coming.
 ### Definition
 - n: a remark (or act) expressing praise and admiration
@@ -86,7 +86,7 @@ A compliment is an expression of respect or admiration, like, "You're such a goo
 - “I’m just looking for new ways to compliment him,” McCarthy said.
 
 # villain
-/vɪlən/ 
+**/vɪlən/**
 A villain is a bad person — real or made up. In books, movies, current events, or history, the villain is the character who does mean, evil things on purpose.
 ### Definition
 - n: a wicked or evil person; someone who does evil deliberately
@@ -101,7 +101,7 @@ A villain is a bad person — real or made up. In books, movies, current events,
 - Those villains remain racism, greed, lack of a decent education and misuse of political power.
 
 # uncompromising
-/ʌnkɒmprəmaɪzɪŋ/ 
+**/ʌnkɒmprəmaɪzɪŋ/**
 ### Definition
 - adj: not making concessions
 ### Family
@@ -115,7 +115,7 @@ A villain is a bad person — real or made up. In books, movies, current events,
 - He has won praises for no-nonsense approach to problems that plague the sprawling capital, though his uncompromising attitude has also made enemies.
 
 # pristine
-/prɪstiːn/ 
+**/prɪstiːn/**
 If something is pristine it's immaculately clean or has never been used. So please check your shoes before walking on a pristine white carpet.
 ### Definition
 - adj: immaculately clean and unused
@@ -128,7 +128,7 @@ If something is pristine it's immaculately clean or has never been used. So plea
 - “This is just the kind of public access and recreation that will be needed as the region grows, it is really pristine.”
 
 # unequivocal
-/ʌnɪkwɪvəkəl/ 
+**/ʌnɪkwɪvəkəl/**
 If there is no doubt about it, it's unequivocal. An unequivocal response to a marriage proposal? "Yes. Yes! A thousand times yes!"
 ### Definition
 - adj: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
@@ -142,7 +142,7 @@ If there is no doubt about it, it's unequivocal. An unequivocal response to a ma
 - But she is unequivocal about her loyalty to her boss.
 
 # limb
-/lɪm/ 
+**/lɪm/**
 Willing to pay an arm and a leg for those World Series tickets? Then you're willing to give up two of your limbs for the season's biggest baseball games.
 ### Definition
 - n: one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper

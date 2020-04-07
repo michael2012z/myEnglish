@@ -1,5 +1,5 @@
 # forge
-/fɔːʳdʒ/ 
+**/fɔːʳdʒ/**
 Have you ever seen a blacksmith make a horseshoe? Well, no, probably not, but they use a special furnace which is called a forge, and "to forge something" is also the act of bashing that hot object into shape.
 ### Definition
 - v: create by hammering
@@ -23,7 +23,7 @@ Have you ever seen a blacksmith make a horseshoe? Well, no, probably not, but th
 - It was an image that spoke directly across the centuries—forging an immediate, emotional connection to these vanished people.
 
 # medication
-/medɪkeɪʃən/ 
+**/medɪkeɪʃən/**
 If your doctor prescribes something for you to take, it's medication. Medication is another way to say "medicine" or "drug." Your poison ivy rash might be so bad that you need to take medication to stop the itching.
 ### Definition
 - n: (medicine) something that treats or prevents or alleviates the symptoms of disease
@@ -38,7 +38,7 @@ If your doctor prescribes something for you to take, it's medication. Medication
 - Spurning the American tendency to treat every ailment with medication, he instead explored the body’s ability to heal itself.
 
 # consortium
-/kənsɔːʳtiəm/ 
+**/kənsɔːʳtiəm/**
 Consortium is a fancy word for a group you form for an enterprise beyond what any one member could do alone. All the grocery stores in your neighborhood might form a consortium for the promotion of local strawberries.
 ### Definition
 - n: an association of companies for some definite purpose
@@ -50,7 +50,7 @@ Consortium is a fancy word for a group you form for an enterprise beyond what an
 - Israel re-created a mural of local flora and fauna that he showed at the Consortium in Dijon, France, in 2013.
 
 # exaggerated
-/ɪgzædʒəreɪtɪd/ 
+**/ɪgzædʒəreɪtɪd/**
 Exaggerated describes something that's been overstated, or described as more impressive than it really is. Your exaggerated details stretched the truth, but they sure made your story funny and memorable.
 ### Definition
 - adj: enlarged to an abnormal degree
@@ -65,7 +65,7 @@ Exaggerated describes something that's been overstated, or described as more imp
 - Audiences laughed nervously at the exaggerated absurdity of it all.
 
 # abolish
-/əbɒlɪʃ/ 
+**/əbɒlɪʃ/**
 To abolish is to get rid of or annul. So when the principal yells at you for the 100th time for not having your shirt tucked in, it's safe to wish they'd just abolish the silly dress code.
 ### Definition
 - v: do away with
@@ -80,7 +80,7 @@ To abolish is to get rid of or annul. So when the principal yells at you for the
 - In frustration, Senate Democrats in 2013 used their majority to change the rules and abolish the filibuster option for lower-court judges.
 
 # leap
-/liːp/ 
+**/liːp/**
 The word leap is another word for "jump," but it gives a slightly different image — one of lightness and quickness, perhaps a movement with a little more spring in it than a regular jump.
 ### Definition
 - v: move forward by leaps and bounds
@@ -102,7 +102,7 @@ The word leap is another word for "jump," but it gives a slightly different imag
 - While cheese may be, as the legendary editor Clifton Fadiman called it, “milk’s leap toward immortality,” here it is death on a plate.
 
 # revenge
-/rɪvendʒ/ 
+**/rɪvendʒ/**
 Someone seeking revenge is looking to retaliate for a wrong that has been done.
 ### Definition
 - n: action taken in return for an injury or offense
@@ -116,7 +116,7 @@ Someone seeking revenge is looking to retaliate for a wrong that has been done.
 - It’s incomprehensible — except as a parting shot of personal revenge on Benjamin Netanyahu.
 
 # spill
-/spɪl/ 
+**/spɪl/**
 ### Definition
 - v: flow, run or fall out and become lost
 - v: cause or allow (a liquid substance) to run or flow from a container
@@ -138,7 +138,7 @@ Someone seeking revenge is looking to retaliate for a wrong that has been done.
 - The spill was contained to about a quarter mile in the creek.
 
 # disperse
-/dɪspɜːʳs/ 
+**/dɪspɜːʳs/**
 To make a crowd at a party disperse, you could take away the food, turn off the music and ask for volunteers to clean up. Disperse is to spread out people or things, making them move in different directions.
 ### Definition
 - v: move away from each other
@@ -159,7 +159,7 @@ To make a crowd at a party disperse, you could take away the food, turn off the 
 - The mercury got a boost from a record-challenging El Niño event, a cyclical warming of the tropical Pacific, which dispersed heat around the globe.
 
 # obsession
-/əbseʃən/ 
+**/əbseʃən/**
 If you have an obsession, you're totally fixated on something and unhealthily devoted to it. Some common obsessions include fantasy football leagues, celebrity gossip, and Elvis memorabilia.
 ### Definition
 - n: an unhealthy and compulsive preoccupation with something or someone

@@ -52,7 +52,7 @@ def format_explanation(explanation):
         text.append("# " + explanation[0])
     # pron
     if explanation[1] != None and len(explanation[1]) > 0:
-        text.append("/" + explanation[1]+ "/ ")
+        text.append("**/" + explanation[1]+ "/**")
     # definition
     if explanation[3] != None and len(explanation[3]) > 0:
         text.append(explanation[3])

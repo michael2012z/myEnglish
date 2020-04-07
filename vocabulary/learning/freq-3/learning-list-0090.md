@@ -1,5 +1,5 @@
 # relic
-/relɪk/ 
+**/relɪk/**
 A relic is a fragment from the past — one of Elvis's guitars, an ancient piece of pottery or even an outmoded way of thinking -– that remains behind. Your dad might love his old albums, but to you, they're just relics.
 ### Definition
 - n: an antiquity that has survived from the distant past
@@ -12,7 +12,7 @@ A relic is a fragment from the past — one of Elvis's guitars, an ancient piece
 - Family cemeteries, a relic of another age, continue to bind relatives in ways that today’s wealthy might wish for.
 
 # crimson
-/krɪmzən/ 
+**/krɪmzən/**
 Crimson is a deep, vivid shade of red. You could describe flowers, blood, or blushing cheeks as crimson.
 ### Definition
 - n: a deep and vivid red color
@@ -29,7 +29,7 @@ Crimson is a deep, vivid shade of red. You could describe flowers, blood, or blu
 - The top-ranked Crimson Tide and No. 3 Tigers will meet in Tampa, Florida, on Jan. 9 in the College Football Playoff national championship game.
 
 # sweat
-/swet/ 
+**/swet/**
 Sweat is perspiration that makes you feel cooler when it evaporates off the surface of your skin — or the giving-off of this liquid. If you exercise hard, you will sweat.
 ### Definition
 - n: salty fluid secreted by sweat glands
@@ -47,7 +47,7 @@ Sweat is perspiration that makes you feel cooler when it evaporates off the surf
 - My thimbleful was entrancing: It tasted of black fruit, a little earth, maybe the sweat, hopes and fears of the crew who fashioned it.
 
 # uptake
-/ʌpteɪk/ 
+**/ʌpteɪk/**
 ### Definition
 - n: the process of taking food into the body through the mouth (as by eating)
 - n: a process of taking up or using up or consuming
@@ -59,7 +59,7 @@ Sweat is perspiration that makes you feel cooler when it evaporates off the surf
 - Some changes are due to genetic variants that may affect blood transport or oxygen uptake or fat metabolism, or any other number of factors.
 
 # surgeon
-/sɜːʳdʒən/ 
+**/sɜːʳdʒən/**
 A surgeon is a kind of doctor who treats his patients by using his hands, often by performing surgery. If you're comfortable slicing into a person's body to remove an appendix, then you might make a decent surgeon.
 ### Definition
 - n: a physician who specializes in surgery
@@ -71,7 +71,7 @@ A surgeon is a kind of doctor who treats his patients by using his hands, often 
 - Nebraska law prohibits surgeons from delegating to an unlicensed person.
 
 # insured
-/ɪnʃʊəʳd/ 
+**/ɪnʃʊəʳd/**
 Something that's insured is protected by an insurance policy — in other words, its loss or damage will be compensated by an insurance company. If your laptop is insured, you'll get enough money to replace it if it's stolen.
 ### Definition
 - adj: covered by insurance
@@ -91,7 +91,7 @@ Something that's insured is protected by an insurance policy — in other words,
 - All of the moving companies it works with are licensed and insured, Mr. Pittenger said.
 
 # hollow
-/hɒloʊ/ 
+**/hɒloʊ/**
 If something is hollow, it is empty on the inside. A chocolate Easter bunny looks like so much chocolate until you realize that it is hollow and quickly eaten.
 ### Definition
 - adj: not solid; having a space or gap or cavity
@@ -111,7 +111,7 @@ If something is hollow, it is empty on the inside. A chocolate Easter bunny look
 - She dismissed them as harsh judgments and hollow words from people she did not trust.
 
 # ore
-/ɔːʳ/ 
+**/ɔːʳ/**
 Ore is a rock that contains minerals like iron, gold, or lead. The seven dwarfs in the movie "Snow White and the Seven Dwarfs" worked mining ore.
 ### Definition
 - n: a mineral that contains metal that is valuable enough to be mined
@@ -124,7 +124,7 @@ Ore is a rock that contains minerals like iron, gold, or lead. The seven dwarfs 
 - He then fled to Eugene, Ore., intending to steal his twin brother’s identity, before deciding to return to Bellingham and surrender.
 
 # stirring
-/stɜːrɪŋ/ 
+**/stɜːrɪŋ/**
 ### Definition
 - adj: exciting strong but not unpleasant emotions
 - adj: capable of arousing enthusiasm or excitement
@@ -141,7 +141,7 @@ Ore is a rock that contains minerals like iron, gold, or lead. The seven dwarfs 
 - YEKATERINBURG, Russia — It’s a stirring exhibition of Russia’s struggle to win rights and freedoms that the country no longer fully enjoys.
 
 # rarity
-/reərɪti/ 
+**/reərɪti/**
 ### Definition
 - n: something unusual -- perhaps worthy of collecting
 - n: noteworthy scarcity

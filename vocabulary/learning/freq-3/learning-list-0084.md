@@ -1,5 +1,5 @@
 # furnace
-/fɜːʳnɪs/ 
+**/fɜːʳnɪs/**
 A furnace is an appliance that heats houses and buildings by burning fuel or circulating hot water. Your furnace might rumble in the basement, sending heat up through your house's radiators.
 ### Definition
 - n: an enclosed chamber in which heat is produced to heat buildings, destroy refuse, smelt or refine ores, etc.
@@ -24,7 +24,7 @@ Wrath is great anger that expresses itself in a desire to punish someone: Noah s
 - United also probably concluded that it wasn’t worth risking the wrath of the incoming commander in chief.
 
 # requisite
-/rekwɪzɪt/ 
+**/rekwɪzɪt/**
 Requisite is a formal or fancy word for indispensable. During your punk phase, you refused to leave the house without the requisite leather jacket, black boots, and mohawk.
 ### Definition
 - adj: necessary for relief or supply
@@ -38,7 +38,7 @@ Requisite is a formal or fancy word for indispensable. During your punk phase, y
 - J Street said it “vehemently opposed” the nomination, cautioning that he lacked the requisite diplomatic or policy credentials.
 
 # prevalent
-/prevələnt/ 
+**/prevələnt/**
 Something prevalent is common in a particular place at a particular time. Prevalent things are hard to avoid. When you see the word prevalent, think "It's everywhere!"
 ### Definition
 - adj: most frequent or common
@@ -52,7 +52,7 @@ Something prevalent is common in a particular place at a particular time. Preval
 - "Greektowns",etc. which were so prevalent in the first half of the twentieth century.
 
 # indispensable
-/ɪndɪspensəbəl/ 
+**/ɪndɪspensəbəl/**
 Indispensable is a strong adjective for something that you couldn't do without. If you have asthma and you're packing for summer vacation, your inhaler is indispensable, unless you enjoy gasping on the beach.
 ### Definition
 - adj: not to be dispensed with; essential
@@ -72,7 +72,7 @@ Indispensable is a strong adjective for something that you couldn't do without. 
 - “As religious faith is the foundation of free government, so is prayer an indispensable part of that faith.”
 
 # concede
-/kənsiːd/ 
+**/kənsiːd/**
 If you concede something, you admit that it is true, proper, or certain––usually in an unwilling way and often in the context of a competition, as in "At midnight, the candidate finally conceded defeat."
 ### Definition
 - v: give over; surrender or relinquish to the physical control of another
@@ -89,7 +89,7 @@ If you concede something, you admit that it is true, proper, or certain––usu
 - He lost the presidential election to Adama Barrow and publicly conceded defeat.
 
 # fleet
-/fliːt/ 
+**/fliːt/**
 A fleet is usually a large group of ships, but it can be any group of vessels like planes or cars that operate as a unit. A naval fleet is the largest formation of warships. A naval fleet at sea is like an army on land.
 ### Definition
 - n: group of aircraft operating together under the same ownership
@@ -121,7 +121,7 @@ Ingenuity is the ability to think creatively about a situation or to solve probl
 - Few movies showcased heroines who showed more guts and ingenuity than many of the men around her.
 
 # underpin
-/ʌndəʳpɪn/ 
+**/ʌndəʳpɪn/**
 ### Definition
 - v: support with evidence or authority or make more certain or confirm
 - v: support from beneath
@@ -133,7 +133,7 @@ Ingenuity is the ability to think creatively about a situation or to solve probl
 - So it is as well to ask what is truly at stake in this e-conflict, and what underpins it.
 
 # arch
-/ɑːʳtʃ/ 
+**/ɑːʳtʃ/**
 An arch is a shape that resembles an upside down "U." You may find this shape in a carefully tweezed eyebrow or in the famous golden pair that make you hunger for a Big Mac.
 ### Definition
 - n: (architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it

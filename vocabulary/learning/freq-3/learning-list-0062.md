@@ -1,5 +1,5 @@
 # fervent
-/fɜːʳvənt/ 
+**/fɜːʳvənt/**
 Use fervent to describe a person or thing that shows very strong feelings or enthusiasm. If you have a fervent desire to become an actress, you'll stop at nothing to realize your dream.
 ### Definition
 - adj: characterized by intense emotion
@@ -13,7 +13,7 @@ Use fervent to describe a person or thing that shows very strong feelings or ent
 - His body caused fervent debate early in his career when the Nationals shut him down following Tommy John surgery.
 
 # tug
-/tʌg/ 
+**/tʌg/**
 ### Definition
 - v: pull hard
 - v: pull or strain hard at
@@ -33,7 +33,7 @@ Use fervent to describe a person or thing that shows very strong feelings or ent
 - But their hearts tugged and we all needed each other.
 
 # intensify
-/ɪntensɪfaɪ/ 
+**/ɪntensɪfaɪ/**
 To intensify is to increase the intensity, force, or power of something. If you snap a selfie and the colors aren't intense enough, you may be able to intensify them with a photo editor.
 ### Definition
 - v: increase in extent or intensity
@@ -50,7 +50,7 @@ To intensify is to increase the intensity, force, or power of something. If you 
 - Reliability improves because of intensified repairs and maintenance under the SafeTrack program.
 
 # vacant
-/veɪkənt/ 
+**/veɪkənt/**
 You can use the adjective vacant to describe something that is empty — an apartment with no tenant or furniture, a job with no worker, or a person with no brainpower.
 ### Definition
 - adj: without an occupant or incumbent
@@ -64,7 +64,7 @@ You can use the adjective vacant to describe something that is empty — an apar
 - After Saturday’s march, the crosses will be placed in a vacant on the city’s South Side.
 
 # plural
-/plʊərəl/ 
+**/plʊərəl/**
 When you talk about a plural, you're talking about more than one. The plural form of the word "goose" is "geese."
 ### Definition
 - adj: grammatical number category referring to two or more items or units
@@ -84,7 +84,7 @@ When you talk about a plural, you're talking about more than one. The plural for
 - What might it be like for subjective experience to be plural — “we” and “not-we.”
 
 # serum
-/sɪərəm/ 
+**/sɪərəm/**
 Technically, serum is the part of blood that doesn’t clot, or any kind of “watery animal fluid.” But serum as skincare refers to watery fluid made of almost anything designed to make skin more beautiful. No animals involved.
 ### Definition
 - n: an amber, watery fluid, rich in proteins, that separates out when blood coagulates
@@ -98,7 +98,7 @@ Technically, serum is the part of blood that doesn’t clot, or any kind of “w
 - The analysis involved looking at archived serum samples, many nearly 40 years old, from studies that were discontinued long ago.
 
 # rhythmic
-/rɪðmɪk/ 
+**/rɪðmɪk/**
 ### Definition
 - adj: recurring with measured regularity
 ### Family
@@ -112,7 +112,7 @@ Technically, serum is the part of blood that doesn’t clot, or any kind of “w
 - Trevor reveals the truth of the murder slowly, through a rhythmic and precise series of scenes that take us back and forth in time.
 
 # amusement
-/əmjuːzmənt/ 
+**/əmjuːzmənt/**
 Amusement is a feeling of being entertained and happy. Just think about how you feel when you visit an amusement park, and you will get the idea.
 ### Definition
 - n: an activity that is diverting and that holds the attention
@@ -129,7 +129,7 @@ Amusement is a feeling of being entertained and happy. Just think about how you 
 - The amusement park is set up yearly in the capital of San Juan during the holiday season.
 
 # dysfunction
-/dɪsfʌŋkʃən/ 
+**/dɪsfʌŋkʃən/**
 If there's dysfunction, then things aren't working right. High blood pressure is a medical dysfunction, and fighting amongst teammates is a kind of social dysfunction.
 ### Definition
 - n: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group
@@ -142,7 +142,7 @@ If there's dysfunction, then things aren't working right. High blood pressure is
 - According to Almond, “The queasy irony here is that Stewart and Colbert are parasites of the dysfunction they mock.”
 
 # nostalgia
-/nɒstældʒə/ 
+**/nɒstældʒə/**
 Think of the noun, nostalgia, when you long for the good old days of the past.
 ### Definition
 - n: longing for something past

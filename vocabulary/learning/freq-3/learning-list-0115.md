@@ -1,5 +1,5 @@
 # aristocracy
-/ærɪstɒkrəsi/ 
+**/ærɪstɒkrəsi/**
 A person who's "born to rule" belongs to the ruling class, or aristocracy, and is "noble" just by being in the family line — whether they have done anything noble or not. In an aristocracy, a princess who doesn’t visit sick children or clear land mines is still a princess.
 ### Definition
 - n: a privileged class holding hereditary titles
@@ -14,7 +14,7 @@ A person who's "born to rule" belongs to the ruling class, or aristocracy, and i
 - Tradescant was an avid plant collector and botanist, a prime example of the English aristocracy’s longstanding fascination with plants.
 
 # demise
-/dɪmaɪz/ 
+**/dɪmaɪz/**
 Resort to the noun demise when you describe the end, termination, or death of something or someone.
 ### Definition
 - n: the time when something ends
@@ -27,7 +27,7 @@ Resort to the noun demise when you describe the end, termination, or death of so
 - Five years ago, the demise of the music industry seemed almost inevitable.
 
 # suspicious
-/səspɪʃəs/ 
+**/səspɪʃəs/**
 Suspicious behavior inspires distrust. Prancing around your backyard in a trench coat and fake mustache during daylight might elicit weird looks from your neighbors; do it at night, though, so that your silhouette glides past their windows, and what appeared innocent enough hours before will quickly transition to suspicious.
 ### Definition
 - adj: openly distrustful and unwilling to confide
@@ -47,7 +47,7 @@ Suspicious behavior inspires distrust. Prancing around your backyard in a trench
 - For cash deals above 100,000 francs, a Swiss retailer must now confirm customers’ identities and report suspicious transactions.
 
 # strive
-/straɪv/ 
+**/straɪv/**
 To strive is to endeavor, reach, or strain for something above or beyond. We strive for self-improvement, a better world, or success in general.
 ### Definition
 - v: attempt by employing effort
@@ -61,7 +61,7 @@ To strive is to endeavor, reach, or strain for something above or beyond. We str
 - It also set off a race for a vaccine, as global health officials strive to avoid a repeat.
 
 # insignificant
-/ɪnsɪgnɪfɪkənt/ 
+**/ɪnsɪgnɪfɪkənt/**
 When something is insignificant, it doesn't matter. The fact that your mom gets to school a half hour late becomes insignificant when she announces you're stopping for ice cream on the way home.
 ### Definition
 - adj: signifying nothing
@@ -91,7 +91,7 @@ When something is insignificant, it doesn't matter. The fact that your mom gets 
 - While Donald Trump’s wall does not exist, and may never exist, that does not mean it’s insignificant.
 
 # impartial
-/ɪmpɑːʳʃəl/ 
+**/ɪmpɑːʳʃəl/**
 If you're in a contest you'd better hope the judges are impartial, that is, that they aren't biased toward one competitor over another.
 ### Definition
 - adj: free from undue bias or preconceived opinions
@@ -114,7 +114,7 @@ If you're in a contest you'd better hope the judges are impartial, that is, that
 - The way he ran the Bundesbank and his approach to budgetary discipline influenced the model for the ECB, which sets limits for government deficits.
 
 # deregulation
-/diːregjʊleɪʃən/ 
+**/diːregjʊleɪʃən/**
 A regulation is basically a rule or directive made by an authority. Deregulation is the removal, or cancellation, of certain rules or directives. (The prefix "de-" here means "remove.")
 ### Definition
 - n: the act of freeing from regulation (especially from governmental regulations)
@@ -151,7 +151,7 @@ When you lightly throw something, you toss it. You might toss your lifejacket an
 - Washington won the coin toss and chose to receive the opening kick.
 
 # anchor
-/æŋkəʳ/ 
+**/æŋkəʳ/**
 On a boat, an anchor is a heavy object attached to a rope. You toss it overboard, it sinks to the bottom, and your vessel doesn't move. Anchor has the sense of what holds something in place.
 ### Definition
 - n: a mechanical device that prevents a vessel from moving

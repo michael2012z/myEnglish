@@ -11,7 +11,7 @@ Whether it’s a mosquito or your little brother pestering you about the laundry
 - Q. Attractive nuisance: My husband and I live in a small, tight-knit development full of families with young kids.
 
 # posture
-/pɒstʃəʳ/ 
+**/pɒstʃəʳ/**
 Posture is the way you position your body or arrange your limbs. So stand up straight, put your shoulders back, and lift that chin up.
 ### Definition
 - n: the arrangement of the body and its limbs
@@ -29,7 +29,7 @@ Posture is the way you position your body or arrange your limbs. So stand up str
 - Reactive hyperbole may not be the best posture from which to intelligently and strategically fight Trumpism.
 
 # deceive
-/dɪsiːv/ 
+**/dɪsiːv/**
 To deceive means to trick or lie. A crafty kid might deceive his mother into thinking he has a fever by holding the thermometer to a light bulb to increase the temperature.
 ### Definition
 - v: cause someone to believe an untruth
@@ -47,7 +47,7 @@ To deceive means to trick or lie. A crafty kid might deceive his mother into thi
 - This is unusual for a man trained to deceive and mislead, a man who is practiced in his profession.
 
 # falsehood
-/fɔːlshʊd/ 
+**/fɔːlshʊd/**
 A falsehood is a lie. If your mom has an uncanny knack for knowing when you're telling a falsehood, it means she always knows when you're stretching the truth.
 ### Definition
 - n: a false statement
@@ -63,7 +63,7 @@ A falsehood is a lie. If your mom has an uncanny knack for knowing when you're t
 - “Unsurprising that HPSCI’s report is rifled with obvious falsehoods. The only surprise is how accidentally exonerating it is,” Snowden tweeted.
 
 # validate
-/vælɪdeɪt/ 
+**/vælɪdeɪt/**
 To validate is to prove that something is based on truth or fact, or is acceptable. It can also mean to make something, like a contract, legal.
 ### Definition
 - v: make valid or confirm the validity of
@@ -86,7 +86,7 @@ To validate is to prove that something is based on truth or fact, or is acceptab
 - The play that validated Okwara’s evolution occurred against Wake Forest.
 
 # slope
-/sloʊp/ 
+**/sloʊp/**
 If you find yourself on a slippery slope, watch out: you could be sliding down a hill. Land that is not level is called a slope. Slope can also be a verb, as in land that slopes down to sea level.
 ### Definition
 - v: be at an angle
@@ -102,7 +102,7 @@ If you find yourself on a slippery slope, watch out: you could be sliding down a
 - To get there, you enter through a portal near the river’s edge and walk down a sloping corridor into the center of the dam.
 
 # gorgeous
-/gɔːʳdʒəs/ 
+**/gɔːʳdʒəs/**
 Reach for the adjective gorgeous to describe jaw-droppingly beautiful, magnificent people or things.
 ### Definition
 - adj: dazzlingly beautiful
@@ -114,7 +114,7 @@ Reach for the adjective gorgeous to describe jaw-droppingly beautiful, magnifice
 - Casually elegant — and unselfconsciously gorgeous — her understated paintings strike just the right balance between restraint and abandon.
 
 # renowned
-/rɪnaʊnd/ 
+**/rɪnaʊnd/**
 Celebrated, gushed over, and even legendary, something that's renowned is really famous. If you not only find a cure for cancer, but you also go on lots of talk shows so everyone knows who you are, then you'll be a renowned scientist.
 ### Definition
 - adj: widely known and esteemed
@@ -126,7 +126,7 @@ Celebrated, gushed over, and even legendary, something that's renowned is really
 - Mrs. Dukakis receives her maintenance therapy at McLean Hospital in suburban Boston, one of the world’s largest and most renowned psychiatric hospitals.
 
 # dye
-/daɪ/ 
+**/daɪ/**
 Dye is a substance that's used to change the color of whatever it's applied to. You can use hair dye to change your light brown hair to deep, dark purple.
 ### Definition
 - n: a usually soluble substance for staining or coloring e.g. fabrics or hair
@@ -142,7 +142,7 @@ Dye is a substance that's used to change the color of whatever it's applied to. 
 - In the 19th century, pastoral windmills were replaced with tanneries, limestone quarries, and dye works.
 
 # interpersonal
-/ɪntəʳpɜːʳsənəl/ 
+**/ɪntəʳpɜːʳsənəl/**
 Interpersonal refers to something involving, or occurring among several people. Interpersonal skills refer to our ability to get along with others.
 ### Definition
 - adj: occurring among or involving several people

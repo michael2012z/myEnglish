@@ -1,5 +1,5 @@
 # pledge
-/pledʒ/ 
+**/pledʒ/**
 A pledge is basically very serious formal promise. You can pledge allegiance to your country, you can pledge to keep a secret, and you can pledge a sum of money to a cause.
 ### Definition
 - n: a binding commitment to do or give or refrain from something
@@ -21,7 +21,7 @@ A pledge is basically very serious formal promise. You can pledge allegiance to 
 - She invoked Trump’s victory speech pledging to be “president for all Americans,” not just those who voted for him.
 
 # unprecedented
-/ʌnpresɪdentɪd/ 
+**/ʌnpresɪdentɪd/**
 Something that is unprecedented is not known, experienced, or done before. If you've never gone on a family beach vacation but you're planning one now, you could refer to it as an unprecedented decision.
 ### Definition
 - adj: having no precedent; novel
@@ -34,7 +34,7 @@ Something that is unprecedented is not known, experienced, or done before. If yo
 - The U.S. semiconductor industry is facing an unprecedented wave of consolidations, with mergers and acquisitions in the sector valued last year at over $100 billion.
 
 # deficit
-/defəsɪt/ 
+**/defəsɪt/**
 If you're running a deficit, you are losing. You might be losing money or losing a game. Either way, you better make up for it.
 ### Definition
 - n: the property of being an amount by which something is less than expected or required
@@ -49,7 +49,7 @@ If you're running a deficit, you are losing. You might be losing money or losing
 - The deficit was “no big deal,” Harriott assured his guys, but they’d win only if they played as a team.
 
 # sanction
-/sæŋkʃən/ 
+**/sæŋkʃən/**
 Sanction has two nearly opposite meanings: to sanction can be to approve of something, but it can also mean to punish, or speak harshly to. Likewise, a sanction can be a punishment or approval. Very confusing––the person who invented this word should be publicly sanctioned!
 ### Definition
 - n: official permission or approval
@@ -82,7 +82,7 @@ Morale is the spirit a group has that makes them want to succeed. It's a sense o
 - Former Army reservist James Morales was reported missing Saturday night and remains at large.
 
 # surveillance
-/səʳveɪləns/ 
+**/səʳveɪləns/**
 Many times, a person suspected of something illegal by the authorities is placed under surveillance, meaning he or she is closely watched to see if their suspicions are well-founded.
 ### Definition
 - n: close observation of a person or group (usually by the police)
@@ -94,7 +94,7 @@ Many times, a person suspected of something illegal by the authorities is placed
 - The technology allows investigators to match photo or a surveillance video to databases of mug shots and driver’s licenses with accompanying identifying information.
 
 # plunge
-/plʌndʒ/ 
+**/plʌndʒ/**
 Plunge is a noun and a verb related to diving, falling, and sinking. A "polar bear plunge" is when people plunge into freezing cold water for charity or, inexplicably, for fun.
 ### Definition
 - v: dash violently or with great speed or impetuosity
@@ -116,7 +116,7 @@ Plunge is a noun and a verb related to diving, falling, and sinking. A "polar be
 - As the football sailed through the air, Daniel Carter plunged down the field for St. Thomas, weaving around potential blockers.
 
 # equity
-/ekwɪti/ 
+**/ekwɪti/**
 Equity is the state or quality of being fair. In classrooms, it's important to establish equity as any hint of unfairness turns everyone against the teacher.
 ### Definition
 - n: conformity with rules or standards
@@ -131,7 +131,7 @@ Equity is the state or quality of being fair. In classrooms, it's important to e
 - But equity investors responded to this year of surprises by placing buy orders.
 
 # curb
-/kɜːʳb/ 
+**/kɜːʳb/**
 The hard thing about learning how to parallel park is trying to get the car close enough to the curb without hitting it. A curb is the edge of the sidewalk beside the road.
 ### Definition
 - n: the act of restraining power or action or limiting excess
@@ -160,7 +160,7 @@ The hard thing about learning how to parallel park is trying to get the car clos
 - White bass are fair jigging Tiny Traps and Curb’s crappie jigs along main lake points and creek bluffs in 15-25 feet.
 
 # tide
-/taɪd/ 
+**/taɪd/**
 The tide is the daily rise and fall of the sea level. You can count on the regular changing patterns of the tide, unless of course a tsunami is headed your way.
 ### Definition
 - n: the periodic rise and fall of the sea level under the gravitational pull of the moon

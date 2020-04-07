@@ -1,5 +1,5 @@
 # sceptical
-/skeptɪkəl/ 
+**/skeptɪkəl/**
 ### Definition
 - adj: marked by or given to doubt
 - adj: denying or questioning the tenets of especially a religion
@@ -13,7 +13,7 @@
 - Carlos Sousa, a sales manager with Access Storage, a national self-storage firm in the UK, is sceptical about storing with "amateurs".
 
 # stack
-/stæk/ 
+**/stæk/**
 ### Definition
 - n: an orderly pile
 - n: a storage device that handles data so that the next item to be retrieved is the item most recently stored (LIFO)
@@ -32,7 +32,7 @@
 - Trump, 70, rarely uses a computer and sifts through stacks of newspapers, magazines and printed articles to read the news.
 
 # handy
-/hændi/ 
+**/hændi/**
 Someone who's handy is skilled and clever, especially when it comes to making or fixing things. If you're handy in the kitchen, you're a good cook.
 ### Definition
 - adj: skillful with the hands
@@ -53,7 +53,7 @@ Someone who's handy is skilled and clever, especially when it comes to making or
 - Many were touched by the plight of the girls - ages 11, 10 and 9 - and came forward with offers of help to mother Tonia Handy.
 
 # stern
-/stɜːʳn/ 
+**/stɜːʳn/**
 You know when you've done something really wrong, and the person who gets you in trouble has that unforgiving look on his face? The best word for that look is stern, meaning "strict" or "severe."
 ### Definition
 - adj: of a stern or strict bearing or demeanor; forbidding in aspect
@@ -80,7 +80,7 @@ You know when you've done something really wrong, and the person who gets you in
 - In a Dec. 22 Slatest, Mark Joseph Stern cited a Lancaster Online article that misstated a family’s response to false media reports about them.
 
 # abrupt
-/əbrʌpt/ 
+**/əbrʌpt/**
 An abrupt decision is one you make suddenly. An abrupt halt is one the Road Runner comes to when reaching an abrupt drop-off—you'd hear brakes squealing.
 ### Definition
 - adj: exceedingly sudden and unexpected
@@ -96,7 +96,7 @@ An abrupt decision is one you make suddenly. An abrupt halt is one the Road Runn
 - Everyone was surprised by the state’s abrupt change in position.
 
 # poultry
-/poʊltri/ 
+**/poʊltri/**
 ### Definition
 - n: flesh of chickens or turkeys or ducks or geese raised for food
 - n: a domesticated gallinaceous bird thought to be descended from the red jungle fowl
@@ -108,7 +108,7 @@ An abrupt decision is one you make suddenly. An abrupt halt is one the Road Runn
 - The hustle and bustle of Leadenhall Market was captured on Christmas eve in 1845, when it was a place to buy meat and poultry.
 
 # clause
-/klɔːz/ 
+**/klɔːz/**
 A clause can be a scary thing. Whether it is a stipulation in a contract or a grammatical concept, people sometimes avoid clauses because they are too difficult to grasp.
 ### Definition
 - n: a separate section of a legal document (as a statute or contract or will)
@@ -121,7 +121,7 @@ A clause can be a scary thing. Whether it is a stipulation in a contract or a gr
 - Answers never seem to be “yes” or “no,” but rather accompanied by an “if” clause: if the defense causes a turnover.
 
 # relinquish
-/rɪlɪŋkwɪʃ/ 
+**/rɪlɪŋkwɪʃ/**
 If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on.
 ### Definition
 - v: turn away from; give up
@@ -138,7 +138,7 @@ If you relinquish something, you let it go. You relinquish control of the army w
 - He said both countries must fully recognize each other, ensure access to religious sites and relinquish other existing claims.
 
 # sober
-/soʊbəʳ/ 
+**/soʊbəʳ/**
 This adjective means the opposite of playful or drunk. When attending a funeral, you are expected to be sober in both senses.
 ### Definition
 - adj: not affected by a chemical substance (especially alcohol)

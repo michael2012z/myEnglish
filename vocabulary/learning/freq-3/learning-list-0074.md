@@ -1,5 +1,5 @@
 # defendant
-/dɪfendənt/ 
+**/dɪfendənt/**
 In court, the person who gets sued or accused is called a defendant — they have to defend their innocence or reputation.
 ### Definition
 - n: a person or institution against whom an action is brought in a court of law; the person being sued or accused
@@ -19,7 +19,7 @@ In court, the person who gets sued or accused is called a defendant — they hav
 - Death penalty experts said it was exceedingly rare for capital defendants to represent themselves after allowing lawyers to handle the initial part of a case.
 
 # stitch
-/stɪtʃ/ 
+**/stɪtʃ/**
 When a needle pulls thread through fabric and into a loop, that's a stitch. Every quilt, no matter how elaborate, starts with a single stitch.
 ### Definition
 - n: a link or loop or knot made by an implement in knitting, crocheting, embroidery, or sewing
@@ -35,7 +35,7 @@ When a needle pulls thread through fabric and into a loop, that's a stitch. Ever
 - Playing armchair product planner, I’d throw a modest amount of money at the dashboard and door panels for some stitching and lighting.
 
 # ethnicity
-/eθnɪsɪti/ 
+**/eθnɪsɪti/**
 A person's ethnicity is their ethnic traits, classification, or association. If your ethnicity is Italian, you might speak Italian in the home and eat Italian food. Or you might simply refer to yourself as Italian and identify with your ethnicity in no other way.
 ### Definition
 - n: an ethnic quality or affiliation resulting from racial or cultural ties
@@ -48,7 +48,7 @@ A person's ethnicity is their ethnic traits, classification, or association. If 
 - “To bring in people of different ethnicities and from different backgrounds just felt important.”
 
 # dynamism
-/daɪnəmɪzəm/ 
+**/daɪnəmɪzəm/**
 ### Definition
 - n: any of the various theories or doctrines or philosophical systems that attempt to explain the phenomena of the universe in terms of some immanent force or energy
 - n: active strength of body or mind
@@ -63,7 +63,7 @@ A person's ethnicity is their ethnic traits, classification, or association. If 
 - And by sapping economic dynamism, it injures the working class.
 
 # outpatient
-/aʊtpeɪʃənt/ 
+**/aʊtpeɪʃənt/**
 ### Definition
 - n: a patient who does not reside in the hospital where he is being treated
 ### Family
@@ -74,7 +74,7 @@ A person's ethnicity is their ethnic traits, classification, or association. If 
 - While Franklin won four gold medals at the London Olympics, Knutson cycled through inpatient and outpatient therapy.
 
 # tonic
-/tɒnɪk/ 
+**/tɒnɪk/**
 A tonic is something, sometimes a medicine, that makes you feel better or restores you to health. Before doctors prescribed drugs, crooked salesmen sold all sorts of dubious tonics.
 ### Definition
 - n: a medicine that strengthens and invigorates
@@ -125,7 +125,7 @@ Something divergent is moving away from what is expected. Two divergent paths ar
 - But then two divergent arcs of development followed.
 
 # weary
-/wɪəri/ 
+**/wɪəri/**
 Weary as an adjective means "very tired or worn out," like weary students who finished a long week of studying and taking tests.
 ### Definition
 - adj: physically and mentally fatigued
@@ -146,7 +146,7 @@ Weary as an adjective means "very tired or worn out," like weary students who fi
 - “Sunrise, sunset, swiftly flow the days,” sing the weary residents of Anatevka in “Fiddler on the Roof.”
 
 # scrub
-/skrʌb/ 
+**/skrʌb/**
 When you scrub something, you wash it forcefully. You might scrub your dirty bathtub with a brush and some bleach, for example.
 ### Definition
 - v: wash thoroughly

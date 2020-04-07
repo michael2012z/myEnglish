@@ -1,5 +1,5 @@
 # breed
-/briːd/ 
+**/briːd/**
 To breed is to have babies, whether you’re a human or a hermit crab. A breed is also a specific type of a domesticated species, like a poodle or Great Dane.
 ### Definition
 - v: cause to procreate (animals)
@@ -22,7 +22,7 @@ To breed is to have babies, whether you’re a human or a hermit crab. A breed i
 - Daily reports of her progress became news, though, in the end, she was more or less the only success from the breeding experiment.
 
 # recite
-/rɪsaɪt/ 
+**/rɪsaɪt/**
 You are showing off your ability to recite, or repeat aloud from memory, when you say the entire text of "The Gettysburg Address" or name all the past winners of your town’s asparagus eating contest.
 ### Definition
 - v: repeat aloud from memory
@@ -42,7 +42,7 @@ You are showing off your ability to recite, or repeat aloud from memory, when yo
 - When two students at the University of Oklahoma triggered a storm by reciting a racist chant, one of their parents issued a public apology.
 
 # grief
-/griːf/ 
+**/griːf/**
 Grief means intense sorrow. You feel grief if something terribly sad happens, like if your dog dies or if your childhood sweetheart breaks up with you.
 ### Definition
 - n: intense sorrow caused by loss of a loved one (especially by death)
@@ -55,7 +55,7 @@ Grief means intense sorrow. You feel grief if something terribly sad happens, li
 - It started as a spontaneous and very real outpouring of shock and grief over the killing.
 
 # slippery
-/slɪpəri/ 
+**/slɪpəri/**
 ### Definition
 - adj: causing or tending to cause things to slip or slide
 - adj: not to be trusted
@@ -70,7 +70,7 @@ Grief means intense sorrow. You feel grief if something terribly sad happens, li
 - Prepare to endure bad beginnings, survive a carnivorous carnival and climb slippery slopes.
 
 # antagonism
-/æntægənɪzəm/ 
+**/æntægənɪzəm/**
 Antagonism means hostility. You might feel antagonism toward your annoying little sister, particularly if she's always borrowing your stuff without asking.
 ### Definition
 - n: an actively expressed feeling of dislike and hostility
@@ -89,7 +89,7 @@ Antagonism means hostility. You might feel antagonism toward your annoying littl
 - “The plaintiff is a developer with a long history of antagonism toward the council opponents of its oversized development project,“ Pepper said.
 
 # menace
-/menɪs/ 
+**/menɪs/**
 If it's threatening you or otherwise posing some sort of danger, then it's a menace. Angry rabid dogs, smog clouds, and annoying little brothers are all probable menaces.
 ### Definition
 - n: something that is a source of danger
@@ -108,7 +108,7 @@ If it's threatening you or otherwise posing some sort of danger, then it's a men
 
 
 # endowment
-/ɪndaʊmənt/ 
+**/ɪndaʊmənt/**
 An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.
 ### Definition
 - n: natural abilities or qualities
@@ -124,7 +124,7 @@ An endowment is a gift. It might be money given to an institution like a college
 - R. O. Kwon is a 2016 National Endowment for the Arts Literature Fellow and the author of the forthcoming novel, Heroics.
 
 # elegant
-/elɪgənt/ 
+**/elɪgənt/**
 Nimble ballerinas and long-legged birds are elegant; dump trucks and walruses usually are not.
 ### Definition
 - adj: refined and tasteful in appearance or behavior or style
@@ -141,7 +141,7 @@ Nimble ballerinas and long-legged birds are elegant; dump trucks and walruses us
 - Elegant drawings of religious iconography adorned the margins, adding to the artifact’s elegance. 
 
 # pine
-/paɪn/ 
+**/paɪn/**
 If you pine for someone, you desperately want to see them, be with them, or perhaps smother them with kisses. If you're texting your ex-boyfriend over 50 times a day, there's a pretty good chance that you still pine for him.
 ### Definition
 - n: a coniferous tree

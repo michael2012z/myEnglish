@@ -1,5 +1,5 @@
 # trio
-/triːoʊ/ 
+**/triːoʊ/**
 Whether it’s birds, opera singers, aces, or golfers, you can use the word trio to refer to anything made up of three.
 ### Definition
 - n: a set of three similar things considered as a unit
@@ -15,7 +15,7 @@ Whether it’s birds, opera singers, aces, or golfers, you can use the word trio
 - Democrats demanded more oversight of handover of the $4.2 billion to a trio of private insurers.
 
 # spectacle
-/spektəkəl/ 
+**/spektəkəl/**
 A spectacle is something you can't believe you are seeing. Get on top of your desk at work in your underpants while playing the kazoo and you're making a spectacle of yourself.
 ### Definition
 - n: something or someone seen (especially a notable or unusual sight)
@@ -31,7 +31,7 @@ A spectacle is something you can't believe you are seeing. Get on top of your de
 - “I wanted the games to be a spectacle,” Clattenburg said.
 
 # hepatitis
-/hepətaɪtɪs/ 
+**/hepətaɪtɪs/**
 ### Definition
 - n: inflammation of the liver caused by a virus or a toxin
 ### Family
@@ -42,7 +42,7 @@ A spectacle is something you can't believe you are seeing. Get on top of your de
 - Sharing needles and syringes is a direct route of transmission for HIV and hepatitis B and C viruses.
 
 # quest
-/kwest/ 
+**/kwest/**
 A quest is all about seeking something important, and it often involves a journey. You would travel the world in a quest for gold. You would not travel to the front of the lunchroom in a quest for tater tots.
 ### Definition
 - n: the act of searching for something
@@ -61,7 +61,7 @@ A quest is all about seeking something important, and it often involves a journe
 - “This is without seeing the script or anything,” D'Onofrio said of his quest.
 
 # remedy
-/remədi/ 
+**/remədi/**
 A remedy is something that relieves or cures a problem or illness. Aloe vera is a common remedy for sunburn.
 ### Definition
 - n: a medicine or therapy that cures disease or relieve pain
@@ -81,7 +81,7 @@ A remedy is something that relieves or cures a problem or illness. Aloe vera is 
 - They chuckled at some customers’ home remedies, such as pouring white wine on a red-wine stain.
 
 # haphazard
-/hæphæzəʳd/ 
+**/hæphæzəʳd/**
 Anything haphazard is random, disorganized, slipshod, or hit-or-miss. A tent erected haphazardly might look more like a big nylon bag of dirty laundry than a place to sleep.
 ### Definition
 - adj: dependent upon or characterized by chance
@@ -95,7 +95,7 @@ Anything haphazard is random, disorganized, slipshod, or hit-or-miss. A tent ere
 - The first third of the movie looked like an infomercial for a video game, to the point of really diverting from an already haphazard plot.
 
 # contradict
-/kɒntrədɪkt/ 
+**/kɒntrədɪkt/**
 "Contra-" usually means "against," and to contradict is to go against or say the opposite of what someone else is doing or saying. Sometimes to contradict is to frustrate with words, like when one person says "The sky is blue" and another says "No, it's azure."
 ### Definition
 - v: prove negative; show to be false
@@ -113,7 +113,7 @@ Anything haphazard is random, disorganized, slipshod, or hit-or-miss. A tent ere
 - While Trump hiring donors is not illegal, it certainly contradicts the message of his own campaign.
 
 # mockery
-/mɒkəri/ 
+**/mɒkəri/**
 The noun mockery means ridicule or making a fool out of someone. Mockery of your history teacher is unwise just before she grades your mid-term exams.
 ### Definition
 - n: showing your contempt by derision
@@ -130,7 +130,7 @@ The noun mockery means ridicule or making a fool out of someone. Mockery of your
 - Students, educators and the public disagreed whether the professor’s costume was a dumb mistake or offensive mockery.
 
 # distraction
-/dɪstrækʃən/ 
+**/dɪstrækʃən/**
 A distraction is something that takes your attention away from what you're supposed to be doing. If you just can't keep from checking your email every ten seconds, that's a distraction that's going to interfere with doing your homework.
 ### Definition
 - n: the act of distracting; drawing someone's attention away from something
@@ -147,7 +147,7 @@ A distraction is something that takes your attention away from what you're suppo
 - The two kept in touch despite the distractions of Thanksgiving.
 
 # wardrobe
-/wɔːʳdroʊb/ 
+**/wɔːʳdroʊb/**
 All of the clothes in your closet make up your wardrobe. If you're tired of your wardrobe, it just might be time to go shopping.
 ### Definition
 - n: a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes

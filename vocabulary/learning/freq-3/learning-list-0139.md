@@ -1,5 +1,5 @@
 # garlic
-/gɑːʳlɪk/ 
+**/gɑːʳlɪk/**
 ### Definition
 - n: bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves
 - n: aromatic bulb used as seasoning
@@ -11,7 +11,7 @@
 - Olalia’s chicken and rice bowl is fragrant and soothing, spiked with chile leaves, ginger, garlic and fish sauce. 
 
 # knot
-/nɒt/ 
+**/nɒt/**
 A knot is a securely fastened loop of string, rope, or fabric. Before kids learn to tie their shoelaces, they first have to learn to tie a simple knot. If someone asks you to "tie the knot," give it some thought since they are asking you to get married.
 ### Definition
 - n: any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object
@@ -34,7 +34,7 @@ A knot is a securely fastened loop of string, rope, or fabric. Before kids learn
 - One mask depicts Yeats with a swoop of lustrous white hair, his jaw shut by knotted strings.
 
 # bulb
-/bʌlb/ 
+**/bʌlb/**
 A bulb is the roundish, tear-shaped part of some plants. If you plant a bulb, a flower will pop up. Bulb is also short for light bulb. Don’t try planting that kind, though, because lamps don't grow on trees.
 ### Definition
 - n: anything with a round shape resembling a teardrop
@@ -53,7 +53,7 @@ A bulb is the roundish, tear-shaped part of some plants. If you plant a bulb, a 
 - "It all happened organically - it was bit of a light bulb moment," he said.
 
 # equate
-/ɪkweɪt/ 
+**/ɪkweɪt/**
 When you equate one thing with another, you say that they are both the same. You might equate indulging in a hot fudge sundae with giving up on your body entirely, but I would disagree.
 ### Definition
 - v: consider or describe as similar, equal, or analogous
@@ -86,7 +86,7 @@ When you equate one thing with another, you say that they are both the same. You
 - That reality is discouraging for Ashton Applewhite, an anti-ageism activist who equates plastic surgery with “a prejudice against your own future self.”
 
 # desolate
-/desələt/ 
+**/desələt/**
 If you feel alone, left out, and devastated, you feel desolate. A deserted, empty, depressing place can be desolate too.
 ### Definition
 - adj: providing no shelter or sustenance
@@ -103,7 +103,7 @@ If you feel alone, left out, and devastated, you feel desolate. A deserted, empt
 - Many formerly empty lots and desolate streets are now under development, depriving crews of space needed to park trucks and trailers.
 
 # simplistic
-/sɪmplɪstɪk/ 
+**/sɪmplɪstɪk/**
 It would be simplistic to say that people who get good grades study more. This answer doesn't account for the complexities of how we learn and are tested. When something is simplistic, it is overly simple.
 ### Definition
 - adj: characterized by extreme and often misleading simplicity
@@ -122,7 +122,7 @@ It would be simplistic to say that people who get good grades study more. This a
 - The argument against their enshrinement was always too simplistic and naive for my liking, not to mention arbitrary and illogical.
 
 # breeze
-/briːz/ 
+**/briːz/**
 A breeze is a light, cool wind. One of the nicest things about being at the beach on a hot summer day is feeling the gentle breeze off the water.
 ### Definition
 - n: a slight wind (usually refreshing)
@@ -138,7 +138,7 @@ A breeze is a light, cool wind. One of the nicest things about being at the beac
 - The architecture of the city acts as a giant cooling system that funnels Atlantic breezes through shaded streets in a triumph of civil engineering.
 
 # resentment
-/rɪzentmənt/ 
+**/rɪzentmənt/**
 Resentment, or the strong and painful bitterness you feel when someone does something wrong to you, doesn’t have actual physical weight, but it feels very heavy and can last a long time. Forgiveness is one way to get rid of resentment.
 ### Definition
 - n: a feeling of deep and bitter anger and ill-will
@@ -153,7 +153,7 @@ Resentment, or the strong and painful bitterness you feel when someone does some
 - When combined, these sentiments yield a volatile brew of anger and resentment, which Trump, though a billionaire, understands and exploits.
 
 # compel
-/kəmpel/ 
+**/kəmpel/**
 Compel means to force or drive someone to do something. Even if you don't like toast, when you visit the toast-eating natives of Shrintakook Island, you'll be compelled to eat it, or they will not trust you.
 ### Definition
 - v: force somebody to do something
@@ -169,7 +169,7 @@ Compel means to force or drive someone to do something. Even if you don't like t
 - But Mother Nature is nothing if not compelling, and my broodiness sat in my core like an ache.
 
 # triumphant
-/traɪʌmfənt/ 
+**/traɪʌmfənt/**
 If you're triumphant, you're proud of a huge success, like your triumphant victory at your ping-pong tournament.
 ### Definition
 - adj: experiencing triumph

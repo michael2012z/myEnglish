@@ -10,7 +10,7 @@ Hegemony is political or cultural dominance or authority over others. The hegemo
 - The publisher is uniquely placed to challenge the JIF’s hegemony.
 
 # lime
-/laɪm/ 
+**/laɪm/**
 ### Definition
 - n: the green acidic fruit of any of various lime trees
 - n: any of various related trees bearing limes
@@ -28,7 +28,7 @@ Hegemony is political or cultural dominance or authority over others. The hegemo
 - In the Upside Down cocktail, there’s a four-rum blend with persimmon, grapefruit, blood orange, cinnamon, lime, bitters and mint.
 
 # reliant
-/rɪlaɪənt/ 
+**/rɪlaɪənt/**
 To be reliant is to depend on someone or something. When you're reliant on a person, you need that person.
 ### Definition
 - adj: relying on another for support
@@ -45,7 +45,7 @@ To be reliant is to depend on someone or something. When you're reliant on a per
 - But these efforts are the exception within the many industries reliant on lithium-ion batteries.
 
 # sparse
-/spɑːʳs/ 
+**/spɑːʳs/**
 Something that’s sparse is thin, not dense. If you’re looking for the perfect place to build a tree house, a sparse forest is probably not your best bet.
 ### Definition
 - adj: not dense
@@ -57,7 +57,7 @@ Something that’s sparse is thin, not dense. If you’re looking for the perfec
 - For now, his plantation is fairly sparse, except for an area he’s named the Hill of Frankincense.
 
 # dormant
-/dɔːʳmənt/ 
+**/dɔːʳmənt/**
 That old dog was dormant for so long he was confused for a furry doormat, but a doormat is likely to stay dormant, or inactive, because it is lifeless: that old dog has some life in him yet.
 ### Definition
 - adj: inactive but capable of becoming active
@@ -72,7 +72,7 @@ That old dog was dormant for so long he was confused for a furry doormat, but a 
 - It usually stays dormant until spring but this year it is already several inches high.
 
 # stiff
-/stɪf/ 
+**/stɪf/**
 ### Definition
 - adj: incapable of or resistant to bending
 - adj: not moving or operating freely
@@ -97,7 +97,7 @@ That old dog was dormant for so long he was confused for a furry doormat, but a 
 - Even on the live-streaming frontier, there will be stiff competition.
 
 # disseminate
-/dɪsemɪneɪt/ 
+**/dɪsemɪneɪt/**
 Disseminate means to spread information, knowledge, opinions widely. Semin- derives from the Latin word for seed; the idea with disseminate is that information travels like seeds sown by a farmer.
 ### Definition
 - v: cause to become widely known
@@ -111,7 +111,7 @@ Disseminate means to spread information, knowledge, opinions widely. Semin- deri
 - Is the organization building shelters, or providing micro-loans, or disseminating health information?
 
 # penis
-/piːnɪs/ 
+**/piːnɪs/**
 The penis is the male sexual organ. Boys and men and male animals all have penises.
 ### Definition
 - n: the male organ of copulation (`member' is a euphemism)
@@ -123,7 +123,7 @@ The penis is the male sexual organ. Boys and men and male animals all have penis
 - Her father said that doctors wanted to construct a penis to match the child’s male chromosomes, but he declined.
 
 # veritable
-/verɪtəbəl/ 
+**/verɪtəbəl/**
 When something is veritable it is true, or at least feels that way. "The trees and lights turned the campus into a veritable wonderland" means that the campus seemed to be transformed into a true wonderland (if there is such a thing).
 ### Definition
 - adj: not counterfeit or copied
@@ -136,7 +136,7 @@ When something is veritable it is true, or at least feels that way. "The trees a
 - This year was filled to the brim with Netflix revivals, Marvel films, and veritable pop culture phenomena.
 
 # exemplary
-/ɪgzempləri/ 
+**/ɪgzempləri/**
 Exemplary people excel at what they do and are excellent examples to others. Something exemplary is so good that it is an example for others to follow.
 ### Definition
 - adj: worthy of imitation

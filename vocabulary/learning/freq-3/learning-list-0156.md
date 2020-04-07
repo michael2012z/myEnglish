@@ -1,5 +1,5 @@
 # tore
-/tɔːʳ/ 
+**/tɔːʳ/**
 ### Definition
 - n: commonly the lowest molding at the base of a column
 ### Family
@@ -13,7 +13,7 @@
 - She separated her left shoulder and tore several ligaments that were repaired with surgery.
 
 # unattractive
-/ʌnətræktɪv/ 
+**/ʌnətræktɪv/**
 ### Definition
 - adj: not appealing to the senses
 - adj: lacking beauty or charm
@@ -45,7 +45,7 @@ Something customary is done according to practice. When a bride walks down the a
 - Bedroom D.J.s without trust funds will struggle to buy one, let alone the customary two.
 
 # temperate
-/tempərɪt/ 
+**/tempərɪt/**
 Temperate means mild, moderate. If you're a temperate person, you are calm, reasonable. If you live in a temperate climate, it's warm and sunny, but not too hot.
 ### Definition
 - adj: not extreme

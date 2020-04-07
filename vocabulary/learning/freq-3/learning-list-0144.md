@@ -14,7 +14,7 @@ Subversion means overthrowing something, like a government or law, or it can mea
 - Chinese lawyers abjectly confessing to subversion in show trials.
 
 # altruism
-/æltruɪzəm/ 
+**/æltruɪzəm/**
 If you see a stranger getting beaten up on the playground and you rush in to rescue them, you have done something unselfish to help another person, otherwise known as an act of altruism.
 ### Definition
 - n: the quality of unselfish concern for the welfare of others
@@ -28,7 +28,7 @@ If you see a stranger getting beaten up on the playground and you rush in to res
 - “Altruism and egotism are the same thing,” she says.
 
 # cottage
-/kɒtɪdʒ/ 
+**/kɒtɪdʒ/**
 A cottage is a small house, particularly a traditional or old-fashioned house, or one that is used seasonally. Your family might rent a cottage near the beach every summer.
 ### Definition
 - n: a small house with a single story
@@ -42,7 +42,7 @@ A cottage is a small house, particularly a traditional or old-fashioned house, o
 
 
 # multilateral
-/mʌltilætərəl/ 
+**/mʌltilætərəl/**
 ### Definition
 - adj: having many parts or sides
 ### Family
@@ -56,7 +56,7 @@ A cottage is a small house, particularly a traditional or old-fashioned house, o
 - If it withdraws support for multilateral treaties under President Trump, the environment will not be doomed.
 
 # unsupported
-/ʌnsəpɔːʳtɪd/ 
+**/ʌnsəpɔːʳtɪd/**
 ### Definition
 - adj: not held up or borne
 - adj: not sustained or maintained by nonmaterial aid
@@ -91,7 +91,7 @@ If you're watching something, you're a spectator. Football stadiums and circus t
 - The parade delights spectators along downtown city streets and at home in front of their televisions broadcasting the popular festivity live.
 
 # blossom
-/blɒsəm/ 
+**/blɒsəm/**
 The flowering part of a plant or tree that will form the seeds or fruit is called a blossom and synonyms include bloom and flower. The noun can also refer to the state of such flowering. You shouldn't miss cherry blossom time in Washington, D.C.
 ### Definition
 - n: reproductive organ of angiosperm plants especially one having showy or colorful parts
@@ -107,7 +107,7 @@ The flowering part of a plant or tree that will form the seeds or fruit is calle
 - At least Palmer gets to step back into the stadium where his dreams blossomed.
 
 # explode
-/ɪksploʊd/ 
+**/ɪksploʊd/**
 Anything and anyone can explode — that is, produce a violent, sudden and usually very loud release of energy.
 ### Definition
 - v: burst and release energy as through a violent chemical or physical reaction;"the bomb detonated at noon"

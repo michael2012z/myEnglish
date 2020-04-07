@@ -1,5 +1,5 @@
 # exploitative
-/ɪksplɔɪtətɪv/ 
+**/ɪksplɔɪtətɪv/**
 ### Definition
 - adj: tending to exploit or make use of
 ### Family
@@ -15,7 +15,7 @@
 - Mr. Michael’s black support was never an exploitative exhortation.
 
 # incoherent
-/ɪnkoʊhɪərənt/ 
+**/ɪnkoʊhɪərənt/**
 Incoherent thoughts don't follow each other logically. Incoherent speech is mumbled or jumbled. Incoherent means that something is difficult to understand because it's not holding together.
 ### Definition
 - adj: without logical or meaningful connection
@@ -37,7 +37,7 @@ Incoherent thoughts don't follow each other logically. Incoherent speech is mumb
 - After a few minutes of incoherent yelling over each other, the supervising producer breaks up what almost becomes a physical fight.
 
 # coefficient
-/koʊɪfɪʃənt/ 
+**/koʊɪfɪʃənt/**
 In math and science, a coefficient is a constant term related to the properties of a product. In the equation that measures friction, for example, the number that always stays the same is the coefficient.
 ### Definition
 - n: a constant number that serves as a measure of some property or characteristic
@@ -49,7 +49,7 @@ In math and science, a coefficient is a constant term related to the properties 
 - Nerds want to know: what is the correlation coefficient??
 
 # ashore
-/əʃɔːʳ/ 
+**/əʃɔːʳ/**
 When you go ashore, you move from the water to the land, usually in a boat. When you've tired of canoeing, you can paddle back to the edge of the lake and go ashore.
 ### Definition
 - adv: towards the shore from the water
@@ -61,7 +61,7 @@ When you go ashore, you move from the water to the land, usually in a boat. When
 - It is expected to slam ashore around 7 p.m.
 
 # ranking
-/ræŋkɪŋ/ 
+**/ræŋkɪŋ/**
 Your spot on a scale is your ranking. If your football team has a #10 ranking and you’re playing #1, well good luck. Your class ranking is how you measure up. The student with the highest ranking is the valedictorian.
 ### Definition
 - n: position on a scale in relation to others
@@ -91,7 +91,7 @@ When you "dim" a light, you reduce the brightness coming from the bulb. Diminuti
 - They have capitalized on the 3-point shot and the diminution of the lumbering, back-to-the-basket center to herald an era of artistic play and teamwork.
 
 # constellation
-/kɒnstəleɪʃən/ 
+**/kɒnstəleɪʃən/**
 When you spot the Big Dipper in the night sky, you're looking at part of the constellation called "Ursa Major." A constellation is a group of stars that forms a pattern and has been given a name based on its shape.
 ### Definition
 - n: a configuration of stars as seen from the earth
@@ -105,7 +105,7 @@ When you spot the Big Dipper in the night sky, you're looking at part of the con
 - The reference is to the constellation of devices — such as cameras, cellphones and appliances — connected to the internet.
 
 # wholesale
-/hoʊlseɪl/ 
+**/hoʊlseɪl/**
 Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country.
 ### Definition
 - n: the selling of goods to merchants; usually in large quantities for resale to consumers
@@ -122,7 +122,7 @@ Use the adjective wholesale to describe something that's done on a big, broad sc
 - In other energy trading, wholesale gasoline dropped 2 cents to $1.67 a gallon and heating oil held steady at $1.70 a gallon.
 
 # terrestrial
-/tɪrestriəl/ 
+**/tɪrestriəl/**
 Not straying far from its Latin root terra meaning "earth," terrestrial means "of the earth." If it's terrestrial, you'll find it on earth. If it's extraterrestrial, you'll find it emerging from a UFO.
 ### Definition
 - adj: of or relating to or characteristic of the planet Earth or its inhabitants
@@ -138,7 +138,7 @@ Not straying far from its Latin root terra meaning "earth," terrestrial means "o
 - Romer’s gap thus seems to be the time when tetrapods became unequivocally terrestrial.
 
 # semblance
-/sembləns/ 
+**/sembləns/**
 Semblance is all about illusion. Cramming all of your dirty clothes into the closet gives the semblance, or false appearance, that you've done your laundry — but the stench might give you away.
 ### Definition
 - n: an outward or token appearance or form that is deliberately misleading

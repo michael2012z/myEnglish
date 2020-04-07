@@ -1,5 +1,5 @@
 # concur
-/kənkɜːʳ/ 
+**/kənkɜːʳ/**
 To concur is to agree or approve of something. If someone says something you agree with, you can say "I concur!"
 ### Definition
 - v: happen simultaneously
@@ -15,7 +15,7 @@ To concur is to agree or approve of something. If someone says something you agr
 - Not everyone in the courtroom seemed to concur.
 
 # brutality
-/bruːtælɪti/ 
+**/bruːtælɪti/**
 Brutality is extreme cruelty, deliberate violent meanness. Avoid being the giver or receiver of brutality if you wish to remain a happy human.
 ### Definition
 - n: the trait of extreme cruelty
@@ -32,7 +32,7 @@ Brutality is extreme cruelty, deliberate violent meanness. Avoid being the giver
 - Violent encounters with law enforcement led to more than 400 arrests — and accusations of police brutality.
 
 # distort
-/dɪstɔːʳt/ 
+**/dɪstɔːʳt/**
 Distort means to twist out of shape. When you look at a tree through a twisting kaleidoscope, you distort its image, making its branches and leaves look wavy and misshapen.
 ### Definition
 - v: twist and press out of shape
@@ -50,7 +50,7 @@ Distort means to twist out of shape. When you look at a tree through a twisting 
 - Netanyahu called the decision “distorted” but said that Israel will overcome it.
 
 # imminent
-/ɪmɪnənt/ 
+**/ɪmɪnənt/**
 Something that is imminent is just about to happen: if you light a firecracker and then stick it down your pants, a very bad situation is imminent.
 ### Definition
 - adj: close in time; about to occur
@@ -64,7 +64,7 @@ Something that is imminent is just about to happen: if you light a firecracker a
 - An attorney for the homeowners says in a letter to the city manager that the community is “at imminent risk.”
 
 # unidentified
-/ʌnaɪdentɪfaɪd/ 
+**/ʌnaɪdentɪfaɪd/**
 ### Definition
 - adj: not yet identified
 - adj: being or having an unknown or unnamed source
@@ -95,7 +95,7 @@ Something that is built to last is durable. Your most durable pair of hiking boo
 - The result is a dough that’s chewy and durable.
 
 # conscience
-/kɒnʃəns/ 
+**/kɒnʃəns/**
 A conscience is a built-in sense of what's right and what's wrong. That sick feeling in your stomach after you meanly told your younger brother the truth about Santa Claus? That might be your conscience bothering you.
 ### Definition
 - n: motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
@@ -114,7 +114,7 @@ A conscience is a built-in sense of what's right and what's wrong. That sick fee
 - Read my blog, The Conscience of a Liberal, and follow me on Twitter, @PaulKrugman.
 
 # unavoidable
-/ʌnəvɔɪdəbəl/ 
+**/ʌnəvɔɪdəbəl/**
 Use the adjective unavoidable to describe something that you can't escape or avoid. Going to your family reunion is unavoidable if there's no way for you to get out of it.
 ### Definition
 - adj: impossible to avoid or evade:"inescapable conclusion"
@@ -129,7 +129,7 @@ Use the adjective unavoidable to describe something that you can't escape or avo
 - And then the unavoidable truth: Joe is on the autism spectrum.
 
 # sculptor
-/skʌlptəʳ/ 
+**/skʌlptəʳ/**
 ### Definition
 - n: an artist who creates sculptures
 - n: an artist who creates sculptures
@@ -145,7 +145,7 @@ Use the adjective unavoidable to describe something that you can't escape or avo
 - Sculptor Andrew Sinclair has promised that the Buckinghamshire memorial will be "something special".
 
 # shepherd
-/ʃepəʳd/ 
+**/ʃepəʳd/**
 A shepherd is a person who herds flocks or groups of animals. If you traveled to Tibet, you might see a yak shepherd.
 ### Definition
 - n: a herder of sheep (on an open range); someone who keeps the sheep together in a flock

@@ -1,5 +1,5 @@
 # gel
-/dʒel/ 
+**/dʒel/**
 ### Definition
 - n: a colloid in a more solid form than a sol
 - v: become a gel
@@ -13,7 +13,7 @@
 - With no medical gel for ultrasounds, hair gel was being used instead.
 
 # petty
-/peti/ 
+**/peti/**
 Petty used to mean just "petite" or "small," but now it's used for things that are trivial and shouldn’t matter much. If you host world leaders and spend more time picking napkins than memorizing names, you're focused on petty things.
 ### Definition
 - adj: (informal) small and of little importance
@@ -29,7 +29,7 @@ Petty used to mean just "petite" or "small," but now it's used for things that a
 - Petty property crimes, of the sort that lowers quality of life in cities, are on the rise.
 
 # insurmountable
-/ɪnsəʳmaʊntəbəl/ 
+**/ɪnsəʳmaʊntəbəl/**
 The adjective insurmountable describes some barrier that is incapable of being overcome. The Great Wall of China was meant to be an insurmountable deterrent to would-be invaders.
 ### Definition
 - adj: not capable of being surmounted or overcome
@@ -45,7 +45,7 @@ The adjective insurmountable describes some barrier that is incapable of being o
 - At the time, the research faced two seemingly insurmountable problems.
 
 # spectre
-/spektəʳ/ 
+**/spektəʳ/**
 A spectre is a ghost or spirit. If you see a spectre of the previous owners in your new house, get out quick! A spectre can also be a thought that haunts you.
 ### Definition
 - n: a ghostly appearing figure
@@ -58,7 +58,7 @@ A spectre is a ghost or spirit. If you see a spectre of the previous owners in y
 - The spectre of government executions looms over the black community in this former Jim Crow state.
 
 # sentimental
-/sentɪmentəl/ 
+**/sentɪmentəl/**
 Call a person sentimental if he or she is led more by emotions than by reason. If you have a sentimental attachment to a favorite stuffed animal, you'll probably even bring it to college with you.
 ### Definition
 - adj: given to or marked by sentiment or sentimentality
@@ -80,7 +80,7 @@ Call a person sentimental if he or she is led more by emotions than by reason. I
 - Jamie’s sentimental education is also a kind of encounter session.
 
 # tack
-/tæk/ 
+**/tæk/**
 ### Definition
 - n: a short nail with a sharp point and a large head
 - v: fix to; attach
@@ -128,7 +128,7 @@ A trait is something about you that makes you "you." When your mother says that 
 - What is the trait you most deplore in yourself?
 
 # antipathy
-/æntɪpəθi/ 
+**/æntɪpəθi/**
 An antipathy is a deep-seated dislike of something or someone. Usually it's a condition that is long-term, innate, and pretty unlikely to change — like your antipathy for the Red Sox.
 ### Definition
 - n: a feeling of intense dislike
@@ -142,7 +142,7 @@ An antipathy is a deep-seated dislike of something or someone. Usually it's a co
 - But it was bracing coming from a candidate whose election was powered by antipathy toward elites. 
 
 # appalled
-/əpɔːld/ 
+**/əpɔːld/**
 Appalled is an adjective that describes feeling shocked and disappointed. Being appalled happens suddenly, like when you find out your little sister has been blogging about your family, telling embarrassing stories.
 ### Definition
 - adj: struck with fear, dread, or consternation

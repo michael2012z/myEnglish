@@ -1,5 +1,5 @@
 # militia
-/mɪlɪʃə/ 
+**/mɪlɪʃə/**
 If you live in a remote place that's under attack by an upstart band of thieves, start a militia. A militia is a band of civilians trained to do army type business, without officially joining the army.
 ### Definition
 - n: civilians trained as soldiers but not part of the regular army
@@ -12,7 +12,7 @@ If you live in a remote place that's under attack by an upstart band of thieves,
 - On the one side, Syrian government forces, allied militias and the Russian military.
 
 # ration
-/ræʃən/ 
+**/ræʃən/**
 When you ration your supplies, you dole them out a little at a time. A ration is also a wartime military meal, or the portion of food that someone is allowed in times of scarcity.
 ### Definition
 - n: a fixed portion that is allotted (especially in times of scarcity)
@@ -27,7 +27,7 @@ When you ration your supplies, you dole them out a little at a time. A ration is
 - Despite severe food shortages, they scrounged up extra ration cards and provisions.
 
 # summon
-/sʌmən/ 
+**/sʌmən/**
 To summon is to formally call for the presence of someone. If, as soccer team captain, you find that your team members are an hour late for the big game, you might need to summon them — and fast.
 ### Definition
 - v: ask to come
@@ -44,7 +44,7 @@ To summon is to formally call for the presence of someone. If, as soccer team ca
 - The Oakland Raiders slipped on their pads, donned their uniforms and summoned the fortitude to play.
 
 # basin
-/beɪsən/ 
+**/beɪsən/**
 A basin is a container that holds water and is used for washing, but you probably just call it your bathroom sink.
 ### Definition
 - n: a bowl-shaped vessel; usually used for holding food or liquids
@@ -75,7 +75,7 @@ If it's delicate and easily broken, like a rare glass vase or the feelings of an
 - But underlying Hamilton’s aggressive campaign for Jefferson was a fear that America’s democracy was too fragile to survive Burr’s ambition.
 
 # lavish
-/lævɪʃ/ 
+**/lævɪʃ/**
 Lavish means generous and extravagant as an adjective and to give generously as a verb. If you don't like it when people lavish you with attention, you might appreciate a lavish spread of excellent food instead.
 ### Definition
 - adj: very generous
@@ -89,7 +89,7 @@ Lavish means generous and extravagant as an adjective and to give generously as 
 - He even invited the diplomats’ children to attend lavish Orthodox Christmas festivities in the Kremlin.
 
 # resilient
-/rɪzɪliənt/ 
+**/rɪzɪliənt/**
 When something is strong and able to recover from damage quickly, call it resilient. If you're rough on your toys, the ones that don't break are resilient.
 ### Definition
 - adj: recovering readily from adversity, depression, or the like
@@ -103,7 +103,7 @@ When something is strong and able to recover from damage quickly, call it resili
 - “I am confident that democracy will prove resilient in the U.S.,”
 
 # lease
-/liːs/ 
+**/liːs/**
 To lease something is to borrow it in exchange for money. If you lease a car from a dealer, for example, you make payments and you get to drive the car, but at the end of the contract you have to give it back.
 ### Definition
 - n: a contract granting use or occupation of property during a specified time for a specified payment
@@ -123,7 +123,7 @@ To lease something is to borrow it in exchange for money. If you lease a car fro
 - The Iridium satellite is to be launched by SpaceX from a leased launchpad at Vandenberg Air Force Base in California.
 
 # lyric
-/lɪrɪk/ 
+**/lɪrɪk/**
 The word lyric claims its emotional place in music and poetry, with the words to a song being called the lyrics, while A lyric poem is one steeped in personal emotions, making it song-like.
 ### Definition
 - adj: of or relating to a category of poetry that expresses emotion (often in a songlike way)
@@ -144,7 +144,7 @@ The word lyric claims its emotional place in music and poetry, with the words to
 - She even stopped singing her song "Emotions," paced the stage and told the audience to finish the lyrics for her.
 
 # vigorous
-/vɪgərəs/ 
+**/vɪgərəs/**
 Anything vigorous is done with force and energy. Vigorous exercise makes you sweat, and a vigorous denial makes someone else sweat.
 ### Definition
 - adj: characterized by forceful and energetic action or activity

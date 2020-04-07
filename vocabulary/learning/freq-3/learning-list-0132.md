@@ -1,5 +1,5 @@
 # advisory
-/ædvaɪzəri/ 
+**/ædvaɪzəri/**
 An advisory is an announcement that often gives a warning, like a weather advisory about a blizzard. An advisory job involves giving advice.
 ### Definition
 - n: an announcement that usually advises or warns the public of some threat
@@ -23,7 +23,7 @@ An advisory is an announcement that often gives a warning, like a weather adviso
 - The issue was the topic of a December meeting organized by Timothy Jones of the Advisory Neighborhood Commission, where residents complained to Metro officials.
 
 # temperament
-/temprəmənt/ 
+**/temprəmənt/**
 While a mood can change, your temperament is your overall tone most of the time. Just like dogs, people have temperaments: some are aggressive; some are playful; and some are just happy to carry your slippers.
 ### Definition
 - n: your usual mood
@@ -38,7 +38,7 @@ While a mood can change, your temperament is your overall tone most of the time.
 - But the most striking aspect of this film’s aesthetic — a better word might be temperament — is its gentle, unassuming modesty.
 
 # putative
-/pjuːtətɪv/ 
+**/pjuːtətɪv/**
 You might be the putative leader of your lacrosse team, even if someone else holds the title of captain. Putative means to be known as something by reputation, or assumed to be something, or generally accepted.
 ### Definition
 - adj: purported; commonly put forth or accepted as true on inconclusive grounds
@@ -68,7 +68,7 @@ Nutrition is the study of food and drink. If you take a nutrition class, you'll 
 - To set the reference value, the CDC relies upon data from the National Health and Nutrition Survey.
 
 # onion
-/ʌnjən/ 
+**/ʌnjən/**
 An onion is a plant that grows as a bulb underground and can be harvested and eaten. Note: onions may be tasty, but they sure can make your breath stink.
 ### Definition
 - n: bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb
@@ -82,7 +82,7 @@ An onion is a plant that grows as a bulb underground and can be harvested and ea
 - Drain the pieces and place on a platter, garnishing with the green onion.
 
 # unease
-/ʌniːz/ 
+**/ʌniːz/**
 ### Definition
 - n: physical discomfort (as mild sickness or depression)
 - n: the trait of seeming ill at ease
@@ -96,7 +96,7 @@ An onion is a plant that grows as a bulb underground and can be harvested and ea
 - Many factors explained its hesitation to raise rates, including unease over the global impact of China’s economic slowdown and uncertainty surrounding the U.S. election.
 
 # untreated
-/ʌntriːtɪd/ 
+**/ʌntriːtɪd/**
 ### Definition
 - adj: not given medical care or treatment
 - adj: not subjected to chemical or physical treatment
@@ -116,7 +116,7 @@ An onion is a plant that grows as a bulb underground and can be harvested and ea
 - If untreated, sarcopenia will affect your balance, mobility and stamina, and raise the risk of falling, becoming frail and losing independence.
 
 # evoke
-/ɪvoʊk/ 
+**/ɪvoʊk/**
 The verb evoke most commonly means to bring a feeling, memory, or picture into the mind. When you visit your old elementary school, the smells, sounds, and colors there can evoke memories from the past.
 ### Definition
 - v: call forth (emotions, feelings, and responses)
@@ -134,7 +134,7 @@ The verb evoke most commonly means to bring a feeling, memory, or picture into t
 - The opening “Big Show” movement evokes, he says, the “brash, brassy, razzle-dazzle of our city.”
 
 # inward
-/ɪnwəʳd/ 
+**/ɪnwəʳd/**
 ### Definition
 - adj: directed or moving inward or toward a center
 - adj: relating to or existing in the mind or thoughts
@@ -149,7 +149,7 @@ The verb evoke most commonly means to bring a feeling, memory, or picture into t
 - Instead he looked inward and subjected himself to brutal self-assessment.
 
 # complement
-/kɒmplɪment/ 
+**/kɒmplɪment/**
 A complement is something that makes up a satisfying whole with something else. Those shiny red shoes you just bought complement your shiny red purse.
 ### Definition
 - n: something added to complete or embellish or make perfect

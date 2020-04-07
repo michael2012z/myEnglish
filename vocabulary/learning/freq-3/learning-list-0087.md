@@ -1,5 +1,5 @@
 # reproductive
-/riːprədʌktɪv/ 
+**/riːprədʌktɪv/**
 Anything reproductive has to do with creating babies or other new life. If you get a pair of pet rabbits but soon have twenty, then you know those bunnies are in good reproductive health. Congratulations.
 ### Definition
 - adj: producing new life or offspring
@@ -14,7 +14,7 @@ Anything reproductive has to do with creating babies or other new life. If you g
 - Gonadal material throws light on the cetacean's reproductive health, blubber thickness reflects the animal's general health while gut contents reveal much about a cetacean's diet.
 
 # humidity
-/hjuːmɪdɪti/ 
+**/hjuːmɪdɪti/**
 Humidity has to do with how much moisture is in the air. High humidity is a lot of moisture; low humidity is not much at all.
 ### Definition
 - n: wetness in the atmosphere
@@ -27,7 +27,7 @@ Humidity has to do with how much moisture is in the air. High humidity is a lot 
 - Keep the plant on a moist pebble tray to provide extra humidity, and try to keep temperatures above 55 degrees.
 
 # prominence
-/prɒmɪnəns/ 
+**/prɒmɪnəns/**
 Prominence has to do with importance. If a band becomes famous, they've come into prominence.
 ### Definition
 - n: the state of being prominent: widely known or eminent
@@ -42,7 +42,7 @@ Prominence has to do with importance. If a band becomes famous, they've come int
 - A price is paid for early prominence; in many cases, the winners are the ones who wait.
 
 # redress
-/rɪdres/ 
+**/rɪdres/**
 The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.
 ### Definition
 - v: make reparations or amends for
@@ -56,7 +56,7 @@ The verb redress is used when you are supposed to fix a problem and make amends.
 - Now campaigners such as Maw Maw Oo want to hold the party to its pledges to provide redress.
 
 # bride
-/braɪd/ 
+**/braɪd/**
 ### Definition
 - n: a woman participant in her own marriage ceremony
 - n: a woman who has recently been married
@@ -74,7 +74,7 @@ The verb redress is used when you are supposed to fix a problem and make amends.
 - Bride told police that they planned to rob her uncle.
 
 # juvenile
-/dʒuːvənaɪl/ 
+**/dʒuːvənaɪl/**
 If you're being juvenile, you're not acting your age. Unless of course you are a juvenile. In which case, carry on.
 ### Definition
 - adj: of or relating to or characteristic of or appropriate for children or young people
@@ -89,7 +89,7 @@ If you're being juvenile, you're not acting your age. Unless of course you are a
 - A juvenile relative was arrested in the killing of a 74-year-old Keno woman early Saturday.
 
 # yoke
-/joʊk/ 
+**/joʊk/**
 Ever seen a picture of a farm girl carrying two buckets of water hanging from ropes attached to a stick she's balancing across her shoulders? That stick on her shoulders is a yoke.
 ### Definition
 - n: support consisting of a wooden frame across the shoulders that enables a person to carry buckets hanging from each end
@@ -111,7 +111,7 @@ Ever seen a picture of a farm girl carrying two buckets of water hanging from ro
 - We could saddle reindeer and herd geese and yoke yaks.
 
 # defy
-/dɪfaɪ/ 
+**/dɪfaɪ/**
 To defy is to openly refuse to do something. You can defy the no-costumes-in-class rule if you wear your fairy wings to school, but just don’t try to defy the laws of gravity unless you can actually fly.
 ### Definition
 - v: resist or confront with resistance
@@ -127,7 +127,7 @@ To defy is to openly refuse to do something. You can defy the no-costumes-in-cla
 - They suspect that Trump, despite his self-evident indiscipline, may prove to be a popular and consequential President, defying his critics—many of them conservative.
 
 # pharmaceutical
-/fɑːʳməsuːtɪkəl/ 
+**/fɑːʳməsuːtɪkəl/**
 A pharmaceutical is any kind of drug used for medicinal purposes, like cough syrup or sleeping pills.
 ### Definition
 - adj: of or relating to pharmacy or pharmacists
@@ -144,7 +144,7 @@ A pharmaceutical is any kind of drug used for medicinal purposes, like cough syr
 - There are also several agents dedicated to working pharmaceutical diversion cases in which people are doctor shopping or prescriptions are being forged.
 
 # prey
-/preɪ/ 
+**/preɪ/**
 Prey is an animal hunted for food. If you're a delicious-looking deer during hunting season, watch your back! You're the prey for all those guys in orange jackets carrying rifles.
 ### Definition
 - n: animal hunted or caught for food

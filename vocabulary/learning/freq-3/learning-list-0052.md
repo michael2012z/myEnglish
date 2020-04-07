@@ -1,5 +1,5 @@
 # haunt
-/hɔːnt/ 
+**/hɔːnt/**
 The verb to haunt means to appear as a ghost or some kind of supernatural phenomenon. Ebenezer Scrooge was haunted by the Ghosts of Christmases Past, Present and Future.
 ### Definition
 - v: follow stealthily or recur constantly and spontaneously to
@@ -15,7 +15,7 @@ The verb to haunt means to appear as a ghost or some kind of supernatural phenom
 - As 2017 dawns, the ghost of Lord Balfour still haunts us.
 
 # hinge
-/hɪndʒ/ 
+**/hɪndʒ/**
 A hinge is a type of joint that attaches two things together while allowing for limited movement. A door hinge fastens the door to the wall and lets the door swing open.
 ### Definition
 - n: a joint that holds two parts together so that one can swing relative to the other
@@ -48,7 +48,7 @@ To induce is to move or lead someone to action. A promise of a lollipop can indu
 - Bart pulled through heart surgery, but he was placed in an induced coma and never woke up.
 
 # deflect
-/dɪflekt/ 
+**/dɪflekt/**
 The verb deflect describes blocking something or changing its course. Hockey goalies deflect the flying puck with their sticks or blockers, making it travel in a different direction, preferably to a teammate's stick.
 ### Definition
 - v: turn from a straight course, fixed direction, or line of interest
@@ -68,7 +68,7 @@ The verb deflect describes blocking something or changing its course. Hockey goa
 - Crucially this time, however, his fingertips proved the difference between Romelu Lukaku’s deflected drive hitting the crossbar and flying beneath it.
 
 # damn
-/dæm/ 
+**/dæm/**
 Damn is a common, somewhat naughty exclamation. In one sense it means to condemn or send someone to hell, as in "God damn it!" Other times it means "a little amount," as in "I don't give a damn about baseball."
 ### Definition
 - n: something of little value
@@ -87,7 +87,7 @@ Damn is a common, somewhat naughty exclamation. In one sense it means to condemn
 - “They cried every damn take of that scene,” he says.
 
 # companion
-/kəmpænjən/ 
+**/kəmpænjən/**
 A companion is one who serves as a friend or partner in something. Whether it’s travel or dinner or card-playing, your companion is the one who does it with you.
 ### Definition
 - n: a friend who is frequently in the company of another
@@ -104,7 +104,7 @@ A companion is one who serves as a friend or partner in something. Whether it’
 - McMaster is getting a lot of attention, but a half-dozen other candidates are emerging as potential companions for the primary ballot.
 
 # heed
-/hiːd/ 
+**/hiːd/**
 Heed is an old word, meaning to listen to and follow. It can also be used as a noun: "Take heed of my instructions, little boy," said the old bearded man. "My potion will only work for the one who wears the ring."
 ### Definition
 - n: paying particular notice (as to children or helpless people)
@@ -124,7 +124,7 @@ Heed is an old word, meaning to listen to and follow. It can also be used as a n
 - Experts, nevertheless, say the figures tell a story about people’s movement across state and city lines — what demographers call “domestic migration” — that is worth heeding.
 
 # ordeal
-/ɔːʳdiːl/ 
+**/ɔːʳdiːl/**
 An ordeal is something difficult or painful to go through. Something kind of hard like taking a test can be an ordeal, but often an ordeal is a serious and long-lasting event, like an illness or tragedy.
 ### Definition
 - n: a severe or trying experience
@@ -137,7 +137,7 @@ An ordeal is something difficult or painful to go through. Something kind of har
 - His ordeal marked a rare instance in which a reporter for a U.S. publication was detained.
 
 # raid
-/reɪd/ 
+**/reɪd/**
 A raid is a military attack, especially a quick surprise attack. The word comes from the military but has spread out — police might raid a shady nightclub to find bad guys, or a babysitter might raid the refrigerator.
 ### Definition
 - n: a sudden short attack
@@ -155,7 +155,7 @@ A raid is a military attack, especially a quick surprise attack. The word comes 
 - Police raids to disrupt suspected holiday terror plots led to several shootouts in which five militants were killed and 20 arrested.
 
 # dim
-/dɪm/ 
+**/dɪm/**
 Dim has several meanings related to a lack of light, hope, or knowledge. A room that is not well lit is dim, a slow thinker is dim, and when life looks hopeless, your prospects are dim.
 ### Definition
 - adj: lacking in light; not bright or harsh

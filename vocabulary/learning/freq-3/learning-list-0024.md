@@ -23,7 +23,7 @@ If something happens after something else, it will ensue, meaning it will follow
 - The ensuing anger will inevitably be met with matching levels of violence.
 
 # freight
-/freɪt/ 
+**/freɪt/**
 Like many nouns that can mean an action as well as an actual thing, freight refers to either the sending of goods or the goods themselves. It can also mean the charge for sending goods. You pay freight for the freight of your freight.
 ### Definition
 - n: goods carried by a large vehicle
@@ -41,7 +41,7 @@ Like many nouns that can mean an action as well as an actual thing, freight refe
 - Even the nickname for the role, Guardian Angel, was freighted with a presumption of unerring perfection and righteous power.
 
 # indebted
-/ɪndetɪd/ 
+**/ɪndetɪd/**
 When you’re indebted to someone, you owe that person something. It could be that you owe money, or it could be you’re just grateful for a nice thing the person did.
 ### Definition
 - adj: owing gratitude or recognition to another for help or favors etc
@@ -56,7 +56,7 @@ When you’re indebted to someone, you owe that person something. It could be th
 - It’s a minor effort overly indebted to its references. 
 
 # flare
-/fleəʳ/ 
+**/fleəʳ/**
 A flare is a sudden burst of light. The flare of a lit match in the dark night is strangely beautiful.
 ### Definition
 - n: a burst of light used to communicate or illuminate
@@ -83,7 +83,7 @@ A flare is a sudden burst of light. The flare of a lit match in the dark night i
 - But with Coleman lined up wide, Foster sensed that Coleman would flare, leaving him susceptible to a pick from the wide receiver.
 
 # supervise
-/suːpəʳvaɪz/ 
+**/suːpəʳvaɪz/**
 If your mother asks you to supervise your little brother and his friends, it means she'd like you to keep an eye on them.
 ### Definition
 - v: watch and direct
@@ -99,7 +99,7 @@ If your mother asks you to supervise your little brother and his friends, it mea
 - Providence, who was on supervised release stemming from a gun charge from 2013, was charged with tampering with a detection device.
 
 # interim
-/ɪntərɪm/ 
+**/ɪntərɪm/**
 An interim is a period of time between one event and another, maybe the interim between the arrival of your party guests and the cleanup you have to do after they leave.
 ### Definition
 - n: the time between one event, process, or period and another
@@ -112,7 +112,7 @@ An interim is a period of time between one event and another, maybe the interim 
 - On Thursday, a former top EU lawyer warned of a "catastrophe" for the UK if no interim trade accord was struck.
 
 # coincide
-/koʊɪnsaɪd/ 
+**/koʊɪnsaɪd/**
 When things happen at the same time, they are said to coincide. Often, this is because they're intentionally coordinated––"the bake sale coincided with Parent Day"––but not always.
 ### Definition
 - v: happen simultaneously
@@ -129,7 +129,7 @@ When things happen at the same time, they are said to coincide. Often, this is b
 - Trump's inauguration coincides with the last day of the conference.
 
 # precarious
-/prɪkeəriəs/ 
+**/prɪkeəriəs/**
 Grab for the adjective precarious when something is unstable, dangerous or difficult and likely to get worse. Are you totally broke and the people you owe money to keep calling? You're in a precarious financial situation!
 ### Definition
 - adj: not secure; beset with difficulties
@@ -143,7 +143,7 @@ Grab for the adjective precarious when something is unstable, dangerous or diffi
 - “So the settlement is a huge opportunity for someone in a precarious situation to get money,” Sanchez said.
 
 # shelter
-/ʃeltəʳ/ 
+**/ʃeltəʳ/**
 Shelter is one of the basic human needs along with food, water, and companionship. It is a structure that protects you from the elements and gives you a place to live.
 ### Definition
 - n: protective covering that provides protection from the weather

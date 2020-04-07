@@ -1,5 +1,5 @@
 # flock
-/flɒk/ 
+**/flɒk/**
 The word flock refers to a group of animals, like birds or sheep, that have congregated together. The flock of pigeons at the park is so tame that they'll eat right out of your hand.
 ### Definition
 - n: a group of birds
@@ -17,7 +17,7 @@ The word flock refers to a group of animals, like birds or sheep, that have cong
 - The embattled city is never far from the minds of Iraqis who flock to Ahmed’s restaurant.
 
 # dispatch
-/dɪspætʃ/ 
+**/dɪspætʃ/**
 Anything that needs to be mailed, sent off, or quickly shipped needs to be dispatched. Letters, official reports, teams of police — if it has somewhere to be, you can dispatch it to get there.
 ### Definition
 - n: the act of sending off something
@@ -38,7 +38,7 @@ Anything that needs to be mailed, sent off, or quickly shipped needs to be dispa
 - Ms. Damrau dispatched the aria with rosy sound, agile coloratura and girlish glee.
 
 # diplomatic
-/dɪpləmætɪk/ 
+**/dɪpləmætɪk/**
 If you have the ability to say the right thing when two friends are fighting, making both sides happy, you are diplomatic. You have tact. You are a peacemaker.
 ### Definition
 - adj: relating to or characteristic of diplomacy
@@ -54,7 +54,7 @@ If you have the ability to say the right thing when two friends are fighting, ma
 - “So there is a question about whether there’s a political retribution here versus a diplomatic response.”
 
 # deprive
-/dɪpraɪv/ 
+**/dɪpraɪv/**
 Deprive means to keep from having. If your little brother gets loud and hyper every time he eats sweets, your parents might deprive him of sugary cereal and candy.
 ### Definition
 - v: take away
@@ -69,7 +69,7 @@ Deprive means to keep from having. If your little brother gets loud and hyper ev
 - They argue that skipping the lengthier deportation procedures deprives people of the opportunity to claim asylum.
 
 # respondent
-/rɪspɒndənt/ 
+**/rɪspɒndənt/**
 A respondent is a person who gives an answer. For example, on some Monday mornings, your teacher might feel like she is talking to the walls — although she asks questions, none of the sleepy students are willing respondents.
 ### Definition
 - adj: replying
@@ -87,7 +87,7 @@ A respondent is a person who gives an answer. For example, on some Monday mornin
 - The margin of sampling error for all respondents is plus or minus 3 percentage points.
 
 # scarcely
-/skeəʳsli/ 
+**/skeəʳsli/**
 Scarcely means just before, hardly, or “almost not.” If you had scarcely made it to bed when the sun started to rise, you are probably pretty tired by now.
 ### Definition
 - adv: only a very short time before
@@ -101,7 +101,7 @@ Scarcely means just before, hardly, or “almost not.” If you had scarcely mad
 - Other examples are less famous, though scarcely less important.
 
 # misery
-/mɪzəri/ 
+**/mɪzəri/**
 Misery is a state of deep unhappiness or discomfort. It's not dropping your ice cream cone. It's having a hairy monster steal your ice cream cone, eat it in one bite, and then kidnap you and carry you off to his cave.
 ### Definition
 - n: a state of ill-being due to affliction or misfortune
@@ -115,7 +115,7 @@ Misery is a state of deep unhappiness or discomfort. It's not dropping your ice 
 - The Buddha observes that the source of people’s misery is not loss but attachment.
 
 # blunt
-/blʌnt/ 
+**/blʌnt/**
 A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense.
 ### Definition
 - adj: used of a knife or other blade; not sharp
@@ -136,7 +136,7 @@ A blunt object is rounded — it isn't very pointy. A blunt comment is candid �
 - Following Ms. Fisher’s death on Tuesday, some novelists praised her prose as being as blunt, funny and honest — much like Ms. Fisher.
 
 # ceiling
-/siːlɪŋ/ 
+**/siːlɪŋ/**
 A ceiling is the upper surface of a room. If you’re lying on the floor, you’re staring up at the ceiling. If you’re lying on the ceiling, you’ll be lying on the floor again soon.
 ### Definition
 - n: the overhead upper surface of a covered space
@@ -151,7 +151,7 @@ A ceiling is the upper surface of a room. If you’re lying on the floor, you’
 - Is there anything better than the Met’s Viennese chandeliers gliding to the ceiling as the lights dim?
 
 # pavement
-/peɪvmənt/ 
+**/peɪvmənt/**
 Pavement is a hard surface that's covered in concrete or asphalt, like a road or a driveway. If you wipe out on your bike and land on the pavement, you may end up with skinned knees or scraped elbows.
 ### Definition
 - n: the paved surface of a thoroughfare

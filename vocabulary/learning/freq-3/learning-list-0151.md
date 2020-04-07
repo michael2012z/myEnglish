@@ -1,5 +1,5 @@
 # wit
-/wɪt/ 
+**/wɪt/**
 Wit is brainpower or mental ability, or the person who possesses such ability, especially when it's used humorously.
 ### Definition
 - n: mental ability
@@ -16,7 +16,7 @@ Wit is brainpower or mental ability, or the person who possesses such ability, e
 - And while both are leavened with wit, they are fundamentally serious plays.
 
 # viable
-/vaɪəbəl/ 
+**/vaɪəbəl/**
 When something is viable, it has the ability to grow or function properly. A viable seed can develop into a plant, while a viable company has the resources to succeed.
 ### Definition
 - adj: capable of life or normal growth and development
@@ -30,7 +30,7 @@ When something is viable, it has the ability to grow or function properly. A via
 - “Theater is not commercially viable in and of itself, so art loses.”
 
 # nominal
-/nɒmɪnəl/ 
+**/nɒmɪnəl/**
 Schools, libraries, and other organizations often ask you to make a nominal donation to their cause. While you want to support many causes, these nominal donations soon add up to a substantial portion of your budget!
 ### Definition
 - adj: relating to or constituting or bearing or giving a name
@@ -50,7 +50,7 @@ Schools, libraries, and other organizations often ask you to make a nominal dona
 - They are not under contract and as nominal amateurs suffer no financial penalty from quitting their teams.
 
 # commensurate
-/kəmensərət/ 
+**/kəmensərət/**
 The word commensurate has to do with things that are similar in size and therefore appropriate. Many people think the death penalty is a commensurate punishment for murder. In other words, the penalty fits the crime.
 ### Definition
 - adj: corresponding in size or degree or extent
@@ -64,7 +64,7 @@ The word commensurate has to do with things that are similar in size and therefo
 - “The scale of the investment required is commensurate with the scale of the challenge,” the study said.
 
 # cradle
-/kreɪdəl/ 
+**/kreɪdəl/**
 To cradle is to hold delicately and gently, like how you would hold an infant. A cradle is the tiny bed with rockers that the infant sleeps in.
 ### Definition
 - n: a baby bed with sides and rockers
@@ -85,7 +85,7 @@ To cradle is to hold delicately and gently, like how you would hold an infant. A
 - I cradled my coffee like a prayer book and tried to remember every little thing.
 
 # tremendous
-/trɪmendəs/ 
+**/trɪmendəs/**
 Tremendous means extraordinarily large in size, extent, amount, power, or degree. It can also mean really marvelous and fantastic — or really awful and terrible.
 ### Definition
 - adj: extraordinarily large in size or extent or amount or power or degree
@@ -99,7 +99,7 @@ Tremendous means extraordinarily large in size, extent, amount, power, or degree
 - She said they are grateful for the tremendous community support, from people who donated change to those who helped with substantial contributions.
 
 # dense
-/dens/ 
+**/dens/**
 When woods are dense, the trees grow close together. When fog is dense, you can't see through it. And if someone calls you dense, they think nothing can get into your thick skull.
 ### Definition
 - adj: having high relative density or specific gravity
@@ -126,7 +126,7 @@ Instead of complaining about your chores, be grateful for the conduit, or pipe, 
 - If high singing remains a conduit for human truth, the future will always belong to those who reach highest.
 
 # pinch
-/pɪntʃ/ 
+**/pɪntʃ/**
 To pinch is to sharply squeeze or grip with your fingers. No matter how much you love your grandma, you probably don't enjoy it when she pinches your cheek and tells you how tall you've gotten.
 ### Definition
 - v: squeeze tightly between the fingers
@@ -149,7 +149,7 @@ To pinch is to sharply squeeze or grip with your fingers. No matter how much you
 - She scoured the internet for information about stillbirths and pinched umbilical cords - the culprit in her son’s death.
 
 # quarterly
-/kwɔːʳtəʳli/ 
+**/kwɔːʳtəʳli/**
 ### Definition
 - adj: of or relating to or consisting of a quarter
 - adv: in three month intervals

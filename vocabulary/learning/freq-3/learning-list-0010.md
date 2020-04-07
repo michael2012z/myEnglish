@@ -1,5 +1,5 @@
 # dialect
-/daɪəlekt/ 
+**/daɪəlekt/**
 If the language you speak in your region is different in vocabulary, grammar and accent than the main form of the language, you speak a dialect. If your cousin in rural Arkansas can't understand your jokes, blame it on differences in dialect.
 ### Definition
 - n: the usage or vocabulary that is characteristic of a specific group of people
@@ -11,7 +11,7 @@ If the language you speak in your region is different in vocabulary, grammar and
 - But it's also a country with more than twenty languages and hundreds more dialects.
 
 # shaken
-/ʃeɪkən/ 
+**/ʃeɪkən/**
 ### Definition
 - adj: disturbed psychologically as if by a physical jolt or shock
 ### Family
@@ -29,7 +29,7 @@ If the language you speak in your region is different in vocabulary, grammar and
 - In April, a shooting outside the prom at Antigo High School left the small northern Wisconsin city shaken.
 
 # deputy
-/depjʊti/ 
+**/depjʊti/**
 A deputy is a sheriff's assistant, the person who fills in when the sheriff isn't available. When a deputy is in charge, she has the same powers and authority as the sheriff.
 ### Definition
 - n: a person appointed to represent or act on behalf of others
@@ -46,7 +46,7 @@ A deputy is a sheriff's assistant, the person who fills in when the sheriff isn'
 - Deputies told State Police investigators that they gunned down Senegal after he pointed a pistol at them.
 
 # lag
-/læg/ 
+**/læg/**
 When you can't keep up with your fellow marathon runners, you can say that you lag behind them.
 ### Definition
 - v: hang (back) or fall (behind) in movement, progress, development, etc.
@@ -66,7 +66,7 @@ When you can't keep up with your fellow marathon runners, you can say that you l
 - Typically, there’s about a six-month lag between the time demand starts to slow and prices begin to fall, Soper said from his Toronto office.
 
 # contraception
-/kɒntrəsepʃən/ 
+**/kɒntrəsepʃən/**
 Contraception is birth control, to put it bluntly; the general term for the use of a number of devices or acts that prevent impregnation during intercourse.
 ### Definition
 - n: birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery
@@ -78,7 +78,7 @@ Contraception is birth control, to put it bluntly; the general term for the use 
 - While that is unlikely to happen, the program’s provisions for contraception and other services that women disproportionately use will be early and easy targets.
 
 # gilt
-/gɪlt/ 
+**/gɪlt/**
 All those gold framed pictures you see hanging in museums? They're covered in gilt — a very thin layer of gold leaf, like paper, applied to the surface.
 ### Definition
 - adj: having the deep slightly brownish color of gold
@@ -91,7 +91,7 @@ All those gold framed pictures you see hanging in museums? They're covered in gi
 - After so many square miles of golf courses, trophy wives, gilt mirrors and crystal chandeliers, was there nothing left to mess with?
 
 # eligible
-/elɪdʒɪbəl/ 
+**/elɪdʒɪbəl/**
 If you get good grades, volunteer at the hospital, play varsity sports, and write for your school paper, you might be eligible for a college scholarship.
 ### Definition
 - adj: qualified for or allowed or worthy of being chosen
@@ -106,7 +106,7 @@ If you get good grades, volunteer at the hospital, play varsity sports, and writ
 - Jaschke said he’s hopeful the federal government will agree farm land where buffers are required will be eligible for the Conservation Reserve Program.
 
 # slack
-/slæk/ 
+**/slæk/**
 If you slow down at the end of a race, you slack off. When you use slack this way, it means to reduce your speed, to be sluggish, or to be negligent.
 ### Definition
 - adj: not tense or taut
@@ -138,7 +138,7 @@ If you slow down at the end of a race, you slack off. When you use slack this wa
 - In Slack, our internal team communications platform, we discussed language for a news alert, then someone posted an emoji.
 
 # stir
-/stɜːʳ/ 
+**/stɜːʳ/**
 To stir is to mix something up. You can literally stir cake batter with a spoon, or figuratively stir someone's emotions by writing them a heartfelt letter.
 ### Definition
 - v: move an implement through
@@ -163,7 +163,7 @@ To stir is to mix something up. You can literally stir cake batter with a spoon,
 - Ambrose accuses President Obama of breaking “records in polarizing the country” by stirring up class antagonisms, heightening racial tensions and helping instigate political stalemate.
 
 # casualty
-/kæʒuəlti/ 
+**/kæʒuəlti/**
 In wartime, you'll hear the word casualty used often for someone killed or injured. But casualty can also refer to deaths or injuries suffered in an accident or some other unfortunate event.
 ### Definition
 - n: someone injured or killed in an accident

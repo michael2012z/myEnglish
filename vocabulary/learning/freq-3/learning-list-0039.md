@@ -1,5 +1,5 @@
 # dissent
-/dɪsent/ 
+**/dɪsent/**
 To dissent is to publicly disagree with an official opinion or decision. Dissent is also a noun referring to public disagreement.
 ### Definition
 - n: a difference of opinion
@@ -19,7 +19,7 @@ To dissent is to publicly disagree with an official opinion or decision. Dissent
 - Malaysian government leaders said the country remains open to dissent and critics are trying to destabilize it.
 
 # guerrilla
-/gərɪlə/ 
+**/gərɪlə/**
 If your brother says he’s going to become a guerrilla, don't worry, he's not planning to become a hairy animal. Guerrilla fighters band together in a small underground army, usually trying to overcome a larger and more organized force.
 ### Definition
 - n: a member of an irregular armed force that fights a stronger force by sabotage and harassment
@@ -31,7 +31,7 @@ If your brother says he’s going to become a guerrilla, don't worry, he's not p
 - But the former Colombian guerrilla wasn’t able to do any of these things.
 
 # hesitate
-/hezɪteɪt/ 
+**/hezɪteɪt/**
 To hesitate is to pause before doing something, often out of concern or worry.
 ### Definition
 - v: pause or hold back in uncertainty or unwillingness
@@ -49,7 +49,7 @@ To hesitate is to pause before doing something, often out of concern or worry.
 - The issue arose again in September, he said, when he hesitated because of a daughter’s upcoming wedding.
 
 # proclaim
-/proʊkleɪm/ 
+**/proʊkleɪm/**
 "I proclaim the Olympic Games open." Every two years with words similar to these, the Olympic games officially begin. To proclaim is to exclaim or declare.
 ### Definition
 - v: declare formally; declare someone to be something; of titles
@@ -66,7 +66,7 @@ To hesitate is to pause before doing something, often out of concern or worry.
 - The California-Pacific Conference of the United Methodist Church also proclaimed support for sanctuary efforts.
 
 # compelling
-/kəmpelɪŋ/ 
+**/kəmpelɪŋ/**
 Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.
 ### Definition
 - adj: driving or forcing
@@ -82,7 +82,7 @@ Compelling means attractive, or irresistible, or really, really convincing. You 
 - The bland, mouth-coating sensation of the powdered beans with which they are dusted is pleasant, but not compelling.
 
 # creed
-/kriːd/ 
+**/kriːd/**
 Without reading the long document about the group's beliefs — its creed — he knew he didn't fit in, because he just couldn't bow to the 12-foot statue of a rabbit, no matter what it symbolized.
 ### Definition
 - n: any system of principles or beliefs
@@ -95,7 +95,7 @@ Without reading the long document about the group's beliefs — its creed — he
 - America the Indivisible spreads opportunity wide and embraces all colors, all creeds within the sunshine of equal regard.
 
 # ferocious
-/fəroʊʃəs/ 
+**/fəroʊʃəs/**
 The adjective ferocious means more than merely angry or active. If you can imagine the wildest, most savage animal ready to rip your arms off and shred the muscles, you would be imagining a ferocious beast.
 ### Definition
 - adj: marked by extreme and violent energy
@@ -108,7 +108,7 @@ The adjective ferocious means more than merely angry or active. If you can imagi
 - It wasn’t until I brought my camera near the ground and get close up did the lizard look ferocious.
 
 # rat
-/ræt/ 
+**/ræt/**
 Rats are mouse-like rodents with long tails, pointed noses, and whiskers. Rats are often associated with filth and disease. So, if someone calls you a rat, it's not like being called a fox. It's an insult.
 ### Definition
 - n: any of various long-tailed rodents similar to but larger than a mouse
@@ -133,7 +133,7 @@ Rats are mouse-like rodents with long tails, pointed noses, and whiskers. Rats a
 - Rats spread disease, decimate crops and very occasionally eat people alive.
 
 # theatrical
-/θiætrɪkəl/ 
+**/θiætrɪkəl/**
 If something happens on a stage, you can describe it as theatrical. Even reading a grocery list out loud can be theatrical, if you do it in dramatic voice with an audience watching.
 ### Definition
 - adj: of or relating to the theater
@@ -150,7 +150,7 @@ If something happens on a stage, you can describe it as theatrical. Even reading
 - Frank Sinatra played a theatrical agent who falls for a young actress, played by Ms. Reynolds, in this romantic comedy directed by Charles Walters.
 
 # savage
-/sævɪdʒ/ 
+**/sævɪdʒ/**
 A polar bear in a zoo might look like an adorable giant stuffed animal, but if you met a hungry one in its native environment, it would seem more savage — wild and fierce — than cute.
 ### Definition
 - adj: without civilizing influences

@@ -1,5 +1,5 @@
 # colonialism
-/kəloʊniəlɪzəm/ 
+**/kəloʊniəlɪzəm/**
 Colonialism has to do with one country exploiting another country by making it into a colony. Which is usually good for the mother country and bad for the colony.
 ### Definition
 - n: exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country
@@ -22,7 +22,7 @@ Colonialism has to do with one country exploiting another country by making it i
 - The English language, carried by colonialism and capitalism, is all over the place.
 
 # prose
-/proʊz/ 
+**/proʊz/**
 Prose is so-called "ordinary writing" — made up of sentences and paragraphs, without any metrical (or rhyming) structure.
 ### Definition
 - n: ordinary writing as distinguished from verse
@@ -36,7 +36,7 @@ Prose is so-called "ordinary writing" — made up of sentences and paragraphs, w
 - Ms. Fisher’s vivid prose, wicked humor and striking performances inevitably led many people, including herself, to wonder whether bipolar mania fuels creativity.
 
 # tyranny
-/tɪrəni/ 
+**/tɪrəni/**
 Tyranny is a noun that describes a repressive and arbitrarily cruel regime. Don't accuse your mother of tyranny just because she won't let you play video games all weekend long.
 ### Definition
 - n: a form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.)
@@ -50,7 +50,7 @@ Tyranny is a noun that describes a repressive and arbitrarily cruel regime. Don'
 - Ms. Chamberlin said the choir’s reputation will be “severely damaged” by appearing to endorse a president who represents “tyranny” and “fascism.”
 
 # hallmark
-/hɔːlmɑːʳk/ 
+**/hɔːlmɑːʳk/**
 A hallmark is a distinctive characteristic of something or someone. That can mean a literal symbol on the bottom of a piece of pottery, or just a rock star's signature hair style.
 ### Definition
 - n: a mark on an article of trade to indicate its origin and authenticity
@@ -63,7 +63,7 @@ A hallmark is a distinctive characteristic of something or someone. That can mea
 - Every Christmas season the two Hallmark Channels release or replay a familiar holiday script.
 
 # lump
-/lʌmp/ 
+**/lʌmp/**
 If it's hard to determine its shape and otherwise looks like a big blob of something, it's probably safe to call it a lump.
 ### Definition
 - n: a compact mass
@@ -83,7 +83,7 @@ If it's hard to determine its shape and otherwise looks like a big blob of somet
 - Cue tingles down spines, lumps in throats and tears in eyes all round.
 
 # hitherto
-/hɪðəʳtuː/ 
+**/hɪðəʳtuː/**
 Use the adverb hitherto when you're describing a state or circumstance that existed up until now. If you find a hitherto undiscovered hidden tunnel in your cellar, you're the first to discover it.
 ### Definition
 - adv: used in negative statement to describe a situation that has existed up to this point or up to the present time
@@ -95,7 +95,7 @@ Use the adverb hitherto when you're describing a state or circumstance that exis
 - But for Ms Conti, Malta will be unable to hold back the tide of change - even in this hitherto taboo area.
 
 # purse
-/pɜːʳs/ 
+**/pɜːʳs/**
 Though purses are mostly carried by women, this is the kind of purse anyone would love to bring home: it's a prize, usually consisting of money.
 ### Definition
 - n: a container used for carrying money and small personal items or accessories (especially by women)
@@ -112,7 +112,7 @@ Though purses are mostly carried by women, this is the kind of purse anyone woul
 - This drains the taxpayers’ purse and patience and emotions.
 
 # sue
-/suː/ 
+**/suː/**
 If you sue someone, you're accusing them (in court) of doing something wrong or illegal and demanding that they pay for it. Almost every time someone sues, they're looking for money.
 ### Definition
 - v: institute legal proceedings against; file a suit against
@@ -129,7 +129,7 @@ If you sue someone, you're accusing them (in court) of doing something wrong or 
 - In Pittsburgh, that’s also been the experience of Sue McLaren, the Carnegie’s mammals collection manager.
 
 # acquaintance
-/əkweɪntəns/ 
+**/əkweɪntəns/**
 An acquaintance is someone you know a little about, but they’re not your best friend or anything. Acquaintance is also having knowledge about something specific, like horror films or the farming techniques of Chinese peasants.
 ### Definition
 - n: personal knowledge or information about someone or something
@@ -147,7 +147,7 @@ An acquaintance is someone you know a little about, but they’re not your best 
 - David Wildstein, another Port Authority official who was a high school acquaintance of Christie’s, pleaded guilty and testified for the government.
 
 # incense
-/ɪnsens/ 
+**/ɪnsens/**
 Incense means both "to make angry" and a stick that burns slowly and emits a strong smell. If your new college roommate burns incense in your tiny dorm room, you might get incensed and storm out.
 ### Definition
 - v: make furious

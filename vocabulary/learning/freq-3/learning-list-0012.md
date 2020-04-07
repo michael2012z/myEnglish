@@ -1,5 +1,5 @@
 # franchise
-/fræntʃaɪz/ 
+**/fræntʃaɪz/**
 A franchise is a right granted by a government or corporation to an individual or group of individuals. One of the most important government-issued rights — so important it's known simply as "the franchise" — is the right to vote.
 ### Definition
 - n: a statutory right or privilege granted to a person or group by a government (especially the rights of citizenship and the right to vote)
@@ -19,7 +19,7 @@ A franchise is a right granted by a government or corporation to an individual o
 - Brown said the team would prefer not to use franchise tags on either player.
 
 # clash
-/klæʃ/ 
+**/klæʃ/**
 When two things clash, they run violently into each other, often with an accompanying loud noise. The percussionist in an orchestra has the enviable job of making two cymbals clash together.
 ### Definition
 - v: crash together with violent impact
@@ -38,7 +38,7 @@ When two things clash, they run violently into each other, often with an accompa
 - Bombardments ceased before that time - although some clashes continued - but began again late on Sunday.
 
 # decent
-/diːsənt/ 
+**/diːsənt/**
 The adjective decent means sufficient or acceptable. The local diner you like to frequent may not serve a four-star breakfast, but it probably has decent food.
 ### Definition
 - adj: socially or conventionally correct; refined or virtuous
@@ -59,7 +59,7 @@ The adjective decent means sufficient or acceptable. The local diner you like to
 - The group says the state’s residents deserve affordable housing and transportation, high-quality education, nutritious food and a decent wage.
 
 # ingredient
-/ɪngriːdiənt/ 
+**/ɪngriːdiənt/**
 An ingredient is one part of a mixture. For example, if you're making chocolate chip cookies, flour is just one ingredient you'll need.
 ### Definition
 - n: a component of a mixture or compound
@@ -73,7 +73,7 @@ An ingredient is one part of a mixture. For example, if you're making chocolate 
 - Prosecutors say the center used expired ingredients and failed to follow cleanliness standards, resulting in tainted steroid injections.
 
 # cushion
-/kʊʃən/ 
+**/kʊʃən/**
 Fabric filled with foam, feathers, or other padding material makes a cushion, which can be used to make something like a chair or sofa more comfortable.
 ### Definition
 - v: protect from impact
@@ -89,7 +89,7 @@ Fabric filled with foam, feathers, or other padding material makes a cushion, wh
 - After the game, Beal hobbled slowly to his locker and wore cushioned flip flops as left the arena.
 
 # trim
-/trɪm/ 
+**/trɪm/**
 ### Definition
 - v: cut down on; make a reduction in
 - v: cut closely
@@ -119,7 +119,7 @@ Fabric filled with foam, feathers, or other padding material makes a cushion, wh
 - The man with the trimmed beard was one of eight cases judges heard that day.
 
 # harsh
-/hɑːʳʃ/ 
+**/hɑːʳʃ/**
 Harsh means severe or strict, particularly when referring to punishment. It would be a harsh punishment if you got grounded for two weeks just for coming home a little late for dinner.
 ### Definition
 - adj: disagreeable to the senses
@@ -138,7 +138,7 @@ Harsh means severe or strict, particularly when referring to punishment. It woul
 - The harsh reality in the mobile game business is that many are willing to play, but few are willing to pay.
 
 # mob
-/mɒb/ 
+**/mɒb/**
 A mob is a big, rowdy group of people. You might avoid shopping at the mall right before Christmas because you can't stand the mob of shoppers.
 ### Definition
 - n: a disorderly crowd of people
@@ -154,7 +154,7 @@ A mob is a big, rowdy group of people. You might avoid shopping at the mall righ
 - “We shouldn’t be running into all kinds of obstacles and face all this comprehensive mobbing just doing what we’re supposed to do,” she said.
 
 # swear
-/sweəʳ/ 
+**/sweəʳ/**
 When you take an oath about something, you swear to it, affirming its truth. Ironically, if you utter an oath, such as a curse word or obscenity, you also swear. Do you swear to put a quarter in this jar for every time you swear?
 ### Definition
 - v: to declare or affirm solemnly and formally as true
@@ -173,7 +173,7 @@ When you take an oath about something, you swear to it, affirming its truth. Iro
 - The media spent the better part of a decade swearing they wouldn’t be fooled again by intelligence assessments the way they were before 2003.
 
 # descend
-/dɪsend/ 
+**/dɪsend/**
 In its simplest sense, descend means to go or move downward, but there are a couple of subtle variations on this theme. Yes, a bird can descend from the sky, but also, humans are descended from prehistoric ancestors.
 ### Definition
 - v: move downward and lower, but not necessarily all the way

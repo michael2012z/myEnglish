@@ -1,5 +1,5 @@
 # fluorescent
-/flʊəresənt/ 
+**/flʊəresənt/**
 A fluorescent bulb gets its light from mercury vapor inside a glass tube. The incandescent bulb — the kind associated with Thomas Edison — has a filament that glows when it's heated.
 ### Definition
 - adj: emitting light during exposure to radiation from an external source
@@ -14,7 +14,7 @@ A fluorescent bulb gets its light from mercury vapor inside a glass tube. The in
 - Nearly every shape of older bulb—from long fluorescent tubes to little flame-shaped candelabra bulbs—is available in an LED version.
 
 # handkerchief
-/hæŋkəʳtʃɪf/ 
+**/hæŋkəʳtʃɪf/**
 A handkerchief is a square of fabric that you can use to blow your nose. You can also tuck a handkerchief in the breast pocket of a suit, or wear it tied jauntily around your neck.
 ### Definition
 - n: a square piece of cloth used for wiping the eyes or nose or as a costume accessory
@@ -26,7 +26,7 @@ A handkerchief is a square of fabric that you can use to blow your nose. You can
 - “It’s the best funeral ever. Look at us. No one is crying, everyone is happy, no need for handkerchiefs. It’s a party,” Garcia said.
 
 # stove
-/stoʊv/ 
+**/stoʊv/**
 ### Definition
 - n: a kitchen appliance used for cooking food
 - n: any heating apparatus
@@ -38,7 +38,7 @@ A handkerchief is a square of fabric that you can use to blow your nose. You can
 - Carbon monoxide is an odorless, colorless gas produced when fuel is burned for cars, stoves, lanterns, fireplaces, furnaces, grills, and generators.
 
 # sublime
-/səblaɪm/ 
+**/səblaɪm/**
 In common use, sublime is an adjective meaning "awe-inspiringly grand, excellent, or impressive," like the best chocolate fudge sundae you've ever had.
 ### Definition
 - adj: of high moral or intellectual value; elevated in nature or style
@@ -58,7 +58,7 @@ In common use, sublime is an adjective meaning "awe-inspiringly grand, excellent
 - The island is beautiful but oblique, sublime yet functionally inscrutable.
 
 # cellar
-/seləʳ/ 
+**/seləʳ/**
 A cellar is a basic, unfinished basement. In a very old house, the cellar might have stone walls and a rough dirt floor.
 ### Definition
 - n: the lowermost portion of a structure partly or wholly below ground level; often used for storage
@@ -72,7 +72,7 @@ A cellar is a basic, unfinished basement. In a very old house, the cellar might 
 - Distributed by Metro Cellars: On the list in the District at Kinship.
 
 # cultivate
-/kʌltɪveɪt/ 
+**/kʌltɪveɪt/**
 To cultivate is to nurture and help grow. Farmers cultivate crops, fundraising professionals cultivate donors, and celebrities cultivate their images.
 ### Definition
 - v: adapt (a wild plant or unclaimed land) to the environment
@@ -93,7 +93,7 @@ To cultivate is to nurture and help grow. Farmers cultivate crops, fundraising p
 - In a global age, should we cultivate national solidarity or aspire to a cosmopolitan ethic of universal human concern?
 
 # insecure
-/ɪnsɪkjʊəʳ/ 
+**/ɪnsɪkjʊəʳ/**
 Insecure means either lacking self-confidence or lacking security. An insecure person might constantly doubt their own intelligence. An insecure building is an easy target for even the most bumbling burglar.
 ### Definition
 - adj: lacking in security or safety
@@ -113,7 +113,7 @@ Insecure means either lacking self-confidence or lacking security. An insecure p
 - He cites rising homelessness, the crisis in social care funding and the increasing prevalence of low pay and insecure jobs.
 
 # dirt
-/dɜːʳt/ 
+**/dɜːʳt/**
 Dirt is earth or soil — it's the substance that makes up the dry surfaces of our planet. Gardeners spend a lot of time digging in the dirt, planting seeds and pulling up weeds.
 ### Definition
 - n: the part of the earth's surface consisting of humus and disintegrated rock
@@ -130,7 +130,7 @@ Dirt is earth or soil — it's the substance that makes up the dry surfaces of o
 - “They sit outside and collect dirt,” said Grey.
 
 # pervasive
-/pəʳveɪsɪv/ 
+**/pəʳveɪsɪv/**
 When something is pervasive, it's everywhere. Common things are pervasive — like greed and cheap perfume.
 ### Definition
 - adj: spreading or spread throughout
@@ -144,7 +144,7 @@ When something is pervasive, it's everywhere. Common things are pervasive — li
 - Valley displayed “astonishing indifference” to the “pervasive unlawful transportation of its workers,” the government says.
 
 # strung
-/strʌŋ/ 
+**/strʌŋ/**
 ### Definition
 - adj: that is on a string
 ### Family

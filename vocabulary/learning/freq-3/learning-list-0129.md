@@ -1,5 +1,5 @@
 # saddle
-/sædəl/ 
+**/sædəl/**
 A saddle is a leather seat for horseback riders. If you saddle something, you either put a saddle on it or you burden it with something else. If you buy an expensive saddle for example. you may be saddled (or burdened) with debt.
 ### Definition
 - n: a seat for the rider of a horse or camel
@@ -24,7 +24,7 @@ A saddle is a leather seat for horseback riders. If you saddle something, you ei
 
 
 # flatter
-/flætəʳ/ 
+**/flætəʳ/**
 When you flatter someone, you praise and compliment him or her — but you aren't totally sincere. You flatter your friend by telling her she's the best driver in the world. Because you want her to offer you a ride.
 ### Definition
 - v: praise somewhat dishonestly
@@ -62,7 +62,7 @@ If something is fleeting or lasts a short time, it is transitory. Your boss decl
 - Yet Linke’s repeated warnings about the transitory nature of life are bracingly astringent, a splash in the face reawakening us to our shared mortality.
 
 # bizarre
-/bɪzɑːʳ/ 
+**/bɪzɑːʳ/**
 A person, object, or situation that's bizarre is very odd or unusual in appearance, style, or character. If your teacher walked into class wearing a purple boa, lime-green cowboy boots, and a scuba mask, you might comment, "How bizarre!"
 ### Definition
 - adj: conspicuously or grossly unconventional or unusual
@@ -74,7 +74,7 @@ A person, object, or situation that's bizarre is very odd or unusual in appearan
 - Unlike some of Trump’s other national security advisers, though, Kelly does not appear to be infected with bizarrely virulent anti-Muslim prejudice.
 
 # glow
-/gloʊ/ 
+**/gloʊ/**
 To glow is to shine with light. On a clear night when the moon is full, it glows in the sky.
 ### Definition
 - v: emit a steady even light without flames
@@ -100,7 +100,7 @@ To glow is to shine with light. On a clear night when the moon is full, it glows
 
 
 # physicist
-/fɪzɪsɪst/ 
+**/fɪzɪsɪst/**
 A physicist is a scientist who studies and is trained in physics, which is the study of nature, especially how matter and energy behave.
 ### Definition
 - n: a scientist trained in physics
@@ -115,7 +115,7 @@ A physicist is a scientist who studies and is trained in physics, which is the s
 - Perry’s two immediate predecessors in the job were both nuclear physicists.
 
 # midnight
-/mɪdnaɪt/ 
+**/mɪdnaɪt/**
 Midnight is the moment at which one day ends and the next begins — it's twelve o' clock at night. Follow the Fairy Godmother's advice to Cinderella, and always get homr before midnight.
 ### Definition
 - n: 12 o'clock at night; the middle of the night

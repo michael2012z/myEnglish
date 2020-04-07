@@ -1,5 +1,5 @@
 # mess
-/mes/ 
+**/mes/**
 A mess is a generally dirty state, like your bedroom, your hair, or anything else that's untidy. If you make a huge mess when you cook, you probably try to get someone else to do the clean-up.
 ### Definition
 - n: a state of confusion and disorderliness
@@ -19,7 +19,7 @@ A mess is a generally dirty state, like your bedroom, your hair, or anything els
 - Seconds later, he re-emerged, holding on to a chaotic mess of flapping flippers.
 
 # eccentric
-/ɪksentrɪk/ 
+**/ɪksentrɪk/**
 You're most likely to encounter the adjective eccentric in a description of an unusual or quirky person — like a scatterbrained aunt who leaves her life savings to her cat.
 ### Definition
 - adj: conspicuously or grossly unconventional or unusual
@@ -35,7 +35,7 @@ You're most likely to encounter the adjective eccentric in a description of an u
 - During the day, she borders on eccentric, painting everything in their house shades of black and white.
 
 # detective
-/dɪtektɪv/ 
+**/dɪtektɪv/**
 Whether it's a police detective who investigates crimes or a private detective hired by a husband to uncover his wife's affair, a detective is someone whose job is to find out hard-to-get information.
 ### Definition
 - n: a police officer who investigates crimes
@@ -54,7 +54,7 @@ Whether it's a police detective who investigates crimes or a private detective h
 - Detectives were investigating the fatal crash that occurred Sunday night.
 
 # indefinite
-/ɪndefɪnɪt/ 
+**/ɪndefɪnɪt/**
 The adjective indefinite describes something that is vague or not clearly defined: “After injuring her knee in a riding accident, Gloria postponed her vacation for an indefinite period of time.”
 ### Definition
 - adj: vague or not clearly defined or stated
@@ -69,7 +69,7 @@ The adjective indefinite describes something that is vague or not clearly define
 - That’s because a chemical reaction inside an inappropriately packed container resulted in a radiation release and forced the facility’s indefinite closure.
 
 # illicit
-/ɪlɪsɪt/ 
+**/ɪlɪsɪt/**
 Illicit means not allowed by law or custom. It's illegal to kill endangered elephants, but many poachers still engage in the Illicit ivory trade.
 ### Definition
 - adj: contrary to accepted morality (especially sexual morality) or convention
@@ -83,7 +83,7 @@ Illicit means not allowed by law or custom. It's illegal to kill endangered elep
 - There was also a realization that China’s key role in the illicit ivory trade was damaging its image in Africa.
 
 # disparity
-/dɪspærɪti/ 
+**/dɪspærɪti/**
 If there is a disparity between how great you think you are at tennis and how you actually play, you are probably surprised by how often you lose. Disparity is the condition of being unequal, and a disparity is a noticeable difference.
 ### Definition
 - n: inequality or difference in some respect
@@ -96,7 +96,7 @@ If there is a disparity between how great you think you are at tennis and how yo
 - “We never thought in these categories,” the Liverpool manager said this week when asked about the financial disparities between Bayern and Dortmund.
 
 # vapour
-/veɪpəʳ/ 
+**/veɪpəʳ/**
 ### Definition
 - n: a visible suspension in the air of particles of some substance
 - n: the process of becoming a vapor
@@ -108,7 +108,7 @@ If there is a disparity between how great you think you are at tennis and how yo
 - Their research on e-cigarettes could enhance vapour products for pot.
 
 # dispense
-/dɪspens/ 
+**/dɪspens/**
 To dispense means to give out or distribute something. A school nurse can dispense students' medication and we all can dispense advice.
 ### Definition
 - v: administer or bestow, as in small portions
@@ -128,7 +128,7 @@ To dispense means to give out or distribute something. A school nurse can dispen
 - The demand is unlikely to revive any time soon as India struggles to dispense enough new notes, industry officials say.
 
 # attorney
-/ətɜːʳni/ 
+**/ətɜːʳni/**
 An attorney is a lawyer. Attorneys sue people, defend people, and serve as experts on the law.
 ### Definition
 - n: a professional person authorized to practice law; conducts lawsuits or gives legal advice
@@ -141,7 +141,7 @@ An attorney is a lawyer. Attorneys sue people, defend people, and serve as exper
 - His attorney argued there was insufficient evidence to convict Kelly on several charges, including theft and engaging in a pattern of corrupt activity.
 
 # cab
-/kæb/ 
+**/kæb/**
 A cab is a taxi, a car whose driver you pay to take you where you need to go. It can feel like a competitive sport to hail a cab in New York City.
 ### Definition
 - n: a car driven by a person whose job is to take passengers where they want to go in exchange for money

@@ -1,5 +1,5 @@
 # intrigue
-/ɪntriːg/ 
+**/ɪntriːg/**
 An intrigue is a secret plot. If you ever become the monarch of a small island kingdom, keep watch for signs of any intrigue against you.
 ### Definition
 - n: a crafty and involved plot to achieve your (usually sinister) ends
@@ -16,7 +16,7 @@ An intrigue is a secret plot. If you ever become the monarch of a small island k
 - But a more intriguing development is wearables with built-in airbags.
 
 # fort
-/fɔːʳt/ 
+**/fɔːʳt/**
 A fort is a place that's made strong and secure enough to be defended during a war. Although it’s usually a military word, you can also make a fort with chairs and a blanket to defend against annoying little siblings.
 ### Definition
 - n: a fortified defensive structure
@@ -34,7 +34,7 @@ A fort is a place that's made strong and secure enough to be defended during a w
 - He eventually would do his basic training at Fort Chaffee.
 
 # surgical
-/sɜːʳdʒɪkəl/ 
+**/sɜːʳdʒɪkəl/**
 Things that are surgical have something to do with an operation performed by a surgeon, or something done with the level of precision a surgeon exercises. So, you could wear surgical scrubs or conduct a surgical strike.
 ### Definition
 - adj: of or relating to or involving or used in surgery
@@ -49,7 +49,7 @@ Things that are surgical have something to do with an operation performed by a s
 - In 2013, the Sidney Regional Medical Center was ordered to stop using a surgical first assistant because the state didn’t recognize that person’s credentials.
 
 # uterus
-/juːtərəs/ 
+**/juːtərəs/**
 ### Definition
 - n: a hollow muscular organ in the pelvic cavity of females; contains the developing fetus
 ### Family
@@ -60,7 +60,7 @@ Things that are surgical have something to do with an operation performed by a s
 - I lay on the floor, curled tight like the picture of a child in the uterus in my Integrated Science for Junior Secondary Schools.
 
 # haemorrhage
-/hemərɪdʒ/ 
+**/hemərɪdʒ/**
 ### Definition
 - n: the flow of blood from a ruptured blood vessel
 ### Family
@@ -71,7 +71,7 @@ Things that are surgical have something to do with an operation performed by a s
 - Hughes died aged 25 from a haemorrhage in the brain, two days after being hit on the neck during a first-class match in Sydney.
 
 # tread
-/tred/ 
+**/tred/**
 When you tread on the earth, you walk on it. The next time your pal thinks you have it too easy, you might ask him, “Why don’t you tread in my shoes for a day?”
 ### Definition
 - v: put down or press the foot, place the foot
@@ -95,7 +95,7 @@ When you tread on the earth, you walk on it. The next time your pal thinks you h
 - The planes struck Palmyra on the same day Suleimani was photographed treading the city’s rubble.
 
 # entrepreneur
-/ɒntrəprənɜːʳ/ 
+**/ɒntrəprənɜːʳ/**
 An entrepreneur is someone who starts a new business. Little stores and huge companies both have entrepreneurs behind them.
 ### Definition
 - n: someone who organizes a business venture and assumes the risk for it
@@ -107,7 +107,7 @@ An entrepreneur is someone who starts a new business. Little stores and huge com
 - Some Silicon Valley entrepreneurs anticipate a time when robots and artificial intelligence will render many of today’s jobs obsolete.
 
 # pore
-/pɔːʳ/ 
+**/pɔːʳ/**
 That trickle of sweat didn't just miraculously appear — it was secreted out of a pore, a really tiny opening on the surface of your skin.
 ### Definition
 - n: any tiny hole admitting passage of a liquid (fluid or gas)
@@ -124,7 +124,7 @@ That trickle of sweat didn't just miraculously appear — it was secreted out of
 - They pored over forensic evidence and GPS data as they sought to retrace the steps of the runaway attacker.
 
 # conceive
-/kənsiːv/ 
+**/kənsiːv/**
 To conceive is to come up with an idea. If you conceive a plan for your little brother's birthday, you dream up the perfect party, complete with a magician, rented ponies, and a cake shaped like a rocket.
 ### Definition
 - v: have the idea for
@@ -154,7 +154,7 @@ To conceive is to come up with an idea. If you conceive a plan for your little b
 - Healy’s Lincoln portrait was conceived in the 1860s but executed some 20 years later.
 
 # imagery
-/ɪmɪdʒri/ 
+**/ɪmɪdʒri/**
 Picture this: imagery is a noun to describe the way things or ideas seem in your mind or in art or literature.
 ### Definition
 - n: the ability to form mental images of things or events

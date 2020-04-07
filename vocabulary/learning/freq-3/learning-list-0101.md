@@ -1,5 +1,5 @@
 # archaic
-/ɑːʳkeɪɪk/ 
+**/ɑːʳkeɪɪk/**
 If you use the adjective archaic you are referring to something outmoded, belonging to an earlier period. Rotary phones and cassette players already seem so archaic!
 ### Definition
 - adj: so extremely old as seeming to belong to an earlier period
@@ -16,7 +16,7 @@ If you use the adjective archaic you are referring to something outmoded, belong
 - I was too young to appreciate much of it, and struggled with the archaic language.
 
 # custody
-/kʌstədi/ 
+**/kʌstədi/**
 When you are legally responsible for another person, they are in your custody. Most parents have custody over their children.
 ### Definition
 - n: (with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child
@@ -30,7 +30,7 @@ When you are legally responsible for another person, they are in your custody. M
 - Four men aged 59, 48, 38 and 18 remain in custody after being arrested on suspicion of causing death by dangerous driving.
 
 # inland
-/ɪnlænd/ 
+**/ɪnlænd/**
 Inland means far away from the ocean, or in the very middle of a country. If you were born and grew up in Kansas, you're familiar with inland living.
 ### Definition
 - adj: situated away from an area's coast or border
@@ -43,7 +43,7 @@ Inland means far away from the ocean, or in the very middle of a country. If you
 - The Inland Empire city started 2016 mourning the losses from a shocking terrorist attack.
 
 # conservatism
-/kənsɜːʳvətɪzəm/ 
+**/kənsɜːʳvətɪzəm/**
 When people discuss politics and mention the word conservatism, they're talking about a philosophy that favors making few changes in society, sticking with traditions, and often spending as little money as possible.
 ### Definition
 - n: a political or theological orientation advocating the preservation of the best in society and opposing radical changes
@@ -68,7 +68,7 @@ Someone who acts as a surrogate takes the place of another person. If a celebrit
 - There are two main problems in Russia’s surrogate alcohol market: first is the widespread consumption of items marked as perfumes or bath tinctures.
 
 # ass
-/æs/ 
+**/æs/**
 Literally, your ass is your buttocks. In slang, an ass is a jerk or an idiot. Neither is highly regarded.
 ### Definition
 - n: hardy and sure-footed animal smaller and with longer ears than the horse
@@ -83,7 +83,7 @@ Literally, your ass is your buttocks. In slang, an ass is a jerk or an idiot. Ne
 - In the tradition of the movement, people in line accorded it an irreverent name – Aids survivor syndrome, or Ass – and took it very seriously.
 
 # withdrawn
-/wɪðdrɔːn/ 
+**/wɪðdrɔːn/**
 Quiet loners are withdrawn — that's a word for people who keep to themselves to such an extent that it seems a little unhealthy.
 ### Definition
 - adj: tending to reserve or introspection
@@ -96,7 +96,7 @@ Quiet loners are withdrawn — that's a word for people who keep to themselves t
 - Jurors were not told about the withdrawn plea.
 
 # precedence
-/presɪdəns/ 
+**/presɪdəns/**
 Notice the verb "precede" in the noun precedence, and you'll be able to remember that precedence is the act of preceding, of coming before — either in time or in rank.
 ### Definition
 - n: status established in order of importance or urgency
@@ -116,7 +116,7 @@ Notice the verb "precede" in the noun precedence, and you'll be able to remember
 
 
 # fanciful
-/fænsɪfʊl/ 
+**/fænsɪfʊl/**
 Turn fanciful around and you get "full of fancy," which gives you the gist of the meaning. The adjective refers to something not quite real, usually something with a whimsical or even dreamlike quality.
 ### Definition
 - adj: indulging in or influenced by fancy

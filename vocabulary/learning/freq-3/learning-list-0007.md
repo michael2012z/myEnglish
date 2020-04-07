@@ -1,5 +1,5 @@
 # judicial
-/dʒuːdɪʃəl/ 
+**/dʒuːdɪʃəl/**
 If your situation has anything to do with the administration of justice or involves a judge, then it's officially judicial. And you should probably get a lawyer.
 ### Definition
 - adj: expressing careful judgment
@@ -15,7 +15,7 @@ If your situation has anything to do with the administration of justice or invol
 - By contrast, when Democrats controlled the Senate in the last two years of George W. Bush’s presidency, 68 of his judicial nominees were confirmed. 
 
 # asylum
-/əsaɪləm/ 
+**/əsaɪləm/**
 When someone needs a refuge from a difficult or dangerous situation, they need asylum. If a government offers to protect people who have fled war or hardship in their own country, it gives them asylum.
 ### Definition
 - n: a shelter from danger or hardship
@@ -28,7 +28,7 @@ When someone needs a refuge from a difficult or dangerous situation, they need a
 - Careful vetting of those international migrants who request asylum is one important step, officials say.
 
 # incumbent
-/ɪnkʌmbənt/ 
+**/ɪnkʌmbənt/**
 An incumbent is an official who holds an office. If you want to run for congress, you're going to have to beat the incumbent.
 ### Definition
 - adj: necessary (for someone) as a duty or responsibility; morally binding
@@ -44,7 +44,7 @@ An incumbent is an official who holds an office. If you want to run for congress
 - “That case was decided by three 4th Circuit judges who were appointees of the incumbent president,” Mr. Nussbaum said.
 
 # expel
-/ɪkspel/ 
+**/ɪkspel/**
 Getting expelled from a school is a step beyond suspension. It means that you are asked to leave and never come back. In other words, you have been kicked out.
 ### Definition
 - v: eliminate (a substance)
@@ -60,7 +60,7 @@ Getting expelled from a school is a step beyond suspension. It means that you ar
 - In 2009, following Israel’s war with Hamas in Gaza, then-President Hugo Chávez expelled the Israeli ambassador and his staff from Caracas.
 
 # boast
-/boʊst/ 
+**/boʊst/**
 When you boast you are bragging about yourself and your accomplishments (or maybe those of your family), often to the boredom and annoyance of your audience.
 ### Definition
 - v: show off
@@ -77,7 +77,7 @@ When you boast you are bragging about yourself and your accomplishments (or mayb
 - Connolly’s website boasts that he secured billions of dollars in federal grants to undertake the massive Silver Line project.
 
 # hygiene
-/haɪdʒiːn/ 
+**/haɪdʒiːn/**
 Hygiene is any practice or activity that you do to keep things healthy and clean. Washing hands, coughing into your elbow, and regular house cleaning are all part of good hygiene.
 ### Definition
 - n: a condition promoting sanitary practices
@@ -93,7 +93,7 @@ Hygiene is any practice or activity that you do to keep things healthy and clean
 - It also advises them on nutrition and hygiene.
 
 # venue
-/venjuː/ 
+**/venjuː/**
 A venue is the place where an event or meeting is happening. If you're going to see the best band ever, you should get to the venue early to get a good seat.
 ### Definition
 - n: the scene of any event or action (especially the place of a meeting)
@@ -106,7 +106,7 @@ A venue is the place where an event or meeting is happening. If you're going to 
 - Now, these contrarian scientists only appear in blogs, op-eds in newspapers, sometimes in pay-for-play journals – but rarely in competitively reviewed scientific venues.
 
 # repression
-/rɪpreʃən/ 
+**/rɪpreʃən/**
 Repression is a kind of holding back or holding down. There's repression of feelings (willing yourself not to cry), as well as social repression (where the government limits freedom or shuts out certain groups).
 ### Definition
 - n: the act of repressing; control by holding down
@@ -125,7 +125,7 @@ Repression is a kind of holding back or holding down. There's repression of feel
 - But her failure to condemn repression of the Muslim minority reflected the fragility of her position.
 
 # gulf
-/gʌlf/ 
+**/gʌlf/**
 Deep, wide and often filled with water, a gulf is any vast and seemingly unbridgeable area.
 ### Definition
 - n: an arm of a sea or ocean partly enclosed by land; larger than a bay
@@ -140,7 +140,7 @@ Deep, wide and often filled with water, a gulf is any vast and seemingly unbridg
 - It was the second episode of heavy rain within days for some areas, especially along the Gulf Coast.
 
 # thrive
-/θraɪv/ 
+**/θraɪv/**
 To thrive is to do well or flourish. If your new cookie delivery business thrives, you'll be rolling in dough — not literally, of course.
 ### Definition
 - v: make steady progress; be at the high point in one's career or reach a high point in historical significance or importance

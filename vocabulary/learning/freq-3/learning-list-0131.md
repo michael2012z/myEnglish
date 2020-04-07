@@ -1,5 +1,5 @@
 # kinship
-/kɪnʃɪp/ 
+**/kɪnʃɪp/**
 Kinship is a family relationship. You might describe the wonderful, close kinship you have with your favorite cousin.
 ### Definition
 - n: (anthropology) relatedness or connection by blood or marriage or adoption
@@ -13,7 +13,7 @@ Kinship is a family relationship. You might describe the wonderful, close kinshi
 - Though at different ends of the career spectrum, the bartender felt a sense of kinship meeting Bright.
 
 # oblique
-/oʊbliːk/ 
+**/oʊbliːk/**
 If something is oblique, it has a slanting position or direction. In figurative use, oblique means indirect or purposely misleading. "What is two plus two?" "Fish!" as an answer is completely oblique.
 ### Definition
 - adj: slanting or inclined in direction or course or position--neither parallel nor perpendicular nor right-angled
@@ -42,7 +42,7 @@ If something is oblique, it has a slanting position or direction. In figurative 
 - Officials are frequently looking at information that is fragmentary.
 
 # mosaic
-/moʊzeɪɪk/ 
+**/moʊzeɪɪk/**
 If you’ve ever seen a piece of artwork where the picture is comprised of little clay tiles, then you’ve seen a mosaic.
 ### Definition
 - n: art consisting of a design made of small pieces of colored stone or glass
@@ -68,7 +68,7 @@ If you’ve ever seen a piece of artwork where the picture is comprised of littl
 - The main catalysts were the world wide web, the Mosaic browser and AOL.
 
 # enigmatic
-/enɪgmætɪk/ 
+**/enɪgmætɪk/**
 Something that's enigmatic is tough to figure out. It's puzzling and even mysterious, like those weird secret college societies, Mona Lisa's smile, or the New York Times crossword.
 ### Definition
 - adj: not clear to the understanding
@@ -82,7 +82,7 @@ Something that's enigmatic is tough to figure out. It's puzzling and even myster
 - But Mr. Evans was also engaged in an enigmatic ritual of physical exertion and formal control.
 
 # scenery
-/siːnəri/ 
+**/siːnəri/**
 Scenery is a word for how a place looks, especially a beautiful, outdoorsy place. Also, scenery is fake background in a play.
 ### Definition
 - n: the appearance of a place
@@ -97,7 +97,7 @@ Scenery is a word for how a place looks, especially a beautiful, outdoorsy place
 - “I said, ‘Gee, this is all outdoor scenery,’” he recalled in a video interview years afterward, adding: “I said, ‘Gee, I’m a landscape painter!’”
 
 # rim
-/rɪm/ 
+**/rɪm/**
 A rim is an edge. The rim of a mug is where you put your mouth to drink hot chocolate, and the rim holding a basketball net is where you're aiming when you shoot the ball.
 ### Definition
 - n: the shape of a raised edge of a more or less circular object
@@ -116,7 +116,7 @@ A rim is an edge. The rim of a mug is where you put your mouth to drink hot choc
 - He veered to the baseline while Porter ran to the rim, and what happened next sent fans to their feet.
 
 # ethic
-/eθɪk/ 
+**/eθɪk/**
 An ethic is framework, or guiding principle, and it's often moral. People with a strong work ethic believe that hard work is a good thing in and of itself.
 ### Definition
 - n: the principles of right and wrong that are accepted by an individual or a social group
@@ -134,7 +134,7 @@ An ethic is framework, or guiding principle, and it's often moral. People with a
 - Beyond education efforts, Brewer created by executive order the first state Ethics Commission.
 
 # radiant
-/reɪdiənt/ 
+**/reɪdiənt/**
 The adjective radiant is useful for describing anything that glows with warmth or light. When you open your eyes on a sunny summer morning and see your curtains glowing with sunlight, you can call them radiant.
 ### Definition
 - adj: radiating or as if radiating light
@@ -146,7 +146,7 @@ The adjective radiant is useful for describing anything that glows with warmth o
 - For many people in America’s far north, the old-fashioned wood stove — crackling and radiant, and usually cast-iron black — is as Alaskan as it gets.
 
 # illustrious
-/ɪlʌstriəs/ 
+**/ɪlʌstriəs/**
 Something that's Illustrious is well known or famous, leaving a trail of glory in its wake. An illustrious career, for example, is full of impressive achievements and celebrated contributions to society.
 ### Definition
 - adj: widely known and esteemed

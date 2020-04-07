@@ -1,5 +1,5 @@
 # complacent
-/kəmpleɪsənt/ 
+**/kəmpleɪsənt/**
 Someone who is complacent has become overly content — the junk-food-eating couch potato might be feeling complacent about his health.
 ### Definition
 - adj: contented to a fault with oneself or one's actions
@@ -13,7 +13,7 @@ Someone who is complacent has become overly content — the junk-food-eating cou
 - But BOJ officials are by no means complacent on the outlook.
 
 # counsel
-/kaʊnsəl/ 
+**/kaʊnsəl/**
 When you give counsel or counsel someone, you give advice. If your neighbor is suing you because your dog keeps eating his begonias, you might seek the counsel of a dog trainer or, if that doesn't work, a lawyer.
 ### Definition
 - n: something that provides direction or advice as to a decision or course of action
@@ -31,7 +31,7 @@ When you give counsel or counsel someone, you give advice. If your neighbor is s
 - She now counsels about 30 Afghans seeking help with mental health and domestic violence issues.
 
 # contradiction
-/kɒntrədɪkʃən/ 
+**/kɒntrədɪkʃən/**
 A contradiction is a situation or ideas in opposition to one another. Declaring publicly that you are an environmentalist but never remembering to take out the recycling is an example of a contradiction.
 ### Definition
 - n: opposition between two conflicting forces or ideas
@@ -48,7 +48,7 @@ A contradiction is a situation or ideas in opposition to one another. Declaring 
 - In her prep, Bening worried about Dorthea’s contradictions and paradoxes, but realized in time that that’s “where the gold is.”
 
 # cynical
-/sɪnɪkəl/ 
+**/sɪnɪkəl/**
 If you think public officials are nothing but a bunch of greedy buffoons, you have a cynical attitude about politics.
 ### Definition
 - adj: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others
@@ -61,7 +61,7 @@ If you think public officials are nothing but a bunch of greedy buffoons, you ha
 - Russian President Vladimir Putin condemned the "cynical" murder of civilians.
 
 # canal
-/kənæl/ 
+**/kənæl/**
 A canal is a long, man-made strip of water used for irrigation or boat access to a bigger body of water, like the famous Erie Canal, which connects the Hudson River to Lake Erie.
 ### Definition
 - n: long and narrow strip of water made for boats or for irrigation
@@ -78,7 +78,7 @@ A canal is a long, man-made strip of water used for irrigation or boat access to
 - The New Year’s Day event encourages people to hike and bike the canal’s nearly 185-mile towpath along the Potomac River.
 
 # marine
-/məriːn/ 
+**/məriːn/**
 If it has to do with the ocean or sea, you can call it marine. Your friend in US Armed Services who is a Marine probably spends a lot of time near the ocean.
 ### Definition
 - adj: of or relating to the sea
@@ -105,7 +105,7 @@ If it has to do with the ocean or sea, you can call it marine. Your friend in US
 - Others nominees, such as retired Marine Corps Gen. James Mattis for defense secretary, should easily win confirmation.
 
 # airborne
-/eəʳbɔːʳn/ 
+**/eəʳbɔːʳn/**
 Something that's airborne is flying through the air. A soaring seagull is airborne, and so is a rock launched from a slingshot.
 ### Definition
 - adj: moved or conveyed by or through air
@@ -117,7 +117,7 @@ Something that's airborne is flying through the air. A soaring seagull is airbor
 - He didn’t realize he would be assigned to the 101st Airborne Division.
 
 # trickle
-/trɪkəl/ 
+**/trɪkəl/**
 To trickle is to weakly flow out of something, like a faucet. A trickle is like a drip.
 ### Definition
 - v: run or flow slowly, as in drops or in an unsteady stream
@@ -130,7 +130,7 @@ To trickle is to weakly flow out of something, like a faucet. A trickle is like 
 - Such increasingly common dismissals of spiritual existence trickle into popular thought and even into everyday language.
 
 # pole
-/poʊl/ 
+**/poʊl/**
 A pole is a rounded stick or rod, usually made of wood, plastic, or metal. You need a pole for hanging a flag, catching fish, or setting up a tent.
 ### Definition
 - n: a long (usually round) rod of wood or metal or plastic
@@ -169,7 +169,7 @@ A pole is a rounded stick or rod, usually made of wood, plastic, or metal. You n
 - “This isn’t normal,” people said when the temperature at the North Pole registered 50 degrees above average.
 
 # recipient
-/rɪsɪpiənt/ 
+**/rɪsɪpiənt/**
 A recipient is the person on the receiving end of something. Meryl Streep is the recipient of more Academy Award nominations than any other actor.
 ### Definition
 - n: a person who receives something

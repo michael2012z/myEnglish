@@ -1,5 +1,5 @@
 # fiscal
-/fɪskəl/ 
+**/fɪskəl/**
 The word fiscal resembles the word financial, which makes sense because both involve money.
 ### Definition
 - adj: involving financial matters
@@ -12,7 +12,7 @@ The word fiscal resembles the word financial, which makes sense because both inv
 - Ground was broken in 1972, but a fiscal crisis in the city slammed the brakes on the project again.
 
 # rival
-/raɪvəl/ 
+**/raɪvəl/**
 A rival is a competitor or contender that you want to defeat, whether in an actual competition or for another goal. It may be a tennis rival or a rival for your true love’s affections.
 ### Definition
 - n: the contestant you hope to defeat
@@ -30,7 +30,7 @@ A rival is a competitor or contender that you want to defeat, whether in an actu
 - A prison chaplain said the riot began after a fight between rival gangs.
 
 # urge
-/ɜːʳdʒ/ 
+**/ɜːʳdʒ/**
 If you have an urge to eat candy, you really want to eat those sweets. Your mother might urge you to wait until after dinner. As a noun, urge means a desire. As a verb, it means to strongly encourage.
 ### Definition
 - v: force or impel in an indicated direction
@@ -68,7 +68,7 @@ An institute is an organization or association designed to study or promote some
 - Mr. Saltsman is research director at the Employment Policies Institute, which receives support from restaurants, foundations and individuals.
 
 # recession
-/rɪseʃən/ 
+**/rɪseʃən/**
 Jobs being cut? Houses not selling? Everyone talking about the poor sales of everything from cars to bouquets of flowers? That's a recession, a time of economic decline.
 ### Definition
 - n: the act of ceding back
@@ -88,7 +88,7 @@ Jobs being cut? Houses not selling? Everyone talking about the poor sales of eve
 - Since the Great Recession, the growth in the U.S.
 
 # treasury
-/treʒəri/ 
+**/treʒəri/**
 ### Definition
 - n: a depository (a room or building) where wealth and precious objects can be kept safely
 - n: the funds of a government or institution or individual
@@ -110,7 +110,7 @@ Jobs being cut? Houses not selling? Everyone talking about the poor sales of eve
 - The United States Treasury’s schedule of financing this week includes an auction of four-week bills on Tuesday.
 
 # ally
-/ælaɪ/ 
+**/ælaɪ/**
 If you have an ally, you have someone who is on your side, like a more experienced teammate who is your ally in convincing the coach to give you more playing time.
 ### Definition
 - n: a friendly nation
@@ -127,7 +127,7 @@ If you have an ally, you have someone who is on your side, like a more experienc
 - Taiwan was a Japanese colony from 1895 to the end of World War II and fought along Japan, a German ally, in the Asian theater.
 
 # surge
-/sɜːʳdʒ/ 
+**/sɜːʳdʒ/**
 A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. Although a surge offers a fluid image, anything can experience a sudden surge, including emotions, political support, or an angry mob.
 ### Definition
 - v: rise and move, as in waves or billows
@@ -150,7 +150,7 @@ A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. 
 - Carter jumped up, his body surging with adrenaline; the returner did not.
 
 # coalition
-/koʊəlɪʃən/ 
+**/koʊəlɪʃən/**
 A coalition is a group of people who join together for a common cause, like a coalition you form with other skateboarders who want to convince your town to build a skate park.
 ### Definition
 - n: the union of diverse things into one body or form or group; the growing together of parts
@@ -165,7 +165,7 @@ A coalition is a group of people who join together for a common cause, like a co
 - The Freedom Online Coalition is a partnership of 30 governments co-ordinating their efforts to protect human rights in cyberspace.
 
 # stake
-/steɪk/ 
+**/steɪk/**
 A stake is a wooden stick, sharpened on one end and used to mark property lines (or slay a vampire).
 ### Definition
 - n: a strong wooden or metal post with a point at one end so it can be driven into the ground

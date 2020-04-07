@@ -1,5 +1,5 @@
 # interchangeable
-/ɪntəʳtʃeɪndʒəbəl/ 
+**/ɪntəʳtʃeɪndʒəbəl/**
 Things that are interchangeable can replace each other easily. Interchangeable objects or people can be substituted, and no one would know the difference.
 ### Definition
 - adj: capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability
@@ -24,7 +24,7 @@ Things that are interchangeable can replace each other easily. Interchangeable o
 - During Obama’s first presidential run, however, the story did not just strengthen the message — it became interchangeable with it.
 
 # pedestrian
-/pɪdestriən/ 
+**/pɪdestriən/**
 A pedestrian is someone traveling by foot. If you're walking, you might get angry at the drivers who don't stop so you can cross the street. But if you're driving, you might fight the urge to run over those annoying pedestrians!
 ### Definition
 - n: a person who travels by foot
@@ -52,7 +52,7 @@ The word conversely is an adverb that means "the opposite" or "on the other hand
 - And companies are often wary of over-notifying customers, for fear of brand damage or, conversely, that breach-fatigued consumers will ignore important messages.
 
 # climax
-/klaɪmæks/ 
+**/klaɪmæks/**
 When something — like a movie or piece of music — reaches its most important or exciting part, that's the climax. A climax is a high point.
 ### Definition
 - n: the highest point of anything conceived of as growing or developing or unfolding
@@ -72,7 +72,7 @@ When something — like a movie or piece of music — reaches its most important
 - But how do women know for sure if they are climaxing?
 
 # primal
-/praɪməl/ 
+**/praɪməl/**
 The adjective primal describes something that's essential or basic, like the primal urge to protect yourself and your family from harm.
 ### Definition
 - adj: having existed from the beginning; in an earliest or original stage or state
@@ -101,7 +101,7 @@ It's one thing to be famous. It's another thing altogether to be legendary, or l
 - This year’s Rose Bowl will feature a legendary comeback, no matter what happens on the field between USC and Penn State.
 
 # venerable
-/venərəbəl/ 
+**/venərəbəl/**
 To be venerable is to be admired and respected because of your status or age. You become venerable by achieving great things or just by living long enough.
 ### Definition
 - adj: profoundly honored
@@ -118,7 +118,7 @@ To be venerable is to be admired and respected because of your status or age. Yo
 - Even so, it’s a slap at one of North Korea’s most venerable cultural institutions.
 
 # aloof
-/əluːf/ 
+**/əluːf/**
 Someone who's aloof isn't warm and friendly, instead being distant and reserved. That emotionally cold and detached fellow who keeps to himself, drinking espresso and reading French philosophy, would best be described as aloof.
 ### Definition
 - adj: remote in manner
@@ -132,7 +132,7 @@ Someone who's aloof isn't warm and friendly, instead being distant and reserved.
 - Once the brash, songbird CC and the aloof, wealthy Hillary met on a New Jersey boardwalk, their bond was sealed.
 
 # rudimentary
-/ruːdɪmentri/ 
+**/ruːdɪmentri/**
 Rudimentary means basic, or at a very early stage. The test should be easy: it requires only a rudimentary understanding of the materials.
 ### Definition
 - adj: being in the earliest stages of development

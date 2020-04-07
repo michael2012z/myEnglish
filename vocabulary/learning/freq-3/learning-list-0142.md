@@ -1,5 +1,5 @@
 # coercive
-/koʊɜːʳsɪv/ 
+**/koʊɜːʳsɪv/**
 If you use coercive measures to get people to join your club, it means that you intimidate or force people to make them feel like they have to join.
 ### Definition
 - adj: serving or intended to coerce
@@ -14,7 +14,7 @@ If you use coercive measures to get people to join your club, it means that you 
 - "We urge claimants to refrain from coercive behavior and unilateral actions designed to change the status quo in disputed areas."
 
 # rue
-/ruː/ 
+**/ruː/**
 To rue is to feel regret or remorse for something. If that position at the deli ended up involving a reality TV show that made everyone famous, you may rue the day you turned down the job.
 ### Definition
 - v: feel remorse for; feel sorry for; be contrite about
@@ -32,7 +32,7 @@ To rue is to feel regret or remorse for something. If that position at the deli 
 - Five consecutive defeats later he must be ruing those words.
 
 # cavity
-/kævɪti/ 
+**/kævɪti/**
 A cavity is a carved-out space inside something solid like a wall or a tooth. If you have a cavity, you have a hole in your tooth, and it’s time to go to the dentist for a filling. Lucky you.
 ### Definition
 - n: space that is surrounded by something
@@ -47,7 +47,7 @@ A cavity is a carved-out space inside something solid like a wall or a tooth. If
 - That said, it is not the right treatment for all cavities.
 
 # moisture
-/mɔɪstʃəʳ/ 
+**/mɔɪstʃəʳ/**
 Moisture is the feeling of wetness — what you want in your cupcake but not in your diapers.
 ### Definition
 - n: wetness caused by water
@@ -64,7 +64,7 @@ Moisture is the feeling of wetness — what you want in your cupcake but not in 
 - Cook, stirring occasionally, until most of the moisture released from the mushrooms evaporates, about 5 minutes.
 
 # deviation
-/diːvieɪʃən/ 
+**/diːvieɪʃən/**
 Anything that varies from the accepted norm or standard is called a deviation. It is common in math and science, but it can refer to anything that differs from the expected.
 ### Definition
 - n: a variation that deviates from the standard or norm
@@ -86,7 +86,7 @@ Anything that varies from the accepted norm or standard is called a deviation. I
 - Any deviation will jeopardize the parade and everyone watching.
 
 # apartheid
-/əpɑːʳthaɪt/ 
+**/əpɑːʳthaɪt/**
 Apartheid was a racist political policy in South Africa demanding segregation of the nation's white and non-white populations. During South African apartheid, more than three million black citizens were forced to move from their homes to segregated neighborhoods.
 ### Definition
 - n: a social policy of racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in South Africa
@@ -98,7 +98,7 @@ Apartheid was a racist political policy in South Africa demanding segregation of
 - “Born a Crime” is Noah’s story of growing up mixed-race in South Africa; when he was born in 1984, the country was still under apartheid. 
 
 # leaflet
-/liːflət/ 
+**/liːflət/**
 A paper advertisement or a folded brochure is called a leaflet. To spread the word that your band is playing tonight, you could hand out leaflets.
 ### Definition
 - n: a small book usually having a paper cover
@@ -117,7 +117,7 @@ A paper advertisement or a folded brochure is called a leaflet. To spread the wo
 - To limit the displacement from Mosul, the government airdropped leaflets over the city telling civilians to stay put.
 
 # humiliation
-/hjuːmɪlieɪʃən/ 
+**/hjuːmɪlieɪʃən/**
 Humiliation describes a strong feeling of embarrassment or mortification — like that time in sixth grade when your mother wiped your face and called you "honey bunny" in front of all your friends.
 ### Definition
 - n: depriving one of self-esteem
@@ -134,7 +134,7 @@ Humiliation describes a strong feeling of embarrassment or mortification — lik
 - Galarza is not alone in the humiliation of such a mistake.
 
 # captive
-/kæptɪv/ 
+**/kæptɪv/**
 A captive is something that has been captured and can’t escape, like a prisoner of war or a panda in a zoo.
 ### Definition
 - n: a person who is confined; especially a prisoner of war
@@ -154,7 +154,7 @@ A captive is something that has been captured and can’t escape, like a prisone
 - Formerly captive nations freed from Soviet control seemed eager to embrace liberal democracy, capitalism — and substantial subsidies — from their wealthier neighbors.
 
 # recreation
-/rekrieɪʃən/ 
+**/rekrieɪʃən/**
 The word recreation is a noun meaning just about anything you do for fun: bowling, flying a model airplane, or just swimming the English Channel. If you do it to relax, recharge your batteries, or just to amuse yourself, it's probably recreation.
 ### Definition
 - n: an activity that diverts or amuses or stimulates

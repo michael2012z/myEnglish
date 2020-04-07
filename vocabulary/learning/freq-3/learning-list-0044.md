@@ -1,5 +1,5 @@
 # stroll
-/stroʊl/ 
+**/stroʊl/**
 As a noun, a stroll is a leisurely walk. After a heavy meal, you may want to go out for a stroll to help you work off some of the calories. You also will take a stroll on your day off and the weather is nice.
 ### Definition
 - n: a leisurely walk (usually in some public place)
@@ -13,7 +13,7 @@ As a noun, a stroll is a leisurely walk. After a heavy meal, you may want to go 
 - Earlier this year, we were strolling along a marina in Portugal and a family passed us – a mother, father and daughter.
 
 # chord
-/kɔːʳd/ 
+**/kɔːʳd/**
 In music, a chord is three or more notes that combine harmoniously. You can play chords on a piano or guitar, but not on an instrument that plays one note at a time, like a trumpet.
 ### Definition
 - n: a combination of three or more notes that blend harmoniously when sounded together
@@ -28,7 +28,7 @@ In music, a chord is three or more notes that combine harmoniously. You can play
 - The opening chords of “Purple Rain,” they’re the opening of a conversation.
 
 # inexperienced
-/ɪnɪkspɪəriənst/ 
+**/ɪnɪkspɪəriənst/**
 ### Definition
 - adj: lacking practical experience or training
 ### Family
@@ -45,7 +45,7 @@ In music, a chord is three or more notes that combine harmoniously. You can play
 - The original intent of the 1985 Youth Act was to rehabilitate inexperienced criminals under the age of 22.
 
 # contraceptive
-/kɒntrəseptɪv/ 
+**/kɒntrəseptɪv/**
 ### Definition
 - n: an agent or device intended to prevent conception
 - adj: capable of preventing conception or impregnation
@@ -57,7 +57,7 @@ In music, a chord is three or more notes that combine harmoniously. You can play
 - But others criticised it as the result of pressure to use contraceptives.
 
 # contractual
-/kəntræktʃuəl/ 
+**/kəntræktʃuəl/**
 ### Definition
 - adj: relating to or part of a binding legal agreement
 ### Family
@@ -93,7 +93,7 @@ When two roads diverge, they split and go in different directions. If your opini
 - It’s called a diverging diamond because it shifts vehicles to the opposite side of the road, eliminating left turns in front of oncoming traffic.
 
 # marvel
-/mɑːʳvəl/ 
+**/mɑːʳvəl/**
 The Latin source of the word marvel is mirari, "to wonder at," and that's exactly what marvel means when it's a verb. You may marvel at the depth of the Grand Canyon or at the size of a pimple.
 ### Definition
 - v: be amazed at
@@ -109,7 +109,7 @@ The Latin source of the word marvel is mirari, "to wonder at," and that's exactl
 - Skype debuted its own set of icons, dubbed Emoticons, around the November release of Marvel’s “Doctor Strange.”
 
 # precious
-/preʃəs/ 
+**/preʃəs/**
 To call something precious is to describe it as highly valued. Think of a gemstone when you call your baby sister precious.
 ### Definition
 - adj: of high worth or cost
@@ -126,7 +126,7 @@ To call something precious is to describe it as highly valued. Think of a gemsto
 - If the result is great literature, it would be perverse to judge hearing voices an aberration requiring treatment rather than a precious gift.
 
 # humanitarian
-/hjuːmænɪteəriən/ 
+**/hjuːmænɪteəriən/**
 Despite many jokes to the contrary, a humanitarian is not someone who eats humans (as a vegetarian eats vegetables)! A humanitarian is a person concerned with the welfare of all humankind.
 ### Definition
 - adj: marked by humanistic values and devotion to human welfare
@@ -154,7 +154,7 @@ Despite many jokes to the contrary, a humanitarian is not someone who eats human
 - That kind of regional collaboration is critical, humanitarian officials say.
 
 # advocacy
-/ædvəkəsi/ 
+**/ædvəkəsi/**
 When you give your active support to an idea or cause, you are showing your advocacy for that cause. Your advocacy for an animal rights group might help raise money to save stray pups.
 ### Definition
 - n: active support of an idea or cause etc.; especially the act of pleading or arguing for something

@@ -17,7 +17,7 @@ If you presume something, it means you act as though it's true before all the ev
 - Which brings this back to the original point: while the Raptors are an excellent team, their current ceiling, presuming health, is well defined.
 
 # tan
-/tæn/ 
+**/tæn/**
 ### Definition
 - n: a light brown the color of topaz
 - n: a browning of the skin resulting from exposure to the rays of the sun
@@ -37,7 +37,7 @@ If you presume something, it means you act as though it's true before all the ev
 - But she was there, a willing participant, at the wheel of a tan Honda getaway car.
 
 # applicant
-/æplɪkənt/ 
+**/æplɪkənt/**
 An applicant is someone who signs up or applies for something. A job applicant for example, often fills out a form and then interviews for the position she hopes to get.
 ### Definition
 - n: a person who requests or seeks something such as assistance or employment or admission
@@ -56,7 +56,7 @@ An applicant is someone who signs up or applies for something. A job applicant f
 - It also says the winning applicants should be dispersed across the country “to the maximum extent practicable.”
 
 # hybrid
-/haɪbrɪd/ 
+**/haɪbrɪd/**
 A hybrid is a mixture of two different things, resulting in something that has a little bit of both — like the rare zedonk, a hybrid of a donkey and a zebra.
 ### Definition
 - n: a composite of mixed origin
@@ -74,7 +74,7 @@ A hybrid is a mixture of two different things, resulting in something that has a
 - And solo drivers who bought their way into the HOV lanes by purchasing hybrids will lose their exemption.
 
 # perennial
-/pəreniəl/ 
+**/pəreniəl/**
 Perennial typically describes things that are permanent, constant, or repeated. If you fight with your parents every year over whether they really must invite your annoying cousins for Thanksgiving, you could call that a perennial conflict.
 ### Definition
 - adj: lasting an indefinitely long time; suggesting self-renewal
@@ -89,7 +89,7 @@ Perennial typically describes things that are permanent, constant, or repeated. 
 - The perennial national title contender from Durham, N.C., is 12-1 as it enters its Atlantic Coast Conference opener at Virginia Tech on Saturday.
 
 # precede
-/prɪsiːd/ 
+**/prɪsiːd/**
 To precede is to come before. A short speech will precede the dinner. As you walk down the garden path, the bed of roses precedes the holly bush. When marching into the room, the younger kids precede the older ones.
 ### Definition
 - v: be earlier in time; go back further
@@ -109,7 +109,7 @@ To precede is to come before. A short speech will precede the dinner. As you wal
 - O’Neill said that complaints about some elementary schools starting too late preceded the change in bell times.
 
 # muster
-/mʌstəʳ/ 
+**/mʌstəʳ/**
 Originally meaning only to gather soldiers, muster's definition has been expanded to include gathering up just about anything––you can muster up some dinner, some friends, or even some ketchup, pickles and mustard.
 ### Definition
 - v: gather or bring together
@@ -124,7 +124,7 @@ Originally meaning only to gather soldiers, muster's definition has been expande
 - On Tuesday they fled and mustered a few blocks away.
 
 # strap
-/stræp/ 
+**/stræp/**
 ### Definition
 - n: an elongated leather strip (or a strip of similar material) for binding things together or holding something in position
 - n: a band that goes over the shoulder and supports a garment or bag
@@ -144,7 +144,7 @@ Originally meaning only to gather soldiers, muster's definition has been expande
 - Just before it leaves the kitchen, the strapping entree is dressed up with pungent cilantro, garlicky yogurt and fresh Thai chili peppers.
 
 # spoon
-/spuːn/ 
+**/spuːn/**
 ### Definition
 - n: a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food
 - n: as much as a spoon will hold
@@ -160,7 +160,7 @@ Originally meaning only to gather soldiers, muster's definition has been expande
 - And their parents are learning the signs of addiction: Missing spoons.
 
 # rider
-/raɪdəʳ/ 
+**/raɪdəʳ/**
 Riders are people who are in motion — riding bicycles, subways, horses, roller coasters and much more. Another kind of rider is a special list that attaches to, or "rides along" with, a contract.
 ### Definition
 - n: a traveler who actively rides an animal (as a horse or camel)

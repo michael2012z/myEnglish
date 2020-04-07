@@ -14,7 +14,7 @@ A public notice promoting the sale of a certain item is called an advertisement.
 - In New Delhi and many other cities, newspapers are full of big advertisements for lavish parties at upscale hotels and restaurants.
 
 # collagen
-/kɒlədʒən/ 
+**/kɒlədʒən/**
 ### Definition
 - n: a fibrous scleroprotein in bone and cartilage and tendon and other connective tissue; yields gelatin on boiling
 ### Family
@@ -25,7 +25,7 @@ A public notice promoting the sale of a certain item is called an advertisement.
 - It’s also rich in collagen, which gives the soup its silky unctuousness.
 
 # provenance
-/prɒvɪnəns/ 
+**/prɒvɪnəns/**
 Where something comes from is its provenance. If a style of music originated in the capital of Rhode Island, you could say that its provenance was Providence.
 ### Definition
 - n: where something originated or was nurtured in its early existence
@@ -37,7 +37,7 @@ Where something comes from is its provenance. If a style of music originated in 
 - The ultimate provenance of content, and the algorithms that decide what we see and don’t see, lack this clarity.
 
 # indicative
-/ɪndɪkətɪv/ 
+**/ɪndɪkətɪv/**
 Use the word indicative when you want to show that something is suggestive or serves as a sign of something. Your willingness to help out with the charity is indicative of your generous nature.
 ### Definition
 - adj: (usually followed by `of') pointing out or revealing clearly
@@ -54,7 +54,7 @@ Use the word indicative when you want to show that something is suggestive or se
 - He regarded the award as indicative of the military’s denial about the My Lai episode, which did not involve enemy combatants at all.
 
 # rigour
-/rɪgəʳ/ 
+**/rɪgəʳ/**
 ### Definition
 - n: excessive sternness
 - n: something hard to endure
@@ -67,7 +67,7 @@ Use the word indicative when you want to show that something is suggestive or se
 - This will be critical in ensuring that the next general election is covered with the insight and rigour that readers and clients deserve. 
 
 # reap
-/riːp/ 
+**/riːp/**
 When you reap something, you enjoy the rewards of your efforts. When your great audition gets you cast in your dream role, you reap the benefits of all that rehearsing you did.
 ### Definition
 - v: get or derive
@@ -81,7 +81,7 @@ When you reap something, you enjoy the rewards of your efforts. When your great 
 - Whether God or Saban deserves prime responsibility, Alabama is reaping the rewards.
 
 # erratic
-/ɪrætɪk/ 
+**/ɪrætɪk/**
 The adjective erratic describes things that are unpredictable, unusual, and that deviate from the norm. An erratic quarterback might completely confuse his receivers waiting for a pass.
 ### Definition
 - adj: liable to sudden unpredictable change
@@ -95,7 +95,7 @@ The adjective erratic describes things that are unpredictable, unusual, and that
 - “Demand is erratic and its value not just tied to the quality.”
 
 # unambiguous
-/ʌnæmbɪgjuəs/ 
+**/ʌnæmbɪgjuəs/**
 If something is unambiguous, there are no two ways to interpret it. If your girlfriend burns all your letters, texts you that she hates you, and moves a thousand miles away, the unambiguous message is that she’s finished with you.
 ### Definition
 - adj: having or exhibiting a single clearly defined meaning
@@ -121,7 +121,7 @@ Use salutary to describe something that's good for your health, like the salutar
 - The result is a salutary visual grit, which anchors Hurtado’s contradictorily evanescent forms.
 
 # austere
-/ɔːstɪəʳ/ 
+**/ɔːstɪəʳ/**
 The adjective austere is used to describe something or someone stern or without any decoration. You wouldn't want someone to describe you or your home as austere.
 ### Definition
 - adj: of a stern or strict bearing or demeanor; forbidding in aspect

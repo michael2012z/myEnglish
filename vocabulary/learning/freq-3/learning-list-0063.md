@@ -1,5 +1,5 @@
 # recipe
-/resɪpi/ 
+**/resɪpi/**
 A recipe is directions for making a dish or dessert, like your mother's award-winning recipe for chocolate chip cookies.
 ### Definition
 - n: directions for making something
@@ -11,7 +11,7 @@ A recipe is directions for making a dish or dessert, like your mother's award-wi
 - I created many of the recipes on the menu, and they are heavy on yogurt, chilies and saffron.
 
 # cascade
-/kæskeɪd/ 
+**/kæskeɪd/**
 Think of a cascade as something suddenly falling, tumbling down in a rush.
 ### Definition
 - n: a small waterfall or series of small waterfalls
@@ -27,7 +27,7 @@ Think of a cascade as something suddenly falling, tumbling down in a rush.
 - Five people were killed by a gunman who opened fire at Burlington’s Cascade Mall on a Friday night in September.
 
 # pragmatism
-/prægmətɪzəm/ 
+**/prægmətɪzəm/**
 When you practice pragmatism, you accept conditions as they are and make practical decisions. Your head is not in the clouds.
 ### Definition
 - n: (philosophy) the doctrine that practical consequences are the criteria of knowledge and meaning and value
@@ -42,7 +42,7 @@ When you practice pragmatism, you accept conditions as they are and make practic
 - Donald Trump is forging a transactional path to the White House, assembling a cabinet based more on pragmatism than loyalty.
 
 # accusation
-/ækjʊzeɪʃən/ 
+**/ækjʊzeɪʃən/**
 When you say someone is guilty of doing something wrong you make an accusation, like your accusation that your brother used your computer without asking first.
 ### Definition
 - n: an assertion that someone is guilty of a fault or offence
@@ -61,7 +61,7 @@ When you say someone is guilty of doing something wrong you make an accusation, 
 - Mr. Moon denied the accusation at a parliamentary hearing on Nov. 30.
 
 # liberate
-/lɪbəreɪt/ 
+**/lɪbəreɪt/**
 To liberate something means to release it from confinement. As the saying goes, "If you love something, set it free," — liberate it.
 ### Definition
 - v: grant freedom to; free from confinement
@@ -93,7 +93,7 @@ If you have an aversion to something, you have an intense dislike for it. Common
 - This is not because of an aversion to technology, nor the lack of necessary skills.
 
 # scrutiny
-/skruːtɪni/ 
+**/skruːtɪni/**
 Scrutiny is when you look at something really closely, like when you are checking a test for mistakes. Scrutiny can also be an intense look, like when your mother looks at you — trying to tell if you might be lying.
 ### Definition
 - n: the act of examining something closely (as for mistakes)
@@ -111,7 +111,7 @@ Scrutiny is when you look at something really closely, like when you are checkin
 - But how the reprieve became public Thursday drew scrutiny from open-government advocates and others.
 
 # reconcile
-/rekənsaɪl/ 
+**/rekənsaɪl/**
 Reach for the verb reconcile to make different things come together or resolve a matter.
 ### Definition
 - v: come to terms
@@ -132,7 +132,7 @@ Reach for the verb reconcile to make different things come together or resolve a
 - Instead, it helped some people who distrust conservatism to reconcile themselves to Trump.
 
 # sperm
-/spɜːʳm/ 
+**/spɜːʳm/**
 ### Definition
 - n: the male reproductive cell; the male gamete
 ### Family
@@ -143,7 +143,7 @@ Reach for the verb reconcile to make different things come together or resolve a
 - Thirty-seven poor swimming sperm would not get the job done.
 
 # genetics
-/dʒɪnetɪks/ 
+**/dʒɪnetɪks/**
 Genetics is the study of the traits people and other animals inherit from their family through DNA.
 ### Definition
 - n: the branch of biology that studies heredity and variation in organisms

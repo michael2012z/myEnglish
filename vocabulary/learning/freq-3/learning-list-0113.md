@@ -1,5 +1,5 @@
 # overthrow
-/oʊvəʳθroʊ/ 
+**/oʊvəʳθroʊ/**
 When you overthrow a ruler or a regime, you throw them out, usually by force. If you're a rebel you may plan to overthrow the current government and install a new regime.
 ### Definition
 - v: rule against
@@ -16,7 +16,7 @@ When you overthrow a ruler or a regime, you throw them out, usually by force. If
 - A failed military attempt to overthrow the government in May added to the turmoil.
 
 # cigarette
-/sɪgəret/ 
+**/sɪgəret/**
 A small tube of paper that's filled with tobacco and lit with a match is a cigarette. Because cigarettes take a terrible toll on smokers' health, the number of people who smoke them has declined recently.
 ### Definition
 - n: finely ground tobacco wrapped in paper; for smoking
@@ -41,7 +41,7 @@ Solitude is the state of being alone. You might crave solitude after spending th
 - There’s a sense of genuine solitude in the best letters in “The Correspondence.”
 
 # simplicity
-/sɪmplɪsɪti/ 
+**/sɪmplɪsɪti/**
 Simplicity is a noun that means "the quality of being plain." The simplicity of your prom dress made you stand out in the sea of ruffles and sequins.
 ### Definition
 - n: the quality of being simple or uncompounded
@@ -82,7 +82,7 @@ Things that are miniature are teeny tiny versions of something else. Think minia
 
 
 # ardent
-/ɑːʳdənt/ 
+**/ɑːʳdənt/**
 If you are ardent, you are passionate about something. A pop star's ardent admirers might go so crazy at his concert that they faint from excitement.
 ### Definition
 - adj: characterized by intense emotion
@@ -108,7 +108,7 @@ The cosmos is the sum total of everything — pretty big. It's hard to wrap your
 - “Our whole planet suddenly, in this image, seemed tiny, vulnerable, and incredibly lonely against the vast blackness of the cosmos,” Petsko wrote.
 
 # bravery
-/breɪvəri/ 
+**/breɪvəri/**
 Bravery is the admirable quality of being able to confront frightening things. It takes bravery for a knight to battle a dragon, but it also takes bravery for a shy child to walk into a new classroom.
 ### Definition
 - n: a quality of spirit that enables you to face danger or pain without showing fear
@@ -122,7 +122,7 @@ Bravery is the admirable quality of being able to confront frightening things. I
 - The Pawong, a Malaysian tribe, instead of valuing bravery, celebrate fear and caution.
 
 # unheard
-/ʌnhɜːʳd/ 
+**/ʌnhɜːʳd/**
 ### Definition
 - adj: not necessarily inaudible but not heard
 ### Family

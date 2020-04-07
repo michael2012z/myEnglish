@@ -1,5 +1,5 @@
 # inflict
-/ɪnflɪkt/ 
+**/ɪnflɪkt/**
 When you force an undesirable or harmful event on someone, you inflict it on them. You might prefer that someone inflict some physical pain on you rather than inflict you with the boredom of another trip to the annual flower show.
 ### Definition
 - v: impose something unpleasant
@@ -12,7 +12,7 @@ When you force an undesirable or harmful event on someone, you inflict it on the
 - “Inflicting such huge costs for what is an uncertain outcome is problematic.”
 
 # pneumonia
-/njuːmoʊniə/ 
+**/njuːmoʊniə/**
 Pneumonia is a lung infection that gives you a cough and a fever and generally makes it difficult to breathe. If you catch pneumonia, you may end up in the hospital.
 ### Definition
 - n: respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants
@@ -37,7 +37,7 @@ If something is statutory, it is related to or set by laws or statutes. Statutor
 - The Sourovelises were allowed to return to their house only after waiving their rights to statutory or constitutional defenses in a future forfeiture action.
 
 # feat
-/fiːt/ 
+**/fiːt/**
 A feat is an exemplary, even bold achievement, often an act of great courage or skill. Getting your cat to wear a leash was quite a feat.
 ### Definition
 - n: a notable achievement
@@ -49,7 +49,7 @@ A feat is an exemplary, even bold achievement, often an act of great courage or 
 - Harden’s feat was especially notable because of the high point total.
 
 # feudal
-/fjuːdəl/ 
+**/fjuːdəl/**
 Anything feudal relates to the medieval system of feudalism — where the nobility owned the land while everyone else worked it. It was no fun to be a lowly serf in the feudal system.
 ### Definition
 - adj: of or relating to or characteristic of feudalism
@@ -65,7 +65,7 @@ Anything feudal relates to the medieval system of feudalism — where the nobili
 - A feudal lord’s procession is scarcely noticeable amid the snow of “Kameyama,” under a narrow strip of blue sky.
 
 # labourer
-/leɪbərəʳ/ 
+**/leɪbərəʳ/**
 ### Definition
 - n: someone who works with their hands; someone engaged in manual labor
 ### Family
@@ -78,7 +78,7 @@ Anything feudal relates to the medieval system of feudalism — where the nobili
 - “However, it stretches credibility to assume that the supply chains for these brands do not include significant employment of child labourers. “
 
 # stark
-/stɑːʳk/ 
+**/stɑːʳk/**
 Stark means "complete or extreme," like the stark contrast between your music taste — punk and weird metal — and your mom's, with all her 1950's doo-wop favorites.
 ### Definition
 - adj: severely simple
@@ -95,7 +95,7 @@ Stark means "complete or extreme," like the stark contrast between your music ta
 - There are many ways of dissecting the Brexit vote, but the starkest is by income.
 
 # communism
-/kɒmjʊnɪzəm/ 
+**/kɒmjʊnɪzəm/**
 At the opposite end of the spectrum from capitalism, communism is an economic theory favoring a classless society and the abolition of private property.
 ### Definition
 - n: a political theory favoring collectivism in a classless society
@@ -110,7 +110,7 @@ At the opposite end of the spectrum from capitalism, communism is an economic th
 - In August, Flynn told a Massachusetts audience, “We are facing another ‘ism,’ just like we faced Nazism and fascism and imperialism and communism.
 
 # devise
-/dɪvaɪz/ 
+**/dɪvaɪz/**
 To devise is to figure out a plan. Men twirling long mustaches might devise a plan to tie someone to the railroad tracks.
 ### Definition
 - v: arrange by systematic planning and united effort
@@ -129,7 +129,7 @@ To devise is to figure out a plan. Men twirling long mustaches might devise a pl
 - The year ahead will test how well the system devised by our founders works under stress.
 
 # tenure
-/tenjəʳ/ 
+**/tenjəʳ/**
 Take the noun tenure for the period of time a person holds a position or office. Your tenure as a student ends when you graduate high school — unless, of course, you go on to college.
 ### Definition
 - n: the term during which some position is held

@@ -1,5 +1,5 @@
 # evangelical
-/iːvændʒelɪkəl/ 
+**/iːvændʒelɪkəl/**
 Evangelical is a word to describe anyone who is super enthusiastic about something. You might meet an evangelical Christian or an evangelical cheerleader, or even an evangelical Christian cheerleader.
 ### Definition
 - adj: relating to or being a Christian church believing in personal conversion and the inerrancy of the Bible especially the 4 Gospels
@@ -14,7 +14,7 @@ Evangelical is a word to describe anyone who is super enthusiastic about somethi
 - The first is small churches, often Pentecostal and Evangelical.
 
 # mimic
-/mɪmɪk/ 
+**/mɪmɪk/**
 A mimic is someone who is good at imitating others. A gifted mimic might be able to imitate one president after another just by minimally changing facial expression and manner of speaking.
 ### Definition
 - v: imitate (a person or manner), especially for satirical effect
@@ -31,7 +31,7 @@ A mimic is someone who is good at imitating others. A gifted mimic might be able
 - One little kid dressed up as him for Halloween with pipe cleaners mimicking his long dreadlocks.
 
 # screw
-/skruː/ 
+**/skruː/**
 ### Definition
 - n: a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole
 - n: a fastener with a tapered threaded shank and a slotted head
@@ -53,7 +53,7 @@ A mimic is someone who is good at imitating others. A gifted mimic might be able
 - “The bulb was already there. All I did was screw it in the socket.”
 
 # idiosyncratic
-/ɪdioʊsɪŋkrætɪk/ 
+**/ɪdioʊsɪŋkrætɪk/**
 Idiosyncratic means unique to an individual. Albert Einstein famously had lots of idiosyncratic habits. For example, he rarely wore socks, and he talked to his cat.
 ### Definition
 - adj: peculiar to the individual
@@ -66,7 +66,7 @@ Idiosyncratic means unique to an individual. Albert Einstein famously had lots o
 - The character was famous for her idiosyncratic recipes such as parsnip brownies and lard and fish paste pancakes, but was killed off in 1996.
 
 # consensual
-/kənsenʃuəl/ 
+**/kənsenʃuəl/**
 If something is consensual, all parties are in agreement that they approve of it. You and your neighbor could have a consensual agreement to share the cost of putting up a fence between your houses.
 ### Definition
 - adj: existing by consent
@@ -79,7 +79,7 @@ If something is consensual, all parties are in agreement that they approve of it
 - Cook’s defense attorneys say his encounters with the women were consensual.
 
 # rash
-/ræʃ/ 
+**/ræʃ/**
 A rash is something that spreads like wild fire — red itchy skin or a series of unfortunate events. It can also describe an impulsive, wild decision.
 ### Definition
 - adj: imprudently incurring risk
@@ -95,7 +95,7 @@ A rash is something that spreads like wild fire — red itchy skin or a series o
 - For now, the more pressing priority is weathering an uncommon rash of injuries in the frontcourt.
 
 # animate
-/ænɪmət/ 
+**/ænɪmət/**
 At its most basic, animate means simply alive, while inanimate means not living, not moving around. But animate also means spirited, or brought to life.
 ### Definition
 - v: make lively
@@ -118,7 +118,7 @@ At its most basic, animate means simply alive, while inanimate means not living,
 - “Within the confines of the material, you’ll find that you’re playing real people, as outsized as they may be,” he said, growing animated.
 
 # heterosexual
-/hetəroʊsekʃuəl/ 
+**/hetəroʊsekʃuəl/**
 A heterosexual person is attracted to people of the opposite sex. Boys who like girls and women who like men are heterosexual.
 ### Definition
 - n: a heterosexual person; someone having a sexual orientation to persons of the opposite sex
@@ -131,7 +131,7 @@ A heterosexual person is attracted to people of the opposite sex. Boys who like 
 - He also has said he would seek to limit medically assisted procreation strictly to heterosexual couples “for medical reasons.”
 
 # mould
-/moʊld/ 
+**/moʊld/**
 Mould is the British spelling for "mold" — the stuff you find growing on old bread or the container you use to create your jello masterpieces.
 ### Definition
 - n: the distinctive form in which a thing is made
@@ -156,7 +156,7 @@ Mould is the British spelling for "mold" — the stuff you find growing on old b
 - It's just that this guy was a way more talented politician in terms of coalescing this anger… Donald Trump broke all the moulds.
 
 # maternity
-/mətɜːʳnɪti/ 
+**/mətɜːʳnɪti/**
 Use the noun maternity to describe the relationship of a mother to her children.
 ### Definition
 - n: the kinship relation between an offspring and the mother

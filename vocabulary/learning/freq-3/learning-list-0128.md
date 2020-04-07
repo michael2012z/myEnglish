@@ -1,5 +1,5 @@
 # liquor
-/lɪkəʳ/ 
+**/lɪkəʳ/**
 ### Definition
 - n: an alcoholic beverage that is distilled rather than fermented
 - n: a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process
@@ -12,7 +12,7 @@
 - A wooden table piled with bottles of liquor served as the cash-only bar.
 
 # batch
-/bætʃ/ 
+**/bætʃ/**
 A batch is a completed group, collection, or quantity of something, especially something that's just been made. You might, for example, bake a batch of cookies to take to your new neighbor.
 ### Definition
 - n: a collection of things or persons to be handled together
@@ -27,7 +27,7 @@ A batch is a completed group, collection, or quantity of something, especially s
 - Supermarket chain Aldi is recalling a king prawn product after two batches were found to contain salmonella.
 
 # eminent
-/emɪnənt/ 
+**/emɪnənt/**
 Anyone highly regarded or prominent is eminent. Eminent people are very successful at their jobs. If you’ve heard of Neil deGrasse Tyson, it’s probably because he’s an eminent astrophysicist.
 ### Definition
 - adj: standing above others in quality or position
@@ -46,7 +46,7 @@ Anyone highly regarded or prominent is eminent. Eminent people are very successf
 - One of America’s most eminent scientists is Francis Collins, an evangelical Christian who is director of the National Institutes of Health.
 
 # foil
-/fɔɪl/ 
+**/fɔɪl/**
 You can serve as a foil to someone if you show them to be better than you by contrast. If you can't dance but your friend Lisa can, you can be a foil to Lisa's grace.
 ### Definition
 - v: hinder or prevent (the efforts, plans, or desires) of
@@ -67,7 +67,7 @@ You can serve as a foil to someone if you show them to be better than you by con
 - Most of the artwork is printed on aluminum panels, although one artist incorporates aluminum foil into mixed-media canvases.
 
 # countenance
-/kaʊntɪnəns/ 
+**/kaʊntɪnəns/**
 The noun countenance means the face or its expression. If you're a great poker player, you probably have a calm countenance.
 ### Definition
 - n: the appearance conveyed by a person's face
@@ -83,7 +83,7 @@ The noun countenance means the face or its expression. If you're a great poker p
 - Please don't leave her countenance out of her own essay.
 
 # ominous
-/ɒmɪnəs/ 
+**/ɒmɪnəs/**
 If something looks or sounds ominous, be careful: a threat or an unpleasant event is at hand. If you see an ominous frown on your boss's face, you're in trouble!
 ### Definition
 - adj: threatening or foreshadowing evil or tragic developments
@@ -100,7 +100,7 @@ If something looks or sounds ominous, be careful: a threat or an unpleasant even
 
 
 # redesign
-/riːdɪzaɪn/ 
+**/riːdɪzaɪn/**
 To change the way something looks or functions is to redesign it. If you use a wheelchair, you might need to redesign your new apartment to make it easier to get around.
 ### Definition
 - v: design anew, make a new design for
@@ -117,7 +117,7 @@ To change the way something looks or functions is to redesign it. If you use a w
 - Caruso, in an interview last week, said he worked extensively to meet the neighborhood’s needs, redesigning the project and offering additional concessions.
 
 # rupture
-/rʌptʃəʳ/ 
+**/rʌptʃəʳ/**
 A rupture is a break or tear in something that pulls it apart. A rupture can be a literal break, like the one that happens in, say, a gas line, or it can be more figurative, as in a friendship or a business deal.
 ### Definition
 - n: the act of making a sudden noisy break
@@ -132,7 +132,7 @@ A rupture is a break or tear in something that pulls it apart. A rupture can be 
 - Coach Tim Miles announced Tuesday that Gill ruptured his patella tendon during practice Sunday.
 
 # locus
-/loʊkəs/ 
+**/loʊkəs/**
 The center or source of something is known as the locus. A shopping mall is usually a locus for teenagers.
 ### Definition
 - n: the scene of any event or action (especially the place of a meeting)

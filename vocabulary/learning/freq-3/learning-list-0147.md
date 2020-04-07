@@ -14,7 +14,7 @@ A deterrent makes you not want to do something. Let's say there's a giant pile o
 - Tacoma police spokeswoman Loretta Cool said she doesn’t think Barrow’s box serves as a deterrent or is a good idea.
 
 # manor
-/mænəʳ/ 
+**/mænəʳ/**
 A manor is the house of a lord — pretty fancy stuff. If you like to read 18th-century British novels, you probably read about a lot of people having dinner, dance, and restrained romance in their manors.
 ### Definition
 - n: the landed estate of a lord (including the house on it)
@@ -55,7 +55,7 @@ Use the adjective preparatory when you're getting ready for something. If you sp
 - They also released Damron’s personnel file and investigative documents related to the allegations at Stanton College Preparatory School in Jacksonville, Fla.
 
 # detract
-/dɪtrækt/ 
+**/dɪtrækt/**
 If you detract from something — like an achievement or an opinion or an object — you take away some of its value or diminish it. That dent in the door of your car may detract from its overall value.
 ### Definition
 - v: take away a part from; diminish
@@ -69,7 +69,7 @@ If you detract from something — like an achievement or an opinion or an object
 - Indeed, these efforts at modern scientific explanations detract from the richness of Lamb's cultural explorations of discovery and knowledge.
 
 # whip
-/hwɪp/ 
+**/hwɪp/**
 A whip is a cord or piece of leather used for hitting an animal or a person, and to whip something or someone is to strike them with a whip. You can also figuratively whip an opponent or whip someone in shape. Giddy up!
 ### Definition
 - n: an instrument with a handle and a flexible lash that is used for whipping
@@ -105,7 +105,7 @@ A caveat is a warning. When someone adds a caveat to something they’re telling
 - This cautious optimism is tempered with a very big caveat, however …
 
 # premise
-/premɪs/ 
+**/premɪs/**
 A premise is what forms the basis of a theory or a plot. When you called 911 on the guy in your back yard, it was on the premise that he was a thief and not the meter-reader.
 ### Definition
 - n: a statement that is assumed to be true and from which a conclusion can be drawn
@@ -120,7 +120,7 @@ A premise is what forms the basis of a theory or a plot. When you called 911 on 
 - Police sealed off the premises and didn’t allow the media near the club.
 
 # desperation
-/despəreɪʃən/ 
+**/despəreɪʃən/**
 Desperation is a hopeless state. If you learned that your friend had sold her beloved shoe collection, you'd know she did it out of desperation.
 ### Definition
 - n: a state in which all hope is lost or absent
@@ -134,7 +134,7 @@ Desperation is a hopeless state. If you learned that your friend had sold her be
 - Eventually, in a fit of abject, sweat-drenched desperation, a solution appeared like a ray of light from heaven.
 
 # incision
-/ɪnsɪʒən/ 
+**/ɪnsɪʒən/**
 An incision is a surgical cut. A doctor uses a scalpel to make an incision in a patient's skin.
 ### Definition
 - n: the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)

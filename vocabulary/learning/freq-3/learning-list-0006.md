@@ -21,7 +21,7 @@ To foster is to nurture something for a little while. She fosters creativity by 
 - A blitzing Foster pressured Browning into the desperation heave that Anderson swiped for a 17-7 halftime lead.
 
 # coup
-/kuː/ 
+**/kuː/**
 A coup is a pretty major achievement, whether it involves taking over a government by force, or landing a major business contract.
 ### Definition
 - n: a sudden and decisive change of government illegally or by force
@@ -35,7 +35,7 @@ A coup is a pretty major achievement, whether it involves taking over a governme
 - After the coup, the government launched a crackdown on its perceived enemies, arresting thousands of people.
 
 # expulsion
-/ɪkspʌlʃən/ 
+**/ɪkspʌlʃən/**
 Don't ever make a joke about a bomb on an airplane, if you don't want to risk expulsion. Expulsion is being kicked out of something, like a club, a school, or an airplane.
 ### Definition
 - n: the act of forcing out someone or something
@@ -50,7 +50,7 @@ Don't ever make a joke about a bomb on an airplane, if you don't want to risk ex
 - On Long Island, meanwhile, the expulsions were being treated largely as a passing dispute.
 
 # grapple
-/græpəl/ 
+**/græpəl/**
 When you wrestle with something — literally or figuratively — you grapple with it, or try to overcome it.
 ### Definition
 - v: come to terms with
@@ -68,7 +68,7 @@ When you wrestle with something — literally or figuratively — you grapple wi
 - Here, seven that offer everything from brisk efficiency tips to profound discussions that will help you grapple with life’s bigger questions.
 
 # fare
-/feəʳ/ 
+**/feəʳ/**
 It's not fair that fare means three unrelated things. As a verb, it means to proceed or get along, as in "Fare thee well." As a noun, it can refer to the cost of travel ("Train fare is ten dollars") or to food ("Tatertots are typical cafeteria fare").
 ### Definition
 - n: the sum charged for riding in a public conveyance
@@ -85,7 +85,7 @@ It's not fair that fare means three unrelated things. As a verb, it means to pro
 - “I expected the fare and change fees to end up around the cost of a whole new booking,” Mr. Ryan said.
 
 # complaint
-/kəmpleɪnt/ 
+**/kəmpleɪnt/**
 A complaint is an objection to something that is unfair, unacceptable, or otherwise not up to normal standards. If your neighbors have a complaint about noise, they want you to be more quiet.
 ### Definition
 - n: an expression of grievance or resentment
@@ -101,7 +101,7 @@ A complaint is an objection to something that is unfair, unacceptable, or otherw
 - O’Neill said that complaints about some elementary schools starting too late preceded the change in bell times.
 
 # cruise
-/kruːz/ 
+**/kruːz/**
 If your mom announces “We’re taking a cruise!” then pack your bags. A cruise is a vacation spent on a ship that sails the ocean, periodically stopping in ports for sightseeing.
 ### Definition
 - v: sail or travel about for pleasure, relaxation, or sightseeing
@@ -118,7 +118,7 @@ If your mom announces “We’re taking a cruise!” then pack your bags. A crui
 - The fine is the largest criminal penalty ever paid involving a deliberate dumping by a cruise ship, according to the U.S.
 
 # lament
-/ləment/ 
+**/ləment/**
 If you are really upset or sorry about something, you might lament it. A lament is full of regret and grief.
 ### Definition
 - n: a cry of sorrow and grief
@@ -137,7 +137,7 @@ If you are really upset or sorry about something, you might lament it. A lament 
 - Francis lamented that so many people in the world were left grieving because of terrorism.
 
 # spur
-/spɜːʳ/ 
+**/spɜːʳ/**
 To spur something on is to get it going, to encourage it, to hasten it or stimulate. Cowboys wear spiky metal tools called spurs on their boots to kick their horses and spur them to greater speed.
 ### Definition
 - n: a sharp prod fixed to a rider's heel and used to urge a horse onward
@@ -159,7 +159,7 @@ To spur something on is to get it going, to encourage it, to hasten it or stimul
 - In October of 1992, heavily armed military police stormed the penitentiary to quell a riot, spurring charges of indiscriminate killing by authorities.
 
 # spray
-/spreɪ/ 
+**/spreɪ/**
 A spray is a jet of small drops of water or liquid vapor. It describes the medicine you use to make your nose less dry or the air freshener you use to make your bathroom less smelly.
 ### Definition
 - n: water in small drops in the atmosphere; blown from waves or thrown up by a waterfall

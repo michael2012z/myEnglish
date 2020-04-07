@@ -1,5 +1,5 @@
 # tribunal
-/traɪbjuːnəl/ 
+**/traɪbjuːnəl/**
 A tribunal is like a court. If you've done something wrong and you get caught it's likely you'll be brought before a tribunal, although not all tribunals are there to determine guilt.
 ### Definition
 - n: an assembly (including one or more judges) to conduct judicial business
@@ -11,7 +11,7 @@ A tribunal is like a court. If you've done something wrong and you get caught it
 - “This case for me is not over simply because a new president of the tribunal was appointed,” he said.
 
 # prudence
-/pruːdəns/ 
+**/pruːdəns/**
 Use the noun prudence to describe sensible decisions about everyday life, like the prudence of people who spend their money wisely, saving as much as they can.
 ### Definition
 - n: discretion in practical affairs
@@ -43,7 +43,7 @@ Involuntary describes a reflex or action done without conscious control or will 
 - Charlotte-Mecklenburg Police said in a release that Parish Huntley was charged Tuesday with involuntary manslaughter and possession of a firearm by a convicted felon.
 
 # slender
-/slendəʳ/ 
+**/slendəʳ/**
 Something slender is slight, or skinny. A young colt is slender compared to the full grown horse it will grow into.
 ### Definition
 - adj: having little width in proportion to the length or height
@@ -60,7 +60,7 @@ Something slender is slight, or skinny. A young colt is slender compared to the 
 - “I miss school,” said the slender Abdul-Hameed as a nurse changed his bandages — minutes before he heard of his father’s death.
 
 # ascent
-/əsent/ 
+**/əsent/**
 If you are moving in an upward direction, that's an ascent, like your quick ascent from new group member last year to president this year.
 ### Definition
 - n: a movement upward
@@ -87,7 +87,7 @@ The noun altitude refers to how high something rises: “The high altitude of th
 - They herd llamas and goats on arid land, knit Andean hats for extra money and chew coca leaves to fight off the altitude’s dizzying effects.
 
 # sandy
-/sændi/ 
+**/sændi/**
 ### Definition
 - adj: resembling or containing or abounding in sand; or growing in sandy areas
 - adj: of hair color; pale yellowish to yellowish brown
@@ -103,7 +103,7 @@ The noun altitude refers to how high something rises: “The high altitude of th
 - “Retailers want the least amount of friction,” said Sandy Stein, a Twin Cities.-based retail consultant.
 
 # unpredictable
-/ʌnprɪdɪktəbəl/ 
+**/ʌnprɪdɪktəbəl/**
 When something's unpredictable, it doesn't happen at expected times or it can't be predicted. If trains were unpredictable, they wouldn't follow a set schedule and you'd never know when one would arrive.
 ### Definition
 - adj: unknown in advance
@@ -140,7 +140,7 @@ When something's unpredictable, it doesn't happen at expected times or it can't 
 - Navy’s 5th Fleet, based in Bahrain, rang unanswered Wednesday.
 
 # downfall
-/daʊnfɔːl/ 
+**/daʊnfɔːl/**
 A downfall is a sudden drop in status or strength. You might be winning at Monopoly until your opponents decide to team up against you, which leads to your downfall.
 ### Definition
 - n: a sudden decline in strength or number or importance

@@ -1,5 +1,5 @@
 # fiery
-/faɪəri/ 
+**/faɪəri/**
 When something is very hot or intense, it's fiery. That could mean a forest fire or a fiery temper.
 ### Definition
 - adj: like or suggestive of fire
@@ -18,7 +18,7 @@ When something is very hot or intense, it's fiery. That could mean a forest fire
 - People piled up red and white carnations outside the Moscow office of the Alexandrov Ensemble, popular across the world for its fiery performances.
 
 # crusade
-/kruːseɪd/ 
+**/kruːseɪd/**
 If you go on a crusade against vegetables, you are waging a long-term battle against leafy greens. A crusade is a passionate struggle against something or someone.
 ### Definition
 - n: a series of actions advancing a principle or tending toward a particular end
@@ -39,7 +39,7 @@ If you go on a crusade against vegetables, you are waging a long-term battle aga
 - The leader of the Campus Crusade for Christ, Bill Bright, offered to buy the film from Universal in order to destroy it.
 
 # subvert
-/səbvɜːʳt/ 
+**/səbvɜːʳt/**
 When you subvert something, your words or actions criticize or undermine the usual way of doing something or common values. The girl who wears a tuxedo to the prom might subvert traditional ideas about beauty.
 ### Definition
 - v: destroy completely
@@ -57,7 +57,7 @@ When you subvert something, your words or actions criticize or undermine the usu
 - What if he tries to subvert investigations of Russian hacking that are being conducted by our intelligence agencies and Congress?
 
 # devoid
-/dɪvɔɪd/ 
+**/dɪvɔɪd/**
 You're stranded in the ocean, miles from shore, clinging to a sinking boat, and you can't swim? Sorry to say, your situation is devoid of all hope.
 ### Definition
 - adj: completely wanting or lacking
@@ -69,7 +69,7 @@ You're stranded in the ocean, miles from shore, clinging to a sinking boat, and 
 - Trump’s was a campaign largely devoid of policy proposals, except for those of erasure and exclusion.
 
 # hatred
-/heɪtrɪd/ 
+**/heɪtrɪd/**
 The noun hatred means to feel a strong emotional dislike toward something or someone. You feel hatred of people who have done terrible things to you, or books about too-perfect teens.
 ### Definition
 - n: the emotion of intense dislike; a feeling of dislike so strong that it demands action
@@ -81,7 +81,7 @@ The noun hatred means to feel a strong emotional dislike toward something or som
 - So “populism” is now overwhelmingly used as a euphemism for a style of politics that plays on xenophobia and hatred of expertise.
 
 # mistress
-/mɪstrəs/ 
+**/mɪstrəs/**
 A mistress is a female master — she's the one in control. The wardrobe mistress is in charge of costumes for a theater. At some schools, the head of the school is called the headmaster or headmistress.
 ### Definition
 - n: an adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man
@@ -96,7 +96,7 @@ A mistress is a female master — she's the one in control. The wardrobe mistres
 - He was said to have had many mistresses but was secretive about his female companions.
 
 # pronunciation
-/prənʌnsieɪʃən/ 
+**/prənʌnsieɪʃən/**
 Pronunciation is the way you say a word or the way in which a language is usually spoken. Think accents, silent vowels, upside-down e's, and that sort of thing.
 ### Definition
 - n: the manner in which someone utters a word
@@ -116,7 +116,7 @@ Pronunciation is the way you say a word or the way in which a language is usuall
 - He checked the Oxford English Dictionary’s audio pronunciation guidance.
 
 # vernacular
-/vəʳnækjʊləʳ/ 
+**/vəʳnækjʊləʳ/**
 Vernacular describes everyday language, including slang, that's used by the people. The vernacular is different from literary or official language: it's the way people really talk with each other, like how families talk at home.
 ### Definition
 - n: the everyday speech of the people (as distinguished from literary language)
@@ -130,7 +130,7 @@ Vernacular describes everyday language, including slang, that's used by the peop
 - John Margolies, 76, May 26: A legendary photographer of vernacular architecture, his 1987 book Miniature Golf is a treasure of golf nostalgia.
 
 # frantic
-/fræntɪk/ 
+**/fræntɪk/**
 When a mother loses her child, she's frantic. She's a crazed sort of agitated and goes on a frantic search for her child. A scene is frantic if there's lots of action with little order.
 ### Definition
 - adj: marked by uncontrolled excitement or emotion

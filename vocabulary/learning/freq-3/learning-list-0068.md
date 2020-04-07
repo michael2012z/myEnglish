@@ -1,5 +1,5 @@
 # nurture
-/nɜːʳtʃəʳ/ 
+**/nɜːʳtʃəʳ/**
 If you plant a seed, water it daily and give it lots of light, you nurture it until it is ready to be transplanted outside. When you nurture a person or thing, you care for it and help it to grow.
 ### Definition
 - v: provide with nourishment
@@ -15,7 +15,7 @@ If you plant a seed, water it daily and give it lots of light, you nurture it un
 - “Ergo,” Mr. Heller wrote, “the lid is a nurturing apparatus.”
 
 # copious
-/koʊpiəs/ 
+**/koʊpiəs/**
 If you have a copious amount of something, you have a lot of it. If you take copious notes, you'll do well when it comes time for review sessions — unless you can't read your own handwriting.
 ### Definition
 - adj: large in number or quantity (especially of discourse)
@@ -39,7 +39,7 @@ Conducive means tending to cause or produce something. Regular exercise is condu
 - “We are trying to create a community that is conducive to the way people live their lives here,” Morkun said.
 
 # grievance
-/griːvəns/ 
+**/griːvəns/**
 A grievance is a complaint. It can be formal, as when an employee files a grievance because of unsafe working conditions, or more of an emotional matter, like a grievance against an old friend who betrayed you.
 ### Definition
 - n: a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action
@@ -66,7 +66,7 @@ Choose the adjective dubious for something you have doubts about or you suspect 
 - However, he’s looking to avoid a dubious distinction with one game remaining.
 
 # restrain
-/rɪstreɪn/ 
+**/rɪstreɪn/**
 Restrain means to hold yourself back, which is exactly what you'd have to do if, after weeks of dieting, you found yourself face to face with a dessert case filled with pies, cakes, and cookies.
 ### Definition
 - v: hold back
@@ -87,7 +87,7 @@ Restrain means to hold yourself back, which is exactly what you'd have to do if,
 - Bates said he mistook his handgun for a stun gun when he shot a restrained Harris during an illegal gun sales sting.
 
 # gaze
-/geɪz/ 
+**/geɪz/**
 When someone lays eyes on you and keeps looking, it is a gaze or a stare. You can gaze back or just say, "Take a picture; it lasts longer."
 ### Definition
 - n: a long fixed look
@@ -100,7 +100,7 @@ When someone lays eyes on you and keeps looking, it is a gaze or a stare. You ca
 - The mother is a singular star to her baby, whose gaze follows her around the room with the watchfulness of an obsessive fan.
 
 # electorate
-/ɪlektərət/ 
+**/ɪlektərət/**
 An electorate is a body of people allowed to vote in an election. In the United States, when you turn eighteen, you may join the electorate and help choose a president.
 ### Definition
 - n: the body of enfranchised citizens; those qualified to vote
@@ -122,7 +122,7 @@ An electorate is a body of people allowed to vote in an election. In the United 
 - There are myriad accounts of why large segments of the electorate in many developed democracies are rebelling against the status quo.
 
 # outset
-/aʊtset/ 
+**/aʊtset/**
 ### Definition
 - n: the time at which something is supposed to begin
 ### Family

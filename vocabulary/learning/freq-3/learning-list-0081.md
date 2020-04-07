@@ -1,5 +1,5 @@
 # accessory
-/æksesəri/ 
+**/æksesəri/**
 Whether we're talking about a fog light for your boat or just a nice hat to go with your boating outfit, an accessory is something you add to something else to make it better.
 ### Definition
 - n: a supplementary component that improves capability
@@ -15,7 +15,7 @@ Whether we're talking about a fog light for your boat or just a nice hat to go w
 - Lin, 29, grew up playing with airsoft guns and started a business selling gun accessories online after graduating from college.
 
 # unreliable
-/ʌnrɪlaɪəbəl/ 
+**/ʌnrɪlaɪəbəl/**
 Someone unreliable can't be trusted to do something. Things can be unreliable too, like a bike with a wobbly wheel.
 ### Definition
 - adj: not worthy of reliance or trust
@@ -35,7 +35,7 @@ Someone unreliable can't be trusted to do something. Things can be unreliable to
 - In an email, he characterized the data in the report as “grossly inaccurate” and its conclusions “completely unreliable.”
 
 # litre
-/liːtəʳ/ 
+**/liːtəʳ/**
 ### Definition
 - n: a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)
 ### Family
@@ -46,7 +46,7 @@ Someone unreliable can't be trusted to do something. Things can be unreliable to
 - In effect, this extra 200 litres of jet fuel is there to add some flexibility to our start-up and shutdown process.
 
 # brigade
-/brɪgeɪd/ 
+**/brɪgeɪd/**
 A brigade is a unit of the army. A bunch of brigades make up a division, while brigades are divided into battalions and regiments.
 ### Definition
 - n: army unit smaller than a division
@@ -59,7 +59,7 @@ A brigade is a unit of the army. A bunch of brigades make up a division, while b
 - London Fire Brigade said it rescued six people from a first floor flat above the pub in Acton High Street.
 
 # counsellor
-/kaʊnsələʳ/ 
+**/kaʊnsələʳ/**
 ### Definition
 - n: someone who gives advice about problems
 - n: a lawyer who pleads cases in court
@@ -76,7 +76,7 @@ A brigade is a unit of the army. A bunch of brigades make up a division, while b
 - Despite being overwhelmed at the prospect of exposure, Andy did eventually see his GP, who referred him to a counsellor.
 
 # manipulate
-/mənɪpjʊleɪt/ 
+**/mənɪpjʊleɪt/**
 To manipulate something means to handle it skillfully, like the way a sculptor manipulates clay or a really good politician works a crowd.
 ### Definition
 - v: influence or control shrewdly or deviously
@@ -97,7 +97,7 @@ To manipulate something means to handle it skillfully, like the way a sculptor m
 - “They wanted a pro-American government, and Chiang Kai-shek was easier to manipulate than the Communists.”
 
 # quantum
-/kwɒntəm/ 
+**/kwɒntəm/**
 While quantum refers to a general quantity or size, it is most often used in physics as a measure of the smallest amount of something — usually energy — that something can possess. The plural form is quanta.
 ### Definition
 - n: (physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory)
@@ -112,7 +112,7 @@ While quantum refers to a general quantity or size, it is most often used in phy
 - His specialties included quantum electrodynamics, which describes the interactions of matter and light, and quantum chromodynamics, a study of the behavior of subatomic particles.
 
 # apprentice
-/əprentɪs/ 
+**/əprentɪs/**
 An apprentice is someone who learns a trade. An apprentice farmer is paid very little but has the chance to learn farming by watching and doing.
 ### Definition
 - n: someone who works for an expert to learn a trade
@@ -126,7 +126,7 @@ An apprentice is someone who learns a trade. An apprentice farmer is paid very l
 - Trump's 11-year stint on "The Apprentice" and sister show "Celebrity Apprentice" catapulted him from New York businessman to a household name.
 
 # civic
-/sɪvɪk/ 
+**/sɪvɪk/**
 If something is related to or benefits an individual citizen, it can be described as civic. People often say that it is your civic duty to vote.
 ### Definition
 - adj: of or relating or belonging to a city
@@ -139,7 +139,7 @@ If something is related to or benefits an individual citizen, it can be describe
 - I’m hopeful that 2017 will see the flickering resurgence of outdoor civic spaces blossom into something more profound and lasting.
 
 # geometric
-/dʒiːəmetrɪk/ 
+**/dʒiːəmetrɪk/**
 ### Definition
 - adj: characterized by simple geometric forms in design and decoration
 - adj: of or relating to or determined by geometry

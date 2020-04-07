@@ -1,5 +1,5 @@
 # chronicle
-/krɒnɪkəl/ 
+**/krɒnɪkəl/**
 To chronicle an event is to record it as it happens, and a chronicle is a record of those events. If your grandmother took the time to chronicle the details of her 1910 journey to Japan, you can read her chronicle today.
 ### Definition
 - n: a record or narrative description of past events
@@ -13,7 +13,7 @@ To chronicle an event is to record it as it happens, and a chronicle is a record
 - “I call it ‘truck-itis,’” said Mr. Spell, the former automotive editor for The Houston Chronicle.
 
 # egalitarian
-/ɪgælɪteəriən/ 
+**/ɪgælɪteəriən/**
 An egalitarian is a person who believes in the equality of all people, and an egalitarian society gives everyone equal rights.
 ### Definition
 - adj: favoring social equality
@@ -27,7 +27,7 @@ An egalitarian is a person who believes in the equality of all people, and an eg
 - Because these are mass-market commodities, such material prosperity is a leveling, egalitarian force.
 
 # wrought
-/rɔːt/ 
+**/rɔːt/**
 Wrought is an adjective that means "molded," "shaped," or "manufactured." A wrought-iron fence has been shaped to fit a particular ornamental style.
 ### Definition
 - adj: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)
@@ -39,7 +39,7 @@ Wrought is an adjective that means "molded," "shaped," or "manufactured." A wrou
 - Baird’s exquisitely wrought and meticulously researched biography brushes the dusty myth off this extraordinary monarch.
 
 # recur
-/rɪkɜːʳ/ 
+**/rɪkɜːʳ/**
 Have you ever had the same crazy dream night after night? If so, you know that dreams can recur, meaning they repeat, or happen again.
 ### Definition
 - v: happen or occur again
@@ -56,7 +56,7 @@ Have you ever had the same crazy dream night after night? If so, you know that d
 - Pictorial elements may be soft or hard, recurring or singular, outlined or not.
 
 # strife
-/straɪf/ 
+**/straɪf/**
 Strife is the act or state of fighting or arguing violently. The years leading up to the U.S. Civil War were characterized by great strife between northern and southern states over slavery and the role of a federal government.
 ### Definition
 - n: bitter conflict; heated often violent dissension
@@ -69,7 +69,7 @@ Strife is the act or state of fighting or arguing violently. The years leading u
 - “You want the strife of humankind to finally cease?” she raps.
 
 # deviate
-/diːvieɪt/ 
+**/diːvieɪt/**
 If something turns off course or is diverted, it deviates from the expected or the norm. Deviating from explicit recipe directions is never a good idea, unless you want inedible food or a kitchen fire.
 ### Definition
 - v: turn aside; turn away from
@@ -91,7 +91,7 @@ If something turns off course or is diverted, it deviates from the expected or t
 - The overall performance of the line didn’t deviate much from the 10 games it played with Robinson.
 
 # glorious
-/glɔːriəs/ 
+**/glɔːriəs/**
 When something is fabulous and wonderful it can be described as glorious, like the glorious sight of the first flowers in your yard after a long, cold winter.
 ### Definition
 - adj: having or deserving or conferring glory
@@ -109,7 +109,7 @@ When something is fabulous and wonderful it can be described as glorious, like t
 - On one glorious evening years later, we were celebrating her birthday at Sardi’s in New York, with 25 people at least.
 
 # heyday
-/heɪdeɪ/ 
+**/heɪdeɪ/**
 A heyday is a peak of popularity or success. If you hear someone say "Hey! Back in the day, I was the best boxer in the city! No one could beat me!" he might be remembering his heyday as a fighter.
 ### Definition
 - n: the period of greatest prosperity or productivity
@@ -121,7 +121,7 @@ A heyday is a peak of popularity or success. If you hear someone say "Hey! Back 
 - “Because these landscapes are not that old, people remember them during their heyday,” Mr. Birnbaum said.
 
 # concomitant
-/kənkɒmɪtənt/ 
+**/kənkɒmɪtənt/**
 Concomitant means accompanying. If you run into someone that you have a crush on you might feel nervousness with a concomitant forgetfulness.
 ### Definition
 - adj: following or accompanying as a consequence
@@ -135,7 +135,7 @@ Concomitant means accompanying. If you run into someone that you have a crush on
 - Only big, highly profitable multinational corporations tend to get these kind of bespoke deals and the concomitant attention.
 
 # fury
-/fjʊəri/ 
+**/fjʊəri/**
 Violent, angry, and ferocious, fury is a feeling of wild, intense anger. Before you let your fury get the best of you, it's good to take a few deep breaths before you speak.
 ### Definition
 - n: the property of being wild or turbulent

@@ -1,5 +1,5 @@
 # crack
-/kræk/ 
+**/kræk/**
 A crack is a very narrow space, chink, or opening. If you favorite mug has a crack in it, it might leak.
 ### Definition
 - n: a narrow opening
@@ -52,7 +52,7 @@ If you are exiled from a place, you must leave and not return. Such punishment i
 - How Britain became a refuge for exiled leaders during World War II.
 
 # breach
-/briːtʃ/ 
+**/briːtʃ/**
 A breach is a violation of a law, duty, or promise. If you'd contracted to mow your neighbor's lawn and don't do it, he can sue you for breach of contract. Or he can mow the lawn himself.
 ### Definition
 - n: an opening (especially a gap in a dike or fortification)
@@ -68,7 +68,7 @@ A breach is a violation of a law, duty, or promise. If you'd contracted to mow y
 - So, resolved for 2017: Let us somehow find the determination of whales to breach it and rise above.
 
 # disclose
-/dɪskloʊz/ 
+**/dɪskloʊz/**
 Disclose means to reveal or expose information that has previously been kept a secret — like a politician might be forced to disclose his finances or former scandals while running for office.
 ### Definition
 - v: disclose to view as by removing a cover
@@ -83,7 +83,7 @@ Disclose means to reveal or expose information that has previously been kept a s
 - Implementing the Place of Last Drink program.The program requires that offenders disclose where they were served their last drink.
 
 # foe
-/foʊ/ 
+**/foʊ/**
 A foe is an enemy. Foes can range from an adversary of one person to that of a nation, from “he is my foe” to “they are my foe.” There is also a “that is my foe” who those who are trying to diet know well, aka chocolate.
 ### Definition
 - n: an armed adversary (especially a member of an opposing military force)
@@ -96,7 +96,7 @@ A foe is an enemy. Foes can range from an adversary of one person to that of a n
 - The Big Ten’s reluctance to move toward the spread was a boon for its Rose Bowl foes.
 
 # militant
-/mɪlɪtənt/ 
+**/mɪlɪtənt/**
 A militant is someone who is engaged in a war or who acts aggressively for their cause. If you are militant in your beliefs, you do not question them anymore than a soldier questions his orders.
 ### Definition
 - adj: engaged in war
@@ -111,7 +111,7 @@ A militant is someone who is engaged in a war or who acts aggressively for their
 - A booby-trapped drone launched by Islamic State militants killed two Kurdish Peshmerga fighters and wounded two French soldiers in October near Mosul.
 
 # temptation
-/tempteɪʃən/ 
+**/tempteɪʃən/**
 Temptation is something you want to have or to do, even though you know you shouldn't. That bag of peanut butter cups on top of your fridge might be an example of a temptation.
 ### Definition
 - n: the act of influencing by exciting hope or desire
@@ -146,7 +146,7 @@ If something is prejudicial towards a particular point of view, you can call it 
 - But as Republicans plan to reserve the first 100 days of Congress for their more partisan goals, Democrats are preparing roadblocks.
 
 # enzyme
-/enzaɪm/ 
+**/enzaɪm/**
 An important element in human chemistry, an enzyme is a protein manufactured by a cell, and is a catalyst in various biological functions. For example, enzymes help break down larger molecules of starch, fat, and protein during digestion.
 ### Definition
 - n: any of several complex proteins that are produced by cells and act as catalysts in specific biochemical reactions
@@ -159,7 +159,7 @@ An important element in human chemistry, an enzyme is a protein manufactured by 
 - Rubraca is part of an emerging class of drugs that blocks an enzyme that helps cells - including those affected by cancer - repair themselves.
 
 # erect
-/ɪrekt/ 
+**/ɪrekt/**
 Erect means "build" or "upright." If you erect a house, you build it. If you stand erect, you hold your body as tall as possible.
 ### Definition
 - adj: upright in position or posture

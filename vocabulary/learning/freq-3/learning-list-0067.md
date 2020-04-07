@@ -1,5 +1,5 @@
 # resolute
-/rezəluːt/ 
+**/rezəluːt/**
 Use the adjective resolute to describe a purposeful and determined person, someone who wants to do something very much, and won't let anything get in the way.
 ### Definition
 - adj: firm in purpose or belief; characterized by firmness and determination
@@ -13,7 +13,7 @@ Use the adjective resolute to describe a purposeful and determined person, someo
 - "He was resolute in ensuring that the euro would be a stable currency."
 
 # oath
-/oʊθ/ 
+**/oʊθ/**
 An oath is a promise. If you want to borrow your brother's car, you may have to swear a solemn oath that you will bring it back unharmed.
 ### Definition
 - n: a solemn promise, usually invoking a divine witness, regarding your future acts or behavior
@@ -27,7 +27,7 @@ An oath is a promise. If you want to borrow your brother's car, you may have to 
 - Former chancellor George Osborne hailed the idea as a "great initiative", and ex-culture secretary John Whittingdale also said he supported the oath.
 
 # flux
-/flʌks/ 
+**/flʌks/**
 The noun flux describes something that constantly changes. If your likes, dislikes, attitudes, dreams, and even friends are changing all the time, you may be in flux.
 ### Definition
 - n: constant change
@@ -51,7 +51,7 @@ The noun flux describes something that constantly changes. If your likes, dislik
 - “But the ocean is all about flux and turbulence and movement.”
 
 # fraudulent
-/frɔːdʒʊlənt/ 
+**/frɔːdʒʊlənt/**
 Something fraudulent is intentionally false and meant to harm or deceive. That email message from the Sultan of Brunei offering you millions of dollars just might be fraudulent.
 ### Definition
 - adj: intended to deceive
@@ -63,7 +63,7 @@ Something fraudulent is intentionally false and meant to harm or deceive. That e
 - So enough of this fraudulent talk of elites, metropolitan or otherwise.
 
 # imperialist
-/ɪmpɪəriəlɪst/ 
+**/ɪmpɪəriəlɪst/**
 ### Definition
 - adj: of or relating to imperialism
 - n: a believer in imperialism
@@ -78,7 +78,7 @@ Something fraudulent is intentionally false and meant to harm or deceive. That e
 - “We can never allow Cuba to become an imperialist colony again.”
 
 # reclaim
-/rɪkleɪm/ 
+**/rɪkleɪm/**
 To reclaim something is to get it back. If a divorced couple remarries, they reclaim their marriage.
 ### Definition
 - v: claim back
@@ -101,7 +101,7 @@ To reclaim something is to get it back. If a divorced couple remarries, they rec
 - The BNF keeps vigil over a riverbank that’s vibrant with life once again as Parisians reclaim the quays once monopolized by industry.
 
 # drought
-/draʊt/ 
+**/draʊt/**
 When there is a drought somewhere, there's not enough rainfall. In certain areas, a drought can last for weeks, months, sometimes even years! Forget about running your lawn sprinkler during a drought; the water is needed for drinking, bathing, and toilet flushing.
 ### Definition
 - n: a shortage of rainfall
@@ -114,7 +114,7 @@ When there is a drought somewhere, there's not enough rainfall. In certain areas
 - “There is no drought,” Donald Trump told Californians while campaigning there last May.
 
 # deficiency
-/dɪfɪʃənsi/ 
+**/dɪfɪʃənsi/**
 A deficiency is an insufficient amount of something. If you feel sluggish and tired all day, you might have an iron deficiency, meaning you aren't eating enough iron-rich foods.
 ### Definition
 - n: lack of an adequate quantity or number
@@ -128,7 +128,7 @@ A deficiency is an insufficient amount of something. If you feel sluggish and ti
 - “We often think of academic needs as being created by a deficiency, something that needs to be done,” she said.
 
 # tribal
-/traɪbəl/ 
+**/traɪbəl/**
 Tribal things have something to do with a group or tribe, like Native Americans' tribal land, where certain tribes lived for thousands of years.
 ### Definition
 - adj: relating to or characteristic of a tribe
@@ -144,7 +144,7 @@ Tribal things have something to do with a group or tribe, like Native Americans'
 - Among the 4,000 sites are fishing and hunting processing areas, ancestral village areas and tribal corridors.
 
 # paranoid
-/pærənɔɪd/ 
+**/pærənɔɪd/**
 Someone who is paranoid has an irrational and obsessive distrust of others, like your paranoid friend who worries that everyone from the principal to the neighborhood pre-schoolers are out to get him.
 ### Definition
 - adj: suffering from paranoia

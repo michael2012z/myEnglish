@@ -1,5 +1,5 @@
 # arthritis
-/ɑːʳθraɪtɪs/ 
+**/ɑːʳθraɪtɪs/**
 Arthritis is a painful condition in which your joints swell and stiffen. It is common in older people, although it can affect anyone, including athletes who've injured knees, ankles, and hips.
 ### Definition
 - n: inflammation of a joint or joints
@@ -11,7 +11,7 @@ Arthritis is a painful condition in which your joints swell and stiffen. It is c
 - In 2013, stricken with arthritis, Ms. Thompson quit her job as a janitor.
 
 # anecdotal
-/ænɪkdoʊtəl/ 
+**/ænɪkdoʊtəl/**
 Something anecdotal has to do with anecdotes — little stories. Anecdotal evidence is based on hearsay rather than hard facts.
 ### Definition
 - adj: having the character of an anecdote
@@ -27,7 +27,7 @@ Something anecdotal has to do with anecdotes — little stories. Anecdotal evide
 - But that information would need lots of interpretive work to produce anything more than anecdotal curiosities.
 
 # dash
-/dæʃ/ 
+**/dæʃ/**
 When you dash, you run a short distance very quickly. If you forget your lunch in the morning, you might try to dash home, grab it, and dash back to school.
 ### Definition
 - v: run or move very quickly or hastily
@@ -52,7 +52,7 @@ When you dash, you run a short distance very quickly. If you forget your lunch i
 - Ambulances with wailing sirens dashed from the battlefield to field hospitals elsewhere in the city.
 
 # compassionate
-/kəmpæʃənət/ 
+**/kəmpæʃənət/**
 If you are compassionate, you feel other people's pain and struggles as though they were your own. Compassionate people are often moved to work to end the suffering of others, perhaps by feeding the hungry or educating the poor.
 ### Definition
 - adj: showing or having compassion
@@ -67,7 +67,7 @@ If you are compassionate, you feel other people's pain and struggles as though t
 - One urged for a more compassionate treatment of Mr. Michael, whose struggle with fame continued until his death.
 
 # anatomy
-/ənætəmi/ 
+**/ənætəmi/**
 If you're studying anatomy you're studying animals’ bodies and you're probably dissecting them, too. You might study the anatomy of a pig to see how it relates to human anatomy. You’ll find that only one of them has a snout.
 ### Definition
 - n: the branch of morphology that deals with the structure of animals
@@ -85,7 +85,7 @@ If you're studying anatomy you're studying animals’ bodies and you're probably
 - “Like most high school girls, I watch ‘Grey’s Anatomy,'” she said with a smile.
 
 # digestive
-/daɪdʒestɪv/ 
+**/daɪdʒestɪv/**
 ### Definition
 - n: any substance that promotes digestion
 - adj: relating to or having the power to cause or promote digestion
@@ -106,7 +106,7 @@ If you're studying anatomy you're studying animals’ bodies and you're probably
 - Duodenoscopes are threaded down a person’s throat to diagnose and treat digestive tract problems such as gallstones, cancers and bile-duct blockages.
 
 # abundance
-/əbʌndəns/ 
+**/əbʌndəns/**
 To have an abundance of something is to have more than you need. It's often used to describe positive qualities, such as "an abundance of love."
 ### Definition
 - n: the property of a more than adequate quantity or supply
@@ -125,7 +125,7 @@ To have an abundance of something is to have more than you need. It's often used
 - “There’s an abundance of natural gas in the Rockies,” David Lawler, chief executive of BP’s Lower 48 division, said in an interview.
 
 # incipient
-/ɪnsɪpiənt/ 
+**/ɪnsɪpiənt/**
 Incipient means something is in an early stage of existence. In its incipient form, basketball was played with a soccer ball and peach baskets for goals. Bouncy orange balls and nets came later.
 ### Definition
 - adj: only partly in existence; imperfectly formed
@@ -139,7 +139,7 @@ Incipient means something is in an early stage of existence. In its incipient fo
 - There were jokes about bedtimes and rambunctious boys and even one teenager who tried out her incipient wiles on Uncle Bobby.
 
 # porch
-/pɔːʳtʃ/ 
+**/pɔːʳtʃ/**
 ### Definition
 - n: a structure attached to the exterior of a building often forming a covered entrance
 ### Family
@@ -150,7 +150,7 @@ Incipient means something is in an early stage of existence. In its incipient fo
 - The two spent an afternoon nursing the babies together on the porch.
 
 # cotton
-/kɒtən/ 
+**/kɒtən/**
 Cotton is a plant that grows the soft, fluffy fibers that are used to make the fabric also known as cotton. Cotton grows best in very warm climates.
 ### Definition
 - n: erect bushy mallow plant or small tree bearing bolls containing seeds with many long hairy fibers

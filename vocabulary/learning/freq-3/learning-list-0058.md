@@ -1,5 +1,5 @@
 # tolerant
-/tɒlərənt/ 
+**/tɒlərənt/**
 If you're tolerant it means that you accept people who are unlike you or put up with stuff you don't like. If you let your roommate play the same awful '80s mix over and over and don't say anything, you're probably a very tolerant person.
 ### Definition
 - adj: showing or characterized by broad-mindedness
@@ -17,7 +17,7 @@ If you're tolerant it means that you accept people who are unlike you or put up 
 - Professor Smith joined campaigns for civil rights in the 1960s and for a more tolerant understanding of Islam in the 2000s.
 
 # preach
-/priːtʃ/ 
+**/priːtʃ/**
 To preach is to deliver a sermon or an otherwise powerful message. You may go to church to hear the minister preach, and you may preach tolerance to your friends.
 ### Definition
 - v: deliver a sermon
@@ -33,7 +33,7 @@ To preach is to deliver a sermon or an otherwise powerful message. You may go to
 - The Rev. Lynn Jostes will preach on “Fearing, Hoping, Trusting,” and the sacraments of Communion and Baptism will be celebrated.
 
 # devout
-/dɪvaʊt/ 
+**/dɪvaʊt/**
 To be devout is to be deeply devoted to one's religion or to another belief, cause, or way of life. If you're reading this, you're probably a devout believer in improving your vocabulary.
 ### Definition
 - adj: deeply religious
@@ -47,7 +47,7 @@ To be devout is to be deeply devoted to one's religion or to another belief, cau
 - These days, some devout Christians do visit North Korea but they do so understanding that they keep their Christianity to themselves.
 
 # recapture
-/riːkæptʃəʳ/ 
+**/riːkæptʃəʳ/**
 To recapture something is to get it back or catch it again. If you were the zookeeper at a very disorganized zoo, one of your jobs might be to recapture runaway baby pandas.
 ### Definition
 - n: the act of taking something back
@@ -66,7 +66,7 @@ To recapture something is to get it back or catch it again. If you were the zook
 - The strikes appeared to be the first Russian support for a Turkish-backed rebel offensive aimed at recapturing the last IS stronghold in Aleppo province.
 
 # sect
-/sekt/ 
+**/sekt/**
 A sect is a religious group that exists inside of a larger religion. Think of it as a section of a particular religion.
 ### Definition
 - n: a subdivision of a larger religious group
@@ -85,7 +85,7 @@ A sect is a religious group that exists inside of a larger religion. Think of it
 - The Assad regime, which represents the minority Alawite sect, is unlikely ever to reestablish control over all of Syria, even with Russian and Iranian help.
 
 # epic
-/epɪk/ 
+**/epɪk/**
 An epic is a long poem or other work of art celebrating heroic feats. After you sail around the world for seven years, fighting corruption and planting vegetable gardens, some poet will surely write the epic of your adventures.
 ### Definition
 - n: a long narrative poem telling of a hero's deeds
@@ -99,7 +99,7 @@ An epic is a long poem or other work of art celebrating heroic feats. After you 
 - Their epic pursuit of the perfect card requires years of scouting, months of planning and hours of driving.
 
 # lodge
-/lɒdʒ/ 
+**/lɒdʒ/**
 A lodge is an inn where travelers stay overnight. If you’re in need of a night’s sleep while traveling an out of the way country road, you’re more likely to find yourself at a lodge than a fancy or chain hotel.
 ### Definition
 - n: a small (rustic) house used as a temporary shelter
@@ -132,7 +132,7 @@ A lodge is an inn where travelers stay overnight. If you’re in need of a night
 - This is not absurd fanfic, it is just another night at the Royal Lodge in Windsor.
 
 # revolve
-/rɪvɒlv/ 
+**/rɪvɒlv/**
 When something revolves, it turns on an axis or in an orbit around something else. People who love you probably think the world revolves around you (but really, the earth revolves around the sun).
 ### Definition
 - v: turn on or around an axis or a center
@@ -147,7 +147,7 @@ When something revolves, it turns on an axis or in an orbit around something els
 - The most obvious revolves around hitting and being hit.
 
 # dislocation
-/dɪsləkeɪʃən/ 
+**/dɪsləkeɪʃən/**
 ### Definition
 - n: an event that results in a displacement or discontinuity
 - n: the act of disrupting an established order so it fails to continue
@@ -169,7 +169,7 @@ When something revolves, it turns on an axis or in an orbit around something els
 - “This is a horrendous time in the world for refugees because of the tremendous dislocations in our world because of regional conflicts,” the bishop said.
 
 # apt
-/æpt/ 
+**/æpt/**
 Something apt is perfectly appropriate, clever and well-suited to the matter at hand. A "Cinderella story" might be an apt metaphor for an underdog team that makes it to the championships.
 ### Definition
 - adj: being of striking appropriateness and pertinence

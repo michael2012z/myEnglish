@@ -1,5 +1,5 @@
 # textile
-/tekstaɪl/ 
+**/tekstaɪl/**
 A textile is something made by knitting, weaving, or crocheting fibers together. Textiles are fabrics. Unless you’re naked or wearing only a fig leaf, you’re wearing a textile right now!
 ### Definition
 - n: artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers
@@ -12,7 +12,7 @@ A textile is something made by knitting, weaving, or crocheting fibers together.
 - A beautifully illustrated meditation on two of the 19th century’s greatest exponents of textile arts, Mariano Fortuny and William Morris.
 
 # triumph
-/traɪʌmf/ 
+**/traɪʌmf/**
 A triumph is a well-earned victory. It'll make you pump your fist and yell "Hurrah!"
 ### Definition
 - n: a successful ending of a struggle or contest
@@ -31,7 +31,7 @@ A triumph is a well-earned victory. It'll make you pump your fist and yell "Hurr
 - The summer brought triumph after triumph for the U.S.
 
 # swept
-/swept/ 
+**/swept/**
 ### Definition
 - adj: possessing sweep
 ### Family
@@ -44,7 +44,7 @@ A triumph is a well-earned victory. It'll make you pump your fist and yell "Hurr
 
 
 # ruthless
-/ruːθləs/ 
+**/ruːθləs/**
 Ruthless means showing no mercy or compassion. If you really want to cut down on the clutter in your apartment, you can't be sentimental about keepsakes. You have to be ruthless and throw out everything that's not absolutely essential.
 ### Definition
 - adj: without mercy or pity
@@ -58,7 +58,7 @@ Ruthless means showing no mercy or compassion. If you really want to cut down on
 - "This was another chapter in the silent and ruthless war of drug trafficking," he said.
 
 # torture
-/tɔːʳtʃəʳ/ 
+**/tɔːʳtʃəʳ/**
 To torture is to torment or purposefully put someone through intense pain or agony.
 ### Definition
 - n: the deliberate, systematic, or wanton infliction of physical or mental suffering by one or more persons in an attempt to force another person to yield information or to make a confession or for any other reason
@@ -81,7 +81,7 @@ To torture is to torment or purposefully put someone through intense pain or ago
 - This regular season finale provided fresh torture for a franchise that hasn’t found consistent success in a quarter century.
 
 # lesbian
-/lezbiən/ 
+**/lezbiən/**
 A lesbian is a woman who is attracted to other women. Two married women are in a lesbian relationship.
 ### Definition
 - adj: of or relating to or characterized by homosexual relations between woman
@@ -101,7 +101,7 @@ A lesbian is a woman who is attracted to other women. Two married women are in a
 - After his homophobic outburst, he appeared at an event organised by the Gay and Lesbian Alliance Against Defamation.
 
 # coercion
-/koʊɜːʳʃən/ 
+**/koʊɜːʳʃən/**
 Coercion is making something happen by force, like when bullies use coercion to make kids give them their lunch money.
 ### Definition
 - n: using force to cause something to occur
@@ -117,7 +117,7 @@ Coercion is making something happen by force, like when bullies use coercion to 
 - Ms Choi is currently in custody, facing charges of coercion and abuse of power.
 
 # incapable
-/ɪnkeɪpəbəl/ 
+**/ɪnkeɪpəbəl/**
 When — even when you want to go to your friends' party — you're incapable of telling your mother you are going to miss her birthday dinner, it means you just can't do it, and that you're a good person. Incapable means "unable."
 ### Definition
 - adj: (followed by `of') lacking capacity or ability
@@ -135,7 +135,7 @@ When — even when you want to go to your friends' party — you're incapable of
 - The credibility of worthy institutions is at stake when they are totally incapable of addressing their founding principles.
 
 # rubber
-/rʌbəʳ/ 
+**/rʌbəʳ/**
 Rubber is the material that's used to make things like bouncy balls, rain boots, and car tires. Most rubber comes partly from rubber trees.
 ### Definition
 - n: an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products

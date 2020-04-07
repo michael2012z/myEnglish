@@ -10,7 +10,7 @@ A long hallway, especially one that has rooms opening up into it, is called a co
 - The city says Metro Public Works finished a project earlier this month to re-time 550 signals along 18 major pikes and corridors.
 
 # precaution
-/prɪkɔːʃən/ 
+**/prɪkɔːʃən/**
 A precaution is a careful action you make in advance. You might want to take the precaution of bringing lots of water and sunblock if you're going on a desert hike.
 ### Definition
 - n: a precautionary measure warding off impending danger or damage or injury etc.
@@ -28,7 +28,7 @@ A precaution is a careful action you make in advance. You might want to take the
 - Play was not interrupted on the field during Sunday’s game, but eight rows of fans below the banner were cleared as a precaution.
 
 # cohort
-/koʊhɔːʳt/ 
+**/koʊhɔːʳt/**
 A cohort is a group of people who are around the same age, like a cohort of college students who have similar experiences and concerns.
 ### Definition
 - n: a band of warriors (originally a unit of a Roman Legion)
@@ -42,7 +42,7 @@ A cohort is a group of people who are around the same age, like a cohort of coll
 - While a bit more than a third of the oldest Latino cohort support the GOP, only 17 percent of Latinos  overall identify as Republican.
 
 # secular
-/sekjʊləʳ/ 
+**/sekjʊləʳ/**
 Secular things are not religious. Anything not affiliated with a church or faith can be called secular.
 ### Definition
 - n: someone who is not a clergyman or a professional person
@@ -64,7 +64,7 @@ Secular things are not religious. Anything not affiliated with a church or faith
 - When you’re working in a more secular space, do you think the message should be delivered differently cause you’re not hitting just believers?
 
 # fin
-/fɪn/ 
+**/fɪn/**
 A fin is the part of a fish's body that protrudes into the water and helps it balance and move in various directions. Sharks use their dorsal fins to stabilize their bodies as they propel through the water.
 ### Definition
 - n: organ of locomotion and balance in fishes and some other aquatic animals
@@ -84,7 +84,7 @@ A fin is the part of a fish's body that protrudes into the water and helps it ba
 - Striped bass are good on Spoiler Shads, Pirk Minnows, and Red Fins in the lower end of the lake.
 
 # repressive
-/rɪpresɪv/ 
+**/rɪpresɪv/**
 Repressive things keep people from doing or saying what they want. Repressive controls on the press don't allow journalists to freely report the news.
 ### Definition
 - adj: restrictive of action
@@ -101,7 +101,7 @@ Repressive things keep people from doing or saying what they want. Repressive co
 - The true danger of human nature is to idealize anything that’s already happened, be it the repressive 1950s or fancy-free Clinton era.
 
 # ubiquitous
-/juːbɪkwɪtəs/ 
+**/juːbɪkwɪtəs/**
 It's everywhere! It's everywhere! When something seems like it's present in all places at the same time, reach for the adjective ubiquitous.
 ### Definition
 - adj: being present everywhere at once
@@ -114,7 +114,7 @@ It's everywhere! It's everywhere! When something seems like it's present in all 
 - Once this technology is commonplace and driverless cars are ubiquitous, those numbers will shrink to a tiny fraction of what they are today.
 
 # pit
-/pɪt/ 
+**/pɪt/**
 A pit is a hole in the ground, like the one in Poe’s “The Pit and the Pendulum” that the narrator tries not to fall into. A pit can also be smaller indentation. There’s also a pit hiding inside a peach.
 ### Definition
 - n: a sizeable hole (usually in the ground)
@@ -140,7 +140,7 @@ A pit is a hole in the ground, like the one in Poe’s “The Pit and the Pendul
 - Their showdown pits the Tigers’ mostly aerial attack against a Buckeyes offense that dominates with a punishing ground game and the run-pass option.
 
 # conceal
-/kənsiːl/ 
+**/kənsiːl/**
 When you conceal something, you are keeping it from being discovered: “To avoid another argument with his cousins, Jonathan worked hard to conceal his disappointment at the outcome of the race.”
 ### Definition
 - v: prevent from being seen or discovered
@@ -157,7 +157,7 @@ When you conceal something, you are keeping it from being discovered: “To avoi
 - A bill allowing for the carrying of concealed weapons on school grounds was expected to return.
 
 # indiscriminate
-/ɪndɪskrɪmɪnət/ 
+**/ɪndɪskrɪmɪnət/**
 Nuclear bombs are indiscriminate, as are earthquakes. They affect everyone in their path rather than picking or choosing. When something is indiscriminate, it makes no fine distinctions.
 ### Definition
 - adj: failing to make or recognize distinctions

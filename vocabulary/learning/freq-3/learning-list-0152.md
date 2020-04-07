@@ -29,7 +29,7 @@ Communal and community both come from Latin communis "common, of the community"�
 - The majority of the shots featured in his project are of single hoops in people's backyards or rural communal areas.
 
 # inadequacy
-/ɪnædɪkwəsi/ 
+**/ɪnædɪkwəsi/**
 An inadequacy is something that is not enough. If you get a bad grade, it may reveal an inadequacy in your approach to studying.
 ### Definition
 - n: a lack of competence
@@ -46,7 +46,7 @@ An inadequacy is something that is not enough. If you get a bad grade, it may re
 - After limited changes to the country’s judiciary were passed by parliament in 2015, the justice minister, Hristo Ivanov, resigned in protest over their inadequacy.
 
 # anguish
-/æŋgwɪʃ/ 
+**/æŋgwɪʃ/**
 The noun anguish refers to severe physical or emotional pain or distress. A trip to the dentist might cause a cavity-prone person a lot of anguish.
 ### Definition
 - n: extreme distress of body or mind
@@ -62,7 +62,7 @@ The noun anguish refers to severe physical or emotional pain or distress. A trip
 - What binds the scenes together is Rodrigues, bearing witness and—so he hopes and prays—sharing in the anguish of his flock.
 
 # garment
-/gɑːʳmənt/ 
+**/gɑːʳmənt/**
 A garment is a piece of clothing. The area of New York City where clothes are manufactured is known as the Garment District.
 ### Definition
 - n: an article of clothing
@@ -94,7 +94,7 @@ Tertiary is another way of saying "third in importance," like socializing with c
 - Tertiary Colors: Yellow-orange, red-orange, red-purple, blue-purple, blue-green and yellow-green.
 
 # dilute
-/daɪluːt/ 
+**/daɪluːt/**
 When you dilute something, you make it thinner, weaker, or more watered down. If you put lots of ice cubes in your soda, the ice will melt and dilute the drink.
 ### Definition
 - v: lessen the strength or flavor of a solution or mixture
@@ -111,7 +111,7 @@ When you dilute something, you make it thinner, weaker, or more watered down. If
 - Eight other samples were diluted with coffee granules or contained more salt than is physiologically possible in a healthy human.
 
 # penetrate
-/penɪtreɪt/ 
+**/penɪtreɪt/**
 To penetrate is to force into or pierce through. If the fog is thick as pea soup, your flashlight won’t penetrate it. If you stubbornly ignore good advice, people might say nothing can penetrate that thick skull of yours.
 ### Definition
 - v: pass into or through, often by overcoming resistance
@@ -138,7 +138,7 @@ To penetrate is to force into or pierce through. If the fog is thick as pea soup
 - “Their success is that they have penetrated their agenda, that they have become an issue for the West. And this is exactly what happened.”
 
 # utter
-/ʌtəʳ/ 
+**/ʌtəʳ/**
 The adjective utter is often used as an intensifier to mean "total" — often with negative connotations (like "utter failure"). As a verb, the word has a totally unrelated meaning: to speak or to articulate a sound.
 ### Definition
 - adj: without qualification; used informally as (often pejorative) intensifiers
@@ -160,7 +160,7 @@ The adjective utter is often used as an intensifier to mean "total" — often wi
 - David Bowie and Prince were fed up with our national hissy fit, our utter lack of cool.
 
 # utterly
-/ʌtəʳli/ 
+**/ʌtəʳli/**
 Utterly is an intensifying word: something utterly delicious is very, very delicious.
 ### Definition
 - adv: completely and without qualification; used informally as intensifiers

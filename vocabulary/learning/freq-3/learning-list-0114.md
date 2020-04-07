@@ -1,5 +1,5 @@
 # myriad
-/mɪriəd/ 
+**/mɪriəd/**
 If you've got myriad problems it doesn't mean you should call a myriad exterminator, it means you've got countless problems; loads of them; too many to count. Welcome to the club.
 ### Definition
 - n: a large indefinite number
@@ -13,7 +13,7 @@ If you've got myriad problems it doesn't mean you should call a myriad extermina
 - It is very time consuming but tremendously rewarding in myriad ways.
 
 # whistle
-/hwɪsəl/ 
+**/hwɪsəl/**
 A whistle is a small wind instrument, and you probably know people who are good at whistling without an instrument. Trains have whistles, and the wind whistles too. The world is full of whistles.
 ### Definition
 - n: the sound made by something moving rapidly or by steam coming out of a small aperture
@@ -37,7 +37,7 @@ A whistle is a small wind instrument, and you probably know people who are good 
 - There were also several tussles after the whistle, with multiple officials pulling Beckham and Norman aside separately to caution them against further fisticuffs.
 
 # inflexible
-/ɪnfleksɪbəl/ 
+**/ɪnfleksɪbəl/**
 Something inflexible does not bend easily. A stiff back can make you inflexible, or unable to fold over and touch your toes. A really busy schedule can make you inflexible or unable to bend or accommodate your plans for others.
 ### Definition
 - adj: resistant to being bent
@@ -57,7 +57,7 @@ Something inflexible does not bend easily. A stiff back can make you inflexible,
 - Although Trump still insists that he will secure the border, though, he is not inflexible about the exact method for doing so.
 
 # novelty
-/nɒvəlti/ 
+**/nɒvəlti/**
 Novelty is a newness or refreshing quality. Many college freshmen enjoy the novelty of living on their own — until it comes time to do that first load of laundry.
 ### Definition
 - n: originality by virtue of being refreshingly novel
@@ -72,7 +72,7 @@ Novelty is a newness or refreshing quality. Many college freshmen enjoy the nove
 - The Black Lips, Novelty Daughter, Lettuce and more pop and rock concerts.
 
 # majestic
-/mədʒestɪk/ 
+**/mədʒestɪk/**
 Majestic things display great dignity, befit a great ruler, or are simply far superior to everyday stuff. Compared with a peasant's hut, for instance, a king's palace is quite majestic.
 ### Definition
 - adj: having or displaying great dignity or nobility
@@ -87,7 +87,7 @@ Majestic things display great dignity, befit a great ruler, or are simply far su
 - When people experience awe—looking up at a majestic sequoia, for example—they become more altruistic and cooperative.
 
 # obsessive
-/əbsesɪv/ 
+**/əbsesɪv/**
 If you rush to the carwash every time a speck of dust lands on your fender, your friends probably describe you as obsessive about keeping your car clean. In other words, you care way too much about your car's cleanliness.
 ### Definition
 - adj: characterized by or constituting an obsession
@@ -103,7 +103,7 @@ If you rush to the carwash every time a speck of dust lands on your fender, your
 - Some people think I’m obsessive, and I suppose I am.
 
 # unravel
-/ʌnrævəl/ 
+**/ʌnrævəl/**
 However tempting, don't pull that straggly thread hanging from your sleeve. You'll just unravel, or totally undo, your hand-knitted sweater.
 ### Definition
 - v: become or cause to become undone by separating the fibers or threads of
@@ -122,7 +122,7 @@ However tempting, don't pull that straggly thread hanging from your sleeve. You'
 - It will be fun watching it all unravel — particularly the single 10-mile-long hair strand.
 
 # exponent
-/ɪkspoʊnənt/ 
+**/ɪkspoʊnənt/**
 An exponent is a person who is a big promoter of something. Are you an exponent of the four-day school and work week?
 ### Definition
 - n: a mathematical notation indicating the number of times a quantity is multiplied by itself
@@ -137,7 +137,7 @@ An exponent is a person who is a big promoter of something. Are you an exponent 
 - The Dooky Chase restaurant evolved to be one of the city’s foremost exponents of Creole cooking, as well as an informal gallery for black artists.
 
 # metaphysical
-/metəfɪzɪkəl/ 
+**/metəfɪzɪkəl/**
 Add the Greek prefix "meta-" (beyond) to the base "physical" (nature), and you get metaphysical — a near synonym to the Latin-based word "supernatural." Both concern phenomena that are outside everyday experience or knowledge.
 ### Definition
 - adj: pertaining to or of the nature of metaphysics
@@ -152,7 +152,7 @@ Add the Greek prefix "meta-" (beyond) to the base "physical" (nature), and you g
 - He imbued clusters of vases and bottles with metaphysical heft.
 
 # drunken
-/drʌŋkən/ 
+**/drʌŋkən/**
 ### Definition
 - adj: given to or marked by the consumption of alcohol
 ### Family

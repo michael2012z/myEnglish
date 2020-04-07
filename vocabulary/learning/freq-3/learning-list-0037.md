@@ -1,5 +1,5 @@
 # pretext
-/priːtekst/ 
+**/priːtekst/**
 Pretext is a false reason given for doing something. If you catch your mother going through your drawers, and she says she was just tidying up, cleaning was her pretext for snooping.
 ### Definition
 - n: something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason
@@ -12,7 +12,7 @@ Pretext is a false reason given for doing something. If you catch your mother go
 - Observers say the president’s initiative was the pretext for a series of pro-Catholic organisations – sponsored by big-money backers – to mobilise.
 
 # resemblance
-/rɪzembləns/ 
+**/rɪzembləns/**
 A resemblance is a similarity in appearance. Children usually have a strong resemblance to their biological parents.
 ### Definition
 - n: similarity in appearance or external or superficial details
@@ -25,7 +25,7 @@ A resemblance is a similarity in appearance. Children usually have a strong rese
 - It bears a remarkable resemblance to Mr. Trump.
 
 # constituent
-/kənstɪtʃuənt/ 
+**/kənstɪtʃuənt/**
 Constituent means part of a whole, as in "we'll break this down into its constituent parts." The word comes up often in political contexts: constituents are the people politicians have been elected to represent.
 ### Definition
 - n: an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system
@@ -52,7 +52,7 @@ Constituent means part of a whole, as in "we'll break this down into its constit
 - Unfortunately, Republican Party leaders are sending cues of doubt and denial to their constituents.
 
 # injunction
-/ɪndʒʌŋkʃən/ 
+**/ɪndʒʌŋkʃən/**
 If your school begins building a swimming pool on land that does not belong to it, the city might issue an injunction to stop it. An injunction is an official order issued by a judge.
 ### Definition
 - n: (law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity
@@ -83,7 +83,7 @@ Graft can mean bribery or corruption. It's also a way of transplanting skin or b
 - The graft marks are visible on his legs as well as surgical scars.
 
 # indulge
-/ɪndʌldʒ/ 
+**/ɪndʌldʒ/**
 Indulge is a verb that means "to give in to something," like when you indulge your craving for chocolate by eating a big piece of it.
 ### Definition
 - v: yield (to); give satisfaction to
@@ -100,7 +100,7 @@ Indulge is a verb that means "to give in to something," like when you indulge yo
 - The only person who suffers financially if you indulge in “loafing” – a workplace vice that Taylor saw as theft – is you.
 
 # pessimism
-/pesɪmɪzəm/ 
+**/pesɪmɪzəm/**
 Pessimism means thinking the worst. It's the opposite of optimism, which means assuming the best. Most people feel that too much pessimism is paralyzing — who will ever try anything if they are always sure they will fail?
 ### Definition
 - n: a general disposition to look on the dark side and to expect the worst in all things
@@ -115,7 +115,7 @@ Pessimism means thinking the worst. It's the opposite of optimism, which means a
 - This is why unwarranted pessimism about our future is actually irresponsible.
 
 # upheaval
-/ʌphiːvəl/ 
+**/ʌphiːvəl/**
 Upheaval means a violent or sudden change. You might talk about an upheaval in government following an election where many incumbents are replaced.
 ### Definition
 - n: a violent disturbance
@@ -143,7 +143,7 @@ Tuition is a fee paid for instruction or teaching, usually for higher education.
 - It’s not just about tuition, fees, room and board.
 
 # midst
-/mɪdst/ 
+**/mɪdst/**
 Midst describes something that's among, in the middle of, or surrounded by. After the school talent show, your principal said he didn't know there were so many gifted singers in our midst.
 ### Definition
 - n: the location of something surrounded by other things

@@ -1,5 +1,5 @@
 # ponder
-/pɒndəʳ/ 
+**/pɒndəʳ/**
 "Once upon a midnight dreary, while I pondered, weak and weary" is the first line of Edgar Allen Poe's poem The Raven. Many a deep thinker has repeated it while musing. But if you've given up deep thinking, you may say instead, "Nevermore."
 ### Definition
 - v: reflect deeply on a subject
@@ -15,7 +15,7 @@
 - So let’s look at one of the questions FDA asked the panel to ponder:
 
 # constrain
-/kənstreɪn/ 
+**/kənstreɪn/**
 To constrain is to hold back, restrain, or confine. If you've ever had to constrain a toddler in the middle of a temper tantrum, you know you have to watch out for flailing limbs.
 ### Definition
 - v: hold back
@@ -30,7 +30,7 @@ To constrain is to hold back, restrain, or confine. If you've ever had to constr
 - But it’s not practical to constrain your sightseeing to just a few hours a day.
 
 # ebb
-/eb/ 
+**/eb/**
 When something ebbs, it is declining, falling, or flowing away. The best time to look for sea creatures in tidal pools is when the tide is on the ebb — meaning it has receded from the shore.
 ### Definition
 - n: the outward flow of the tide
@@ -47,7 +47,7 @@ When something ebbs, it is declining, falling, or flowing away. The best time to
 - Political capital ebbs with each day beyond Jan. 20.
 
 # lethal
-/liːθəl/ 
+**/liːθəl/**
 Lethal refers to anything dangerous enough to cause death. The cobra's venom is so lethal that if you get bitten and can't find the antidote, it's lights out forever.
 ### Definition
 - adj: of an instrument of certain death
@@ -59,7 +59,7 @@ Lethal refers to anything dangerous enough to cause death. The cobra's venom is 
 - The launchers are outfitted with bright, safety-orange stocks and barrels and labeled with “less lethal” lettering.
 
 # stricken
-/strɪkən/ 
+**/strɪkən/**
 Stricken means "overwhelmed by emotion." When you saw the pretty new girl at school smiling at you, you were so stricken you walked right into a wall.
 ### Definition
 - adj: grievously affected especially by disease
@@ -77,7 +77,7 @@ Stricken means "overwhelmed by emotion." When you saw the pretty new girl at sch
 - In 2013, stricken with arthritis, Ms. Thompson quit her job as a janitor.
 
 # villa
-/vɪlə/ 
+**/vɪlə/**
 If you don't want to sound like a snob, don't describe your family's house in the country as a villa. A villa is a fancy vacation home.
 ### Definition
 - n: country house in ancient Rome consisting of residential quarters and farm buildings around a courtyard
@@ -98,7 +98,7 @@ If you don't want to sound like a snob, don't describe your family's house in th
 - The biggest capitulation for a Christmas leader was from Aston Villa in 1998-99, when they dropped from first to sixth.
 
 # aerial
-/eəriəl/ 
+**/eəriəl/**
 Things that are aerial are happening in the air: birds, planes, and missiles are all aerial things.
 ### Definition
 - adj: existing or living or growing or operating in the air
@@ -114,7 +114,7 @@ Things that are aerial are happening in the air: birds, planes, and missiles are
 - She was a college student and aerial dancer now, with an apartment in Chicago’s West Humboldt Park neighborhood.
 
 # fame
-/feɪm/ 
+**/feɪm/**
 Fame is what you have if you're a celebrity: a lot of people know who you are. A musician's fame might mean she wears sunglasses and a baseball cap to disguise herself when she's in public.
 ### Definition
 - n: the state or quality of being widely honored and acclaimed
@@ -131,7 +131,7 @@ Fame is what you have if you're a celebrity: a lot of people know who you are. A
 - Conrad, 30, rose to fame in the reality TV show Laguna Beach: The Real Orange County and subsequently got her own spinoff show, The Hills.
 
 # colony
-/kɒləni/ 
+**/kɒləni/**
 A colony is a group of people who settle in a new place but keep ties to their homeland. The people who founded the United States first came to America to live as part of a British colony.
 ### Definition
 - n: a group of organisms of the same type living or growing together
@@ -156,7 +156,7 @@ A colony is a group of people who settle in a new place but keep ties to their h
 - And a sign proclaiming the District the “Last Colony.”
 
 # undermine
-/ʌndəʳmaɪn/ 
+**/ʌndəʳmaɪn/**
 To undermine literally means to dig a hole underneath something, making it likely to collapse. But we more often use the word to describe sabotage or the act of weakening someone else's efforts.
 ### Definition
 - v: destroy property or hinder normal operations

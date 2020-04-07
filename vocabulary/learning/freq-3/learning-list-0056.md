@@ -1,5 +1,5 @@
 # pragmatic
-/prægmætɪk/ 
+**/prægmætɪk/**
 To describe a person or a solution that takes a realistic approach, consider the adjective pragmatic. The four-year-old who wants a unicorn for her birthday isn't being very pragmatic.
 ### Definition
 - adj: concerned with practical matters
@@ -16,7 +16,7 @@ To describe a person or a solution that takes a realistic approach, consider the
 - It’s hard to imagine a more pragmatic way to help kids thrive than by keeping red ink off the menu.
 
 # sticky
-/stɪki/ 
+**/stɪki/**
 ### Definition
 - adj: having the sticky properties of an adhesive
 - adj: covered with an adhesive material
@@ -54,7 +54,7 @@ Puppies are the offspring, or children, of a mamma dog. You're the offspring of 
 - This in turn affects the timing of offspring hatching and their chances of survival.
 
 # cumulative
-/kjuːmjʊlətɪv/ 
+**/kjuːmjʊlətɪv/**
 The adjective cumulative describes the total amount of something when it's all added together. Eating a single chocolate doughnut is fine, but the cumulative effect of eating them all day is that you'll probably feel sick.
 ### Definition
 - adj: increasing by successive addition
@@ -70,7 +70,7 @@ The adjective cumulative describes the total amount of something when it's all a
 - But Mr. Netanyahu is also a focus of international ire because of the cumulative effect of decades of settlement growth.
 
 # humid
-/hjuːmɪd/ 
+**/hjuːmɪd/**
 When there is a lot of moisture in the air, it is humid out. The air in a rain forest is humid, the air in a desert is dry.
 ### Definition
 - adj: containing or characterized by a great deal of water vapor
@@ -83,7 +83,7 @@ When there is a lot of moisture in the air, it is humid out. The air in a rain f
 - One critic says that the more than 150 books on Dylan are “a library woozy with humid overstatement and baby boomer mythology.”
 
 # compliant
-/kəmplaɪənt/ 
+**/kəmplaɪənt/**
 If you are willing to submit to someone's request, then you are compliant. Parents like it when their teenagers are compliant and follow the rules. Teenagers, on the other hand, are probably not as compliant as parents would like to think!
 ### Definition
 - adj: disposed or willing to comply
@@ -98,7 +98,7 @@ If you are willing to submit to someone's request, then you are compliant. Paren
 - "All of our vehicles are compliant with applicable federal and state laws," a spokeswoman said.
 
 # intolerable
-/ɪntɒlərəbəl/ 
+**/ɪntɒlərəbəl/**
 If something is impossible to put up with, you can say it is intolerable. It would be intolerable if your neighbors played their terrible, loud music all night long.
 ### Definition
 - adj: incapable of being put up with
@@ -114,7 +114,7 @@ If something is impossible to put up with, you can say it is intolerable. It wou
 - “If I run, my family will suffer intolerable stress due to my electioneering,” Leung told reporters outside his government office Friday, according to Bloomberg News.
 
 # tenant
-/tenənt/ 
+**/tenənt/**
 A tenant is someone who lives in a place owned by someone else, usually paying rent. If you blast your music and let the cat pee in the corner, your landlord will not think that you're a very good tenant.
 ### Definition
 - n: someone who pays rent to use land or a building or a car that is owned by someone else
@@ -132,7 +132,7 @@ A tenant is someone who lives in a place owned by someone else, usually paying r
 - It aims to secure tenants, including community and cultural organizations, to renovate and use about 30 military buildings.
 
 # resistant
-/rɪzɪstənt/ 
+**/rɪzɪstənt/**
 Being resistant means to be immune or impervious to something. A vest that's resistant to bullets is bullet-proof.
 ### Definition
 - adj: disposed to or engaged in defiance of established authority

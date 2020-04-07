@@ -1,5 +1,5 @@
 # decree
-/dɪkriː/ 
+**/dɪkriː/**
 Look carefully! A decree isn't something you get when you graduate. That one little letter change makes it something else altogether: a legally binding command or the announcement of such a thing.
 ### Definition
 - n: a legally binding command or decision entered on the court record (as if issued by a court or judge)
@@ -13,7 +13,7 @@ Look carefully! A decree isn't something you get when you graduate. That one lit
 - Perhaps this is the wisdom of grandparents, who lived in areas where wine was consumed daily but the selection was meager and decreed by custom.
 
 # prevail
-/prɪveɪl/ 
+**/prɪveɪl/**
 Prevail means to successfully persuade someone of something. If you were a Presidential advisor and you convinced him to make a National Day of Pet Appreciation, then you prevailed upon him to recognize pets.
 ### Definition
 - v: be larger in number, quantity, power, status or importance
@@ -31,7 +31,7 @@ Prevail means to successfully persuade someone of something. If you were a Presi
 - We grew up hoping that good prevails over evil.
 
 # collateral
-/kəlætərəl/ 
+**/kəlætərəl/**
 It's what you promise to give someone if you don't repay a loan, like the car you put up as collateral when you take a loan out from the bank. As an adjective, collateral can refer to something indirect or off to the side, like collateral damage.
 ### Definition
 - adj: accompanying; concomitant
@@ -48,7 +48,7 @@ It's what you promise to give someone if you don't repay a loan, like the car yo
 - Even a bantamweight approach to the subject such as Collateral Beauty is walking on eggshells, trying to reassure audiences that it isn’t one big downer.
 
 # sworn
-/swɔːʳn/ 
+**/swɔːʳn/**
 ### Definition
 - adj: bound by or stated on oath
 - adj: bound by or as if by an oath
@@ -79,7 +79,7 @@ When you put in a lot of overtime hours at your job, you assume you'll be duly p
 - The Bank duly met the market's expectation in August.
 
 # havoc
-/hævək/ 
+**/hævək/**
 Havoc is a noun that means devastation or total mayhem. Havoc often wreaked by hurricanes, angry mobs, plundering Vikings, and wild parties that get out of control.
 ### Definition
 - n: violent and needless disturbance
@@ -91,7 +91,7 @@ Havoc is a noun that means devastation or total mayhem. Havoc often wreaked by h
 - This book concentrates on the role refined sugar plays in our diet, the weight gain that it engenders and the health havoc it wreaks.
 
 # plead
-/pliːd/ 
+**/pliːd/**
 To plead with someone is to try to convince them to see it your way. Your kids may plead with you to let them go on the super-huge outrageous roller coaster built in 1968, but you know better.
 ### Definition
 - v: appeal or request earnestly
@@ -108,7 +108,7 @@ To plead with someone is to try to convince them to see it your way. Your kids m
 - Obiang is expected to plead not guilty to charges of laundering the proceeds of corruption, embezzlement and misuse of public funds.
 
 # provoke
-/prəvoʊk/ 
+**/prəvoʊk/**
 Anything that brings about a strong reaction can be said to provoke. You can provoke that lion if you want. But if he responds by attacking, don't come running to me.
 ### Definition
 - v: provide the needed stimulus for
@@ -129,7 +129,7 @@ Anything that brings about a strong reaction can be said to provoke. You can pro
 - The essay was meant to provoke conservatives, and it succeeded.
 
 # deteriorate
-/dɪtɪəriəreɪt/ 
+**/dɪtɪəriəreɪt/**
 When something gets worse due to neglect or an unfortunate health problem, stuff starts to deteriorate — or fall apart.
 ### Definition
 - v: become worse or disintegrate
@@ -143,7 +143,7 @@ When something gets worse due to neglect or an unfortunate health problem, stuff
 - With her condition deteriorating, she was flown to a hospital in Texas in August.
 
 # strand
-/strænd/ 
+**/strænd/**
 A single hair, a noodle, even a line of thought — any of these things could be called a strand, a long thin length of something.
 ### Definition
 - n: line consisting of a complex of fibers or filaments that are twisted together to form a thread or a rope or a cable

@@ -1,5 +1,5 @@
 # accountant
-/əkaʊntənt/ 
+**/əkaʊntənt/**
 An accountant is a person whose job involves keeping financial records for a business. To be a great accountant, you've got to be good at math.
 ### Definition
 - n: someone who maintains and audits business accounts
@@ -31,7 +31,7 @@ Superiority is the quality of being better than or superior to someone else. You
 - Israeli Defense Minister Avigdor Lieberman says they “present another component in maintaining air superiority in our region” and expressed gratitude to Carter.
 
 # dissimilar
-/dɪsɪmɪləʳ/ 
+**/dɪsɪmɪləʳ/**
 If your sister has dark skin and dark hair, and you have fair skin and fair hair, people might say that your looks are dissimilar or not alike.
 ### Definition
 - adj: not similar
@@ -46,7 +46,7 @@ If your sister has dark skin and dark hair, and you have fair skin and fair hair
 - But Pence appears determined to try to convince his party that Trump is not all that dissimilar from him — and them.
 
 # predicament
-/prɪdɪkəmənt/ 
+**/prɪdɪkəmənt/**
 If you're engaged to get married but suddenly fall in love with someone else, you have gotten yourself into quite a predicament. A predicament is a difficult, confusing, and unpleasant situation.
 ### Definition
 - n: a situation from which extrication is difficult especially an unpleasant or trying one
@@ -58,7 +58,7 @@ If you're engaged to get married but suddenly fall in love with someone else, yo
 - Because, wherever we are in history, our predicament is constant: It is always Russia.
 
 # commentator
-/kɒmənteɪtəʳ/ 
+**/kɒmənteɪtəʳ/**
 A person who analyzes and discusses topics in politics and sports is called a commentator. If you want to hear opinions on the news rather than the news itself, listen to commentators.
 ### Definition
 - n: an expert who observes and comments on something
@@ -74,7 +74,7 @@ A person who analyzes and discusses topics in politics and sports is called a co
 - He still attended games, and bragged about the school on the NFL Network, where he is a color commentator.
 
 # obscurity
-/ɒbskjʊərɪti/ 
+**/ɒbskjʊərɪti/**
 One meaning of obscurity is nobody knowing who you are, and another definition is something that is hard to understand because it’s too complex or unclear.
 ### Definition
 - n: the state of being indistinct or indefinite for lack of adequate illumination
@@ -89,7 +89,7 @@ One meaning of obscurity is nobody knowing who you are, and another definition i
 - Winningest coach in Division I college basketball history who lifted the women’s game from obscurity to national prominence during her 38-year career at Tennessee.
 
 # affiliation
-/əfɪlieɪʃən/ 
+**/əfɪlieɪʃən/**
 An affiliation is an official connection to something. To have an affiliation to something is to be affiliated with it. The Tea Party pretty clearly has an affiliation with the Republican Party.
 ### Definition
 - n: the act of becoming formally connected or joined
@@ -104,7 +104,7 @@ An affiliation is an official connection to something. To have an affiliation to
 - He shrugged off Washington’s claims of their Russian affiliation.
 
 # sleeve
-/sliːv/ 
+**/sliːv/**
 ### Definition
 - n: the part of a garment that is attached at the armhole and that provides a cloth covering for the arm
 - n: small case into which an object fits
@@ -116,7 +116,7 @@ An affiliation is an official connection to something. To have an affiliation to
 - Both the bypass and sleeve operations, he added, “drive the body to want to eat less.”
 
 # potency
-/poʊtənsi/ 
+**/poʊtənsi/**
 Use the noun potency when you're talking about the strength of something. You could refer to the potency of a drug or the potency of a political leader.
 ### Definition
 - n: the power or right to give orders or make decisions
@@ -137,7 +137,7 @@ Use the noun potency when you're talking about the strength of something. You co
 - But I don’t know how anyone could credibly deny the potency of Jones’s burly, urging voice.
 
 # unhealthy
-/ʌnhelθi/ 
+**/ʌnhelθi/**
 ### Definition
 - adj: not in or exhibiting good health in body or mind
 - adj: not conducive to good health

@@ -1,5 +1,5 @@
 # congestion
-/kəndʒestʃən/ 
+**/kəndʒestʃən/**
 When a driver complains about congestion, she's talking about the cars that are backed up on the highway. When your sneezing friend complains about congestion, he's talking about his stuffed-up nose.
 ### Definition
 - n: excessive crowding
@@ -14,7 +14,7 @@ When a driver complains about congestion, she's talking about the cars that are 
 - It reduces road congestion, benefiting our environment and our quality of life.
 
 # cement
-/sɪment/ 
+**/sɪment/**
 Cement is a material that's used to build very strong, hard surfaces and structures. Cement is an ingredient in both mortar, which holds bricks together, and concrete, with which dams and roads and buildings are constructed.
 ### Definition
 - n: a building material that is a powder made of a mixture of calcined limestone and clay; used with water and sand or gravel to make concrete and mortar
@@ -33,7 +33,7 @@ Cement is a material that's used to build very strong, hard surfaces and structu
 - The victory cemented his reputation as highly dangerous if not a bit erratic.
 
 # maize
-/meɪz/ 
+**/meɪz/**
 Maize is another word for corn, the tall-growing grain that produces yellow kernels on long ears. A small farmer might grow several different types of maize.
 ### Definition
 - n: tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times
@@ -46,7 +46,7 @@ Maize is another word for corn, the tall-growing grain that produces yellow kern
 - We planted beans and maize, and that’s what we ate.
 
 # rampant
-/ræmpənt/ 
+**/ræmpənt/**
 Rampant means wild, out of control, to be up on your hind legs roaring at the world. You don't have to be four-legged: "The children ran rampant at the supermarket even though their mother tried to control them."
 ### Definition
 - adj: unrestrained and violent
@@ -63,7 +63,7 @@ Rampant means wild, out of control, to be up on your hind legs roaring at the wo
 - Militants ran protection rackets, and local government corruption was rampant.
 
 # siege
-/siːdʒ/ 
+**/siːdʒ/**
 Your city is under siege if it is surrounded on all sides by an opposing force on attack. Think of a castle surrounded by a legion of armed knights.
 ### Definition
 - n: the action of an armed force that surrounds a fortified place and isolates it while continuing to attack
@@ -75,7 +75,7 @@ Your city is under siege if it is surrounded on all sides by an opposing force o
 - The siege of eastern Aleppo became a symbol of the suffering and brutality of the Syrian war.
 
 # congenital
-/kəndʒenɪtəl/ 
+**/kəndʒenɪtəl/**
 Congenital refers to something present at birth but not necessarily inherited from the parents. Babies with heart disorders developed in utero can live long and productive lives, in spite of their congenital birth defect.
 ### Definition
 - adj: present at birth but not necessarily hereditary; acquired during fetal development
@@ -108,7 +108,7 @@ Someone who's nude isn't wearing any clothes. In modern society, we're generally
 - “I felt they were in good taste. I thought nudes were lovely.”
 
 # municipal
-/mjuːnɪsɪpəl/ 
+**/mjuːnɪsɪpəl/**
 A municipality refers to a village, town, or city that's usually governed by a mayor and council. From this noun, we get the adjective municipal, which you can use to describe something that relates to a town or its government.
 ### Definition
 - adj: relating or belonging to or characteristic of a municipality
@@ -122,7 +122,7 @@ A municipality refers to a village, town, or city that's usually governed by a m
 - The Beijing Municipal Environmental Protection Bureau on Monday extended an “orange alert” for heavy air pollution for three more days.
 
 # confinement
-/kənfaɪnmənt/ 
+**/kənfaɪnmənt/**
 If you're dealing with confinement to a jail cell, or your classroom, or the broom closet, you're stuck there and you can't leave. Confinement means you're being held and you can't move freely.
 ### Definition
 - n: the state of being confined
@@ -140,7 +140,7 @@ If you're dealing with confinement to a jail cell, or your classroom, or the bro
 - Mr. Lee was arrested again and sentenced to six weeks in confinement.
 
 # warmth
-/wɔːʳmθ/ 
+**/wɔːʳmθ/**
 ### Definition
 - n: the quality of having a moderate degree of heat
 - n: the sensation caused by heat energy

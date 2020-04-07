@@ -1,5 +1,5 @@
 # avert
-/əvɜːʳt/ 
+**/əvɜːʳt/**
 To avert is to turn away or to prevent. You might avert your gaze or avert a disaster — either way, you are avoiding something.
 ### Definition
 - v: turn away or aside
@@ -13,7 +13,7 @@ To avert is to turn away or to prevent. You might avert your gaze or avert a dis
 - We avert our eyes and pretend they are not there.
 
 # theft
-/θeft/ 
+**/θeft/**
 Theft is the act of stealing something. If you've ever taken your sister's sweater without asking her first, then she's right: that's an instance of theft!
 ### Definition
 - n: the act of taking something from someone unlawfully
@@ -25,7 +25,7 @@ Theft is the act of stealing something. If you've ever taken your sister's sweat
 - Paul Schmidt, chairman of the Balboa Park Christmas Committee, and the restoration artist discovered the theft on Thursday.
 
 # diminish
-/dɪmɪnɪʃ/ 
+**/dɪmɪnɪʃ/**
 Diminish means to make smaller or lesser. If you cover a lightbulb with a dark lamp shade, the light from the lamp will diminish.
 ### Definition
 - v: decrease in size, extent, or range
@@ -40,7 +40,7 @@ Diminish means to make smaller or lesser. If you cover a lightbulb with a dark l
 - Unlike shows in previous years, this one lacks any discernible theme, and some of the largest tech companies are expecting a diminished role.
 
 # treaty
-/triːti/ 
+**/triːti/**
 When a war ends, often two countries will sign a treaty, which is a contract where both sides agree to behave a certain way. Treaties are used for many reasons, like creating alliances or preventing nuclear weapons from being built.
 ### Definition
 - n: a written agreement between two states or sovereigns
@@ -53,7 +53,7 @@ When a war ends, often two countries will sign a treaty, which is a contract whe
 - Even when the U.S. ratifies treaties, the government often adds a caveat that excludes protection of some basic rights.
 
 # backlash
-/bæklæʃ/ 
+**/bæklæʃ/**
 When many people react against something in the same way, you can call it a backlash. A backlash against government policies can result in mass protests.
 ### Definition
 - n: a movement back from an impact
@@ -67,7 +67,7 @@ When many people react against something in the same way, you can call it a back
 - The Occupy movement was a backlash to the financial crisis.
 
 # suck
-/sʌk/ 
+**/sʌk/**
 To suck is to draw something by force. Vacuum cleaners suck dirt from the floor and milkshake drinkers suck this liquid, tasty liquid through a straw.
 ### Definition
 - v: draw into the mouth by creating a practical vacuum in the mouth
@@ -89,7 +89,7 @@ To suck is to draw something by force. Vacuum cleaners suck dirt from the floor 
 - The next day, Hively said in a phone interview Wednesday, an administrator reprimanded her for "sucking face" and admonished her for being unprofessional.
 
 # ammunition
-/æmjʊnɪʃən/ 
+**/æmjʊnɪʃən/**
 Soldiers carry their ammunition: the bullets and shells needed for their guns.
 ### Definition
 - n: projectiles to be fired from a gun
@@ -103,7 +103,7 @@ Soldiers carry their ammunition: the bullets and shells needed for their guns.
 - Police found pipes, timer units, ammunition and high grade explosives in the buildings.
 
 # mosque
-/mɒsk/ 
+**/mɒsk/**
 The mosque is the traditional Muslim place of worship. Architecturally, it often features a minaret, or onion-shaped dome, on top.
 ### Definition
 - n: (Islam) a Muslim place of worship that usually has a minaret
@@ -115,7 +115,7 @@ The mosque is the traditional Muslim place of worship. Architecturally, it often
 - In December, the Justice Department sued Culpeper County, alleging discrimination after the county denied a request for a permit to build a mosque there.
 
 # tolerate
-/tɒləreɪt/ 
+**/tɒləreɪt/**
 The verb tolerate means "to put up with or allow." You can tolerate your sister's love of Broadway musicals but really, you prefer dramas.
 ### Definition
 - v: put up with something or somebody unpleasant
@@ -134,7 +134,7 @@ The verb tolerate means "to put up with or allow." You can tolerate your sister'
 - It’s the opposite, it’s being in a place of searching and being able to tolerate that.”
 
 # anticipate
-/æntɪsɪpeɪt/ 
+**/æntɪsɪpeɪt/**
 To anticipate something is to be expecting it. Your dog might be waiting by the door, anticipating his next walk or squirrel chase.
 ### Definition
 - v: regard something as probable or likely

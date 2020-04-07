@@ -1,5 +1,5 @@
 # communion
-/kəmjuːnjən/ 
+**/kəmjuːnjən/**
 A communion is an intimate connection. Many people enjoy hiking in the woods in order to have a sort of communion with nature.
 ### Definition
 - n: sharing thoughts and feelings
@@ -18,7 +18,7 @@ A communion is an intimate connection. Many people enjoy hiking in the woods in 
 - Before Holy Communion commences, Pastor Diggs calls the youth forward to speak to them directly.
 
 # collision
-/kəlɪʒən/ 
+**/kəlɪʒən/**
 A collision is when two or more things smash together. You shouldn't give yourself a pedicure while driving because it might result in a collision, wrecking your car and spoiling your toenail polish to boot.
 ### Definition
 - n: an accident resulting from violent impact of a moving object
@@ -34,7 +34,7 @@ A collision is when two or more things smash together. You shouldn't give yourse
 - Spain's Catalonia region seems set on a new collision course with Madrid after a vow by its leader to hold an independence referendum in 2017.
 
 # bully
-/bʊli/ 
+**/bʊli/**
 You might still have terrifying dreams about the bully who harassed you on the playground in second grade. A bully is someone who intimidates people, usually those who are weaker or smaller.
 ### Definition
 - v: discourage or frighten with threats or a domineering manner; intimidate
@@ -51,7 +51,7 @@ You might still have terrifying dreams about the bully who harassed you on the p
 - There is a lot of journaling here, a lot of fighting the “thought bully.”
 
 # procurement
-/prəkjʊəʳmənt/ 
+**/prəkjʊəʳmənt/**
 Procurement is the act of getting something you need. Save it for when you need to sound serious, like if you're in the military.
 ### Definition
 - n: the act of getting possession of something
@@ -66,7 +66,7 @@ Procurement is the act of getting something you need. Save it for when you need 
 - It also aims to ease rules restricting defense procurement across borders, improve industry standards and adapt policies like the EU’s space program to security priorities.
 
 # tender
-/tendəʳ/ 
+**/tendəʳ/**
 If you're tender, it means you're fragile, sensitive, easily bruised or gentle. Young, easily cut beef and a sentimental heart can both be called tender.
 ### Definition
 - adj: easy to cut or chew
@@ -104,7 +104,7 @@ If you're tender, it means you're fragile, sensitive, easily bruised or gentle. 
 - This is a tender, moving tribute to a great author.
 
 # toxic
-/tɒksɪk/ 
+**/tɒksɪk/**
 Danger! Hazardous! Do not eat! These are just some of the warnings you'll see on toxic substances — meaning stuff that's poisonous and even deadly.
 ### Definition
 - adj: of or relating to or caused by a toxin or poison
@@ -119,7 +119,7 @@ Danger! Hazardous! Do not eat! These are just some of the warnings you'll see on
 - Environmentalists counter that the issue is crucial because stormwater is the largest source of toxic pollution in Puget Sound.
 
 # prejudice
-/predʒʊdɪs/ 
+**/predʒʊdɪs/**
 If you have a negative attitude towards someone based on race or ethnicity rather than personal experience, you might be accused of prejudice.
 ### Definition
 - n: a partiality that prevents objective consideration of an issue or situation
@@ -136,7 +136,7 @@ If you have a negative attitude towards someone based on race or ethnicity rathe
 - By creating interactions that encourage consumers to understand the objects that serve them as women, technologists abet the prejudice by which women are considered objects.
 
 # artefact
-/ɑːʳtɪfækt/ 
+**/ɑːʳtɪfækt/**
 ### Definition
 - n: a man-made object taken as a whole
 ### Family
@@ -147,7 +147,7 @@ If you have a negative attitude towards someone based on race or ethnicity rathe
 - Across the country state-sponsored vandals destroyed temples, mansions, city walls, scenic sites, paintings, calligraphy and other artefacts.
 
 # nitrogen
-/naɪtrədʒən/ 
+**/naɪtrədʒən/**
 ### Definition
 - n: a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues
 ### Family
@@ -160,7 +160,7 @@ If you have a negative attitude towards someone based on race or ethnicity rathe
 - Scientists say nitrogen and phosphorus carried down the Mississippi River stimulate plankton blooms in the Gulf.
 
 # disruptive
-/dɪsrʌptɪv/ 
+**/dɪsrʌptɪv/**
 Anything disruptive is loud, chaotic, and disorderly. Disruptive things disturb people and upset the applecart.
 ### Definition
 - adj: characterized by unrest or disorder or insubordination

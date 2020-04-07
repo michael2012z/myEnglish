@@ -1,5 +1,5 @@
 # burial
-/beriəl/ 
+**/beriəl/**
 A burial is the act of placing a dead person in a grave. It's a ritual of respect and closure. If your pet lizard dies, give him a proper burial by digging a little grave in your backyard.
 ### Definition
 - n: the ritual placing of a corpse in a grave
@@ -16,7 +16,7 @@ A burial is the act of placing a dead person in a grave. It's a ritual of respec
 - The new law does not apply to hospitals, certain researchers and cases of burial or cremation.
 
 # claimant
-/kleɪmənt/ 
+**/kleɪmənt/**
 ### Definition
 - n: someone who claims a benefit or right or title
 ### Family
@@ -34,7 +34,7 @@ A burial is the act of placing a dead person in a grave. It's a ritual of respec
 - It’s unclear if multiple cases were filed against the same claimants.
 
 # benign
-/bɪnaɪn/ 
+**/bɪnaɪn/**
 Someone or something that is benign is gentle, kind, mild, or unharmful: a benign soul wouldn't hurt a fly.
 ### Definition
 - adj: kind in disposition or manner
@@ -49,7 +49,7 @@ Someone or something that is benign is gentle, kind, mild, or unharmful: a benig
 - Even relatively benign neurological quirks – say, learning disabilities such as dyslexia – attract cynicism and suspicion.
 
 # scarf
-/skɑːʳf/ 
+**/skɑːʳf/**
 ### Definition
 - n: a garment worn around the head or neck or shoulders for warmth or decoration
 - v: wrap in or adorn with a scarf
@@ -63,7 +63,7 @@ Someone or something that is benign is gentle, kind, mild, or unharmful: a benig
 - Finally, the wax is melted away to reveal the scarf’s design.
 
 # allegiance
-/əliːdʒəns/ 
+**/əliːdʒəns/**
 Every second grader knows how to pledge allegiance to the flag, but do you think they realize when they place their right hand over their hearts that they're expressing loyalty to what we call the "Red, White, and Blue"?
 ### Definition
 - n: the act of binding yourself (intellectually or emotionally) to a course of action
@@ -91,7 +91,7 @@ The noun merchandise refers to things that can be bought or sold, like the merch
 - Now it’s playing with drop culture, which focuses on selling limited-edition merchandise and turns shopping for it into an obstacle course.
 
 # livestock
-/laɪvstɒk/ 
+**/laɪvstɒk/**
 The animals you find on a farm are collectively called livestock. Your herd of dairy goats are livestock, but your toy poodle is just a pet.
 ### Definition
 - n: any animals kept for use or profit
@@ -103,7 +103,7 @@ The animals you find on a farm are collectively called livestock. Your herd of d
 - Yet the president’s order allows locals who currently use the area to graze their livestock or extract minerals to keep their resource privileges.
 
 # treachery
-/tretʃəri/ 
+**/tretʃəri/**
 Treachery is trickery, cheating, and deceit, like the treachery of your former friend who only stuck around until he stole your girlfriend and turned the whole grade against you.
 ### Definition
 - n: an act of deliberate betrayal
@@ -117,7 +117,7 @@ Treachery is trickery, cheating, and deceit, like the treachery of your former f
 - Treachery on such an epic scale can bear many retellings, and this account stands out for its impressive detail and scope.
 
 # hut
-/hʌt/ 
+**/hʌt/**
 If you've ever camped under a wooden lean-to, you know what a hut is — it's a simple, usually temporary shelter that doesn't do much more than keep the rain off your head.
 ### Definition
 - n: small crude shelter used as a dwelling
@@ -130,7 +130,7 @@ If you've ever camped under a wooden lean-to, you know what a hut is — it's a 
 - The journey to the hut is as rich as the destination itself.
 
 # disparate
-/dɪspərət/ 
+**/dɪspərət/**
 The trunk of some people's cars may contain items as disparate as old clothes, rotting food, and possibly a missing relative. Disparate things are very different from each other.
 ### Definition
 - adj: fundamentally different or distinct in quality or kind

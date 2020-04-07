@@ -1,5 +1,5 @@
 # agony
-/ægəni/ 
+**/ægəni/**
 The noun agony means acute pain — either mental or physical, but people often use the word hyperbolically: "This paper cut is agony."
 ### Definition
 - n: intense feelings of suffering; acute mental or physical pain
@@ -20,7 +20,7 @@ The noun agony means acute pain — either mental or physical, but people often 
 - Despite being aimed at a young audience, A Monster Calls doesn’t soft-pedal the agony of grief.
 
 # paucity
-/pɔːsɪti/ 
+**/pɔːsɪti/**
 The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up!
 ### Definition
 - n: an insufficient quantity or number
@@ -32,7 +32,7 @@ The word paucity means not enough of something. If you've got a paucity of good 
 - But the paucity of prospective candidates younger than 70 reflects a problem for the Democrats.
 
 # prophecy
-/prɒfɪsi/ 
+**/prɒfɪsi/**
 If a fortune teller made a prophecy that you were going to become a billionaire in your lifetime, you'd be pretty excited. A prophecy is a prediction, or a magical look into the future.
 ### Definition
 - n: a prediction uttered under divine inspiration
@@ -48,7 +48,7 @@ If a fortune teller made a prophecy that you were going to become a billionaire 
 - He said that if some of the fires were started intentionally, it was most likely a “self-fulfilling prophecy” inspired by the media and by politicians.
 
 # cater
-/keɪtəʳ/ 
+**/keɪtəʳ/**
 To cater means to supply food for meetings or celebrations. If you're having a big barbecue party but would rather hang out with your friends than grill, you could pay someone to cater it.
 ### Definition
 - v: give what is desired or needed, especially support, food or sustenance
@@ -63,7 +63,7 @@ To cater means to supply food for meetings or celebrations. If you're having a b
 - They cater to bigotry and fear, which fly in the face of our country’s most precious values.
 
 # fringe
-/frɪndʒ/ 
+**/frɪndʒ/**
 If you make cutoffs from jeans, the little white strings around the edges of the legs make a fringe. A fringe is a decorative edge made of hanging strings of fabric.
 ### Definition
 - n: an ornamental border consisting of short lengths of hanging threads or tassels
@@ -82,7 +82,7 @@ If you make cutoffs from jeans, the little white strings around the edges of the
 - But the Harambe phenomenon was also too large to be totally owned by one fringe group.
 
 # urine
-/jʊərɪn/ 
+**/jʊərɪn/**
 ### Definition
 - n: liquid excretory product
 ### Family
@@ -95,7 +95,7 @@ If you make cutoffs from jeans, the little white strings around the edges of the
 - Authorities say Adams’ urine tested positive for methamphetamines, amphetamines, cannabinoids and opiates.
 
 # rotor
-/roʊtəʳ/ 
+**/roʊtəʳ/**
 ### Definition
 - n: rotating mechanism consisting of an assembly of rotating airfoils
 - n: the rotating armature of a motor or generator
@@ -110,7 +110,7 @@ If you make cutoffs from jeans, the little white strings around the edges of the
 
 
 # brisk
-/brɪsk/ 
+**/brɪsk/**
 Brisk is one of those delightful words that sounds like what it means: quick, lively, bracing, and refreshing. There's nothing like a brisk walk in the morning to get the blood flowing and the spirit ready for the day.
 ### Definition
 - adj: quick and energetic

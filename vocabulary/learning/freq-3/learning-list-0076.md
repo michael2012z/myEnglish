@@ -1,5 +1,5 @@
 # undercut
-/ʌndəʳkʌt/ 
+**/ʌndəʳkʌt/**
 ### Definition
 - v: cut away the underpart of
 - v: cut away material from the underside of (an object) so as to leave an overhanging portion in relief
@@ -22,7 +22,7 @@
 - Moreover, these racial quotas undercut the board’s purpose, which is to provide balanced and responsible oversight.
 
 # meditation
-/medɪteɪʃən/ 
+**/medɪteɪʃən/**
 A meditation is an extended period of thought or concentration. If you practice yoga and you often meditate, you know what meditation is. But any time you focus on one thing for a long time, it's an act of meditation.
 ### Definition
 - n: continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature
@@ -41,7 +41,7 @@ A meditation is an extended period of thought or concentration. If you practice 
 - The feature-length videos in the show, including meditations on Patty Hearst, the Manson family and the Weather Underground, are variously gory, tedious, compelling and amateurish.
 
 # parable
-/pærəbəl/ 
+**/pærəbəl/**
 A parable is a short and simple story that teaches a religious or moral lesson. The parable of the Good Samaritan and the parable of the Prodigal Son are just two examples of the many parables attributed to Jesus, as recorded in the four gospels.
 ### Definition
 - n: a short moral story (often with animal characters)
@@ -54,7 +54,7 @@ A parable is a short and simple story that teaches a religious or moral lesson. 
 - As Mrs. Miller, Davis steals the show in a seven-minute scene opposite Meryl Streep in this film adaptation of the Broadway play “Doubt: A Parable.”
 
 # fervour
-/fɜːʳvəʳ/ 
+**/fɜːʳvəʳ/**
 ### Definition
 - n: the state of being emotionally aroused and worked up
 - n: feelings of great warmth and intensity
@@ -66,7 +66,7 @@ A parable is a short and simple story that teaches a religious or moral lesson. 
 - Even in exile, many Syrians talk about food with the same pride, fervour and obsession with terroir as the French do.
 
 # monarchy
-/mɒnəʳki/ 
+**/mɒnəʳki/**
 A monarchy is a country that is ruled by a monarch, and monarchy is this system or form of government.
 ### Definition
 - n: an autocracy governed by a monarch who usually inherits the authority
@@ -82,7 +82,7 @@ A monarchy is a country that is ruled by a monarch, and monarchy is this system 
 - The mostly Sunni rebels include groups supported by Turkey, the United States and Gulf monarchies.
 
 # inconsistent
-/ɪnkənsɪstənt/ 
+**/ɪnkənsɪstənt/**
 Inconsistent describes something that's varied or irregular. So if you're supposed to floss every day, but you only remember every now and then, your commitment to oral hygiene could be called inconsistent.
 ### Definition
 - adj: displaying a lack of consistency
@@ -98,7 +98,7 @@ Inconsistent describes something that's varied or irregular. So if you're suppos
 - But nothing was found other than inconsistent driving logs.
 
 # objection
-/əbdʒekʃən/ 
+**/əbdʒekʃən/**
 An objection is a way of saying "No!" to something. People offer objections to things they oppose.
 ### Definition
 - n: the act of expressing earnest opposition or protest
@@ -135,7 +135,7 @@ Legislative is an adjective that describes the act or process of passing laws. C
 - Arguably more important than the legislative agenda for gun rights groups is Mr. Trump’s choice to fill the U.S.
 
 # peril
-/perɪl/ 
+**/perɪl/**
 If you realize mid-climb that your rock climbing rope is frayed, you might be in peril. The word peril means imminent danger to life and limb.
 ### Definition
 - n: a state of danger involving risk
@@ -152,7 +152,7 @@ If you realize mid-climb that your rock climbing rope is frayed, you might be in
 - This format imposes a crude narrative structure on the day’s events, with peril ultimately usurped by a happy, or at least whimsical, conclusion.
 
 # rubble
-/rʌbəl/ 
+**/rʌbəl/**
 The pile of crumbled debris that's left over after something breaks or collapses is rubble. Famous scenes of rubble include the fallen Twin Towers on September 11 and the remains of the Haitian capital after the 2010 earthquake.
 ### Definition
 - n: the remains of something that has been destroyed or broken up

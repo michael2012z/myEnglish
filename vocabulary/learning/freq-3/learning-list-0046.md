@@ -1,5 +1,5 @@
 # replicate
-/replɪkeɪt/ 
+**/replɪkeɪt/**
 Did you just figure out how to make that excellent pizza you had in Philadelphia? Then what you’ve done is replicate it, meaning you’ve been able to reproduce it.
 ### Definition
 - v: reproduce or make an exact copy of
@@ -15,7 +15,7 @@ Did you just figure out how to make that excellent pizza you had in Philadelphia
 - “I remember a time when Whoopi Goldberg was the lead actress in Hollywood, and I don’t see that replicated right now,” Spencer said.
 
 # depart
-/dɪpɑːʳt/ 
+**/dɪpɑːʳt/**
 To depart is to go away or to choose a different direction. If you are catching a plane, you are soon to depart. And, if you are wearing a kilt instead of jeans, you depart from your usual look.
 ### Definition
 - v: go away or leave
@@ -34,7 +34,7 @@ To depart is to go away or to choose a different direction. If you are catching 
 - After assessing the damage, airport authorities announce that departing flights will be delayed an average of four months, nearly twice as long as usual.
 
 # charismatic
-/kærɪzmætɪk/ 
+**/kærɪzmætɪk/**
 If all kinds of people are attracted to you, you are charismatic. Most great leaders in history have been charismatic, like John F. Kennedy and Ronald Reagan.
 ### Definition
 - adj: possessing an extraordinary ability to attract
@@ -47,7 +47,7 @@ If all kinds of people are attracted to you, you are charismatic. Most great lea
 - With Jet’s charismatic founder now sweating such details, Walmart’s attempt to catch up to Amazon should gather pace in 2017.
 
 # tyrant
-/taɪərənt/ 
+**/taɪərənt/**
 If you accuse your parents of being tyrants, you are saying they abuse their control of you––they are cruel, overly restrictive of your freedoms, and unfair. A tyrant is a ruler who is cruel and unjust.
 ### Definition
 - n: a cruel and oppressive dictator
@@ -95,7 +95,7 @@ An amateur is a person who does something for enjoyment, not money, like an amat
 - But as questions arise about the Iraqi military's treatment of detainees and the bodies of dead fighters, amateur images may become evidence.
 
 # outright
-/aʊtraɪt/ 
+**/aʊtraɪt/**
 If you do something outright, you do it in a wholehearted, unrestricted way. If you declare outright that you’re never eating another cupcake, that’s the end of that. If you eat one anyway, you told an outright lie.
 ### Definition
 - adv: without reservation or concealment
@@ -110,7 +110,7 @@ If you do something outright, you do it in a wholehearted, unrestricted way. If 
 - This serves as a cautionary tale for medical professionals, journalists, and laypeople alike to resist clinical indictments based on hearsay, if not outright imagination.
 
 # hay
-/heɪ/ 
+**/heɪ/**
 Hay is a type of dried grass that's fed to certain farm animals. You might buy bags of hay to feed your pet rabbit, who likes to nibble on it.
 ### Definition
 - n: grass mowed and cured for use as fodder
@@ -124,7 +124,7 @@ Hay is a type of dried grass that's fed to certain farm animals. You might buy b
 - The Briton said the shots were to prevent hay fever.
 
 # grazing
-/greɪzɪŋ/ 
+**/greɪzɪŋ/**
 ### Definition
 - n: the act of grazing
 - n: the act of brushing against while passing
@@ -138,7 +138,7 @@ Hay is a type of dried grass that's fed to certain farm animals. You might buy b
 - Another person told Martinez about a herd of deer grazing on the side of a road.
 
 # pond
-/pɒnd/ 
+**/pɒnd/**
 ### Definition
 - n: a small lake
 ### Family

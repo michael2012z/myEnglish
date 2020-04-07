@@ -1,5 +1,5 @@
 # donor
-/doʊnəʳ/ 
+**/doʊnəʳ/**
 A donor is a person who donates something of value to a person or an organization, especially a charity. A wealthy donor might leave her book collection to the local library in her will.
 ### Definition
 - n: person who makes a gift of property
@@ -25,7 +25,7 @@ The courts and the people who run them — particularly judges — make up the j
 - Council’s Judiciary Committee, said the proposal was unworkable and killed it.
 
 # precedent
-/presɪdənt/ 
+**/presɪdənt/**
 A precedent is something that sets a standard for future events. It's hard to say what the legal community would do without the word precedent, since so many legal judgments and decisions are based on what came before.
 ### Definition
 - n: an example that is used to justify similar occurrences at a later time
@@ -45,7 +45,7 @@ A precedent is something that sets a standard for future events. It's hard to sa
 - “District judges are the first to encounter novel issues, and they must resolve them without the aid of guiding precedent,” the chief justice wrote.
 
 # notwithstanding
-/nɒtwɪðstændɪŋ/ 
+**/nɒtwɪðstændɪŋ/**
 Notwithstanding means "in spite of something." Your boasts about having memorized the entire textbook and bribing the teacher with apples notwithstanding, you still managed to fail the final exam with flying colors.
 ### Definition
 - adv: despite anything to the contrary (usually following a concession)
@@ -57,7 +57,7 @@ Notwithstanding means "in spite of something." Your boasts about having memorize
 - The bigger problem is that, Tesla-lovers notwithstanding, few people want to buy electric cars.
 
 # illegitimate
-/ɪlɪdʒɪtɪmət/ 
+**/ɪlɪdʒɪtɪmət/**
 Something illegitimate is unlawful, or improper. If you're a doctor, even a great doctor, but you were never certified by the medical board, then you're an illegitimate doctor.
 ### Definition
 - adj: contrary to or forbidden by law
@@ -78,7 +78,7 @@ Something illegitimate is unlawful, or improper. If you're a doctor, even a grea
 - A showdown looms with the federal government, which considers the tribal council illegitimate.
 
 # aide
-/eɪd/ 
+**/eɪd/**
 Remember that aide with an "e" at the end is a noun. It refers to a person who helps or acts as an assistant, such as a nurse's aide or a presidential aide.
 ### Definition
 - n: someone who acts as assistant
@@ -91,7 +91,7 @@ Remember that aide with an "e" at the end is a noun. It refers to a person who h
 - Clinton aide John Podesta’s emails were also stolen and released publicly in the final weeks of the campaign.
 
 # staple
-/steɪpəl/ 
+**/steɪpəl/**
 Bread. Milk. Gasoline. Xboxes. What do these all have in common? They're all a staple of most people's consumption — basic products for which there will always be a demand.
 ### Definition
 - n: material suitable for manufacture or use or finishing
@@ -110,7 +110,7 @@ Bread. Milk. Gasoline. Xboxes. What do these all have in common? They're all a s
 - It wowed the Staples Center crowd and offered a glimpse of Ingram’s potential.
 
 # rein
-/reɪn/ 
+**/reɪn/**
 Rein is both a noun and a verb for guiding and restraining. You can use the long strap, or rein, on a horse to control its speed and direction, and you can rein in your own tongue by closing your mouth.
 ### Definition
 - n: one of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse
@@ -127,7 +127,7 @@ Rein is both a noun and a verb for guiding and restraining. You can use the long
 - As a child, I thought all this was possible, and when I started studying it, I reined in my expectations.
 
 # litter
-/lɪtəʳ/ 
+**/lɪtəʳ/**
 If everyone decided to litter, or drop trash on the ground, the world would be covered in garbage. Litter doesn't always have to be trashy though. When a cat has kittens, they are born as a litter.
 ### Definition
 - n: rubbish carelessly dropped or left about (especially in public places)
@@ -147,7 +147,7 @@ If everyone decided to litter, or drop trash on the ground, the world would be c
 - In 1993, the city beefed up security patrols in City Hall and other buildings to cut down on the litter.
 
 # mitigate
-/mɪtɪgeɪt/ 
+**/mɪtɪgeɪt/**
 Choose the verb mitigate when something lessens the unpleasantness of a situation. You can mitigate your parents' anger by telling them you were late to dinner because you were helping your elderly neighbor.
 ### Definition
 - v: lessen or to try to lessen the seriousness or extent of

@@ -1,5 +1,5 @@
 # crude
-/kruːd/ 
+**/kruːd/**
 Is it gross? Unsophisticated? Totally tasteless and positively offensive? Then you can describe it as crude.
 ### Definition
 - adj: belonging to an early stage of technical development; characterized by simplicity and (often) crudeness
@@ -19,7 +19,7 @@ Is it gross? Unsophisticated? Totally tasteless and positively offensive? Then y
 - This format imposes a crude narrative structure on the day’s events, with peril ultimately usurped by a happy, or at least whimsical, conclusion.
 
 # brutal
-/bruːtəl/ 
+**/bruːtəl/**
 Use brutal to describe something beastly and harsh, like training for a triathlon, a really cold winter in the Arctic, or a mean bouncer at a club who throws people out for no reason.
 ### Definition
 - adj: resembling a beast; showing lack of human sensibility
@@ -59,7 +59,7 @@ If your teacher orders you to detention every time you show up to class with a d
 - In a desperate attempt to not be authoritarian, you’ve become permissive.
 
 # steep
-/stiːp/ 
+**/stiːp/**
 Steep means sharply angled. When hiking trails lead straight up mountainsides, they've got a steep incline. Steep also means "to soak in," as in steeping a tea bag in boiling water.
 ### Definition
 - adj: having a sharp inclination
@@ -77,7 +77,7 @@ Steep means sharply angled. When hiking trails lead straight up mountainsides, t
 - State highway officials say the department plans to place new signs in the area warning of the steep hills.
 
 # rag
-/ræg/ 
+**/ræg/**
 A torn bit of old fabric is a rag. You might use a rag to dust the bookshelf or scrub the bathtub, but you wouldn't want to wear one.
 ### Definition
 - n: a small piece of cloth or paper
@@ -100,7 +100,7 @@ A torn bit of old fabric is a rag. You might use a rag to dust the bookshelf or 
 - Also on the bill is the lighter side of Graham, with her upbeat last work, “Maple Leaf Rag,” plus two Center for the Arts premieres.
 
 # toll
-/toʊl/ 
+**/toʊl/**
 A toll is a payment made for something. To drive on some highways, drivers have to pay a toll when they exit.
 ### Definition
 - n: a fee levied for the use of roads or bridges (used for maintenance)
@@ -117,7 +117,7 @@ A toll is a payment made for something. To drive on some highways, drivers have 
 - But Assembly Speaker Robin Vos and other Assembly Republicans argue everything, including tolling and tax and fee increases, should be considered.
 
 # massacre
-/mæsəkəʳ/ 
+**/mæsəkəʳ/**
 A massacre is a big bloody mess of killing, and usually for no good reason. Not that there’s ever a good reason for killing, but massacres are especially pointless and gory.
 ### Definition
 - n: the savage and excessive killing of many people
@@ -130,7 +130,7 @@ A massacre is a big bloody mess of killing, and usually for no good reason. Not 
 - Officials on Sunday called the nightclub attack a “massacre” and an act of terrorism.
 
 # riot
-/raɪət/ 
+**/raɪət/**
 A riot is a violent outburst by a crowd. When the principal didn't declare a snow day, even with five inches on the ground already, students rioted, gathering outside and throwing snowballs.
 ### Definition
 - n: a state of disorder involving group violence
@@ -150,7 +150,7 @@ A riot is a violent outburst by a crowd. When the principal didn't declare a sno
 - It was the deadliest prison riot in Brazil in years.
 
 # supreme
-/suːpriːm/ 
+**/suːpriːm/**
 If you are the greatest, the most powerful, and the highest, you are supreme.
 ### Definition
 - adj: greatest in status or authority or power
@@ -169,7 +169,7 @@ If you are the greatest, the most powerful, and the highest, you are supreme.
 - The Supreme Court is set to discuss the case Friday to determine whether it will hear the appeal.
 
 # sentiment
-/sentɪmənt/ 
+**/sentɪmənt/**
 Your opinion that most comedies are terrible and that you'd rather watch any other kind of movie could be described as your sentiment, or your attitude, about films.
 ### Definition
 - n: a personal belief or judgment that is not founded on proof or certainty

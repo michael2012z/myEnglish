@@ -1,5 +1,5 @@
 # substantive
-/səbstæntɪv/ 
+**/səbstæntɪv/**
 When you talk about substantive change, you mean change that really makes a difference. After a substantive discussion, you will have an in-depth understanding of what you are talking about.
 ### Definition
 - adj: having a firm basis in reality and being therefore important, meaningful, or considerable
@@ -15,7 +15,7 @@ When you talk about substantive change, you mean change that really makes a diff
 - What they largely evaded, though, was substantive exploration of the idea of healing.
 
 # potent
-/poʊtənt/ 
+**/poʊtənt/**
 Potent means really strong, but not like a body builder. Use potent instead to describe things like intense smells, powerful magic potions, and very influential people.
 ### Definition
 - adj: having or wielding force or authority
@@ -36,7 +36,7 @@ Potent means really strong, but not like a body builder. Use potent instead to d
 - The potent plant has been described as "green gold" for struggling farmers.
 
 # optic
-/ɒptɪk/ 
+**/ɒptɪk/**
 If you describe something as optic, it has something to do with eyes or vision. Your optic nerve, for example, sends information to your brain from your eyes.
 ### Definition
 - adj: of or relating to or resembling the eye
@@ -52,7 +52,7 @@ If you describe something as optic, it has something to do with eyes or vision. 
 - A native of Steilacoom, McCarthy was 10 when doctors found a brain tumor resting on her optic nerve.
 
 # sodium
-/soʊdiəm/ 
+**/soʊdiəm/**
 ### Definition
 - n: a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)
 ### Family
@@ -63,7 +63,7 @@ If you describe something as optic, it has something to do with eyes or vision. 
 - High sodium and fat content, which are associated with heart disease, may counteract some of the health benefits of the vegetable-rich quinoa bowls.
 
 # momentum
-/moʊmentəm/ 
+**/moʊmentəm/**
 Momentum is generally used to mean increasing forward motion. A boulder rolling down a hill gains momentum. So does a great idea, a team on a winning streak, or the economy.
 ### Definition
 - n: the product of a body's mass and its velocity
@@ -76,7 +76,7 @@ Momentum is generally used to mean increasing forward motion. A boulder rolling 
 - They surge into the postseason, and they feed off that momentum.
 
 # recreational
-/rekrieɪʃənəl/ 
+**/rekrieɪʃənəl/**
 Something is recreational if you do it just for fun. If you're not a professional golfer but love the game, it's recreational.
 ### Definition
 - adj: of or relating to recreation
@@ -101,7 +101,7 @@ Something is recreational if you do it just for fun. If you're not a professiona
 - The law also allows for legal action against drivers of snowmobiles or off-highway recreational vehicles that damage private property.
 
 # sovereignty
-/sɒvrɪnti/ 
+**/sɒvrɪnti/**
 Sovereignty can describe the power of one state or thing over another or the freedom a state or thing has to control itself.
 ### Definition
 - n: the authority of a state to govern another state
@@ -115,7 +115,7 @@ Sovereignty can describe the power of one state or thing over another or the fre
 - “Cuba will not abandon a single one of its principles ... not its independence and not its sovereignty,” she said.
 
 # garrison
-/gærɪsən/ 
+**/gærɪsən/**
 A garrison most often refers to a military outpost where troops are stationed to provide protection to an area. The word garrison is also used to refer to the troops stationed there.
 ### Definition
 - n: a fortified military post where troops are stationed
@@ -136,7 +136,7 @@ A garrison most often refers to a military outpost where troops are stationed to
 - Garrison officials at Fort Meade near Baltimore say in a statement that Army Command Sgt.
 
 # ambiguity
-/æmbɪgjuːɪti/ 
+**/æmbɪgjuːɪti/**
 Something with ambiguity is unclear. Think about the sentence, "Jill saw the man with binoculars." If you are wondering whether Jill or the man had the binoculars, you are noticing the ambiguity, or the double meaning, of this sentence.
 ### Definition
 - n: unclearness by virtue of having more than one meaning
@@ -151,7 +151,7 @@ Something with ambiguity is unclear. Think about the sentence, "Jill saw the man
 - Such ambiguity was a huge part of 1980s pop.
 
 # unjust
-/ʌndʒʌst/ 
+**/ʌndʒʌst/**
 Something or someone that is unjust is just not fair. An unjust boss might fire you the very first time you're late for work.
 ### Definition
 - adj: not fair; marked by injustice or partiality or deception

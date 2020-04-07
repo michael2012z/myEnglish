@@ -1,5 +1,5 @@
 # ambient
-/æmbiənt/ 
+**/æmbiənt/**
 Ambient is an adjective used to describe an aspect of the environment that completely surrounds you, but in a mellow way, like ambient music played softly throughout a restaurant, or the ambient orange glow during a setting sun.
 ### Definition
 - adj: completely enveloping
@@ -11,7 +11,7 @@ Ambient is an adjective used to describe an aspect of the environment that compl
 - Ambient electronic musician Bonobo creates haunting tracks to dance to or meditate with.
 
 # creep
-/kriːp/ 
+**/kriːp/**
 A beetle creeps along the ground. Moving slowly and silently, it creeps up on you. When you feel the touch of tiny insect legs on your skin, you shudder, because bugs give you the creeps.
 ### Definition
 - v: move slowly; in the case of people or animals with the body near the ground
@@ -33,7 +33,7 @@ A beetle creeps along the ground. Moving slowly and silently, it creeps up on yo
 - It maintained it would cause "considerable harm" and "present a creeping domestication" to the surrounding area.
 
 # alley
-/æli/ 
+**/æli/**
 An alley is a narrow street with walls or buildings on both sides, like the dark alley everyone warns you not to walk down alone.
 ### Definition
 - n: a narrow street with walls on both sides
@@ -46,7 +46,7 @@ An alley is a narrow street with walls or buildings on both sides, like the dark
 - Some works look like what you might find in New York City alleys, with torn posters and graffiti and the history of the culture.
 
 # adolescent
-/ædəlesənt/ 
+**/ædəlesənt/**
 Adolescent is just a fancy word for teenager — someone who is no longer a child but is not yet an adult. The word can also be used as an adjective. For example, a particular clothing line might be geared toward adolescent girls.
 ### Definition
 - n: a juvenile between the onset of puberty and maturity
@@ -64,7 +64,7 @@ Adolescent is just a fancy word for teenager — someone who is no longer a chil
 - As an adolescent she saw the futility of that, after her religion deepened and she donned the Islamic headscarf.
 
 # guinea
-/gɪni/ 
+**/gɪni/**
 ### Definition
 - n: a former British gold coin worth 21 shillings
 - n: a west African bird having dark plumage mottled with white; native to Africa but raised for food in many parts of the world
@@ -83,7 +83,7 @@ Adolescent is just a fancy word for teenager — someone who is no longer a chil
 - One such compliant investment seems to be the purchase of the world’s largest untapped iron ore deposit, in the West African country of Guinea.
 
 # porous
-/pɔːrəs/ 
+**/pɔːrəs/**
 If something is full of tiny holes or openings, you can describe it as porous. A sponge is porous, and if the border between countries is open for anyone to cross easily, it too can be called porous.
 ### Definition
 - adj: full of pores or vessels or holes
@@ -99,7 +99,7 @@ If something is full of tiny holes or openings, you can describe it as porous. A
 - Turkey was an early backer of the rebels, allowing them to retreat and rearm across its largely porous border.
 
 # diabetic
-/daɪəbetɪk/ 
+**/daɪəbetɪk/**
 If you're a diabetic, you are a person who suffers from the disease of diabetes. Diabetics tend to have wildly varying blood sugar levels, which can sometimes be dangerous.
 ### Definition
 - n: someone who has diabetes
@@ -116,7 +116,7 @@ If you're a diabetic, you are a person who suffers from the disease of diabetes.
 
 
 # lap
-/læp/ 
+**/læp/**
 Your lap is the top of your thighs when you sit down, where your cat might sit. Lap can also refer to a trip around a racetrack, or to the act of overtaking a competitor by a lap.
 ### Definition
 - n: the upper side of the thighs of a seated person
@@ -140,7 +140,7 @@ Your lap is the top of your thighs when you sit down, where your cat might sit. 
 - That’s right: It’s now possible to do laps en plein air, year-round, in the French capital.
 
 # disproportionate
-/dɪsprəpɔːʳʃənət/ 
+**/dɪsprəpɔːʳʃənət/**
 If three friends are out having dinner, and one disappears when the check comes, the remaining two end up paying a disproportionate share of the bill. Whenever anything is out of proportion — either too large or too small — it's disproportionate.
 ### Definition
 - adj: out of proportion

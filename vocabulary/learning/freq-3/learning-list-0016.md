@@ -1,5 +1,5 @@
 # patience
-/peɪʃəns/ 
+**/peɪʃəns/**
 Patience is a person's ability to wait something out or endure something tedious, without getting riled up. It takes a lot of patience to wait for your braces to come off, to deal with a toddler's temper tantrum, or to build a house out of toothpicks.
 ### Definition
 - n: good-natured tolerance of delay or incompetence
@@ -16,7 +16,7 @@ Patience is a person's ability to wait something out or endure something tedious
 - Instead, Davis stuck with McKenzie , and is receiving the dividends for his patience this season.
 
 # distract
-/dɪstrækt/ 
+**/dɪstrækt/**
 Distract is what you do when you draw someone’s attention — Hey! Look! Over there! Oh. Never mind. What was I saying? That’s right: distract is to draw attention away from what someone is doing.
 ### Definition
 - v: draw someone's attention away from something
@@ -31,7 +31,7 @@ Distract is what you do when you draw someone’s attention — Hey! Look! Over 
 - I’m not one of those liberals who shrugs off culture-war issues as a sideshow distracting from real politics, to be clear.
 
 # tempt
-/tempt/ 
+**/tempt/**
 To tempt is to lure or entice. You might tempt your runaway dog back inside with pieces of cheese.
 ### Definition
 - v: dispose or incline or entice to
@@ -52,7 +52,7 @@ To tempt is to lure or entice. You might tempt your runaway dog back inside with
 - That sounds pretty tempting after watching Reed dominate at the Ryder Cup.
 
 # plea
-/pliː/ 
+**/pliː/**
 A plea is what you make when you're begging for something with a sense of urgency and emotion. While you wouldn't call asking for a hall pass a plea, you could make a plea for justice or world peace.
 ### Definition
 - n: a humble request for help from someone in authority
@@ -67,7 +67,7 @@ A plea is what you make when you're begging for something with a sense of urgenc
 - Watson held his hands to the earflap of his helmet, but his pleas for noise fell on deaf ears.
 
 # bout
-/baʊt/ 
+**/baʊt/**
 A bout is a fight. If you want to be a boxer, start with some easy bouts before challenging the champ.
 ### Definition
 - n: a contest or fight (especially between boxers or wrestlers)
@@ -82,7 +82,7 @@ A bout is a fight. If you want to be a boxer, start with some easy bouts before 
 - That bout of smog saw 460 million people, a population greater than North America, breathing toxic air, according to Greenpeace.
 
 # charter
-/tʃɑːʳtəʳ/ 
+**/tʃɑːʳtəʳ/**
 What do rock gods do when they travel? They charter their own plane, of course. Charter means you rent or lease a particular service or object. Anyone can charter something, though lesser mortals tend to limit themselves to buses.
 ### Definition
 - n: a document incorporating an institution and specifying its rights; includes the articles of incorporation and the certificate of incorporation
@@ -125,7 +125,7 @@ When something's sanitary, it's extremely clean. It's important for hospitals to
 - Families are housed in tents, often unheated, and sanitary facilities are shared in the makeshift centers; in some, women share shower facilities with men.
 
 # grind
-/graɪnd/ 
+**/graɪnd/**
 If you like to grind your own coffee beans, it means you prefer to buy whole beans, put them in an electric grinder, and pulverize them into tiny bits before you brew your coffee.
 ### Definition
 - v: reduce to small pieces or particles by pounding or abrading
@@ -149,7 +149,7 @@ If you like to grind your own coffee beans, it means you prefer to buy whole bea
 - Roughly chop the cashews and roughly grind or crush the cumin and coriander.
 
 # exempt
-/ɪgzempt/ 
+**/ɪgzempt/**
 If your accountant tells you that you’re exempt from taxes this year, give him a big hug. He is saying that you don’t have to pay taxes.
 ### Definition
 - adj: (of persons) freed from or not subject to an obligation or liability (as e.g. taxes) to which others or other things are subject
