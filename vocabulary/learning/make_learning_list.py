@@ -49,30 +49,30 @@ def format_explanation(explanation):
         return text
     # word
     if explanation[0] != None and len(explanation[0]) > 0:
-        text.append("# " + explanation[0] + "\n")
+        text.append("# " + explanation[0])
     # pron
     if explanation[1] != None and len(explanation[1]) > 0:
-        text.append(explanation[1]+"\n")
+        text.append("/" + explanation[1]+ "/ ")
     # definition
     if explanation[3] != None and len(explanation[3]) > 0:
         text.append(explanation[3])
     # hints
     if explanation[7] != None and len(explanation[7]) > 0:
-        text.append("## Definition")
+        text.append("### Definition")
         for hint in explanation[7]:
             text.append("- " + hint[0] + ": " + hint[1])
     # family
     if explanation[5] != None and len(explanation[5]) > 0:
-        text.append("## Family")
+        text.append("### Family")
         text.append(explanation[5])
     # examples
     if explanation[6] != None and len(explanation[6]) > 0:
-        text.append("## Examples")
+        text.append("### Examples")
         for example in explanation[6]:
             text.append("- " + example)
     # etymology
     if explanation[4] != None and len(explanation[4]) > 0:
-        text.append("## Etymology")
+        text.append("### Etymology")
         text.append(explanation[4])
     return text
 
