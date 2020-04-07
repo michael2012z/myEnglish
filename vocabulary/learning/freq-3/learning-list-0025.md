@@ -8,7 +8,10 @@ In defining steer, I would steer clear of complicated examples and just say: to 
 - n: an indication of potential opportunity
 - n: castrated bull
 ### Family
-steer: steerable, steerage, steered, steerer, steering, steers+;steerage: steerages;steerer: steerers;steering: steerings
+- steer: steerable, steerage, steered, steerer, steering, steers+
+- steerage: steerages
+- steerer: steerers
+- steering: steerings
 ### Examples
 - Asked about the role cybersecurity policy will play in his administration, he steered Americans toward bike messengers.
 - They transmit data wirelessly to an adapter that plugs into the car’s diagnostic port near the steering wheel.
@@ -22,7 +25,11 @@ The point where two things split off from each other is called a divergence. Whe
 - n: a variation that deviates from the standard or norm
 - n: an infinite series that has no limit
 ### Family
-divergence: divergences+;diverge: diverged, divergency, divergent, diverges, diverging;divergency: divergencies;divergent: divergence, divergently;diverging: divergingly
+- divergence: divergences+
+- diverge: diverged, divergency, divergent, diverges, diverging
+- divergency: divergencies
+- divergent: divergence, divergently
+- diverging: divergingly
 ### Examples
 - Yet the divergence of views between MPs and constituents is most striking for Labour.
 - The gene family results from TreeFam pipeline and the estimated divergence time between species were used as inputs.
@@ -37,7 +44,10 @@ If something has a negative association attached to it, call this a stigma. Bed-
 - n: the apical end of the style where deposited pollen enters the pistil
 - n: an external tracheal aperture in a terrestrial arthropod
 ### Family
-stigma: stigmas, stigmatic, stigmatise, stigmatize+;stigmatic: stigmatically, stigmatics;stigmatise: stigmatisation, stigmatised, stigmatises, stigmatising;stigmatize: stigmatization, stigmatized, stigmatizes, stigmatizing
+- stigma: stigmas, stigmatic, stigmatise, stigmatize+
+- stigmatic: stigmatically, stigmatics
+- stigmatise: stigmatisation, stigmatised, stigmatises, stigmatising
+- stigmatize: stigmatization, stigmatized, stigmatizes, stigmatizing
 ### Examples
 - After the festival-circuit success of her first feature, the 2009 romantic drama "Everyone Else," Ade felt pressure and a stigma.
 - Walters wanted to raise awareness about HIV and hosted testing onsite to decrease its stigma.
@@ -51,7 +61,8 @@ The adjective metropolitan describes something that's characteristic of a city. 
 - n: a person who lives in a metropolis
 - n: in the Eastern Orthodox Church this title is given to a position between bishop and patriarch; equivalent to archbishop in western Christianity
 ### Family
-metropolitan: metropolitans+;metropolis: metropolises, metropolitan
+- metropolitan: metropolitans+
+- metropolis: metropolises, metropolitan
 ### Examples
 - A spokeswoman for the Metropolitan Washington Airports Authority directed questions to United.
 - Nor are the successes of rural schools necessarily an indictment on the struggles of those in metropolitan areas.
@@ -67,7 +78,10 @@ Alert: shifting parts of speech! As a noun, a derivative is kind of financial ag
 - n: (linguistics) a word that is derived from another word
 - adj: resulting from or employing derivation
 ### Family
-derivative: derivatively, derivatives, underivative+;derivation: derivational, derivations;derive: derivable, derivation, derivative, derived, derives, deriving;derived: underived
+- derivative: derivatively, derivatives, underivative+
+- derivation: derivational, derivations
+- derive: derivable, derivation, derivative, derived, derives, deriving
+- derived: underived
 ### Examples
 - In 2005, Deutsche Bank, then a powerhouse in the selling of risky derivatives on a global scale, was minting money.
 - Dollar International Swaps and Derivatives Association Fix, which is used to set prices for interest-rate swaps.
@@ -83,7 +97,10 @@ If everyone at the city council meeting tends to disregard anything that's said 
 - v: bar from attention or consideration
 - v: refuse to acknowledge
 ### Family
-disregard: disregarded, disregarding, disregards+;regard: disregard, regarded, regardful, regarding, regardless, regards, self-regard;regardful: regardfully;regardless: disregardless, irregardless, regardlessly
+- disregard: disregarded, disregarding, disregards+
+- regard: disregard, regarded, regardful, regarding, regardless, regards, self-regard
+- regardful: regardfully
+- regardless: disregardless, irregardless, regardlessly
 ### Examples
 - A song that speaks to all the disregarded and downtrodden black people in the United States.
 - A song that speaks to all the disregarded and down trodden black people in the United States.
@@ -95,7 +112,7 @@ A sibling is your brother or sister. It's that simple.
 ### Definition
 - n: a person's brother or sister
 ### Family
-sibling: siblings
+- sibling: siblings
 ### Examples
 - “This allows us to screen genetically similar siblings on a very large scale.”
 - Our parents and siblings and friends and schoolmates will die.
@@ -110,7 +127,8 @@ Something commonplace is ordinary. It can also be something dull and unchallengi
 - adj: repeated too often; overfamiliar through overuse
 - n: a trite or obvious remark
 ### Family
-commonplace: commonplacely, commonplaceness, commonplaces+;commonplaceness: commonplacenesses
+- commonplace: commonplacely, commonplaceness, commonplaces+
+- commonplaceness: commonplacenesses
 ### Examples
 - Once this technology is commonplace and driverless cars are ubiquitous, those numbers will shrink to a tiny fraction of what they are today.
 - Lane said categorizing foods by ethnicity is commonplace in the restaurant industry.
@@ -130,7 +148,8 @@ Think of something hard breaking in a crisp, snapping manner, and you've just im
 - v: interrupt, break, or destroy
 - v: violate or abuse
 ### Family
-fracture: fractured, fractures, fracturing, refracture+;refracture: refractured
+- fracture: fractured, fractures, fracturing, refracture+
+- refracture: refractured
 ### Examples
 - Lacking the military strength to pull a fractured country together, he said he was the place-warmer for a strongman, Yuan Shikai.
 - Each is poor, plagued by alcoholism and drug abuse and fractured families.
@@ -145,7 +164,7 @@ A vacuum is essentially a great lack of something — a place where virtually al
 - n: an electrical home appliance that cleans by suction
 - v: clean with a vacuum cleaner
 ### Family
-vacuum: vacua, vacuumed, vacuuming, vacuums
+- vacuum: vacua, vacuumed, vacuuming, vacuums
 ### Examples
 - Another is Unibot, a robotic vacuum cleaner that trebles up as a mobile home security camera and an air purifier/humidifier.
 - “ISIL thrived in a vacuum in Iraq and it pointed to a similar vacuum in Afghanistan,” Mr. Rhodes said.

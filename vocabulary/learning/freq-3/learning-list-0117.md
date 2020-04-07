@@ -7,7 +7,9 @@ Use the word vegetation to refer to all plants and trees collectively, typically
 - n: inactivity that is passive and monotonous, comparable to the inactivity of plant life
 - n: an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart)
 ### Family
-vegetation: vegetational, vegetations+;vegetate: vegetated, vegetates, vegetating, vegetation, vegetative;vegetative: vegetatively
+- vegetation: vegetational, vegetations+
+- vegetate: vegetated, vegetates, vegetating, vegetation, vegetative
+- vegetative: vegetatively
 ### Examples
 - In Braslavsky’s starker show in the Common Ground Gallery, the vegetation is all on paper.
 - Vegetation and a maze of dried mud walls lay to the west and southwest.
@@ -31,7 +33,11 @@ Someone's mate is their spouse, partner, boyfriend, or girlfriend. Your grandmot
 - n: South American holly; leaves used in making a drink like tea
 - n: South American tea-like drink made from leaves of a South American holly called mate
 ### Family
-mate: mated, mateed, mateless, mater, mates, matey, mating, mismate+;mated: unmated;mater: maters;mating: matings;mismate: mismated, mismates, mismating
+- mate: mated, mateed, mateless, mater, mates, matey, mating, mismate+
+- mated: unmated
+- mater: maters
+- mating: matings
+- mismate: mismated, mismates, mismating
 ### Examples
 - But he looked deeper and found this lovely move, calculating – despite having just two minutes left on his clock – that mate was inevitable.
 - July 12: Trump again attacks the Carrier decision during a campaign rally in suburban Indianapolis, three days before he announces Pence as his running mate.
@@ -46,7 +52,7 @@ A canopy is a roof-like covering for a bed, made of fabric. A lot of little girl
 - n: the transparent covering of an aircraft cockpit
 - v: cover with a canopy
 ### Family
-canopy: canopied, canopies, canopying
+- canopy: canopied, canopies, canopying
 ### Examples
 - Orangutans spend 90 percent of their time in the tree canopy.
 - Conversely, a green canopy isn’t a sign of a tree’s health, Green said.
@@ -60,7 +66,7 @@ Use the noun velvet to describe a plush, smooth fabric that is used to make eleg
 - adj: resembling velvet in having a smooth soft surface
 - adj: smooth and soft to sight or hearing or touch or taste
 ### Family
-velvet: velvets, velvety
+- velvet: velvets, velvety
 ### Examples
 - Antlers cut while still in velvet are the most valuable.
 - At last, we are allowed to sit, and we sink into a velvet, purplish sofa.
@@ -78,7 +84,7 @@ A jacket is a lightweight or cropped coat. Most jackets end at your waist or hip
 - v: put a jacket on
 - v: provide with a thermally non-conducting cover
 ### Family
-jacket: jacketed, jacketing, jackets
+- jacket: jacketed, jacketing, jackets
 ### Examples
 - The Yellow Jackets struggled badly in the lane, unable to capitalize on 13 offensive rebounds in the first half.
 - His mother says he was only wearing a light jacket.
@@ -90,7 +96,11 @@ Exhaustive means performed comprehensively and completely. When you recruit a ne
 ### Definition
 - adj: performed comprehensively and completely
 ### Family
-exhaustive: exhaustively+;exhaust: exhausted, exhausting, exhaustion, exhaustive, exhausts;exhausted: exhaustedly, unexhausted;exhausting: exhaustingly;exhaustion: exhaustions
+- exhaustive: exhaustively+
+- exhaust: exhausted, exhausting, exhaustion, exhaustive, exhausts
+- exhausted: exhaustedly, unexhausted
+- exhausting: exhaustingly
+- exhaustion: exhaustions
 ### Examples
 - Johnson’s research is exhaustive and, at times, exhausting.
 - Mr. Siedle did not gain access to all the fund documents needed to do an exhaustive review.
@@ -103,7 +113,7 @@ To preclude something is to prevent it from happening. A muzzle precludes a dog 
 - v: make impossible, especially beforehand
 - v: keep from happening or arising; make impossible
 ### Family
-preclude: precluded, precludes, precluding, preclusion, preclusive
+- preclude: precluded, precludes, precluding, preclusion, preclusive
 ### Examples
 - In the past year, he worked five months for a technology firm though his background precluded him from a permanent job.
 - But it may be kind of a don’t ask, don’t tell policy, which would preclude people from just wearing it for the world to see.
@@ -114,7 +124,9 @@ Elitist is another word for snob.If you wear only the finest silk suits, expect 
 ### Definition
 - n: someone who believes in rule by an elite group
 ### Family
-elitist: elitists+;elite: elitely, elites, elitism;elitism: elitist
+- elitist: elitists+
+- elite: elitely, elites, elitism
+- elitism: elitist
 ### Examples
 - In Mather Brown’s depiction, he’s all bouffant wig and ruffles, encased, it would seem, in an elitist bubble.
 - He framed protesters as elitists or foreign agents.
@@ -129,7 +141,8 @@ elitist: elitists+;elite: elitely, elites, elitism;elitism: elitist
 - adv: toward the outside
 - adj: relating to physical reality rather than with thoughts or the mind
 ### Family
-outward: outwardly, outwardness+;outwardness: outwardnesses
+- outward: outwardly, outwardness+
+- outwardness: outwardnesses
 ### Examples
 - In Lara Huff’s “Through the Web,” a girl gazes outward through a sort of screen.
 - The school, like all public institutions, barred outward signs of religion.

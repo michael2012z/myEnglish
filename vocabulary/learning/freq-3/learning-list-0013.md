@@ -6,7 +6,7 @@ Look carefully! A decree isn't something you get when you graduate. That one lit
 - v: issue a decree
 - v: decide with authority
 ### Family
-decree: decreed, decreeing, decrees
+- decree: decreed, decreeing, decrees
 ### Examples
 - This month its 31 million people lurched a big step closer to that breaking point, thanks to another senseless decree by its autocratic populist government.
 - The government in November published a draft decree “to prevent further reduction” of the National Fund.
@@ -22,7 +22,9 @@ Prevail means to successfully persuade someone of something. If you were a Presi
 - v: use persuasion successfully
 - v: be valid, applicable, or true
 ### Family
-prevail: prevailed, prevailing, prevails, prevalence, prevalent+;prevailing: prevailingly;prevalent: prevalently
+- prevail: prevailed, prevailing, prevails, prevalence, prevalent+
+- prevailing: prevailingly
+- prevalent: prevalently
 ### Examples
 - At least the one the following season was closer, Dallas prevailing 30-13.
 - Democratic centralism still prevails—exemplified by the party’s monopoly on power, Xi Jinping’s autocratic rule and the suppression of dissent.
@@ -38,7 +40,8 @@ It's what you promise to give someone if you don't repay a loan, like the car yo
 - adj: descended from a common ancestor but through different lines
 - n: a security pledged for the repayment of a loan
 ### Family
-collateral: collateralize, collaterally, collaterals+;collateralize: collateralized, collateralizing
+- collateral: collateralize, collaterally, collaterals+
+- collateralize: collateralized, collateralizing
 ### Examples
 - It asks the viewer to find warmth in the darkness, which is something that “Collateral Beauty” also focuses on.
 - In a classic business deal, an entrepreneur puts up collateral to get a loan for a potentially profitable investment.
@@ -50,7 +53,7 @@ collateral: collateralize, collaterally, collaterals+;collateralize: collaterali
 - adj: bound by or stated on oath
 - adj: bound by or as if by an oath
 ### Family
-sworn: unsworn
+- sworn: unsworn
 ### Examples
 - Cooper unveiled names of only a few people to serve in his administration before he was sworn in to office just after midnight Saturday.
 - The Democratic governor was sworn in Monday, along with Lt.
@@ -61,7 +64,15 @@ When you put in a lot of overtime hours at your job, you assume you'll be duly p
 ### Definition
 - adv: at the proper time
 ### Family
-duly: dulys+;due: duely, dues, duly, endue, overdue, subdue, undue;endue: endued, endues, enduing;subduable: unsubduable;subdue: subduable, subdued, subduer, subdues, subduing;subdued: subduedly, subduedness, unsubdued;subduer: subduers;undue: unduely, unduly;unsubduable: unsubduably
+- duly: dulys+
+- due: duely, dues, duly, endue, overdue, subdue, undue
+- endue: endued, endues, enduing
+- subduable: unsubduable
+- subdue: subduable, subdued, subduer, subdues, subduing
+- subdued: subduedly, subduedness, unsubdued
+- subduer: subduers
+- undue: unduely, unduly
+- unsubduable: unsubduably
 ### Examples
 - Answering a few questions will keep everyone satisfied — and duly enticed for the following week’s “live” performance.
 - He used powers Congress duly designated to the White House under the Antiquities Act.
@@ -73,7 +84,7 @@ Havoc is a noun that means devastation or total mayhem. Havoc often wreaked by h
 ### Definition
 - n: violent and needless disturbance
 ### Family
-havoc: havocs
+- havoc: havocs
 ### Examples
 - “It’s to preserve life, and especially with the drug epidemic to stop the drugs wreaking havoc on our communities and neighborhoods.”
 - There is an outcry for data about the havoc wreaked in Yemen by Saudi bombing.
@@ -88,7 +99,9 @@ To plead with someone is to try to convince them to see it your way. Your kids m
 - v: enter a plea, as in courts of law
 - v: make an allegation in an action or other legal proceeding, especially answer the previous pleading of the other party by denying facts therein stated or by alleging new facts
 ### Family
-plead: pleaded, pleader, pleading, pleads, pled+;pleader: pleaders;pleading: pleadingly, pleadings
+- plead: pleaded, pleader, pleading, pleads, pled+
+- pleader: pleaders
+- pleading: pleadingly, pleadings
 ### Examples
 - Mr Tsang pleaded not guilty to three charges of bribery and misconduct, relating to a luxury flat in China.
 - He also was sentenced to 18 years in prison on state child-sex charges related to the same abuse after pleading no contest.
@@ -103,7 +116,13 @@ Anything that brings about a strong reaction can be said to provoke. You can pro
 - v: evoke or provoke to appear or occur
 - v: annoy continually or chronically
 ### Family
-provoke: provocation, provocative, provoked, provoker, provokes, provoking+;provocation: provocations;provocative: provocatively, unprovocative;provoked: unprovoked;provoker: provokers;provoking: provokingest, provokingly, unprovoking;unprovoked: unprovokedly
+- provoke: provocation, provocative, provoked, provoker, provokes, provoking+
+- provocation: provocations
+- provocative: provocatively, unprovocative
+- provoked: unprovoked
+- provoker: provokers
+- provoking: provokingest, provokingly, unprovoking
+- unprovoked: unprovokedly
 ### Examples
 - Occasionally, the drugs provoke a severe auto-immune response, resulting in potential toxicities including inflammatory lung, liver and thyroid disorders.
 - US material and weapons support for the YPG provoked Turkish protests.
@@ -116,7 +135,8 @@ When something gets worse due to neglect or an unfortunate health problem, stuff
 - v: become worse or disintegrate
 - v: grow worse
 ### Family
-deteriorate: deteriorated, deteriorates, deteriorating, deterioration+;deterioration: deteriorations
+- deteriorate: deteriorated, deteriorates, deteriorating, deterioration+
+- deterioration: deteriorations
 ### Examples
 - In the summer of 2015 the situation deteriorated further still.
 - The last several letters deteriorated in the late 1940s, and the part that remained was restored in 1978.
@@ -144,7 +164,7 @@ A single hair, a noodle, even a line of thought — any of these things could be
 - n: a poetic term for a shore (as the area periodically covered and uncovered by the tides)
 - n: a street in west central London famous for its theaters and hotels
 ### Family
-Strand: Strands
+- Strand: Strands
 ### Examples
 - The Grapevine was closed for periods in recent weeks because of heavy snowfall, and some motorists were temporarily stranded on mountain roads.
 - The host business for the engineering strand will be Viking Pump.

@@ -7,7 +7,11 @@ Glory is brilliant, radiant beauty. You might admire a princess in all her glory
 - n: brilliant radiant beauty
 - n: an indication of radiant light drawn around the head of a saint
 ### Family
-glory: gloried, glories, glorify, glorious, glorying+;glorification: glorifications;glorify: glorification, glorified, glorifies, glorifying;glorious: gloriousest, gloriously, inglorious;inglorious: ingloriously
+- glory: gloried, glories, glorify, glorious, glorying+
+- glorification: glorifications
+- glorify: glorification, glorified, glorifies, glorifying
+- glorious: gloriousest, gloriously, inglorious
+- inglorious: ingloriously
 ### Examples
 - Lincoln once commented that there was no glory in the presidency, only “ashes and blood.”
 - But he was also suspicious of his own urge to glory in that desecration.
@@ -19,7 +23,13 @@ Reactionary describes people on the far right politically. Reactionaries occupy 
 - adj: extremely conservative
 - n: an extreme conservative; an opponent of progress or liberalism
 ### Family
-reactionary: reactionaries, reactionarily+;overreact: overreacted, overreacting, overreaction, overreacts;overreaction: overreactions;react: overreact, reactant, reacted, reacting, reaction, reactive, reacts;reaction: reactionary, reactionism, reactions;reactionism: reactionist;reactive: reactively, reactivity, unreactive
+- reactionary: reactionaries, reactionarily+
+- overreact: overreacted, overreacting, overreaction, overreacts
+- overreaction: overreactions
+- react: overreact, reactant, reacted, reacting, reaction, reactive, reacts
+- reaction: reactionary, reactionism, reactions
+- reactionism: reactionist
+- reactive: reactively, reactivity, unreactive
 ### Examples
 - It’s unfair and reactionary to question everything about this team.
 - That’s how we win – by reclaiming the notion of a better future from the reactionaries and demagogues.
@@ -36,7 +46,14 @@ Use the verb unite to describe two or more things merging into one, like several
 - v: act in concert or unite in a common purpose or belief
 - v: have or possess in combination
 ### Family
-unite: disunite, reunite, united, unites, uniting, unity+;disunite: disunited, disunites, disuniting;disunited: disunitedly;disunity: disunities;reunite: reunited, reunites, reuniting;united: unitedly;uniting: unitings;unity: disunity, unities
+- unite: disunite, reunite, united, unites, uniting, unity+
+- disunite: disunited, disunites, disuniting
+- disunited: disunitedly
+- disunity: disunities
+- reunite: reunited, reunites, reuniting
+- united: unitedly
+- uniting: unitings
+- unity: disunity, unities
 ### Examples
 - Leaving the UK, Obama visits Turkey where he says: “The United States is not, and will never be, at war with Islam.”
 - The United States government rates readings of 301 to 500 as “hazardous.”
@@ -48,7 +65,7 @@ A dairy is a farm that specializes in milk and products made from milk. Cheese, 
 ### Definition
 - n: a farm where dairy products are produced
 ### Family
-dairy: dairies, dairying
+- dairy: dairies, dairying
 ### Examples
 - The Bagleys bought their first 15 elk in the late 1990s, seeking to diversify their beef and dairy business.
 - She started with goats and chickens, then eventually added dairy sheep.
@@ -62,7 +79,7 @@ Beset means to attack from all sides––an invading army will beset a castle, 
 - v: annoy continually or chronically
 - v: decorate or cover lavishly (as with gems)
 ### Family
-beset: besets, besetting
+- beset: besets, besetting
 ### Examples
 - The pop star's live appearance in New York's Times Square was beset by problems as she complained of sound difficulties and struggled to sing.
 - The process therefore seems likely to be beset by many of the same problems that scuttled U.S. efforts to secure a settlement, Heras said.
@@ -77,7 +94,8 @@ Ascertain is a verb that means to find out something. You might have to go to th
 - v: find out, learn, or determine with certainty, usually by making an inquiry or other effort
 - v: be careful or certain to do something; make certain of something
 ### Family
-ascertain: ascertainable, ascertained, ascertaining, ascertains+;ascertainable: ascertainably, unascertainable
+- ascertain: ascertainable, ascertained, ascertaining, ascertains+
+- ascertainable: ascertainably, unascertainable
 ### Examples
 - It was difficult to ascertain what online commentary was permitted.
 - We now ascertain that the observable universe exceeds 90 billion light-years across.
@@ -90,7 +108,7 @@ The adjective forensic describes scientific methods used to investigate crimes. 
 - adj: used or applied in the investigation and establishment of facts or evidence in a court of law
 - adj: of, relating to, or used in public debate or argument
 ### Family
-forensic: forensically
+- forensic: forensically
 ### Examples
 - At the forensic institute in Istanbul, some families gathered to collect the bodies of the victims.
 - “Frankly, how you handle your forensic cases in Virginia is the best I’ve seen anywhere,” she said.
@@ -103,7 +121,10 @@ When you give testimony you are telling what you saw or what you know. Your test
 - n: a solemn statement made under oath
 - n: an assertion offering firsthand authentication of a fact
 ### Family
-testimony: testimonial, testimonies+;testifier: testifiers;testify: testified, testifier, testifies, testifying, testimony;testimonial: testimonials
+- testimony: testimonial, testimonies+
+- testifier: testifiers
+- testify: testified, testifier, testifies, testifying, testimony
+- testimonial: testimonials
 ### Examples
 - The judge heard about seven hours of testimony in the hearing, which was closed to the public and the media.
 - His broken-down teeth seemed to bear testimony to years of neglect.
@@ -119,7 +140,7 @@ testimony: testimonial, testimonies+;testifier: testifiers;testify: testified, t
 - v: travel by getting free rides from motorists
 - n: a convex molding having a cross section in the form of a quarter of a circle or of an ellipse
 ### Family
-thumb: thumbed, thumbing, thumbs
+- thumb: thumbed, thumbing, thumbs
 ### Examples
 - Franklin said he “tried to push through” the injury, but that his thumb kept locking up on his throwing hand.
 - The general rule of thumb is that areas which are currently dry will become more dry.
@@ -131,7 +152,7 @@ An anniversary marks the date on which an event happened — a five-year wedding
 ### Definition
 - n: the date on which an event occurred in some previous year (or the celebration of it)
 ### Family
-anniversary: anniversaries
+- anniversary: anniversaries
 ### Examples
 - The giant CES tech show marks its 50th anniversary this week.
 - Correction: A previous version of this post misstated CES's anniversary.

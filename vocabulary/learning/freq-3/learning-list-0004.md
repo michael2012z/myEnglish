@@ -9,7 +9,10 @@ Reckon means guess, or imagine, and is often used by rural types in Hollywood mo
 - v: take account of
 - v: make a mathematical calculation or computation
 ### Family
-reckon: reckoned, reckoner, reckoning, reckons+;misreckoning: misreckonings;reckoner: reckoners;reckoning: misreckoning, overreckoning, reckonings, underreckoning
+- reckon: reckoned, reckoner, reckoning, reckons+
+- misreckoning: misreckonings
+- reckoner: reckoners
+- reckoning: misreckoning, overreckoning, reckonings, underreckoning
 ### Examples
 - “We are a force to be reckoned with,” said Oliver.
 - Startups Reckon with Austerity-ish: After two years of seemingly limitless funding for young technology companies, there was a marked retrenchment this year.
@@ -34,7 +37,9 @@ reckon: reckoned, reckoner, reckoning, reckons+;misreckoning: misreckonings;reck
 - n: a long oar used in an open boat
 - n: (American football) an attempt to advance the ball by running around the end of the line
 ### Family
-sweep: sweeped, sweeper, sweeping, sweeps+;sweeper: sweepers;sweeping: sweepingly, sweepings
+- sweep: sweeped, sweeper, sweeping, sweeps+
+- sweeper: sweepers
+- sweeping: sweepingly, sweepings
 ### Examples
 - To read Trump’s win as some kind of sweeping victory for conservatism would be absurd.
 - But their actions starting Tuesday to end Obamacare will be far less sweeping, at least initially, than a full-blown repeal of the law.
@@ -48,7 +53,9 @@ To disrupt is to interrupt or throw something into disorder. If you don't turn y
 - v: throw into disorder
 - v: interfere in someone else's activity
 ### Family
-disrupt: disrupted, disrupting, disruption, disruptive, disrupts+;disruption: disruptions;disruptive: disruptively
+- disrupt: disrupted, disrupting, disruption, disruptive, disrupts+
+- disruption: disruptions
+- disruptive: disruptively
 ### Examples
 - “It’s better to acquire disruptive technology than to be disrupted by that technology.”
 - On Thursday, Mr. Obama announced a series of sanctions against Russia for its attempts to disrupt the November election.
@@ -60,7 +67,10 @@ A subsidy is a grant of financial assistance. Many school districts, for example
 ### Definition
 - n: a grant paid by a government to an enterprise that benefits the public
 ### Family
-subsidy: subsidies, subsidise, subsidize+;subsidise: subsidisation, subsidised, subsidiser, subsidises, subsidising;subsidize: subsidization, subsidized, subsidizer, subsidizes, subsidizing;subsidizer: subsidizers
+- subsidy: subsidies, subsidise, subsidize+
+- subsidise: subsidisation, subsidised, subsidiser, subsidises, subsidising
+- subsidize: subsidization, subsidized, subsidizer, subsidizes, subsidizing
+- subsidizer: subsidizers
 ### Examples
 - The industrial plant appears especially significant as it offers a breakthrough by capturing CO2 without subsidy.
 - Maryland’s subsidy program served more than 10,300 families and 17,400 children on average each month in 2015, according to the latest U.S.
@@ -72,7 +82,7 @@ A pub is a bar or tavern that serves food and often acts as a community gatherin
 ### Definition
 - n: tavern consisting of a building with a bar and public rooms; often provides light meals
 ### Family
-pub: pubs
+- pub: pubs
 ### Examples
 - The book examines the histories of 22 pubs.
 - Joe’s Pub, the glimmering nightclub at the Public Theater, bursts with laughter and cheers.
@@ -84,7 +94,7 @@ The human genome is the map of your DNA, the double helix that contains all your
 ### Definition
 - n: the ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism
 ### Family
-genome: genomes
+- genome: genomes
 ### Examples
 - Decoding a genome now runs between a few hundred to a few thousand dollars, spawning a flurry of potential new applications.
 - Then they removed the gene from the genome of the tomato.
@@ -96,7 +106,8 @@ When you clear out or eliminate something you don't want, you rid yourself of it
 ### Definition
 - v: relieve from
 ### Family
-rid: riddance, ridded, ridding, rids+;riddance: riddances
+- rid: riddance, ridded, ridding, rids+
+- riddance: riddances
 ### Examples
 - That is why the government wanted to get rid of malaria completely.
 - I started doing yoga twice a week to get rid of headaches.
@@ -111,7 +122,9 @@ To endorse is to give support to someone or something. "I endorse this!" means "
 - v: guarantee as meeting a certain standard
 - v: sign as evidence of legal transfer
 ### Family
-endorse: endorsed, endorsement, endorser, endorses, endorsing+;endorsement: endorsements;endorser: endorsers
+- endorse: endorsed, endorsement, endorser, endorses, endorsing+
+- endorsement: endorsements
+- endorser: endorsers
 ### Examples
 - Trump, who campaigned on building a wall on the U.S.-Mexico border and endorsed mass deportations, effectively rejected the recommendation — and won anyway.
 - Decius sought to be clear-eyed about the candidate he was endorsing.
@@ -125,7 +138,7 @@ Put simply, your sovereign is your king or queen. George III was the sovereign o
 - adj: (of political bodies) not controlled by outside forces
 - adj: greatest in status or authority or power
 ### Family
-sovereign: nonsovereign, sovereignly, sovereigns
+- sovereign: nonsovereign, sovereignly, sovereigns
 ### Examples
 - As of now, Moscow effectively controls approximately 20 percent of Georgia’s sovereign territory.
 - The 32-year-old Foy is charged with playing one of the most famous women in the world during her first years as sovereign.
@@ -140,7 +153,7 @@ When you cheer up a friend who's feeling down, you bolster them. To bolster is t
 - v: add padding to
 - n: a pillow that is often put across a bed underneath the regular pillows
 ### Family
-bolster: bolstered, bolstering, bolsters
+- bolster: bolstered, bolstering, bolsters
 ### Examples
 - Higher living standards would bolster democratic ideas and institutions.
 - The ninth division was joined by units of the militarized federal police, while the 16th was bolstered by army units.

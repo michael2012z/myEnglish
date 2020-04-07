@@ -8,7 +8,9 @@ If you're tolerant it means that you accept people who are unlike you or put up 
 - adj: tolerant and forgiving under provocation
 - adj: able to tolerate environmental conditions or physiological stress
 ### Family
-tolerant: intolerant, toleranter, tolerantly+;intolerance: intolerances;intolerant: intolerance, intolerantly
+- tolerant: intolerant, toleranter, tolerantly+
+- intolerance: intolerances
+- intolerant: intolerance, intolerantly
 ### Examples
 - “What is really interesting here is why the authorities are so tolerant,” Verkhovsky said.
 - China’s middle class is increasingly less tolerant of the deadly air, and in December tens of thousands of “smog refugees” decamped to clearer skies.
@@ -21,7 +23,10 @@ To preach is to deliver a sermon or an otherwise powerful message. You may go to
 - v: deliver a sermon
 - v: speak, plead, or argue in favor of
 ### Family
-preach: preached, preacher, preaches, preaching, preachment+;preacher: preachers;preaching: preachings;preachment: preachments
+- preach: preached, preacher, preaches, preaching, preachment+
+- preacher: preachers
+- preaching: preachings
+- preachment: preachments
 ### Examples
 - Outside Caesars Palace, a group of people preaching Christianity yelled judgments at the pedestrians with bullhorns.
 - He’s teaching and preaching at the same time.
@@ -34,7 +39,8 @@ To be devout is to be deeply devoted to one's religion or to another belief, cau
 - adj: deeply religious
 - adj: earnest
 ### Family
-devout: devoutedly, devouter, devoutest, devoutly, devoutness+;devoutness: devoutnesses
+- devout: devoutedly, devouter, devoutest, devoutly, devoutness+
+- devoutness: devoutnesses
 ### Examples
 - Harriott is a devout Christian, and he ends each practice with a sermon at midfield.
 - Brotherhood leaders trusted Sisi in part because he was a devout Muslim.
@@ -51,7 +57,9 @@ To recapture something is to get it back or catch it again. If you were the zook
 - v: take up anew
 - v: experience anew
 ### Family
-recapture: recaptured, recaptures, recapturing+;capture: captured, capturer, captures, capturing, recapture;capturer: capturers
+- recapture: recaptured, recaptures, recapturing+
+- capture: captured, capturer, captures, capturing, recapture
+- capturer: capturers
 ### Examples
 - Since the drive to recapture Mosul began on Oct.
 - In the north, a separate army unit pressed toward the border of Mosul proper after recapturing several outlying villages in recent days.
@@ -64,7 +72,13 @@ A sect is a religious group that exists inside of a larger religion. Think of it
 - n: a subdivision of a larger religious group
 - n: a dissenting clique
 ### Family
-sect: intersect, sectarian, sectarist, sects+;intersect: intersected, intersecting, intersection, intersects;intersecting: nonintersecting;intersection: intersections;sectarian: nonsectarian, sectarianism, sectarians, unsectarian;sectarianism: sectarianisms;sectarist: sectarists
+- sect: intersect, sectarian, sectarist, sects+
+- intersect: intersected, intersecting, intersection, intersects
+- intersecting: nonintersecting
+- intersection: intersections
+- sectarian: nonsectarian, sectarianism, sectarians, unsectarian
+- sectarianism: sectarianisms
+- sectarist: sectarists
 ### Examples
 - Britain’s vote to leave the EU was the grand finale of a 25-year campaign by a lonely sect of true believers.
 - Warda, the human rights activist, said militants from any sect that attacked civilians in the name of religion were "no better than Islamic State".
@@ -78,7 +92,7 @@ An epic is a long poem or other work of art celebrating heroic feats. After you 
 - adj: constituting or having to do with or suggestive of a literary epic
 - adj: very imposing or impressive; surpassing the ordinary (especially in size or scale)
 ### Family
-epic: epical, epically, epics
+- epic: epical, epically, epics
 ### Examples
 - But as bad as those floods were, they paled in comparison to the epic floods that hit southern Louisiana in August.
 - Fused into abstractions, the disparate pieces yield paintings that are as eventful as epic Renaissance canvasses.
@@ -108,7 +122,7 @@ A lodge is an inn where travelers stay overnight. If you’re in need of a night
 - n: a formal association of people with similar interests
 - n: English physicist who studied electromagnetic radiation and was a pioneer of radiotelegraphy (1851-1940)
 ### Family
-Lodge: Lodges
+- Lodge: Lodges
 ### Examples
 - Airlines are not obliged to compensate travelers with lodging or meals for delays because of extreme weather.
 - That is still a relatively inexpensive night’s lodging in the New York City area.
@@ -125,7 +139,8 @@ When something revolves, it turns on an axis or in an orbit around something els
 - v: move in an orbit
 - v: cause to move by turning over or in a circular manner of as if on an axis
 ### Family
-revolve: revolved, revolver, revolves, revolving+;revolver: revolvers
+- revolve: revolved, revolver, revolves, revolving+
+- revolver: revolvers
 ### Examples
 - This season opener, “The Six Thatchers,” revolves around finding someone who, for some reason, is seeking and destroying busts of Margaret Thatcher.
 - The new film revolves around Reynolds’s determination to keep performing and Fisher’s equal determination to protect her mother and see her hopes fulfilled.
@@ -138,7 +153,16 @@ revolve: revolved, revolver, revolves, revolving+;revolver: revolvers
 - n: the act of disrupting an established order so it fails to continue
 - n: a displacement of a part (especially a bone) from its normal position (as in the shoulder or the vertebral column)
 ### Family
-dislocation: dislocations+;bilocation: bilocations;dislocate: dislocated, dislocates, dislocating, dislocation;locate: dislocate, located, locater, locates, locating, location, locator, relocate;located: unlocated;locater: locaters;location: bilocation, locations;locator: locators;relocate: relocated, relocates, relocating, relocation;relocation: relocations
+- dislocation: dislocations+
+- bilocation: bilocations
+- dislocate: dislocated, dislocates, dislocating, dislocation
+- locate: dislocate, located, locater, locates, locating, location, locator, relocate
+- located: unlocated
+- locater: locaters
+- location: bilocation, locations
+- locator: locators
+- relocate: relocated, relocates, relocating, relocation
+- relocation: relocations
 ### Examples
 - Film fans will immediately detect a nod to “The Shining” in the bar sequences, which possess the same echoing sense of dislocation and weirdness.
 - Stafford is playing with an injured middle finger on his throwing hand, reportedly a dislocation and ligament damage.
@@ -153,7 +177,9 @@ Something apt is perfectly appropriate, clever and well-suited to the matter at 
 - adj: at risk of or subject to experiencing something usually unpleasant
 - adj: mentally quick and resourceful
 ### Family
-apt: apter, aptest, aptly, aptness, inapt+;aptness: aptnesses;inapt: inaptly, inaptness
+- apt: apter, aptest, aptly, aptness, inapt+
+- aptness: aptnesses
+- inapt: inaptly, inaptness
 ### Examples
 - But the most apt description might be this: a winner.
 - Now, “We’re still so young and we hope for more / But remember this / We’re not invincible,” was oddly, horribly apt.

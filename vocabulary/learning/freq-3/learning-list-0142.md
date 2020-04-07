@@ -4,7 +4,10 @@ If you use coercive measures to get people to join your club, it means that you 
 ### Definition
 - adj: serving or intended to coerce
 ### Family
-coercive: coercively+;coerce: coerced, coerces, coercing, coercion, coercive;coerced: uncoerced;coercion: coercions
+- coercive: coercively+
+- coerce: coerced, coerces, coercing, coercion, coercive
+- coerced: uncoerced
+- coercion: coercions
 ### Examples
 - That this might be less a comedy and more a peep into how coercive control operates isn’t dwelled upon in these articles.
 - "The aim of coercive orders is to encourage compliance," the report said.
@@ -20,7 +23,9 @@ To rue is to feel regret or remorse for something. If that position at the deli 
 - n: leaves sometimes used for flavoring fruit or claret cup but should be used with great caution: can cause irritation like poison ivy
 - n: (French) a street or road in France
 ### Family
-rue: rued, rueful, rueing, rues, ruing+;rueful: ruefulest, ruefully, ruefulness;ruefulness: ruefulnesses
+- rue: rued, rueful, rueing, rues, ruing+
+- rueful: ruefulest, ruefully, ruefulness
+- ruefulness: ruefulnesses
 ### Examples
 - I voted Trump, and now that vote I rue.
 - We will rue the day we forgot that newsgathering is a profession with demanding standards regarding performance and ethics.
@@ -35,7 +40,7 @@ A cavity is a carved-out space inside something solid like a wall or a tooth. If
 - n: (anatomy) a natural hollow or sinus within the body
 - n: soft decayed area in a tooth; progressive decay can lead to the death of a tooth
 ### Family
-cavity: cavities
+- cavity: cavities
 ### Examples
 - Finally, after several hours, he stopped; his intuition, aided by the pressure gauges, told him that the cavity was full.
 - Bleeding into the pelvic/abdominal cavity is quite painful.
@@ -47,7 +52,12 @@ Moisture is the feeling of wetness — what you want in your cupcake but not in 
 ### Definition
 - n: wetness caused by water
 ### Family
-moisture: moistures, moisturise, moisturize+;moist: moisten, moister, moistly, moistness;moisten: moistened, moistener, moistening, moistens, moisture;moistener: moisteners;moistening: moistenings;moisturize: moisturized, moisturizes, moisturizing
+- moisture: moistures, moisturise, moisturize+
+- moist: moisten, moister, moistly, moistness
+- moisten: moistened, moistener, moistening, moistens, moisture
+- moistener: moisteners
+- moistening: moistenings
+- moisturize: moisturized, moisturizes, moisturizing
 ### Examples
 - That same system might bring much-needed moisture to Southern California by the middle of the week.
 - The intense heat baked the soil, leaving it slick and unable to absorb moisture from a huge thunderstorm that followed two months later.
@@ -63,7 +73,13 @@ Anything that varies from the accepted norm or standard is called a deviation. I
 - n: the difference between an observed value and the expected value of a variable or function
 - n: the error of a compass due to local magnetic disturbances
 ### Family
-deviation: deviationism, deviations+;deviance: deviances;deviate: deviance, deviated, deviates, deviating, deviatingly, deviation;deviating: undeviating;deviationism: deviationist;deviationist: deviationists;undeviating: undeviatingly
+- deviation: deviationism, deviations+
+- deviance: deviances
+- deviate: deviance, deviated, deviates, deviating, deviatingly, deviation
+- deviating: undeviating
+- deviationism: deviationist
+- deviationist: deviationists
+- undeviating: undeviatingly
 ### Examples
 - A deviation in supermarket chicken prices of that magnitude would have cost U.S. grocery shoppers billions of dollars in recent years.
 - Rather than scrutinize your period blood for any unusual characteristics, she recommends keeping an eye out for deviations from your normal flow or schedule.
@@ -75,7 +91,7 @@ Apartheid was a racist political policy in South Africa demanding segregation of
 ### Definition
 - n: a social policy of racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in South Africa
 ### Family
-apartheid: antiapartheid
+- apartheid: antiapartheid
 ### Examples
 - “We are readily on our way to an apartheid system where we relocate diversity outside the county.”
 - In 1976, he became ITN's first bureau chief in South Africa and was the first television correspondent to live in the country during apartheid.
@@ -89,7 +105,12 @@ A paper advertisement or a folded brochure is called a leaflet. To spread the wo
 - n: part of a compound leaf
 - n: a thin triangular flap of a heart valve
 ### Family
-leaflet: leaflets+;interleaf: interleaves;leaf: interleaf, leaf-like, leafage, leafed, leafing, leafless, leaflet, leaflike, leafs, leafy, leaves, overleaf;leafing: leafings;leafless: leaflessly;leafy: leafier, leafiest
+- leaflet: leaflets+
+- interleaf: interleaves
+- leaf: interleaf, leaf-like, leafage, leafed, leafing, leafless, leaflet, leaflike, leafs, leafy, leaves, overleaf
+- leafing: leafings
+- leafless: leaflessly
+- leafy: leafier, leafiest
 ### Examples
 - Before the start of the offensive to regain Mosul, the Iraqi government airdropped leaflets and broadcast messages on television urging residents to shelter in place, .
 - The leaflets continued to rain down on them.
@@ -104,7 +125,9 @@ Humiliation describes a strong feeling of embarrassment or mortification — lik
 - n: strong feelings of embarrassment
 - n: an instance in which you are caused to lose your prestige or self-respect
 ### Family
-humiliation: humiliations+;humiliate: humiliated, humiliates, humiliating, humiliation;humiliating: humiliatingly
+- humiliation: humiliations+
+- humiliate: humiliated, humiliates, humiliating, humiliation
+- humiliating: humiliatingly
 ### Examples
 - Samsung, the icon of South Korean technological prowess, suffered global humiliation with its recent recall of exploding Galaxy Note 7 smartphones.
 - Then there was the humiliation of “Glitter,” Carey’s disastrous 2001 foray into film stardom, which was lambasted by the critics and public alike.
@@ -120,7 +143,11 @@ A captive is something that has been captured and can’t escape, like a prisone
 - adj: being in captivity
 - adj: giving or marked by complete attention to
 ### Family
-captive: captivate, captives, captivity+;captivate: captivated, captivates, captivating, captivation;captivating: captivatingly;captivation: captivations;captivity: captivities
+- captive: captivate, captives, captivity+
+- captivate: captivated, captivates, captivating, captivation
+- captivating: captivatingly
+- captivation: captivations
+- captivity: captivities
 ### Examples
 - He fathered nearly a quarter of the world’s captive pandas.
 - Formerly captive nations freed from Soviet control seemed eager to embrace liberal democracy, capitalism - and substantial subsidies - from their wealthier neighbors.
@@ -133,7 +160,19 @@ The word recreation is a noun meaning just about anything you do for fun: bowlin
 - n: an activity that diverts or amuses or stimulates
 - n: activity that refreshes and recreates; activity that renews your health and spirits by enjoyment and relaxation
 ### Family
-recreation: recreational, recreations+;create: created, creates, creating, creation, creative, creator, creature, miscreate, re-create, recreate;created: re-created;creation: creationism, creations, re-creation;creative: creatively, creativeness, creativity, uncreative;creator: creators;creature: creatures;miscreate: miscreated, miscreating, miscreation;miscreation: miscreations;re-create: re-creating;recreate: recreated, recreates, recreating, recreation;recreational: nonrecreational, recreationally;uncreative: uncreatively, uncreativeness
+- recreation: recreational, recreations+
+- create: created, creates, creating, creation, creative, creator, creature, miscreate, re-create, recreate
+- created: re-created
+- creation: creationism, creations, re-creation
+- creative: creatively, creativeness, creativity, uncreative
+- creator: creators
+- creature: creatures
+- miscreate: miscreated, miscreating, miscreation
+- miscreation: miscreations
+- re-create: re-creating
+- recreate: recreated, recreates, recreating, recreation
+- recreational: nonrecreational, recreationally
+- uncreative: uncreatively, uncreativeness
 ### Examples
 - The city handed over the rest of McMorran to Nancy Winzer, city recreation director, and she is doing amazing things with it, too.
 - Evan Clark, who works in the Greensboro Parks and Recreation Department’s Trails Division, said several city employees participated in the class.

@@ -17,7 +17,7 @@ Frost is a thin, icy coating that forms on very cold, damp nights. During a New 
 - v: provide with a rough or speckled surface or appearance
 - n: United States poet famous for his lyrical poems on country life in New England (1874-1963)
 ### Family
-Frost: Frosts
+- Frost: Frosts
 ### Examples
 - A frost was reported in Vermont every month in 1816, which included a June snowstorm.
 - Many would recognize his voice as that of Tony the Tiger for Kellogg’s Frosted Flakes.
@@ -40,7 +40,7 @@ Follow advice like gospel and you're following it as though it was the final wor
 - n: folk music consisting of a genre of a cappella music originating with Black slaves in the United States and featuring call and response; influential on the development of other genres of popular music (especially soul)
 - n: the four books in the New Testament (Matthew, Mark, Luke, and John) that tell the story of Christ's life and teachings
 ### Family
-Gospel: Gospels
+- Gospel: Gospels
 ### Examples
 - To many believers, the prosperity gospel offers hope and promise.
 - It’s called the prosperity gospel, a term for the argument used by some preachers that donating to them will personally enrich their audience.
@@ -62,7 +62,7 @@ A ditch is a long trench or pit dug into the ground. If your lawns are always so
 - v: throw away
 - v: sever all ties with, usually unceremoniously or irresponsibly
 ### Family
-ditch: ditched, ditches, ditching
+- ditch: ditched, ditches, ditching
 ### Examples
 - I kept the chocolate and ditched the exercise.
 - Ditch your expectations before beginning the journey and keep an open and curious mind.
@@ -76,7 +76,10 @@ If you notice that crumbs appear on your little brother's shirt whenever the coo
 - n: either of two or more related or complementary variables
 - adj: mutually related
 ### Family
-correlate: correlated, correlates, correlating, correlation, correlative+;correlated: uncorrelated;correlation: correlational, correlations;correlative: correlatively, correlatives, correlativity
+- correlate: correlated, correlates, correlating, correlation, correlative+
+- correlated: uncorrelated
+- correlation: correlational, correlations
+- correlative: correlatively, correlatives, correlativity
 ### Examples
 - They found that an increase in fines assessed on children directly correlated to a rise in recidivism.
 - Even studies showing that alterations in the microbiota correlate with disease severity, or that the microbiota normalizes with remission, fail to prove causation over correlation.
@@ -89,7 +92,10 @@ Generosity is a quality that's a lot like unselfishness. Someone showing generos
 - n: the trait of being willing to give your money or time
 - n: acting generously
 ### Family
-generosity: generosities+;generous: generosity, generousest, generously, generousness, overgenerous, ungenerous;overgenerous: overgenerously;ungenerous: ungenerously
+- generosity: generosities+
+- generous: generosity, generousest, generously, generousness, overgenerous, ungenerous
+- overgenerous: overgenerously
+- ungenerous: ungenerously
 ### Examples
 - He, too, offered a stay in his home … This level of generosity shocked me to my core.
 - As I step back and consider the way this story ended, my own generosity embarrasses me.
@@ -105,7 +111,8 @@ If something’s metric, it’s related to a system that uses the meter as a bas
 - adj: the rhythmic arrangement of syllables
 - n: a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
 ### Family
-metric: metricise, metricize, metrics, non-metric+;meter: metered, metering, meters, metric
+- metric: metricise, metricize, metrics, non-metric+
+- meter: metered, metering, meters, metric
 ### Examples
 - Doctors and hospitals here are obsessed with metrics, not least because under the health law, they may be rewarded or penalized based on their performance.
 - As a rough metric, the first word yields more than twenty times as many Siri-related Google hits as the other two combined.
@@ -122,7 +129,7 @@ To surrender is to give up control of something to someone else. If you miss cur
 - n: the delivery of a principal into lawful custody
 - n: a verbal act of admitting defeat
 ### Family
-surrender: surrendered, surrenderer, surrendering, surrenders
+- surrender: surrendered, surrenderer, surrendering, surrenders
 ### Examples
 - Two nights after yielding a season-worst 69 points in the first half to James Harden and Houston, the Knicks surrendered 67 to the Magic.
 - Negotiators were able to get the man to surrender shortly after 1 a.m.
@@ -134,7 +141,13 @@ Things that are consequential are important — extremely important. Electing a 
 ### Definition
 - adj: having important issues or results
 ### Family
-consequential: consequentially, inconsequential+;consequence: consequences, consequential;consequent: consequence, consequenter, consequently, inconsequent;consequently: consequentlys;inconsequence: inconsequences;inconsequent: inconsequence, inconsequently;inconsequential: inconsequentially
+- consequential: consequentially, inconsequential+
+- consequence: consequences, consequential
+- consequent: consequence, consequenter, consequently, inconsequent
+- consequently: consequentlys
+- inconsequence: inconsequences
+- inconsequent: inconsequence, inconsequently
+- inconsequential: inconsequentially
 ### Examples
 - Perhaps the most consequential battles will be outside national electoral contests and within the movement itself.
 - They suspect that Trump, despite his self-evident indiscipline, may prove to be a popular and consequential President, defying his critics—many of them conservative.
@@ -148,7 +161,11 @@ Something that is trivial is not important or significant, such as the trivial d
 - adj: of little substance or significance
 - adj: concerned with trivialities
 ### Family
-trivial: trivialest, trivialise, triviality, trivialize, trivially+;trivia: trivial;trivialise: trivialised;triviality: trivialities;trivialize: trivialized, trivializes, trivializing
+- trivial: trivialest, trivialise, triviality, trivialize, trivially+
+- trivia: trivial
+- trivialise: trivialised
+- triviality: trivialities
+- trivialize: trivialized, trivializes, trivializing
 ### Examples
 - Trivial pursuits don’t follow serious endeavors, they precede them and, crucially, inspire them, even if unintentionally.
 - Chatter about Israeli-Palestinian negotiations is nothing but a truism, equally applicable to the U.S. and Canada, or to any nations resolving trivial border disputes.
@@ -163,7 +180,8 @@ A depiction is a true representation of something, like the depiction of life as
 - n: a drawing of the outlines of forms or objects
 - n: a graphic or vivid verbal description
 ### Family
-depiction: depictions+;depict: depicted, depicting, depiction, depictive, depicts
+- depiction: depictions+
+- depict: depicted, depicting, depiction, depictive, depicts
 ### Examples
 - "The key issues, I think, are not only a range of skin colour differences but accurate depictions of physical features," she said.
 - Another bizarre one in the final days of the campaign was a depiction of how President Obama treated a protester at a Clinton campaign rally:

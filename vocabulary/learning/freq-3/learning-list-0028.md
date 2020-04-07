@@ -9,7 +9,10 @@ You can condemn, or openly criticize, someone who is behaving inappropriately. I
 - v: declare or judge unfit for use or habitation
 - v: appropriate (property) for public use
 ### Family
-condemn: condemnable, condemnation, condemnatory, condemned, condemning, condemns+;condemnable: condemnably;condemnation: condemnations, self-condemnation;condemning: condemningly
+- condemn: condemnable, condemnation, condemnatory, condemned, condemning, condemns+
+- condemnable: condemnably
+- condemnation: condemnations, self-condemnation
+- condemning: condemningly
 ### Examples
 - Leaving him with a mouthful of condemned teeth that would likely deteriorate merely stacked the odds against him.
 - Wasting no time, House and Senate Republicans are poised to mark the first day of the 115th Congress with resolutions condemning the U.N.
@@ -22,7 +25,9 @@ If you are susceptible to something such as infections or earaches, it means you
 - adj: (often followed by `of' or `to') yielding readily to or capable of
 - adj: easily impressed emotionally
 ### Family
-susceptible: insusceptible, susceptibility, susceptibleness, susceptibly, unsusceptible+;susceptibility: susceptibilities;unsusceptible: unsusceptibility
+- susceptible: insusceptible, susceptibility, susceptibleness, susceptibly, unsusceptible+
+- susceptibility: susceptibilities
+- unsusceptible: unsusceptibility
 ### Examples
 - And with a week between each game, few things on this planet are as susceptible to overreaction and hyperbole as America’s most popular professional sport.
 - Forests in some states, like New York, are close to major trade routes, while others, like in Florida, house trees especially susceptible to pests.
@@ -36,7 +41,11 @@ Something intrusive is getting in your face or invading your space. Nosey questi
 - adj: of rock material; forced while molten into cracks between layers of other rock
 - adj: thrusting inward
 ### Family
-intrusive: intrusively, intrusiveness, unintrusive+;intrude: intruded, intruder, intrudes, intruding, intrusion, intrusive;intruder: intruders;intrusion: intrusions;unintrusive: unintrusively
+- intrusive: intrusively, intrusiveness, unintrusive+
+- intrude: intruded, intruder, intrudes, intruding, intrusion, intrusive
+- intruder: intruders
+- intrusion: intrusions
+- unintrusive: unintrusively
 ### Examples
 - It’s gratingly intrusive when it tries to keep you busy, and transcendentally comforting when it settles for just keeping you company.
 - But while the hacking focused attention on one particularly stealthy, intrusive way of influencing other states, it is just one lever that the Kremlin pulls.
@@ -51,7 +60,9 @@ Before you accept a job offer, or a college's offer of admission, you should tak
 - v: look at thoughtfully; observe deep in thought
 - v: consider as a possibility
 ### Family
-contemplate: contemplated, contemplates, contemplating, contemplation, contemplative+;contemplation: contemplations, self-contemplation;contemplative: contemplatively, contemplativeness, contemplatives
+- contemplate: contemplated, contemplates, contemplating, contemplation, contemplative+
+- contemplation: contemplations, self-contemplation
+- contemplative: contemplatively, contemplativeness, contemplatives
 ### Examples
 - He contemplated a career in the N.F.L., but he tore his anterior cruciate ligament in practice and never regained top form.
 - The artist prefers to ponder her subjects as they contemplate.
@@ -63,7 +74,8 @@ If there is a cupcake scarcity in your kitchen, there are hardly any cupcakes ar
 ### Definition
 - n: a small and inadequate amount
 ### Family
-scarcity: scarcities+;scarce: scarcely, scarceness, scarcer, scarcest, scarcity
+- scarcity: scarcities+
+- scarce: scarcely, scarceness, scarcer, scarcest, scarcity
 ### Examples
 - The recent scarcity of tech offerings is likely to work in Snap’s favor.
 - In addition, there was no explosion upon impact, pointing to a scarcity of fuel.
@@ -79,7 +91,8 @@ Premier is another way of saying “first” or “best” like the premier  ice
 - v: be performed for the first time
 - v: perform a work for the first time
 ### Family
-premier: premiers, premiership+;premiership: premierships
+- premier: premiers, premiership+
+- premiership: premierships
 ### Examples
 - West Ham, meanwhile, drop from 12th to 13th in the Premier League table.
 - But no one here treats me like a Premier League footballer.”
@@ -91,7 +104,10 @@ premier: premiers, premiership+;premiership: premierships
 - n: the act of passengers and crew getting aboard a ship or aircraft
 - n: a structure of boards
 ### Family
-boarding: boardings+;board: boarded, boarder, boarding, boards, overboard;boarder: boarders;overboard: overboards
+- boarding: boardings+
+- board: boarded, boarder, boarding, boards, overboard
+- boarder: boarders
+- overboard: overboards
 ### Examples
 - At the age of ten, Gregor was dispatched to a boarding school of truly Dickensian awfulness.
 - Born in Paris, France, in 1927, to Russian parents, he was sent away to boarding school before joining the French army aged 17.
@@ -107,7 +123,10 @@ A wreck is something that's been destroyed. Your hair might be a wreck after a b
 - n: a serious accident (usually involving one or more vehicles)
 - v: smash or break forcefully
 ### Family
-wreck: wreckage, wrecked, wrecker, wrecking, wrecks+;wreckage: wreckages;wrecker: wreckers;wrecking: wreckings
+- wreck: wreckage, wrecked, wrecker, wrecking, wrecks+
+- wreckage: wreckages
+- wrecker: wreckers
+- wrecking: wreckings
 ### Examples
 - Let’s begin with the gruesome train wreck that was the presidential election.
 - Penn State coach James Franklin said the main goal for his special teams was “not allowing Adoree to wreck the game.”
@@ -119,7 +138,7 @@ Someone or something that inflicts pain or causes suffering can be described as 
 ### Definition
 - adj: (of persons or their actions) able or disposed to inflict pain or suffering
 ### Family
-cruel: crueler, cruelest, cruelly, cruelness
+- cruel: crueler, cruelest, cruelly, cruelness
 ### Examples
 - “Torture and cruel, inhuman, and degrading treatment is never a morally permissible option, even if lives depend on gaining information,” the manual said.
 - The team’s infamous “tuck rule” playoff loss to the Patriots 15 years ago seems so less cruel and unusual when comparing season-impaling events.
@@ -132,7 +151,7 @@ Jurisdiction means having a legal right over something. A court can have jurisdi
 - n: in law; the territory within which power can be exercised
 - n: (law) the right and power to interpret and apply the law
 ### Family
-jurisdiction: jurisdictional, jurisdictions
+- jurisdiction: jurisdictional, jurisdictions
 ### Examples
 - This creates a difficult patchwork of laws for businesses that operate in multiple jurisdictions, a problem that will likely worsen over the next four years.
 - Whether he's sentenced to death or not, it's unlikely Roof would be executed any time soon, in either jurisdiction.

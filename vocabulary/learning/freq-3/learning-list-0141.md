@@ -8,7 +8,38 @@ A sensation is a type of feeling, picked up by one of the five senses. Peppercor
 - n: a state of widespread public excitement and interest
 - n: someone who is dazzlingly skilled in any field
 ### Family
-sensation: aftersensation, sensational, sensations+;desensitise: desensitisation, desensitising;desensitize: desensitization, desensitized, desensitizes, desensitizing;hypersensitive: hypersensitively, hypersensitivity;insensibility: insensibilities;insensible: insensibility, insensibly;insensitive: insensitively, insensitiveness, insensitivity;insensitivity: insensitivities;nonsense: nonsenses, nonsensical;nonsensical: nonsensicalest, nonsensicality, nonsensically;oversensitive: oversensitively, oversensitiveness;sensational: sensationalism, sensationally, unsensational;sensationalism: sensationalisms, sensationalist, sensationalistic;sensationalist: sensationalists;sense: nonsense, sensation, sensed, senseless, senses, sensible, sensing, sensitive, sensor, sensorial, sensuous;senseless: senselessly, senselessness;sensibility: sensibilities;sensible: insensible, sensibilise, sensibility, sensibilize, sensibleness, sensibler, sensiblest, sensibly;sensitise: desensitise, sensitisation, sensitised, sensitiser, sensitising;sensitised: hypersensitised, supersensitised;sensitiser: sensitisers;sensitive: hypersensitive, insensitive, nonsensitive, oversensitive, sensitise, sensitively, sensitiveness, sensitives, sensitivity, sensitize, supersensitive;sensitiveness: sensitivenesses;sensitivity: sensitivities;sensitize: desensitize, sensitization, sensitized, sensitizer, sensitizes, sensitizing;sensitized: hypersensitized, supersensitized;sensitizer: sensitizers;sensor: sensors;sensorial: sensorially;sensuous: sensuously, sensuousness;supersensitive: supersensitively;unsensational: unsensationally
+- sensation: aftersensation, sensational, sensations+
+- desensitise: desensitisation, desensitising
+- desensitize: desensitization, desensitized, desensitizes, desensitizing
+- hypersensitive: hypersensitively, hypersensitivity
+- insensibility: insensibilities
+- insensible: insensibility, insensibly
+- insensitive: insensitively, insensitiveness, insensitivity
+- insensitivity: insensitivities
+- nonsense: nonsenses, nonsensical
+- nonsensical: nonsensicalest, nonsensicality, nonsensically
+- oversensitive: oversensitively, oversensitiveness
+- sensational: sensationalism, sensationally, unsensational
+- sensationalism: sensationalisms, sensationalist, sensationalistic
+- sensationalist: sensationalists
+- sense: nonsense, sensation, sensed, senseless, senses, sensible, sensing, sensitive, sensor, sensorial, sensuous
+- senseless: senselessly, senselessness
+- sensibility: sensibilities
+- sensible: insensible, sensibilise, sensibility, sensibilize, sensibleness, sensibler, sensiblest, sensibly
+- sensitise: desensitise, sensitisation, sensitised, sensitiser, sensitising
+- sensitised: hypersensitised, supersensitised
+- sensitiser: sensitisers
+- sensitive: hypersensitive, insensitive, nonsensitive, oversensitive, sensitise, sensitively, sensitiveness, sensitives, sensitivity, sensitize, supersensitive
+- sensitiveness: sensitivenesses
+- sensitivity: sensitivities
+- sensitize: desensitize, sensitization, sensitized, sensitizer, sensitizes, sensitizing
+- sensitized: hypersensitized, supersensitized
+- sensitizer: sensitizers
+- sensor: sensors
+- sensorial: sensorially
+- sensuous: sensuously, sensuousness
+- supersensitive: supersensitively
+- unsensational: unsensationally
 ### Examples
 - Romo returned to the roster in November as Prescott's backup, saying the rookie sensation "earned the right to be our quarterback."
 - The bland, mouth-coating sensation of the powdered beans with which they are dusted is pleasant, but not compelling.
@@ -22,7 +53,8 @@ A mast is a pole that rises vertically from a ship and supports the sails. Reall
 - n: nuts of forest trees (as beechnuts and acorns) accumulated on the ground
 - n: nuts of forest trees used as feed for swine
 ### Family
-mast: foremast, masts+;foremast: foremasts
+- mast: foremast, masts+
+- foremast: foremasts
 ### Examples
 - A replica ship — its three masts missing sails — sat atop electric candles on a wooden altar. 
 - A ship replica — its three masts missing sails — sat atop battery-powered candles on the wooden, altar-like installation.
@@ -35,7 +67,8 @@ To incur is to get or receive — and usually it's something you brought upon yo
 - v: make oneself subject to; bring upon oneself; become liable to
 - v: receive a specified treatment (abstract)
 ### Family
-incur: incuring, incurred, incurrence, incurring, incurs, incursion+;incursion: incursions
+- incur: incuring, incurred, incurrence, incurring, incurs, incursion+
+- incursion: incursions
 ### Examples
 - But he incurred huge debts because of the failure of his airline.
 - Meanwhile, community colleges in Tacoma and Spokane that volunteered to test the system are incurring overtime costs trying to get it to work.
@@ -51,7 +84,8 @@ To rub is to push firmly and repeatedly, like when you rub your sore foot. When 
 - n: the act of rubbing or wiping
 - n: an unforeseen obstacle
 ### Family
-rub: rubbed, rubbing, rubs+;rubbing: rubbings
+- rub: rubbed, rubbing, rubs+
+- rubbing: rubbings
 ### Examples
 - He rubbed his hands together and kept repeating those words: “It hurts.”
 - He settled each onto his workbench and rubbed beeswax into them until they darkened and turned shiny.
@@ -64,7 +98,7 @@ When you're sombre — or somber — you're acting glum, depressed, or sad. Bein
 - adj: grave or even gloomy in character
 - adj: lacking brightness or color; dull
 ### Family
-sombre: sombreness, sombrer, sombrest
+- sombre: sombreness, sombrer, sombrest
 ### Examples
 - It was a very quiet and sombre mood.
 - In the end, a whirlwind of classic space-opera motifs was able to achieve the same goal without undercutting the film’s uniquely sombre tone.
@@ -76,7 +110,8 @@ The adjective instinctive describes something you do without thinking about it. 
 ### Definition
 - adj: unthinking; prompted by (or as if by) instinct
 ### Family
-instinctive: instinctively+;instinct: instinctive, instinctly, instincts
+- instinctive: instinctively+
+- instinct: instinctive, instinctly, instincts
 ### Examples
 - Maybe he hopes Mr. Putin will see him as a kindred spirit: Big hombre, instinctive nationalist, zero use for liberals and their pieties.
 - Instead, some of them grew eccentric and adventurous, impulsive and experimental, instinctive and personal — at times, bordering on avant-garde.
@@ -89,7 +124,16 @@ Liberalism in politics favors social progress, through the agency of government,
 - n: a political orientation that favors social progress by reform and by changing laws rather than by revolution
 - n: an economic theory advocating free competition and a self-regulating market
 ### Family
-liberalism: liberalisms, liberalist, liberalistic, neoliberalism+;illiberal: illiberality, illiberally;illiberality: illiberalities;liberal: illiberal, liberalise, liberalism, liberality, liberalize, liberally, liberalness, liberals, neoliberal;liberalise: liberalisation, liberalised, liberalising;liberalist: liberalists;liberality: liberalities;liberalization: liberalizations;liberalize: liberalization, liberalized, liberalizes, liberalizing;neoliberal: neoliberals
+- liberalism: liberalisms, liberalist, liberalistic, neoliberalism+
+- illiberal: illiberality, illiberally
+- illiberality: illiberalities
+- liberal: illiberal, liberalise, liberalism, liberality, liberalize, liberally, liberalness, liberals, neoliberal
+- liberalise: liberalisation, liberalised, liberalising
+- liberalist: liberalists
+- liberality: liberalities
+- liberalization: liberalizations
+- liberalize: liberalization, liberalized, liberalizes, liberalizing
+- neoliberal: neoliberals
 ### Examples
 - The debate between liberalism and republicanism, especially active in the 1970s, eventually subsided.
 - The temptation will be, once again, to defend liberal values by reinforcing the institutions of liberalism.
@@ -103,7 +147,10 @@ Let's say you have a secret. You've promised not to tell, but there's something 
 - n: an irrational motive for performing trivial or repetitive actions, even against your will
 - n: an urge to do or say something that might be better left undone or unsaid
 ### Family
-compulsion: compulsions+;compel: compelled, compelling, compels, compulsion, compulsive;compelling: compellingly;compulsive: compulsively, compulsiveness, compulsives, compulsivity
+- compulsion: compulsions+
+- compel: compelled, compelling, compels, compulsion, compulsive
+- compelling: compellingly
+- compulsive: compulsively, compulsiveness, compulsives, compulsivity
 ### Examples
 - Older titles include such favorites as “Beverly Hills Cop” and “National Lampoon’s Animal House,” and the classic drama “Compulsion” with Orson Welles.
 - The problem, he continued, “is when the compulsion doesn’t achieve its purpose.”
@@ -114,7 +161,7 @@ compulsion: compulsions+;compel: compelled, compelling, compels, compulsion, com
 ### Definition
 - n: the shore of a sea or ocean regarded as a resort
 ### Family
-seaside: seasides
+- seaside: seasides
 ### Examples
 - "Local Time" and "Seaside Panic Room," which were independently released earlier in the year.
 - Visit an old mill town, a tired seaside resort or fishing port, a former coal-mining village, a faded dormitory settlement.
@@ -126,7 +173,13 @@ If you are persuasive, then you have a knack for getting people to do things. Yo
 ### Definition
 - adj: intended or having the power to induce action or belief
 ### Family
-persuasive: persuasively, persuasiveness, persuasivest, unpersuasive+;persuadable: unpersuadable;persuade: persuadable, persuaded, persuader, persuades, persuading, persuasible, persuasion, persuasive;persuaded: unpersuaded;persuader: persuaders;persuasion: persuasions;unpersuasive: unpersuasively, unpersuasiveness
+- persuasive: persuasively, persuasiveness, persuasivest, unpersuasive+
+- persuadable: unpersuadable
+- persuade: persuadable, persuaded, persuader, persuades, persuading, persuasible, persuasion, persuasive
+- persuaded: unpersuaded
+- persuader: persuaders
+- persuasion: persuasions
+- unpersuasive: unpersuasively, unpersuasiveness
 ### Examples
 - The most persuasive religious leaders will be those who, like Russell Moore, remain distinguishable from everyone else.
 - The CDC’s Brewer, however, said that Connor’s research — and other recent work highlighting the health risks of drinking — is persuasive.

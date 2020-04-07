@@ -4,7 +4,15 @@ In court, the person who gets sued or accused is called a defendant — they hav
 ### Definition
 - n: a person or institution against whom an action is brought in a court of law; the person being sued or accused
 ### Family
-defendant: co-defendant, defendants+;defence: defenceless, defences, self-defence;defenceless: defencelessly, defencelessness;defend: defence, defendable, defendant, defended, defender, defending, defends, defensible, defensive;defendable: undefendable;defender: defenders;defensible: defensibility, defensibly, indefensible;defensive: defensively, defensiveness, defensives;indefensible: indefensibly
+- defendant: co-defendant, defendants+
+- defence: defenceless, defences, self-defence
+- defenceless: defencelessly, defencelessness
+- defend: defence, defendable, defendant, defended, defender, defending, defends, defensible, defensive
+- defendable: undefendable
+- defender: defenders
+- defensible: defensibility, defensibly, indefensible
+- defensive: defensively, defensiveness, defensives
+- indefensible: indefensibly
 ### Examples
 - Trial is set to begin Feb. 6 in Las Vegas for the first six defendants in that case.
 - OWI defendants already face costs of about $10,000 - including fines, fees, attorney costs and insurance increases - for a conviction.
@@ -18,7 +26,9 @@ When a needle pulls thread through fabric and into a loop, that's a stitch. Ever
 - n: a sharp spasm of pain in the side resulting from running
 - v: fasten by sewing; do needlework
 ### Family
-stitch: stitched, stitcher, stitchery, stitches, stitching+;stitcher: stitchers;stitching: stitchings
+- stitch: stitched, stitcher, stitchery, stitches, stitching+
+- stitcher: stitchers
+- stitching: stitchings
 ### Examples
 - Hill received stitches for a lower lip laceration and underwent concussion testing.
 - He earned 4 cents for every label, 2 cents for stitching across the shoulders, 10 cents for a pocket.
@@ -30,7 +40,8 @@ A person's ethnicity is their ethnic traits, classification, or association. If 
 ### Definition
 - n: an ethnic quality or affiliation resulting from racial or cultural ties
 ### Family
-ethnicity: ethnicities+;ethnic: ethnical, ethnically, ethnicity, ethnics, multi-ethnic, multiethnic
+- ethnicity: ethnicities+
+- ethnic: ethnical, ethnically, ethnicity, ethnics, multi-ethnic, multiethnic
 ### Examples
 - Lane said categorizing foods by ethnicity is commonplace in the restaurant industry.
 - This was a year in which vulgarity, divisiveness and exclusion won – a triumph for dystopian visions of race, nation and ethnicity.
@@ -43,7 +54,9 @@ ethnicity: ethnicities+;ethnic: ethnical, ethnically, ethnicity, ethnics, multi-
 - n: active strength of body or mind
 - n: the activeness of an energetic personality
 ### Family
-dynamism: dynamical, dynamisms+;dynamic: dynamically, dynamics, dynamise, dynamism, dynamize, undynamic;dynamize: dynamized
+- dynamism: dynamical, dynamisms+
+- dynamic: dynamically, dynamics, dynamise, dynamism, dynamize, undynamic
+- dynamize: dynamized
 ### Examples
 - Arsenal appear more organised and tactically intelligent this season, while the use of Alexis Sánchez up front provides more dynamism.
 - Ranieri pumped his fists and hollered on the sidelines, exhorting his players to maintain their concentration and dynamism as City probed.
@@ -54,7 +67,7 @@ dynamism: dynamical, dynamisms+;dynamic: dynamically, dynamics, dynamise, dynami
 ### Definition
 - n: a patient who does not reside in the hospital where he is being treated
 ### Family
-outpatient: outpatients
+- outpatient: outpatients
 ### Examples
 - The system is merging the two hospitals into a $1 billion medical center focused heavily on outpatient care.
 - She is training to use the wearable robotic exoskeleton at North Mississippi Medical Center Outpatient Rehabilitation in preparation for using it at home.
@@ -74,7 +87,22 @@ A tonic is something, sometimes a medicine, that makes you feel better or restor
 - adj: employing variations in pitch to distinguish meanings of otherwise similar words
 - adj: of or relating to or producing normal tone or tonus in muscles or tissue
 ### Family
-tonic: supertonic, tonically, tonicity, tonics+;atonal: atonalism, atonality, atonally;atonalism: atonalistic;atonality: atonalities;intonate: intonated;overtone: overtones;semitone: semitones;supertonic: supertonics;tonal: atonal, tonality, tonally;tonality: tonalities;tone: intonate, overtone, semitone, tonal, toned, toneless, toner, tones, tonic, toning, undertone;toned: toneder, tonedest;toneless: tonelessly;toner: toners;tonicity: hypertonicity;undertone: undertones
+- tonic: supertonic, tonically, tonicity, tonics+
+- atonal: atonalism, atonality, atonally
+- atonalism: atonalistic
+- atonality: atonalities
+- intonate: intonated
+- overtone: overtones
+- semitone: semitones
+- supertonic: supertonics
+- tonal: atonal, tonality, tonally
+- tonality: tonalities
+- tone: intonate, overtone, semitone, tonal, toned, toneless, toner, tones, tonic, toning, undertone
+- toned: toneder, tonedest
+- toneless: tonelessly
+- toner: toners
+- tonicity: hypertonicity
+- undertone: undertones
 ### Examples
 - The bass instruments drone on the tonic while the violins weave sixteenth notes around the other notes of the triad.
 - As America reels from the rise of the alt-right, the film arrives as a hopeful tonic to liberal audiences.
@@ -86,7 +114,11 @@ Something divergent is moving away from what is expected. Two divergent paths ar
 - adj: tending to move apart in different directions
 - adj: diverging from another or from a standard
 ### Family
-divergent: divergence, divergently+;diverge: diverged, divergency, divergent, diverges, diverging;divergence: divergences;divergency: divergencies;diverging: divergingly
+- divergent: divergence, divergently+
+- diverge: diverged, divergency, divergent, diverges, diverging
+- divergence: divergences
+- divergency: divergencies
+- diverging: divergingly
 ### Examples
 - Such wildly divergent outcomes between campus and police investigations erode confidence in both systems.
 - “There are such divergent versions of the incident,” said Darnell Williams, of the Urban League of Eastern Massachusetts.
@@ -100,7 +132,14 @@ Weary as an adjective means "very tired or worn out," like weary students who fi
 - v: exhaust or get tired through overuse or great strain or stress
 - v: lose interest or become bored with something or somebody
 ### Family
-weary: overweary, unweary, wearied, wearier, wearies, weariest, wearily, weariness, wearisome, wearying, wearyingly+;overweary: overwearied, overwearying;unwearied: unweariedly;unweary: unwearily, unwearyingly;wearied: unwearied, weariedly;weariness: wearinesses;wearisome: wearisomely, wearisomest;wearying: unwearying
+- weary: overweary, unweary, wearied, wearier, wearies, weariest, wearily, weariness, wearisome, wearying, wearyingly+
+- overweary: overwearied, overwearying
+- unwearied: unweariedly
+- unweary: unwearily, unwearyingly
+- wearied: unwearied, weariedly
+- weariness: wearinesses
+- wearisome: wearisomely, wearisomest
+- wearying: unwearying
 ### Examples
 - He broke free for 57 yards in overtime to help beat the weary Bills.
 - But the 48-year-old is weary of dreaming about pit latrines when he sleeps during the day.
@@ -117,7 +156,10 @@ When you scrub something, you wash it forcefully. You might scrub your dirty bat
 - n: dense vegetation consisting of stunted trees or bushes
 - adj: (of domestic animals) not selectively bred
 ### Family
-scrub: scrubbed, scrubber, scrubbing, scrubby, scrubs+;scrubber: scrubbers;scrubbing: scrubbings;scrubby: scrubbier, scrubbiest, scrubbily, scrubbiness
+- scrub: scrubbed, scrubber, scrubbing, scrubby, scrubs+
+- scrubber: scrubbers
+- scrubbing: scrubbings
+- scrubby: scrubbier, scrubbiest, scrubbily, scrubbiness
 ### Examples
 - I use the grapefruit shower gel, and I’m obsessed with the brown sugar scrub.
 - I use it to scrub the inside of the toilet.
@@ -128,7 +170,7 @@ An adversary is someone who fights against or opposes another. In tennis, you st
 ### Definition
 - n: someone who offers opposition
 ### Family
-adversary: adversaries
+- adversary: adversaries
 ### Examples
 - Notably, Dortmund and Klimt were handed off Sunday to Art Sherman, trainer of California Chrome, Arrogate’s chief adversary for top horse honors.
 - I see absolutely no reason to trust an adversary sworn to destroy Israel and Judaism. Mr.

@@ -7,7 +7,7 @@ Utmost means "the greatest extent or amount." When you work as part as you possi
 - adj: (comparatives of `far') most remote in space or time or order
 - n: the greatest possible degree
 ### Family
-utmost
+- utmost
 ### Examples
 - Iraq’s Prime Minister Haider al-Abadi ordered the security forces to investigate the kidnapping and to “exert the utmost effort” to save her.
 - “It was of the utmost importance to begin construction of the dam as quickly as possible,” the official said.
@@ -21,7 +21,7 @@ A mainstay is something that acts as a source of support for a community. If you
 - n: a central cohesive source of support and stability
 - n: the forestay that braces the mainmast
 ### Family
-mainstay: mainstays
+- mainstay: mainstays
 ### Examples
 - It became a mainstay at beer keggers, where its size, typically 16 ounces, durability and opacity were prized attributes.
 - From an early age, she was a mainstay of the church choir in Ponca City, Okla., where her family moved in 1948.
@@ -33,7 +33,10 @@ Manic means frenzied. If you drink 18 cups of coffee in a single sitting and hav
 ### Definition
 - adj: affected with or marked by frenzy or mania uncontrolled by reason
 ### Family
-manic: mania, manically, maniclike+;mania: maniac, manias;maniac: maniacal, maniacs;maniacal: maniacally
+- manic: mania, manically, maniclike+
+- mania: maniac, manias
+- maniac: maniacal, maniacs
+- maniacal: maniacally
 ### Examples
 - Patient’s strong emotional ties with his manic phase were very evident.
 - “But normalcy is so much preferable, being able to remember what did — I tend to forget manic episodes.”
@@ -45,7 +48,7 @@ The waste water that flows down drains and through pipes from toilets and sinks 
 ### Definition
 - n: waste matter carried away in sewers or drains
 ### Family
-sewage: sewages
+- sewage: sewages
 ### Examples
 - And they’re pushing their leaders to deny connection to the public sewage system the mosque would need.
 - EPA Victoria publishes alerts on its website to help beachgoers around Port Phillip Bay avoid hazards like sewage spills and jellyfish.
@@ -60,7 +63,7 @@ To posit something is to assume or suggest that it is true. You can posit an ide
 - v: put (something somewhere) firmly
 - n: (logic) a proposition that is accepted as true in order to provide a basis for logical reasoning
 ### Family
-posit: posited, positing, posits
+- posit: posited, positing, posits
 ### Examples
 - It was during her autobiographical one-woman stage show, “Wishful Drinking,” that she first posited the idea for “Bipolar Pride Day.”
 - World Tour, Napier-Bell’s posited, would prove that the Communist Party welcomed visitors and help to lure foreign investment.
@@ -73,7 +76,7 @@ A catalyst is an event or person causing a change. Getting kicked out of your pa
 - n: (chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected
 - n: something that causes an important event to happen
 ### Family
-catalyst: catalysts
+- catalyst: catalysts
 ### Examples
 - “But our approach to transportation innovation is that we want to be a catalyst for new and interesting technologies.”
 - Haber discovered that was necessary as a catalyst to break the bonds between air's nitrogen atoms and persuade them to bond with hydrogen instead.
@@ -85,7 +88,9 @@ Susceptibility is a tendency to be affected by something. Some people have a gre
 ### Definition
 - n: the state of being susceptible; easily affected
 ### Family
-susceptibility: susceptibilities+;susceptible: insusceptible, susceptibility, susceptibleness, susceptibly, unsusceptible;unsusceptible: unsusceptibility
+- susceptibility: susceptibilities+
+- susceptible: insusceptible, susceptibility, susceptibleness, susceptibly, unsusceptible
+- unsusceptible: unsusceptibility
 ### Examples
 - Genetics are a key factor in the heritability of mental illness and susceptibility to addiction.
 - About 70% of the genetic loci that contribute to IBD susceptibility are thought to be shared with other complex diseases such as ankylosing spondylitis.
@@ -98,7 +103,12 @@ Something that's deceptive is not what it seems. A deceptive person will lead yo
 - adj: designed to deceive or mislead either deliberately or inadvertently
 - adj: causing one to believe what is not true or fail to believe what is true
 ### Family
-deceptive: deceptively, deceptiveness+;deceive: deceived, deceiver, deceives, deceiving, deception, deceptive, undeceive;deceiver: deceivers;deceiving: deceivingly;deception: deceptions, self-deception;undeceive: undeceived, undeceives, undeceiving
+- deceptive: deceptively, deceptiveness+
+- deceive: deceived, deceiver, deceives, deceiving, deception, deceptive, undeceive
+- deceiver: deceivers
+- deceiving: deceivingly
+- deception: deceptions, self-deception
+- undeceive: undeceived, undeceives, undeceiving
 ### Examples
 - The Deceptive Bike Box. A mild sensation online, this object from the oft-neglected packaging category may be the year’s most cunning design solution.
 - The administration was deceptive about the motives for the 2012 Benghazi attack.
@@ -112,7 +122,7 @@ A cornerstone is literally a stone at the corner of a building. It’s an import
 - n: a stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies
 - n: the fundamental assumptions from which something is begun or developed or calculated or explained
 ### Family
-cornerstone: cornerstones
+- cornerstone: cornerstones
 ### Examples
 - “At every event, I talk about how health is the cornerstone to our prosperity,” he said.
 - China’s government wants to turn the country into a soccer power, and a cornerstone of the plan is improving its top domestic league.
@@ -124,7 +134,11 @@ Resurgence means coming back. Biker jackets are always cool––but in certain 
 ### Definition
 - n: bringing again into activity and prominence
 ### Family
-resurgence: resurgences+;resurge: resurged, resurgent, resurges, resurging;resurgent: resurgence;surge: resurge, surged, surges, surging;surging: surginger, surgingly
+- resurgence: resurgences+
+- resurge: resurged, resurgent, resurges, resurging
+- resurgent: resurgence
+- surge: resurge, surged, surges, surging
+- surging: surginger, surgingly
 ### Examples
 - In particular, I hope that we see a resurgence in real reporters.
 - I’m hopeful that 2017 will see the flickering resurgence of outdoor civic spaces blossom into something more profound and lasting.

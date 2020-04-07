@@ -5,7 +5,8 @@ Use fervent to describe a person or thing that shows very strong feelings or ent
 - adj: characterized by intense emotion
 - adj: extremely hot
 ### Family
-fervent: fervency, ferventer, fervently+;fervency: fervencies
+- fervent: fervency, ferventer, fervently+
+- fervency: fervencies
 ### Examples
 - Indeed, she seems to be one of those people who toggle between highly enthusiastic and downright fervent.
 - A lot of his most fervent fans, especially among the younger men, especially online, are very explicitly anti-feminist.
@@ -24,7 +25,8 @@ fervent: fervency, ferventer, fervently+;fervency: fervencies
 - n: a sudden abrupt pull
 - n: a powerful small boat designed to pull or push larger ships
 ### Family
-tug: tugged, tugger, tugging, tugs+;tugger: tuggers
+- tug: tugged, tugger, tugging, tugs+
+- tugger: tuggers
 ### Examples
 - To deny the tug of that on all your most primitive instincts is to deny that you are human at all.
 - In addition, tidal friction caused by the moon’s gravity tugging on the Earth’s ocean also throws off the length of the planet’s rotation.
@@ -39,7 +41,9 @@ To intensify is to increase the intensity, force, or power of something. If you 
 - v: make the chemically affected part of (a negative) denser or more opaque in order produce a stronger contrast between light and dark
 - v: become more intense
 ### Family
-intensify: intensification, intensified, intensifier, intensifies, intensifying+;intensification: intensifications;intensifier: intensifiers
+- intensify: intensification, intensified, intensifier, intensifies, intensifying+
+- intensification: intensifications
+- intensifier: intensifiers
 ### Examples
 - Labor groups, frustrated by the Republican Congress, will no doubt intensify their push for city and county minimum wages instead.
 - It was as if their bodies were intensifying their effort to pull the contestants back to their original weight.
@@ -52,7 +56,8 @@ You can use the adjective vacant to describe something that is empty — an apar
 - adj: without an occupant or incumbent
 - adj: void of thought or knowledge
 ### Family
-vacant: vacancy, vacantly+;vacancy: vacancies
+- vacant: vacancy, vacantly+
+- vacancy: vacancies
 ### Examples
 - He said Mr. Obama might try instead to fill some of the five dozen other empty federal court judgeships that are vacant.
 - After Saturday’s march, the crosses will be placed in a vacant lot on the city’s South Side.
@@ -66,7 +71,13 @@ When you talk about a plural, you're talking about more than one. The plural for
 - adj: composed of more than one member, set, or kind
 - n: the form of a word that is used to denote more than one
 ### Family
-plural: pluralise, pluralism, plurality, pluralize, plurally, plurals+;pluralise: pluralisation, pluralising;pluralism: pluralist, pluralistic;pluralist: pluralists;pluralistic: pluralistically;plurality: pluralities;pluralize: pluralization, pluralized, pluralizes, pluralizing
+- plural: pluralise, pluralism, plurality, pluralize, plurally, plurals+
+- pluralise: pluralisation, pluralising
+- pluralism: pluralist, pluralistic
+- pluralist: pluralists
+- pluralistic: pluralistically
+- plurality: pluralities
+- pluralize: pluralization, pluralized, pluralizes, pluralizing
 ### Examples
 - The Vatican’s museum is so vast and diverse that it is a plural.
 - Data from Google Books show the plural word “elites” beginning to be used in about 1940, with the obviously pejorative “elitist” rising from about 1960.
@@ -78,7 +89,9 @@ Technically, serum is the part of blood that doesn’t clot, or any kind of “w
 ### Definition
 - n: an amber, watery fluid, rich in proteins, that separates out when blood coagulates
 ### Family
-serum: antiserum, sera, serous, serums+;antiserum: antiserums;serous: serously
+- serum: antiserum, sera, serous, serums+
+- antiserum: antiserums
+- serous: serously
 ### Examples
 - “We are here with my wife, waiting for the DNA results,” he said in an interview with the Italian daily Corriere della Sera.
 - Often there is a fundamental misunderstanding of what hypnosis is, said Sera Lavelle, a psychologist who incorporates hypnotherapy into her practice in New York.
@@ -89,7 +102,10 @@ serum: antiserum, sera, serous, serums+;antiserum: antiserums;serous: serously
 ### Definition
 - adj: recurring with measured regularity
 ### Family
-rhythmic: nonrhythmic, rhythmicity, unrhythmic+;rhythm: rhythmic, rhythmical, rhythms;rhythmical: rhythmically, unrhythmical;unrhythmic: unrhythmically
+- rhythmic: nonrhythmic, rhythmicity, unrhythmic+
+- rhythm: rhythmic, rhythmical, rhythms
+- rhythmical: rhythmically, unrhythmical
+- unrhythmic: unrhythmically
 ### Examples
 - As for rhythmic complexity, she probably had that nailed from the start.
 - Blurry, sustained tones that might be orchestral or electronic and quiet, shifting fields of static hover over muffled beats and subtly rhythmic washes of noise.
@@ -102,7 +118,11 @@ Amusement is a feeling of being entertained and happy. Just think about how you 
 - n: an activity that is diverting and that holds the attention
 - n: a feeling of delight at being entertained
 ### Family
-amusement: amusements+;amuse: amused, amusement, amuses, amusing, amusive;amused: amusedly;amusing: amusingest, amusingly;amusive: amusively
+- amusement: amusements+
+- amuse: amused, amusement, amuses, amusing, amusive
+- amused: amusedly
+- amusing: amusingest, amusingly
+- amusive: amusively
 ### Examples
 - Thanks to CSPAN, which let us publish their portraits for our own amusement, here’s a non-official power ranking, from worst to best:
 - Meanwhile, in the Kremlin, Putin is as securely in power as ever and must be watching with amusement.
@@ -114,7 +134,8 @@ If there's dysfunction, then things aren't working right. High blood pressure is
 ### Definition
 - n: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group
 ### Family
-dysfunction: dysfunctional, dysfunctions+;dysfunctional: dysfunctionally
+- dysfunction: dysfunctional, dysfunctions+
+- dysfunctional: dysfunctionally
 ### Examples
 - “There’s no dysfunction. Everybody is on the same page,” Pegula said.
 - Alexander Payne’s About Schmidt is a relentlessly dark film on the painful theme of family dysfunction.
@@ -126,7 +147,8 @@ Think of the noun, nostalgia, when you long for the good old days of the past.
 ### Definition
 - n: longing for something past
 ### Family
-nostalgia: nostalgias+;nostalgic: nostalgia, nostalgically
+- nostalgia: nostalgias+
+- nostalgic: nostalgia, nostalgically
 ### Examples
 - Mills met this swift rebuttal of his nostalgia with a game smile.
 - The appeal of the outdoor game lies in the sport's roots, anchored by romantic nostalgia and wintery charm.

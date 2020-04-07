@@ -5,7 +5,8 @@ Kinship is a family relationship. You might describe the wonderful, close kinshi
 - n: (anthropology) relatedness or connection by blood or marriage or adoption
 - n: a close connection marked by community of interests or similarity in nature or character
 ### Family
-kinship: kinships+;kin: kiner, kins, kinship
+- kinship: kinships+
+- kin: kiner, kins, kinship
 ### Examples
 - In Canada, the kinship between hockey and war is implicit.
 - Nevertheless, I’m glad that Stevie wrote it and that its chorus is still a signifier of kinship for so many black people.
@@ -20,7 +21,8 @@ If something is oblique, it has a slanting position or direction. In figurative 
 - n: a diagonally arranged abdominal muscle on either side of the torso
 - n: any grammatical case other than the nominative
 ### Family
-oblique: obliquely, obliqueness, obliques, obliquest, obliquity+;obliquity: obliquities
+- oblique: obliquely, obliqueness, obliques, obliquest, obliquity+
+- obliquity: obliquities
 ### Examples
 - The island is beautiful but oblique, sublime yet functionally inscrutable.
 - The hope was that the retreat might provide an occasion for the unpredictable, oblique, Bell Labs-ish exchanges that kept a mature company prolific.
@@ -30,7 +32,10 @@ oblique: obliquely, obliqueness, obliques, obliquest, obliquity+;obliquity: obli
 ### Definition
 - adj: consisting of small disconnected parts
 ### Family
-fragmentary: fragmentarily+;fragment: fragmental, fragmentary, fragmentation, fragmented, fragmenting, fragmentise, fragmentize, fragments;fragmentation: fragmentations;fragmentize: fragmentized, fragmentizing
+- fragmentary: fragmentarily+
+- fragment: fragmental, fragmentary, fragmentation, fragmented, fragmenting, fragmentise, fragmentize, fragments
+- fragmentation: fragmentations
+- fragmentize: fragmentized, fragmentizing
 ### Examples
 - A fragmentary, aphoristic examination of night in all its illuminating darkness from a Lebanese-American poet who is also an admired visual artist.
 - Despite reports of inconsistent witness testimony and fragmentary evidence, she was found guilty in November 2010.
@@ -53,7 +58,7 @@ If you’ve ever seen a piece of artwork where the picture is comprised of littl
 - adj: of or relating to Moses or the laws and writings attributed to him
 - n: a freeware browser
 ### Family
-Mosaic: Mosaics
+- Mosaic: Mosaics
 ### Examples
 - There is a sumptuous mosaic ceiling, with marble columns and copper clay friezes.
 - The reason for his newfound celebrity: His likeness is featured in a mosaic there.
@@ -69,7 +74,8 @@ Something that's enigmatic is tough to figure out. It's puzzling and even myster
 - adj: not clear to the understanding
 - adj: resembling an oracle in obscurity of thought
 ### Family
-enigmatic: enigmatically+;enigma: enigmas, enigmatic, enigmatical
+- enigmatic: enigmatically+
+- enigma: enigmas, enigmatic, enigmatical
 ### Examples
 - For a while, you may wonder if there is more to this enigmatic, epigrammatic movie than a string of clever allusions and linguistic puzzles.
 - The final surprise may be served up by that most enigmatic of metals—gold.
@@ -82,7 +88,9 @@ Scenery is a word for how a place looks, especially a beautiful, outdoorsy place
 - n: the appearance of a place
 - n: the painted structures of a stage set that are intended to suggest a particular locale
 ### Family
-scenery: sceneries+;scene: scenery, scenes, scenic;scenic: scenically
+- scenery: sceneries+
+- scene: scenery, scenes, scenic
+- scenic: scenically
 ### Examples
 - But as he surveyed the spectacular scenery, with Slieve League mountain in the background and the quaint little harbour, Byrne also struck a cautious note.
 - “I said, ‘Gee, this is all outdoor scenery,’ ” he recalled in a video interview years afterward, adding: “I said, ‘Gee, I’m a landscape painter!’
@@ -101,7 +109,7 @@ A rim is an edge. The rim of a mug is where you put your mouth to drink hot choc
 - v: roll around the rim of
 - v: furnish with a rim
 ### Family
-rim: rimless, rimmed, rimming, rims
+- rim: rimless, rimmed, rimming, rims
 ### Examples
 - The Wildcats also attacked the rim, repeatedly drew fouls and cashed in with a 21-for-23 performance at the free throw line.
 - Violet, green, or pink light darts around the top rim, then settles near the speaker.
@@ -114,7 +122,12 @@ An ethic is framework, or guiding principle, and it's often moral. People with a
 - n: the principles of right and wrong that are accepted by an individual or a social group
 - n: a system of principles governing morality and acceptable conduct
 ### Family
-ethic: ethics+;ethical: ethically, unethical;ethicism: ethicist;ethicist: ethicists;ethics: ethical, ethicism;unethical: unethically
+- ethic: ethics+
+- ethical: ethically, unethical
+- ethicism: ethicist
+- ethicist: ethicists
+- ethics: ethical, ethicism
+- unethical: unethically
 ### Examples
 - "Evidently, ethics are the first casualty of the new Republican Congress," Pelosi said in a statement.
 - “Evidently, ethics are the first casualty of the new Republican Congress.”
@@ -126,7 +139,7 @@ The adjective radiant is useful for describing anything that glows with warmth o
 ### Definition
 - adj: radiating or as if radiating light
 ### Family
-radiant: radiantly
+- radiant: radiantly
 ### Examples
 - The gigantism of the ’30s and ’40s lives on in the massing of all those radiant beauties, moving as one.
 - “Perhaps we focused too much on the radiant image of humanity, on the good,” he said in an interview broadcast Sunday.
@@ -139,7 +152,7 @@ Something that's Illustrious is well known or famous, leaving a trail of glory i
 - adj: widely known and esteemed
 - adj: having or conferring glory
 ### Family
-illustrious: illustriouser, illustriously, illustriousness
+- illustrious: illustriouser, illustriously, illustriousness
 ### Examples
 - He coasted across the finish line for one of the most stunning gulps of milk in the history of the illustrious race.
 - Actors were playing convicts who were bringing to life Shakespeare’s illustrious dramatis personae.

@@ -27,7 +27,10 @@ A crack is a very narrow space, chink, or opening. If you favorite mug has a cra
 - v: gain unauthorized access computers with malicious intentions
 - v: pass through (a barrier)
 ### Family
-crack: cracked, cracker, cracking, crackingly, cracks+;cracked: crackeder, crackedest;cracker: crackers;cracking: crackings
+- crack: cracked, cracker, cracking, crackingly, cracks+
+- cracked: crackeder, crackedest
+- cracker: crackers
+- cracking: crackings
 ### Examples
 - But Mr. Gensler soon developed a reputation for cracking down on Wall Street during his time at the agency.
 - Yet a member of Minju says a vote is now “too risky given the cracks”, including in its own ranks.
@@ -41,7 +44,8 @@ If you are exiled from a place, you must leave and not return. Such punishment i
 - n: a person who is voluntarily absent from home or country
 - v: expel from a country
 ### Family
-exile: exiled, exiles, exilic, exiling+;exilic: postexilic
+- exile: exiled, exiles, exilic, exiling+
+- exilic: postexilic
 ### Examples
 - By 1916 Sun was back in exile again, in Japan.
 - We sent them to Exiles Bar on U Street to see if they’d get right to the point.
@@ -57,7 +61,7 @@ A breach is a violation of a law, duty, or promise. If you'd contracted to mow y
 - n: a failure to perform some promised act or obligation
 - v: act in disregard of laws, rules, contracts, or promises
 ### Family
-breach: breached, breaches, breaching
+- breach: breached, breaches, breaching
 ### Examples
 - Netanyahu was investigated during his first term as Israeli prime minister in the late 1990s on allegations of fraud and breach of public trust.
 - A federal judge urged officials to consider breaching four of those dams on the Snake River.
@@ -70,7 +74,9 @@ Disclose means to reveal or expose information that has previously been kept a s
 - v: disclose to view as by removing a cover
 - v: make known to the public information that was previously known only to a few people or that was meant to be kept a secret
 ### Family
-disclose: disclosed, discloses, disclosing, disclosure+;disclosed: undisclosed;disclosure: disclosures
+- disclose: disclosed, discloses, disclosing, disclosure+
+- disclosed: undisclosed
+- disclosure: disclosures
 ### Examples
 - Parson released a statement Monday disclosing the surgery.
 - Branstad spokesman Ben Hammes says the group’s accountant is still gathering information on the contributors and plans to file an amended return disclosing them.
@@ -83,7 +89,7 @@ A foe is an enemy. Foes can range from an adversary of one person to that of a n
 - n: an armed adversary (especially a member of an opposing military force)
 - n: a personal enemy
 ### Family
-foe: foes
+- foe: foes
 ### Examples
 - Brewer criticized school busing, as did foes of desegregation, but he appeared moderate on race when compared with Wallace.
 - Even the eight ranked foes they played, the most in the country, lost by an average of more than 24 points.
@@ -98,7 +104,7 @@ A militant is someone who is engaged in a war or who acts aggressively for their
 - adj: showing a fighting disposition
 - n: a militant reformer
 ### Family
-militant: militance, militancy, militantly, militants
+- militant: militance, militancy, militantly, militants
 ### Examples
 - Meanwhile, Islamic State militants launched an attack on the main road from Baghdad to Mosul, a key military supply route.
 - In Istanbul, twin bombings killed 44 people outside a soccer stadium, in an attack claimed by Kurdish militants.
@@ -112,7 +118,11 @@ Temptation is something you want to have or to do, even though you know you shou
 - n: the desire to have or do something that you know you should avoid
 - n: something that seduces or has the quality to seduce
 ### Family
-temptation: temptations+;tempt: temptable, temptation, tempted, tempter, tempting, tempts;tempter: tempters;tempting: temptingly, temptingness, untempting;untempting: untemptingly
+- temptation: temptations+
+- tempt: temptable, temptation, tempted, tempter, tempting, tempts
+- tempter: tempters
+- tempting: temptingly, temptingness, untempting
+- untempting: untemptingly
 ### Examples
 - “We need to avoid the temptation of just saying ‘no’ for the sake of saying ‘no,’” Mock said.
 - The ones who do show up, especially before Dec. 8, seemed to be more amused by the temptation of free chicken.
@@ -126,7 +136,10 @@ If something is prejudicial towards a particular point of view, you can call it 
 - adj: devoted to a cause or party
 - n: a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries
 ### Family
-partisan: bipartisan, nonpartisan, partisanly, partisans, partisanship+;bipartisan: bipartisanly;nonpartisan: nonpartisans;partisanship: nonpartisanship, partisanships
+- partisan: bipartisan, nonpartisan, partisanly, partisans, partisanship+
+- bipartisan: bipartisanly
+- nonpartisan: nonpartisans
+- partisanship: nonpartisanship, partisanships
 ### Examples
 - Pelowski points to reforms that ended social interaction among lawmakers as the start of a partisan shift.
 - His hope, however far-fetched, was that Trump, by demolishing traditional Party ideologies, might somehow help people move beyond hardened partisan positions.
@@ -138,7 +151,8 @@ An important element in human chemistry, an enzyme is a protein manufactured by 
 ### Definition
 - n: any of several complex proteins that are produced by cells and act as catalysts in specific biochemical reactions
 ### Family
-enzyme: coenzyme, enzymatic, enzymes+;enzymatic: enzymatically, nonenzymatic
+- enzyme: coenzyme, enzymatic, enzymes+
+- enzymatic: enzymatically, nonenzymatic
 ### Examples
 - They included chest pain, shortness of breath, an elevated electrocardiogram and elevated cardiac enzyme levels.
 - Initial blood tests showed some troubling indicators, such as elevated readings of liver enzymes.
@@ -153,7 +167,8 @@ Erect means "build" or "upright." If you erect a house, you build it. If you sta
 - v: cause to rise up
 - adj: of sexual organs; stiff and rigid
 ### Family
-erect: erected, erecting, erection, erectly, erectness, erects, semi-erect, unerect+;erection: erections
+- erect: erected, erecting, erection, erectly, erectness, erects, semi-erect, unerect+
+- erection: erections
 ### Examples
 - Yet from pelvis to chest, their deportment is so unyieldingly erect that they might be wearing girdles.
 - So not long after the signs were erected, cherry pickers showed up and took down seven of them.

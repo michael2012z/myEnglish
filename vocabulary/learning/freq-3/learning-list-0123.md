@@ -8,7 +8,7 @@ An ensemble is a group of musicians, dancers, or actors who perform together, li
 - n: the chorus of a ballet company
 - n: a coordinated outfit (set of clothing)
 ### Family
-ensemble: ensembles
+- ensemble: ensembles
 ### Examples
 - Sure, this absurd ensemble movie was a bit of a dud.
 - “You rehearse all week, and then you shoot in front of an audience, like a play. It’s like being part of an ensemble theater company.”
@@ -25,7 +25,8 @@ A harness is a set of straps that are put on a horse so it can be hitched to a w
 - v: keep in check
 - v: exploit the power of
 ### Family
-harness: harnessed, harnesses, harnessing, unharness+;unharness: unharnessed, unharnesses, unharnessing
+- harness: harnessed, harnesses, harnessing, unharness+
+- unharness: unharnessed, unharnesses, unharnessing
 ### Examples
 - Cognitive behavioral therapy also harnesses the effectiveness of verbalizing positive thoughts.
 - But the people at the Postal Service were not the first to harness the power of the song.
@@ -38,7 +39,12 @@ If you come down with an illness, you might ask your doctor what your prognosis 
 - n: a prediction of the course of a disease
 - n: a prediction about how something (as the weather) will develop
 ### Family
-prognosis: prognoses, prognostic, prognosticate+;prognostic: prognostically, prognostics;prognosticate: prognosticated, prognosticates, prognosticating, prognostication, prognosticative, prognosticator;prognostication: prognostications;prognosticative: nonprognosticative;prognosticator: prognosticators
+- prognosis: prognoses, prognostic, prognosticate+
+- prognostic: prognostically, prognostics
+- prognosticate: prognosticated, prognosticates, prognosticating, prognostication, prognosticative, prognosticator
+- prognostication: prognostications
+- prognosticative: nonprognosticative
+- prognosticator: prognosticators
 ### Examples
 - “I think his prognosis because of them is extremely good.”
 - Bridgewater’s prognosis is uncertain after dislocating his left knee and tearing multiple ligaments, including the ACL, in practice in late August.
@@ -51,7 +57,7 @@ prognosis: prognoses, prognostic, prognosticate+;prognostic: prognostically, pro
 - adj: without payment
 - adj: engaged in as a pastime
 ### Family
-paid: paidest, prepaid, unpaid
+- paid: paidest, prepaid, unpaid
 ### Examples
 - According to paperwork he filed with the state, he was owed $16,230 in unpaid wages and overtime.
 - Federal law only requires up to 12 weeks of unpaid parental leave for the majority of government and private-sector employees.
@@ -65,7 +71,9 @@ If you find an antiquity, call a museum: you just found something very old. Anti
 - n: an artifact surviving from the past
 - n: extreme oldness
 ### Family
-antiquity: antiquities+;antiquate: antiquated, antiquates, antiquating;antique: antiquate, antiqued, antiquely, antiques, antiquing, antiquity
+- antiquity: antiquities+
+- antiquate: antiquated, antiquates, antiquating
+- antique: antiquate, antiqued, antiquely, antiques, antiquing, antiquity
 ### Examples
 - But many of those areas didn’t hold the high-value artifacts prized by collectors, fueling a rise in an industry of counterfeit antiquities. 
 - So far, she is the only Iraqi antiquities official to visit.
@@ -77,7 +85,7 @@ If you describe land as arable, it means that something can grow there. If you'r
 ### Definition
 - adj: (of farmland) capable of being farmed productively
 ### Family
-arable: arability
+- arable: arability
 ### Examples
 - The researchers looked at ten countries which together represent 54 percent of the total population of sub-Saharan Africa and 58 percent of its arable land.
 - With only 40% of the country’s arable land under cultivation, the obvious solution is to grow more food.
@@ -90,7 +98,10 @@ A congenial person is easy to get along with. If you're trying to decide which o
 - adj: suitable to your needs
 - adj: (used of plants) capable of cross-fertilization or of being grafted
 ### Family
-congenial: congeniality, congenially, congenialness, uncongenial+;congeniality: congenialities;uncongenial: uncongeniality, uncongenially;uncongeniality: uncongenialities
+- congenial: congeniality, congenially, congenialness, uncongenial+
+- congeniality: congenialities
+- uncongenial: uncongeniality, uncongenially
+- uncongeniality: uncongenialities
 ### Examples
 - But since the role she played best was herself, Zsa Zsa found her most congenial stage on variety shows, game shows and talk shows.
 - If that happens to be your mood, too, I can’t think of a more congenial place to eat well downtown.
@@ -105,7 +116,7 @@ To pinpoint something is to nail down its exact location.
 - n: a very brief moment
 - v: locate exactly
 ### Family
-pinpoint: pinpointed, pinpointing, pinpoints
+- pinpoint: pinpointed, pinpointing, pinpoints
 ### Examples
 - The source of Shore’s deferential personality is easy to pinpoint.
 - Local authorities in England said Friday that pop star George Michael’s autopsy is “inconclusive,” and further tests are needed to pinpoint his cause of death.
@@ -119,7 +130,11 @@ When you embark on something, you are starting it — and it's exciting. You mig
 - v: set out on (an enterprise or subject of study)
 - v: proceed somewhere despite the risk of possible dangers
 ### Family
-embark: disembark, embarkation, embarked, embarking, embarkment, embarks+;disembark: disembarkation, disembarked, disembarking, disembarkment, disembarks;disembarkation: disembarkations;embarkation: embarkations;embarkment: embarkments
+- embark: disembark, embarkation, embarked, embarking, embarkment, embarks+
+- disembark: disembarkation, disembarked, disembarking, disembarkment, disembarks
+- disembarkation: disembarkations
+- embarkation: embarkations
+- embarkment: embarkments
 ### Examples
 - During the past year, as America embarked on the treacherous task of selecting a new president, Canada selected, for the first time, a national bird.
 - Police commander John Rutagira told AFP news agency most passengers were drunk by the time they embarked on the boat.
@@ -131,7 +146,7 @@ embark: disembark, embarkation, embarked, embarking, embarkment, embarks+;disemb
 - n: the quality of being magnificent or splendid or grand
 - n: a quality that outshines the usual
 ### Family
-splendour: splendours
+- splendour: splendours
 ### Examples
 - But the ceremony wasn't being held in a throne room or a hall bedecked with ceremonial splendour.
 - Take the General Staff Building, a wing of the Hermitage, which rivals Tate Modern in London in its minimalist splendour.

@@ -5,7 +5,15 @@ The noun agony means acute pain — either mental or physical, but people often 
 - n: intense feelings of suffering; acute mental or physical pain
 - n: a state of acute pain
 ### Family
-agony: agonal, agonies, agonise, agonist, agonize+;agonise: agonised, agonises, agonising;agonised: agonisedly;agonising: agonisingly;agonist: agonistic, agonists;agonistic: agonistical;agonize: agonized, agonizes, agonizing;agonized: agonizedly;agonizing: agonizingly
+- agony: agonal, agonies, agonise, agonist, agonize+
+- agonise: agonised, agonises, agonising
+- agonised: agonisedly
+- agonising: agonisingly
+- agonist: agonistic, agonists
+- agonistic: agonistical
+- agonize: agonized, agonizes, agonizing
+- agonized: agonizedly
+- agonizing: agonizingly
 ### Examples
 - He pounded his fist on the field, in agony.
 - They used colorful metaphors describing death, agony and decay to describe the ties.
@@ -17,7 +25,7 @@ The word paucity means not enough of something. If you've got a paucity of good 
 ### Definition
 - n: an insufficient quantity or number
 ### Family
-paucity
+- paucity
 ### Examples
 - The plan will result in towering structures in the wrong places, a paucity of parks, crowded schools and a continuation of nightmare-inducing traffic.
 - Such questions run up against the central agony of writing about Bach: the paucity of biographical information.
@@ -30,7 +38,10 @@ If a fortune teller made a prophecy that you were going to become a billionaire 
 - n: a prediction uttered under divine inspiration
 - n: knowledge of the future (usually said to be obtained from a divine source)
 ### Family
-prophecy: prophecies, prophetical+;prophet: prophecy, prophetic;prophetic: prophetically, unprophetic;unprophetic: unprophetically
+- prophecy: prophecies, prophetical+
+- prophet: prophecy, prophetic
+- prophetic: prophetically, unprophetic
+- unprophetic: unprophetically
 ### Examples
 - You may find these are not happy prophecies, but please don’t disparage the messenger.
 - Such apocalyptic imagery may be more likely to become a self‐fulfilling prophecy than to rouse people to action.
@@ -43,7 +54,9 @@ To cater means to supply food for meetings or celebrations. If you're having a b
 - v: give what is desired or needed, especially support, food or sustenance
 - v: supply food ready to eat; for parties and banquets
 ### Family
-cater: catered, caterer, catering, caters+;caterer: caterers;catering: caterings
+- cater: catered, caterer, catering, caters+
+- caterer: caterers
+- catering: caterings
 ### Examples
 - The Lorraine, I learn, catered to black travelers at a time when the much of the South — including Memphis — remained segregated.
 - Fortunately for Helton, he discovered resources that catered to someone like him - a veteran looking to start a farm.
@@ -62,7 +75,7 @@ If you make cutoffs from jeans, the little white strings around the edges of the
 - n: a social group holding marginal or extreme views
 - n: one of the light or dark bands produced by the interference and diffraction of light
 ### Family
-fringe: fringed, fringes, fringing, fringy
+- fringe: fringed, fringes, fringing, fringy
 ### Examples
 - The Scottish government money will help mark the origins in 1947 of the Edinburgh International, Fringe and Film Festivals.
 - “In previous campaigns, there was a clear delineation between the serious main event and the reckless fringe, but not in this one,” Ronson writes.
@@ -73,7 +86,9 @@ fringe: fringed, fringes, fringing, fringy
 ### Definition
 - n: liquid excretory product
 ### Family
-urine: urinary, urinate, urines+;urinate: urinated, urinates, urinating, urination;urination: urinations
+- urine: urinary, urinate, urines+
+- urinate: urinated, urinates, urinating, urination
+- urination: urinations
 ### Examples
 - And shining a laser pointer at a plane, selling synthetic urine or engaging in bestiality are now officially banned in the state.
 - The fertility drug Pergonal was developed using gallons of nuns' urine.
@@ -86,7 +101,7 @@ urine: urinary, urinate, urines+;urinate: urinated, urinates, urinating, urinati
 - n: the rotating armature of a motor or generator
 - n: the revolving bar of a distributor
 ### Family
-rotor: rotors
+- rotor: rotors
 ### Examples
 - Wing’s new drone resembles a catamaran, with a 5-foot wing laid across two thin poles that each support two rotors and a fin.
 - It’s so short, though, you have to find takeoff and landing spots without tall grass, which can get caught in the rotors.
@@ -103,7 +118,7 @@ Brisk is one of those delightful words that sounds like what it means: quick, li
 - adj: imparting vitality and energy
 - v: become brisk
 ### Family
-brisk: brisked, brisken, brisker, briskest, brisking, briskly, briskness, brisks
+- brisk: brisked, brisken, brisker, briskest, brisking, briskly, briskness, brisks
 ### Examples
 - Few other drummers were as integral to the development of fusion as Mr. Mouzon, who combined volcanic intensity with a brisk attunement to dynamic flow.
 - "The brisk upswing in mortgage rates and not enough inventory dispirited some would-be buyers," the NAR said in a statement accompanying the figures.
@@ -115,7 +130,7 @@ Stationary means not moving. A stationary bike is the kind you find in the gym �
 - adj: not capable of being moved
 - adj: standing still
 ### Family
-stationary: stationariness
+- stationary: stationariness
 ### Examples
 - In an adjacent anteroom, there’s a stationary bike, 15-pound weights, a multipurpose fitness tower and a TRX suspension trainer hanging on the door.
 - The 33-year-old male victim was a passenger in a stationary car.

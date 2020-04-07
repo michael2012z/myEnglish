@@ -4,7 +4,7 @@ Whether you giggle or chuckle or snort with amusement, what you're producing is 
 - n: the activity of laughing; the manifestation of joy or mirth or scorn
 - n: the sound of laughing
 ### Family
-laughter: laughters
+- laughter: laughters
 ### Examples
 - Joe’s Pub, the glimmering nightclub at the Public Theater, bursts with laughter and cheers.
 - They leered across the bar throwing judgmental daggers at the laughter and sparkles.
@@ -18,7 +18,8 @@ To freelance is to work independently, instead of for a long-term employer. If y
 - adj: serving for wages in a foreign army
 - v: work independently and on temporary contracts rather than for a long-term employer
 ### Family
-freelance: freelanced, freelancer, freelances, freelancing+;freelancer: freelancers
+- freelance: freelanced, freelancer, freelances, freelancing+
+- freelancer: freelancers
 ### Examples
 - Freelance criminal hackers may also be getting nervous.
 - He hopes maybe it’ll help him get freelance work, says Barker.
@@ -36,7 +37,10 @@ A ballerina's quick, perfect steps? An antique porcelain teacup? A tiny sentence
 - n: subtly skillful handling of a situation
 - n: something considered choice to eat
 ### Family
-delicacy: delicacies, indelicacy+;delicate: delicacy, delicately, delicater, delicatest, indelicate, overdelicate;indelicacy: indelicacies;indelicate: indelicately
+- delicacy: delicacies, indelicacy+
+- delicate: delicacy, delicately, delicater, delicatest, indelicate, overdelicate
+- indelicacy: indelicacies
+- indelicate: indelicately
 ### Examples
 - Villafuerte offered roast pig, a popular Christmas delicacy locally called “lechon”, in evacuation centers to entice villagers to move to emergency shelters.
 - The holiday delicacy is lechon — whole suckling pig, a Filipino delicacy. 
@@ -48,7 +52,9 @@ If you’re making a list of all your teachers in the order you had them, from k
 ### Definition
 - adj: relating to or arranged according to temporal order
 ### Family
-chronological: chronologically+;chronologize: chronologizing;chronology: chronological, chronologies, chronologise, chronologize
+- chronological: chronologically+
+- chronologize: chronologizing
+- chronology: chronological, chronologies, chronologise, chronologize
 ### Examples
 - It's an interesting format, working back from the PGA Championship to the Masters in chronological order.
 - “This is a population that appears much older than its chronological age,” Armstrong said.
@@ -60,7 +66,11 @@ If you know the movie you are about to see is satirical, you expect it to make f
 ### Definition
 - adj: exposing human folly to ridicule
 ### Family
-satirical: satirically+;satire: satires, satiric, satirical, satirise, satirist, satirize;satirise: satirised, satirises, satirising;satirist: satirists;satirize: satirized, satirizes, satirizing
+- satirical: satirically+
+- satire: satires, satiric, satirical, satirise, satirist, satirize
+- satirise: satirised, satirises, satirising
+- satirist: satirists
+- satirize: satirized, satirizes, satirizing
 ### Examples
 - French satirical and investigative weekly Le Canard Enchaine last week published excerpts of what it said was a letter by U.S.
 - “On Christmas Eve, I sent a satirical tweet about an imaginary concept, ‘white genocide,'” he told the newspaper.
@@ -80,7 +90,9 @@ A salute is a sign of respect. A soldier may salute senior officers by raising a
 - v: honor with a military ceremony, as when honoring dead soldiers
 - n: a formal military gesture of respect
 ### Family
-salute: salutation, salutatory, saluted, saluter, salutes, saluting+;salutation: salutations;saluter: saluters
+- salute: salutation, salutatory, saluted, saluter, salutes, saluting+
+- salutation: salutations
+- saluter: saluters
 ### Examples
 - King, the flamboyant boxing promoter who hyped Mike Tyson’s 1980s fights, was also saluted by Trump as “a phenomenal person” despite a conviction for manslaughter.
 - Enrollees receive large signs emblazoned with the program’s logo - a silhouette of a saluting soldier.
@@ -94,7 +106,7 @@ In the military, a squadron is a small unit sent out from the main group to do s
 - n: a cavalry unit consisting of two or more troops and headquarters and supporting arms
 - n: an air force unit larger than a flight and smaller than a group
 ### Family
-squadron: squadrons
+- squadron: squadrons
 ### Examples
 - These recruits were intended to cycle through military-contracting companies and newly formed units called “science squadrons,” established on military bases around the country.
 - These recruits were intended to cycle through military contracting companies and newly formed units called “science squadrons,” established on military bases around the country.
@@ -109,7 +121,7 @@ Cereal is a grassy grain used for food, like corn or wheat. But if someone offer
 - n: a breakfast food prepared from grain
 - adj: made of grain or relating to grain or the plants that produce it
 ### Family
-cereal: cereally, cereals
+- cereal: cereally, cereals
 ### Examples
 - I referred darkly to an accident with a thresher, despite the fact the closest I’d ever got to harvesting cereals was bulk-buying Coco Pops.
 - Kind of like when you try a cereal sample at the grocery store then decide not to buy it.
@@ -122,7 +134,8 @@ cereal: cereally, cereals
 - n: a large open vessel for holding or storing liquids
 - n: the amount that a tub will hold
 ### Family
-tub: tubful, tubs+;tubful: tubfuls
+- tub: tubful, tubs+
+- tubful: tubfuls
 ### Examples
 - And unfinished attic space is becoming a large bathroom, complete with clawfoot tub salvaged from a previous restoration.
 - The song invites a delicious, almost luxuriant self-pity and melancholy that envelops you like a steaming tub filled with expensive bath oils.
@@ -134,7 +147,7 @@ Etiquette is a code of polite conduct. If you practice proper etiquette, you are
 ### Definition
 - n: rules governing socially acceptable behavior
 ### Family
-etiquette: etiquettes
+- etiquette: etiquettes
 ### Examples
 - It’s never acceptable etiquette to “wear” a napkin.
 - A lesson in selfie etiquette is followed by one on social networking.

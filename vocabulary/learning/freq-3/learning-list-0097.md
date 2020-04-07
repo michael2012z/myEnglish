@@ -8,7 +8,7 @@ The noun trunk refers to the main stem of a tree. If you want to make maple syru
 - n: luggage consisting of a large strong case used when traveling or for storage
 - n: a long flexible snout as of an elephant
 ### Family
-trunk: trunks
+- trunk: trunks
 ### Examples
 - The driver was charged with vehicular homicide; a judge ordered him to keep his cellphone in the trunk, pending trial.
 - Their trunks, ten to fifteen feet in diameter, were braced with massive buttresses and knees.
@@ -20,7 +20,12 @@ Moist things feel damp when you touch them — they're just a little bit wet. Yo
 ### Definition
 - adj: slightly wet
 ### Family
-moist: moisten, moister, moistly, moistness+;moisten: moistened, moistener, moistening, moistens, moisture;moistener: moisteners;moistening: moistenings;moisture: moistures, moisturise, moisturize;moisturize: moisturized, moisturizes, moisturizing
+- moist: moisten, moister, moistly, moistness+
+- moisten: moistened, moistener, moistening, moistens, moisture
+- moistener: moisteners
+- moistening: moistenings
+- moisture: moistures, moisturise, moisturize
+- moisturize: moisturized, moisturizes, moisturizing
 ### Examples
 - Bite for bite, it’s delicate, extremely mild and moist.
 - Keep the plant on a moist pebble tray to provide extra humidity, and try to keep temperatures above 55 degrees.
@@ -32,7 +37,8 @@ Intricate things are complex and have many elements: they're not simple. Think o
 ### Definition
 - adj: having many complexly arranged elements; elaborate
 ### Family
-intricate: intricacy, intricately+;intricacy: intricacies
+- intricate: intricacy, intricately+
+- intricacy: intricacies
 ### Examples
 - A lot of intricate craft pieces, artwork, paintings.
 - I’ve mentioned quite a few drivers, but transit users also provided reality checks during some intricate discussions of Metro financing, leadership and strategy.
@@ -44,7 +50,11 @@ If you know the definition of this noun by quick insight without relying on reas
 - n: instinctive knowing (without the use of rational processes)
 - n: an impression that something might be the case
 ### Family
-intuition: intuitionism, intuitions+;counterintuitive: counterintuitively;intuit: intuited, intuiting, intuition, intuitive, intuits;intuitionism: intuitionist;intuitive: counterintuitive, intuitively
+- intuition: intuitionism, intuitions+
+- counterintuitive: counterintuitively
+- intuit: intuited, intuiting, intuition, intuitive, intuits
+- intuitionism: intuitionist
+- intuitive: counterintuitive, intuitively
 ### Examples
 - Finally, after several hours, he stopped; his intuition, aided by the pressure gauges, told him that the cavity was full.
 - Increasingly, however, research confirms our deepest intuition: Human connection lies at the heart of human well-being.
@@ -59,7 +69,7 @@ Today, most of the time someone or something is described as dumb when it shows 
 - adj: temporarily incapable of speaking
 - adj: unable to speak because of hereditary deafness
 ### Family
-dumb: dumber, dumbest, dumbly, dumbness
+- dumb: dumber, dumbest, dumbly, dumbness
 ### Examples
 - Mills said, “That’s where Miranda’s a savior. I felt dumb that I was falling for the competition.”
 - Mr. Obama was a state senator from Illinois in October 2002 when he famously condemned Iraq as a “dumb war.”
@@ -78,7 +88,9 @@ To chatter is to talk lightly or casually — to shoot the breeze or chitchat. Y
 - n: the rapid series of noises made by the parts of a machine
 - v: cut unevenly with a chattering tool
 ### Family
-chatter: chattered, chatterer, chattering, chatters+;chatterer: chatterers;chattering: chatterings
+- chatter: chattered, chatterer, chattering, chatters+
+- chatterer: chatterers
+- chattering: chatterings
 ### Examples
 - The selection contains more of Chan’s paintings, which tend to be small; some hang over Baines pieces to spark visual chatter.
 - You’ve seen and heard the reports and the chatter about the long list of well-known people who died in 2016.
@@ -90,7 +102,9 @@ The noun idiot means a person of lower-than-normal intelligence or someone who d
 ### Definition
 - n: a person of subnormal intelligence
 ### Family
-idiot: idiocy, idiotic, idiots+;idiocy: idiocies;idiotic: idiotically
+- idiot: idiocy, idiotic, idiots+
+- idiocy: idiocies
+- idiotic: idiotically
 ### Examples
 - “I want to be here. I’m not an idiot,” he said Monday.
 - John Tortorella sprays Champagne in eyes of every idiot reporter.
@@ -102,7 +116,7 @@ A thief is someone who steals something. A thief can be anything from a cyberspa
 ### Definition
 - n: a criminal who takes property belonging to someone else with the intention of keeping it or selling it
 ### Family
-thief: thiefs, thieves
+- thief: thiefs, thieves
 ### Examples
 - But Marvin Williams, a crime prevention officer in the department, says thieves are more likely to target businesses they perceive as vulnerable.
 - I’m a preschool teacher and I hope the thieves enjoy the greeting cards and gift cards the kids and families got me for Christmas.
@@ -117,7 +131,9 @@ A penalty is a punishment or consequence for doing something wrong, such as havi
 - n: a payment required for not fulfilling a contract
 - n: the act of punishing
 ### Family
-penalty: penalise, penalize, penalties+;penalise: penalisation, penalised, penalises, penalising;penalize: penalization, penalized, penalizes, penalizing
+- penalty: penalise, penalize, penalties+
+- penalise: penalisation, penalised, penalises, penalising
+- penalize: penalization, penalized, penalizes, penalizing
 ### Examples
 - The start of the penalty phase, originally set for Tuesday, was pushed back a day.
 - For instance, that bill eliminated the tax penalties, tax credits and cost-sharing subsidies central to the ACA’s individual mandate to purchase health insurance.
@@ -134,7 +150,7 @@ penalty: penalise, penalize, penalties+;penalise: penalisation, penalised, penal
 - v: move in a way resembling that of a plow cutting into or going through the soil
 - n: a group of seven bright stars in the constellation Ursa Major
 ### Family
-Plough: Ploughs
+- Plough: Ploughs
 ### Examples
 - On 20 December a lorry, driven by Anis Amri, ploughed into a Christmas market in Berlin, killing 12 people and injuring 48.
 - She was in a car accident – a car ploughed into her at 40mph – and ruptured her spine.

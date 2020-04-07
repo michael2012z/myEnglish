@@ -3,7 +3,7 @@ A long hallway, especially one that has rooms opening up into it, is called a co
 ### Definition
 - n: an enclosed passageway; rooms usually open onto it
 ### Family
-corridor: corridors
+- corridor: corridors
 ### Examples
 - Among the 4,000 sites are fishing and hunting processing areas, ancestral village areas and tribal corridors.
 - The fast-paced techno music played in a second-floor room, up a dim stairwell and down a long corridor.
@@ -17,7 +17,11 @@ A precaution is a careful action you make in advance. You might want to take the
 - n: the trait of practicing caution in advance
 - n: judiciousness in avoiding harm or danger
 ### Family
-precaution: precautional, precautionary, precautions+;caution: cautionary, cautioned, cautioning, cautions, cautious, incaution, precaution;cautious: cautiously, cautiousness, incautious, overcautious;incautious: incautiously, incautiousness;overcautious: overcautiously
+- precaution: precautional, precautionary, precautions+
+- caution: cautionary, cautioned, cautioning, cautions, cautious, incaution, precaution
+- cautious: cautiously, cautiousness, incautious, overcautious
+- incautious: incautiously, incautiousness
+- overcautious: overcautiously
 ### Examples
 - Officials say two more horses’ temperatures spiked Monday, and the Louisiana Department of Agriculture expanded the quarantine as a precaution.
 - Play continued on the field while the huge banner was unfurled, but rows below were cleared of fans as a precaution.
@@ -31,7 +35,7 @@ A cohort is a group of people who are around the same age, like a cohort of coll
 - n: a company of companions or supporters
 - n: a group of people having approximately the same age
 ### Family
-cohort: cohorts
+- cohort: cohorts
 ### Examples
 - Later still, a new cohort of scholars, influenced by postmodernism and cultural studies, looked at how human consciousness is shaped by language.
 - But, I wish Jews would learn from their Christian cohorts and ask directly, “What would God say?”
@@ -48,7 +52,12 @@ Secular things are not religious. Anything not affiliated with a church or faith
 - adj: of or relating to clergy not bound by monastic vows
 - adj: characteristic of those who are not members of the clergy
 ### Family
-secular: secularise, secularism, secularize, secularly, seculars+;secularise: secularisation, secularised, secularising;secularism: secularist;secularist: secularists;secularization: secularizations;secularize: secularization, secularized, secularizes, secularizing
+- secular: secularise, secularism, secularize, secularly, seculars+
+- secularise: secularisation, secularised, secularising
+- secularism: secularist
+- secularist: secularists
+- secularization: secularizations
+- secularize: secularization, secularized, secularizes, secularizing
 ### Examples
 - As a former secular Jew who converted to Christianity, I understand the temptation of such skepticism.
 - “Did God show up? In watching the news after the election, the secular media keep asking ‘How did this happen?’
@@ -68,7 +77,7 @@ A fin is the part of a fish's body that protrudes into the water and helps it ba
 - n: one of a pair of decorations projecting above the rear fenders of an automobile
 - n: the cardinal number that is the sum of four and one
 ### Family
-fin: finable, finned, finning, fins
+- fin: finable, finned, finning, fins
 ### Examples
 - A gene involved in the development of pelvic fins in other fish and of legs in humans was absent in sea horses.
 - A type of octopus without fins, it crawls along the seafloor.
@@ -80,7 +89,12 @@ Repressive things keep people from doing or saying what they want. Repressive co
 ### Definition
 - adj: restrictive of action
 ### Family
-repressive: repressively+;repress: repressed, represser, represses, repressing, repression, repressive;repressed: repressedly, unrepressed;represser: repressers;repressing: repressingly;repression: repressions
+- repressive: repressively+
+- repress: repressed, represser, represses, repressing, repression, repressive
+- repressed: repressedly, unrepressed
+- represser: repressers
+- repressing: repressingly
+- repression: repressions
 ### Examples
 - If the readout of your model is that North Carolina is as repressive as Cuba, maybe the problem is your model rather than North Carolina.
 - Both used their fame to critique fame—a repressive system that kept their real selves from the world.
@@ -92,7 +106,8 @@ It's everywhere! It's everywhere! When something seems like it's present in all 
 ### Definition
 - adj: being present everywhere at once
 ### Family
-ubiquitous: ubiquitously, ubiquitousness+;ubiquity: ubiquities, ubiquitous
+- ubiquitous: ubiquitously, ubiquitousness+
+- ubiquity: ubiquities, ubiquitous
 ### Examples
 - As a ubiquitous, cross-border commons, it often defies notions of state sovereignty.
 - The second ugly event is the continuation of the ubiquitous misinformation on climate change.
@@ -117,7 +132,8 @@ A pit is a hole in the ground, like the one in Poe’s “The Pit and the Pendul
 - n: the hard inner (usually woody) layer of the pericarp of some fruits (as peaches or plums or cherries or olives) that contains the seed
 - v: remove the pits from
 ### Family
-pit: pits, pitted, pitting+;pitting: pittings
+- pit: pits, pitted, pitting+
+- pitting: pittings
 ### Examples
 - The restrictions include bans on wood in fireplaces and outdoor fire pits.
 - The biggest game of the week pits the Packers against the Lions for the NFC North title.
@@ -130,7 +146,11 @@ When you conceal something, you are keeping it from being discovered: “To avoi
 - v: prevent from being seen or discovered
 - v: hold back; keep from being perceived by others
 ### Family
-conceal: concealed, concealing, concealment, conceals+;concealed: concealedly, unconcealed;concealing: concealingly, concealings;concealment: concealments;unconcealed: unconcealedly
+- conceal: concealed, concealing, concealment, conceals+
+- concealed: concealedly, unconcealed
+- concealing: concealingly, concealings
+- concealment: concealments
+- unconcealed: unconcealedly
 ### Examples
 - Mr. Pratt also vouched for the concealed carry legislation from Rep. Richard Hudson, the North Carolina Republican who introduced the bill in the House.
 - People are either concealed in shadow or seen at some distance, as lonely silhouettes in a big, uncaring land.
@@ -143,7 +163,14 @@ Nuclear bombs are indiscriminate, as are earthquakes. They affect everyone in th
 - adj: failing to make or recognize distinctions
 - adj: not marked by fine distinctions
 ### Family
-indiscriminate: indiscriminately, indiscriminatingly+;discriminate: discriminable, discriminated, discriminately, discriminates, discriminating, discriminatingly, discrimination, discriminative, discriminator, discriminatory, indiscriminate;discriminating: indiscriminating, undiscriminating;discrimination: discriminations, non-discrimination;discriminative: discriminatively;discriminator: discriminators;discriminatory: discriminatorily;undiscriminating: undiscriminatingly
+- indiscriminate: indiscriminately, indiscriminatingly+
+- discriminate: discriminable, discriminated, discriminately, discriminates, discriminating, discriminatingly, discrimination, discriminative, discriminator, discriminatory, indiscriminate
+- discriminating: indiscriminating, undiscriminating
+- discrimination: discriminations, non-discrimination
+- discriminative: discriminatively
+- discriminator: discriminators
+- discriminatory: discriminatorily
+- undiscriminating: undiscriminatingly
 ### Examples
 - In October of 1992, heavily armed military police stormed the penitentiary to quell a riot, spurring charges of indiscriminate killing by authorities.
 - Mosul’s Sunnis long complained that the Shiite-dominated security forces treated them with suspicion and targeted them in indiscriminate crackdowns.

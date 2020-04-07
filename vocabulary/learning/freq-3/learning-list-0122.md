@@ -5,7 +5,19 @@ Things that are interchangeable can replace each other easily. Interchangeable o
 - adj: capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability
 - adj: (mathematics, logic) such that the arguments or roles can be interchanged
 ### Family
-interchangeable: interchangeability, interchangeableness, interchangeably, noninterchangeable+;change: changeable, changed, changeful, changeless, changer, changes, changing, counterchange, interchange;changeable: changeability, changeableness, changeablest, changeably, unchangeable;changed: unchanged;changeful: changefully, changefulness;changeless: changelessly, changelessness;changer: changers;changing: changingly, unchanging;counterchange: counterchanged, counterchanges, counterchanging;interchange: interchangeable, interchanged, interchanges, interchanging;unchangeable: unchangeability, unchangeableness, unchangeably;unchanged: unchangedly;unchanging: unchangingly, unchangingness
+- interchangeable: interchangeability, interchangeableness, interchangeably, noninterchangeable+
+- change: changeable, changed, changeful, changeless, changer, changes, changing, counterchange, interchange
+- changeable: changeability, changeableness, changeablest, changeably, unchangeable
+- changed: unchanged
+- changeful: changefully, changefulness
+- changeless: changelessly, changelessness
+- changer: changers
+- changing: changingly, unchanging
+- counterchange: counterchanged, counterchanges, counterchanging
+- interchange: interchangeable, interchanged, interchanges, interchanging
+- unchangeable: unchangeability, unchangeableness, unchangeably
+- unchanged: unchangedly
+- unchanging: unchangingly, unchangingness
 ### Examples
 - For a warm hiking boot with cleats, Anchorage stores offer Korkers, boots with interchangeable outer soles.
 - For many employers, contingent—or “gig economy”—workers are interchangeable and disposable.
@@ -18,7 +30,7 @@ A pedestrian is someone traveling by foot. If you're walking, you might get angr
 - n: a person who travels by foot
 - adj: lacking wit or imagination
 ### Family
-pedestrian: pedestrianly, pedestrians
+- pedestrian: pedestrianly, pedestrians
 ### Examples
 - In Northwest Washington recently, a Starship robot drew some attention as it scooted around pedestrians and bicyclists on a busy sidewalk.
 - The San Ysidro plan also calls for new bicycle lanes and pedestrian improvements to encourage people to stop commuting by car.
@@ -29,7 +41,11 @@ The word conversely is an adverb that means "the opposite" or "on the other hand
 ### Definition
 - adv: with the terms of the relation reversed
 ### Family
-converse: conversation, conversed, conversely, converses, conversing+;conversation: conversational, conversationalist, conversationist, conversations;conversational: conversationally;conversationalist: conversationalists;conversationist: conversationists
+- converse: conversation, conversed, conversely, converses, conversing+
+- conversation: conversational, conversationalist, conversationist, conversations
+- conversational: conversationally
+- conversationalist: conversationalists
+- conversationist: conversationists
 ### Examples
 - “Conversely, the disaster showed what kind of spirit exists in East Tennessee and across the state, as the outpouring of support for Sevier County continues.”
 - Conversely, a green canopy isn’t a sign of a tree’s health, Green said.
@@ -46,7 +62,10 @@ When something — like a movie or piece of music — reaches its most important
 - n: arrangement of clauses in ascending order of forcefulness
 - v: end, especially to reach a final or climactic stage
 ### Family
-climax: anticlimax, climactic, climaxed, climaxes, climaxing+;anticlimactic: anticlimactical, anticlimactically;anticlimax: anticlimactic, anticlimaxes;climactic: climactically
+- climax: anticlimax, climactic, climaxed, climaxes, climaxing+
+- anticlimactic: anticlimactical, anticlimactically
+- anticlimax: anticlimactic, anticlimaxes
+- climactic: climactically
 ### Examples
 - That really for me became the emotional climax of the whole film.
 - The German beat the Briton by five points after a long battle over 21 races climaxed in Abu Dhabi on Sunday.
@@ -59,7 +78,8 @@ The adjective primal describes something that's essential or basic, like the pri
 - adj: having existed from the beginning; in an earliest or original stage or state
 - adj: serving as an essential component
 ### Family
-primal: primality, primally+;primality: primalities
+- primal: primality, primally+
+- primality: primalities
 ### Examples
 - He’s attracted to her “wildly freestyle” spirit and “primal, instinctive energy,” he said, a contrast to his own more controlled manner.
 - After Donald Trump’s election, some universities echoed with primal howls.
@@ -73,7 +93,8 @@ It's one thing to be famous. It's another thing altogether to be legendary, or l
 - adj: so celebrated as to having taken on the nature of a legend
 - adj: celebrated in fable or legend
 ### Family
-legendary: legendarily+;legend: legendary, legends
+- legendary: legendarily+
+- legend: legendary, legends
 ### Examples
 - But the founders also consciously rejected some of the less appealing aspects of life at Apple, like its legendary secrecy and top-down management style.
 - "Legendary player," said fellow Ravens wide receiver Mike Wallace.
@@ -86,7 +107,11 @@ To be venerable is to be admired and respected because of your status or age. Yo
 - adj: profoundly honored
 - adj: impressive by reason of age
 ### Family
-venerable: venerability, venerableness, venerablest, venerably+;venerability: venerabilities;venerate: venerable, venerated, venerates, venerating, veneration, venerator;veneration: venerations;venerator: venerators
+- venerable: venerability, venerableness, venerablest, venerably+
+- venerability: venerabilities
+- venerate: venerable, venerated, venerates, venerating, veneration, venerator
+- veneration: venerations
+- venerator: venerators
 ### Examples
 - USC will also reap the usual benefits from being at home during bowl week before playing at the venerable stadium 14 miles from campus.
 - This venerable champagne house was celebrating the discovery of several hundred old bottles forgotten in its cellars.
@@ -99,7 +124,8 @@ Someone who's aloof isn't warm and friendly, instead being distant and reserved.
 - adj: remote in manner
 - adv: in an aloof manner
 ### Family
-aloof: aloofly, aloofness+;aloofness: aloofnesses
+- aloof: aloofly, aloofness+
+- aloofness: aloofnesses
 ### Examples
 - Her critics saw an authoritarian streak in her aloof governing style.
 - In 2016, new wave conservative media outlets like Breitbart have gained trust with their audience by painting traditional news sources as snooty and aloof.
@@ -113,7 +139,8 @@ Rudimentary means basic, or at a very early stage. The test should be easy: it r
 - adj: not fully developed in mature animals
 - adj: being or involving basic facts or principles
 ### Family
-rudimentary: rudimentarily+;rudiment: rudimentary, rudiments
+- rudimentary: rudimentarily+
+- rudiment: rudimentary, rudiments
 ### Examples
 - Indeed, Schacter’s own work and contributions from other laboratories suggest that people with amnesia aren’t able to do the most rudimentary exercises in future projection.
 - Not long ago, voice recognition was comically rudimentary.

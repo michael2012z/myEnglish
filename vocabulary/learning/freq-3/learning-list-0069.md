@@ -8,7 +8,8 @@ A flank is the side of something, whether of beef or a military formation.
 - n: a subfigure consisting of a side of something
 - v: be located at the sides of something or somebody
 ### Family
-flank: flanked, flanker, flanking, flanks+;flanker: flankers
+- flank: flanked, flanker, flanking, flanks+
+- flanker: flankers
 ### Examples
 - Its scoreboard is flanked by American and Israeli flags.
 - Carsten Kammlott celebrates in jubilation, astounded at what he’s just done, after impeccably meeting a cross from the right flank.
@@ -20,7 +21,7 @@ The noun meadow is another word for a hayfield, but offers a much more picturesq
 ### Definition
 - n: a field where grass or alfalfa are grown to be made into hay
 ### Family
-meadow: meadows
+- meadow: meadows
 ### Examples
 - Meadow and Morrow were found by wardens Monday.
 - There are three tracks that are considered the holy trinity of bridge jumping: Charles Town and Mountaineer in West Virginia and Prairie Meadows in Iowa.
@@ -39,7 +40,11 @@ You can see the word "incline" inside inclination, which clues you in to the fac
 - n: an attitude of mind especially one that favors one alternative over others
 - n: that toward which you are inclined to feel a liking
 ### Family
-inclination: inclinations+;disinclination: disinclinations;disincline: disinclination, disinclined, disinclines, disinclining;incline: disincline, inclination, inclined, inclines, inclining;inclining: inclinings
+- inclination: inclinations+
+- disinclination: disinclinations
+- disincline: disinclination, disinclined, disinclines, disinclining
+- incline: disincline, inclination, inclined, inclines, inclining
+- inclining: inclinings
 ### Examples
 - If some of these inclinations suggest a West Coast flavor, it is dissipating.
 - Nonetheless, in those days of compulsory patriotic flag-waving the media showed no inclination to be even slightly skeptical, and the result was catastrophic.
@@ -54,7 +59,7 @@ Gravel is very small, irregular pieces of rock and stone. Your gravel driveway m
 - v: cause annoyance in; disturb, especially by minor irritations
 - v: be a mystery or bewildering to
 ### Family
-gravel: graveled, graveling, gravelled, gravelling, gravelly, gravels
+- gravel: graveled, graveling, gravelled, gravelling, gravelly, gravels
 ### Examples
 - When the crash occurred, Grogan was driving 50 mph down a gravel road.
 - His voice is like gravel on a Queens road.
@@ -66,7 +71,9 @@ Bliss is a state of complete happiness or joy. Marriage is often associated with
 ### Definition
 - n: a state of extreme happiness
 ### Family
-bliss: blisses, blissful+;blissful: blissfulest, blissfully, blissfulness;blissfulness: blissfulnesses
+- bliss: blisses, blissful+
+- blissful: blissfulest, blissfully, blissfulness
+- blissfulness: blissfulnesses
 ### Examples
 - A soggy version only slightly diminished one evening’s postprandial bliss.
 - By meticulously choreographing a pastiche of domestic bliss and quirky invention, Zuck’s “people” appear to be trying to shift the attention away from 2016’s tribulations.
@@ -81,7 +88,7 @@ The noun pedigree refers to the genetic background of an animal, although it is 
 - n: line of descent of a purebred animal
 - adj: having a list of ancestors as proof of being a purebred animal
 ### Family
-pedigree: pedigrees
+- pedigree: pedigrees
 ### Examples
 - “When you talk about the history and the pedigree of this game, I think that everybody understands it,’’ USC tackle Zach Banner said.
 - At first, Old World prejudices and hereditary pedigrees prevailed.
@@ -93,7 +100,7 @@ If you say something that is intended to make people angry with each other, your
 ### Definition
 - adj: dissenting (especially dissenting with the majority opinion)
 ### Family
-divisive: divisively
+- divisive: divisively
 ### Examples
 - More and more people may conclude that it is the president’s failed, divisive policies that must change if the carnage is to end.
 - The archbishop echoed the sentiment of Prime Minister Theresa May, who called for unity following June's "divisive" vote in her new year message.
@@ -107,7 +114,15 @@ Something or someone respectable is honest, good, and proper. Respectable behavi
 - adj: characterized by socially or conventionally acceptable morals
 - adj: large in amount or extent or degree
 ### Family
-respectable: respectability, respectabler, respectablest, respectably, unrespectable+;disrespect: disrespected, disrespecting, disrespects;disrespectful: disrespectfully;respect: disrespect, respectable, respected, respecter, respectful, respecting, respects, self-respect;respectability: respectabilities;respecter: respecters;respectful: disrespectful, respectfully, respectfulness, self-respectful;respecting: self-respecting;unrespectable: unrespectability
+- respectable: respectability, respectabler, respectablest, respectably, unrespectable+
+- disrespect: disrespected, disrespecting, disrespects
+- disrespectful: disrespectfully
+- respect: disrespect, respectable, respected, respecter, respectful, respecting, respects, self-respect
+- respectability: respectabilities
+- respecter: respecters
+- respectful: disrespectful, respectfully, respectfulness, self-respectful
+- respecting: self-respecting
+- unrespectable: unrespectability
 ### Examples
 - Kentucky became respectable and broke .500 to reach its first bowl game in six seasons.
 - Doing so transformed the drama from a respectable adaptation into an enjoyable TV series.
@@ -122,7 +137,9 @@ Something crooked is not straight, like a trail through the woods, or your cousi
 - adj: having the back and shoulders rounded; not erect
 - adj: not straight; dishonest or immoral or evasive
 ### Family
-crooked: crookeder, crookedest, crookedly, crookedness+;crook: crooked, crooking, crooks;crookedness: crookednesses
+- crooked: crookeder, crookedest, crookedly, crookedness+
+- crook: crooked, crooking, crooks
+- crookedness: crookednesses
 ### Examples
 - He said, ‘I looked her over real well and I couldn’t find anything wrong with her but one crooked tooth.’
 - Wearing a pink hoodie and a crooked smile, the fortuneteller stared at the grid on my palms.
@@ -136,7 +153,18 @@ The word fertile means "able to reproduce," but like so many words, that's just 
 - adj: marked by great fruitfulness
 - adj: intellectually productive
 ### Family
-fertile: fertilely, fertilest, fertilise, fertility, fertilize, fertily, infertile, unfertile+;fertilisation: self-fertilisation;fertilise: cross-fertilise, fertilisation, fertilised, fertiliser, fertilises, fertilising;fertilised: self-fertilised, unfertilised;fertiliser: fertilisers;fertility: antifertility, fertilities;fertilization: fertilizations, self-fertilization;fertilize: cross-fertilize, fertilizable, fertilization, fertilized, fertilizer, fertilizes, fertilizing;fertilized: self-fertilized, unfertilized;fertilizer: fertilizers;infertile: infertility;infertility: infertilities
+- fertile: fertilely, fertilest, fertilise, fertility, fertilize, fertily, infertile, unfertile+
+- fertilisation: self-fertilisation
+- fertilise: cross-fertilise, fertilisation, fertilised, fertiliser, fertilises, fertilising
+- fertilised: self-fertilised, unfertilised
+- fertiliser: fertilisers
+- fertility: antifertility, fertilities
+- fertilization: fertilizations, self-fertilization
+- fertilize: cross-fertilize, fertilizable, fertilization, fertilized, fertilizer, fertilizes, fertilizing
+- fertilized: self-fertilized, unfertilized
+- fertilizer: fertilizers
+- infertile: infertility
+- infertility: infertilities
 ### Examples
 - What the report highlights is the need for agriculture to continue in this fertile valley.
 - Turkey's climate of insecurity was fertile ground for the defining moment of this year.

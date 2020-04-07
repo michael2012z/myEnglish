@@ -4,7 +4,11 @@
 ### Definition
 - v: reflect deeply on a subject
 ### Family
-ponder: ponderable, pondered, ponderer, pondering, ponders+;imponderable: imponderables, imponderably;ponderable: imponderable, ponderably;ponderer: ponderers;pondering: ponderingly
+- ponder: ponderable, pondered, ponderer, pondering, ponders+
+- imponderable: imponderables, imponderably
+- ponderable: imponderable, ponderably
+- ponderer: ponderers
+- pondering: ponderingly
 ### Examples
 - Wealthier Americans might ponder the future of football, Irvin said, but poor and middle-class kids were betting their future on football.
 - The artist prefers to ponder her subjects as they contemplate.
@@ -17,7 +21,9 @@ To constrain is to hold back, restrain, or confine. If you've ever had to constr
 - v: hold back
 - v: restrict
 ### Family
-constrain: constrained, constraining, constrains+;constrained: constrainedly, unconstrained;unconstrained: unconstrainedly
+- constrain: constrained, constraining, constrains+
+- constrained: constrainedly, unconstrained
+- unconstrained: unconstrainedly
 ### Examples
 - The reason was simple: He did not want his children constrained, he said, by lines laid down by others.
 - CSOSA’s unique position constrains its ability to help or monitor offenders.
@@ -33,7 +39,8 @@ When something ebbs, it is declining, falling, or flowing away. The best time to
 - v: fall away or decline
 - v: hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb
 ### Family
-ebb: ebbed, ebbing, ebbs+;ebbing: ebbings
+- ebb: ebbed, ebbing, ebbs+
+- ebbing: ebbings
 ### Examples
 - Clark’s fury seemed to ebb when she was with her daughter.
 - Whitlock’s running career ebbed late in college when he sustained an injury to the Achilles’ tendon in his right foot.
@@ -45,7 +52,7 @@ Lethal refers to anything dangerous enough to cause death. The cobra's venom is 
 ### Definition
 - adj: of an instrument of certain death
 ### Family
-lethal: lethality, lethally, nonlethal
+- lethal: lethality, lethally, nonlethal
 ### Examples
 - Officers first tried less lethal weapons to detain the suspect but they didn’t work.
 - Harambe's death touched off a heated - if predictable - debate about zoo welfare standards and whether lethal force was necessary.
@@ -59,7 +66,11 @@ Stricken means "overwhelmed by emotion." When you saw the pretty new girl at sch
 - adj: put out of action (by illness)
 - adj: (used in combination) affected by something overwhelming
 ### Family
-stricken: strickenly+;counterstrike: counterstrikes;strike: counterstrike, stricken, striker, strikes, striking;striker: strikers;striking: strikingly, strikingness, strikings
+- stricken: strickenly+
+- counterstrike: counterstrikes
+- strike: counterstrike, stricken, striker, strikes, striking
+- striker: strikers
+- striking: strikingly, strikingness, strikings
 ### Examples
 - Fisher died Tuesday after being stricken on an airplane flight last week.
 - Fisher died Tuesday at age 60 after being stricken on an airplane flight last week.
@@ -77,7 +88,7 @@ If you don't want to sound like a snob, don't describe your family's house in th
 - n: detached or semidetached suburban house
 - n: Mexican revolutionary leader (1877-1923)
 ### Family
-Villa: Villas
+- Villa: Villas
 ### Examples
 - Soon after arriving at Il Borghino we hit the villa’s yoga room, a subterranean space whose long window looks into a mosaic-tiled swimming pool.
 - My friends run a collection of villas there, and I cooked for 25 or so of my musician and chef friends.”
@@ -95,7 +106,8 @@ Things that are aerial are happening in the air: birds, planes, and missiles are
 - n: an electrical device that sends or receives radio or television signals
 - n: a pass to a receiver downfield from the passer
 ### Family
-aerial: aerialist, aerially, aerials+;aerialist: aerialists
+- aerial: aerialist, aerially, aerials+
+- aerialist: aerialists
 ### Examples
 - Art Duncan transferred to the Royal Flying Corps, where he was twice decorated for conspicuous aerial gallantry.
 - Their showdown pits the Tigers’ mostly aerial attack against a Buckeyes offense that dominates with a punishing ground game and the run-pass option.
@@ -108,7 +120,11 @@ Fame is what you have if you're a celebrity: a lot of people know who you are. A
 - n: the state or quality of being widely honored and acclaimed
 - n: favorable public reputation
 ### Family
-fame: defame, fames, famous+;defamation: defamations;defame: defamation, defamatory, defamed, defamer, defames, defaming;defamer: defamers;famous: famouser, famousest, famously
+- fame: defame, fames, famous+
+- defamation: defamations
+- defame: defamation, defamatory, defamed, defamer, defames, defaming
+- defamer: defamers
+- famous: famouser, famousest, famously
 ### Examples
 - Roger Clemens fails to get votes necessary for Baseball Hall of Fame, hurls bat shard at Mike Piazza’s plaque in Cooperstown.
 - In 2007, he was inducted into the Hall of Fame.
@@ -130,7 +146,7 @@ A colony is a group of people who settle in a new place but keep ties to their h
 - n: a body of people who settle far from home but maintain ties with their homeland; inhabitants remain nationals of their home state but are not literally under the home state's system of government
 - n: one of the 13 British colonies that formed the original states of the United States
 ### Family
-Colony: Colonies
+- Colony: Colonies
 ### Examples
 - The policy was seen as part of a wider attempt by France to maintain influence in former colonies, but also in Africa.
 - Taiwan was a Japanese colony from 1895 to the end of World War II and fought along Japan, a German ally, in the Asian theater.
@@ -146,7 +162,7 @@ To undermine literally means to dig a hole underneath something, making it likel
 - v: destroy property or hinder normal operations
 - v: hollow out as if making a cave or opening
 ### Family
-undermine: undermined, undermines, undermining
+- undermine: undermined, undermines, undermining
 ### Examples
 - She says undoing the law also will undermine Medicaid and Medicare.
 - All of these things are threatened or undermined as we enter the new year.

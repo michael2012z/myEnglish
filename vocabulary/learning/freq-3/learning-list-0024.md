@@ -5,7 +5,7 @@ Premature means "not yet ready." Something that is premature arrives early, like
 - adj: uncommonly early or before the expected time
 - adj: born after a gestation period of less than the normal time
 ### Family
-premature: prematurely, prematureness, prematurity
+- premature: prematurely, prematureness, prematurity
 ### Examples
 - Still, it would be premature to assume that Trump will be a friend to colleges and universities of any kind.
 - Muhammad Haithem was just hours old, born two months premature.
@@ -16,7 +16,7 @@ If something happens after something else, it will ensue, meaning it will follow
 ### Definition
 - v: issue or terminate (in a specified way, state, etc.); end
 ### Family
-ensue: ensued, ensues, ensuing
+- ensue: ensued, ensues, ensuing
 ### Examples
 - But when they tried to arrest Alexander Kearney, they say a violent struggle ensued until Kearney was arrested several minutes later.
 - In the ensuing brawl, a 26-year-old cook in the restaurant used his knife to deliver two fatal stabs to Daniel.
@@ -32,7 +32,9 @@ Like many nouns that can mean an action as well as an actual thing, freight refe
 - v: transport commercially as cargo
 - v: load with goods for transportation
 ### Family
-freight: freightage, freighted, freighter, freighting, freights+;freightage: freightages;freighter: freighters
+- freight: freightage, freighted, freighter, freighting, freights+
+- freightage: freightages
+- freighter: freighters
 ### Examples
 - She started her own company as a freight broker.
 - Or consider, for example, the small passenger and freight airline called Warbelow’s Air, based here in Fairbanks in east-central Alaska.
@@ -45,7 +47,9 @@ When you’re indebted to someone, you owe that person something. It could be th
 - adj: owing gratitude or recognition to another for help or favors etc
 - adj: under a legal obligation to someone
 ### Family
-indebted: indebtedness+;debt: debts, indebted;indebtedness: indebtednesses
+- indebted: indebtedness+
+- debt: debts, indebted
+- indebtedness: indebtednesses
 ### Examples
 - Etihad owns a 29 percent stake in Air Berlin after stepping in to support the heavily indebted airline.
 - This will be fast relief for indebted industrial companies.
@@ -71,7 +75,8 @@ A flare is a sudden burst of light. The flare of a lit match in the dark night i
 - n: (baseball) a fly ball hit a short distance into the outfield
 - n: a short forward pass to a back who is running toward the sidelines
 ### Family
-flare: flared, flares, flaring+;flaring: flaringest, flaringly
+- flare: flared, flares, flaring+
+- flaring: flaringest, flaringly
 ### Examples
 - By intervening, however, the central government would risk reigniting the passions that flared in 2014 when demonstrators paralysed business districts with sit-ins for several weeks.
 - And outside the confines of Mar-a-Lago, old grievances flare up.
@@ -84,7 +89,10 @@ If your mother asks you to supervise your little brother and his friends, it mea
 - v: watch and direct
 - v: keep tabs on; keep an eye on; keep under surveillance
 ### Family
-supervise: supervised, supervises, supervising, supervision, supervisor, supervisory+;supervised: unsupervised;supervision: supervisions;supervisor: supervisors
+- supervise: supervised, supervises, supervising, supervision, supervisor, supervisory+
+- supervised: unsupervised
+- supervision: supervisions
+- supervisor: supervisors
 ### Examples
 - Christian Weiss, who supervises the coin and bank-note collection at the Swiss National Museum, said the Swiss favor cash even when traveling abroad.
 - Opponents of I-122 said the voucher program would be complicated to supervise.
@@ -97,7 +105,7 @@ An interim is a period of time between one event and another, maybe the interim 
 - n: the time between one event, process, or period and another
 - adj: serving during an intermediate interval of time
 ### Family
-interim: interims
+- interim: interims
 ### Examples
 - They finished with three losses under interim Coach John Fassel, the special teams coordinator.
 - Most of the bills already filed are agency and budget-related measures, and those filed by interim legislative committees.
@@ -111,7 +119,10 @@ When things happen at the same time, they are said to coincide. Often, this is b
 - v: go with, fall together
 - v: be the same
 ### Family
-coincide: coincided, coincident, coincides, coinciding+;coincidence: coincidences;coincident: coincidence, coincidental, coincidently;coincidental: coincidentally
+- coincide: coincided, coincident, coincides, coinciding+
+- coincidence: coincidences
+- coincident: coincidence, coincidental, coincidently
+- coincidental: coincidentally
 ### Examples
 - Pittsburgh’s seven-game winning streak to end the regular season coincided with the versatile Bell’s emergence as one of the league’s most dynamic players.
 - The challenge facing elected officials in Des Moines will be to ensure that their spending appropriately coincides with needs and priorities.
@@ -125,7 +136,7 @@ Grab for the adjective precarious when something is unstable, dangerous or diffi
 - adj: affording no ease or reassurance
 - adj: fraught with danger
 ### Family
-precarious: precariously, precariousness
+- precarious: precariously, precariousness
 ### Examples
 - Two months into the season, they are in a precarious position.
 - Two games into its Big East schedule, the Georgetown men’s basketball team already finds itself in a precarious position.
@@ -143,7 +154,8 @@ Shelter is one of the basic human needs along with food, water, and companionshi
 - n: a way of organizing business to reduce the taxes it must pay on current earnings
 - v: invest (money) so that it is not taxable
 ### Family
-shelter: sheltered, sheltering, shelters+;sheltered: shelteredly
+- shelter: sheltered, sheltering, shelters+
+- sheltered: shelteredly
 ### Examples
 - Deann Shepherd of the Humane Society of Utah says current law already requires shelter, but fails to define what that means.
 - Unable to afford its Bronx apartment, the family was evicted, and Ms. Farquharson and her children moved into a shelter in early 2013.

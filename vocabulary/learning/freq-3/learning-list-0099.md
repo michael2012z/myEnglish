@@ -4,7 +4,7 @@ If you're asymptomatic, you don't show any signs of being sick. In some cases, y
 ### Definition
 - adj: having no symptoms of illness or disease
 ### Family
-asymptomatic
+- asymptomatic
 ### Examples
 - Ebola experts, including the authors, said one study isn’t definitive and more research is needed to determine how common asymptomatic and mild Ebola infections are.
 - "The problem with atrial fibrillation is that it's asymptomatic, which means it can come and go and often isn't diagnosed," says Mr Gundotra.
@@ -19,7 +19,8 @@ Can you guess what conjecture means? It's a word to use when you are not sure of
 - n: a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence)
 - n: a message expressing an opinion based on incomplete evidence
 ### Family
-conjecture: conjectural, conjectured, conjectures, conjecturing+;conjectural: conjecturally
+- conjecture: conjectural, conjectured, conjectures, conjecturing+
+- conjectural: conjecturally
 ### Examples
 - How the book disappeared remains a matter of conjecture.
 - This is the year that Brexit turns from conjecture into trajectory.
@@ -34,7 +35,8 @@ If you feel that something isn't worthy of your consideration, you may disdain i
 - v: look down on with disdain
 - v: reject with contempt
 ### Family
-disdain: disdained, disdainful, disdaining, disdains+;disdainful: disdainfully, disdainfulness
+- disdain: disdained, disdainful, disdaining, disdains+
+- disdainful: disdainfully, disdainfulness
 ### Examples
 - Perhaps you read that and nodded, “Done! Next!” solely based on a general disdain for reality television.
 - They experienced elite disdain for Trump as evidence he might be the one to turn it around.
@@ -49,7 +51,8 @@ Reserve the noun contempt for an extreme lack of respect: a food snob has nothin
 - n: a manner that is generally disrespectful and contemptuous
 - n: a willful disobedience to or disrespect for the authority of a court or legislative body
 ### Family
-contempt: contempts, contemptuous+;contemptuous: contemptuously, contemptuousness
+- contempt: contempts, contemptuous+
+- contemptuous: contemptuously, contemptuousness
 ### Examples
 - Defense attorney Scott Wood also questioned instructions to the jury and alleged the court wrongly found Kelly guilty of contempt.
 - He turned to me with eyes filled with contempt and anger: “Listen, war is about young men dying on their own far away from home!”
@@ -62,7 +65,8 @@ If it has to do with the universe, it's cosmic. The planets, for instance, are c
 - adj: of or from or pertaining to or characteristic of the cosmos or universe
 - adj: inconceivably extended in space or time
 ### Family
-cosmic: cosmically, microcosmic+;microcosmic: microcosmically
+- cosmic: cosmically, microcosmic+
+- microcosmic: microcosmically
 ### Examples
 - In August next year, skywatchers from all over the world are expected to converge on the United States for this spectacular cosmic event.
 - He later entered graduate school at the University of California, Berkeley, to study cosmic ray particles and earned his doctorate in 1950.
@@ -75,7 +79,12 @@ A stratum is a layer of something, whether abstract, like a social stratum compo
 - n: people having the same social, economic, or educational status
 - n: an abstract place usually conceived as having depth
 ### Family
-stratum: strata, stratify, stratums, substratum, superstratum+;interstratify: interstratified;stratification: stratifications;stratified: unstratified;stratify: interstratify, stratification, stratified, stratifies, stratifying;substratum: substratums
+- stratum: strata, stratify, stratums, substratum, superstratum+
+- interstratify: interstratified
+- stratification: stratifications
+- stratified: unstratified
+- stratify: interstratify, stratification, stratified, stratifies, stratifying
+- substratum: substratums
 ### Examples
 - If Marvin Lewis keeps his job after this season he’ll enter the Fisher strata of being completely, an inexplicably, untouchable.
 - There’s no complaining about this strata, because it is anything but bland.
@@ -89,7 +98,8 @@ Some say kin, others "family," or "relatives." Call them what you will, but you�
 - n: group of people related by blood or marriage
 - adj: related by blood
 ### Family
-kin: kiner, kins, kinship+;kinship: kinships
+- kin: kiner, kins, kinship+
+- kinship: kinships
 ### Examples
 - The name of the man was being withheld pending notification of next of kin.
 - A spokesman said: "We are still trying to contact the next of kin."
@@ -110,7 +120,8 @@ A nail is the pointed piece of metal that you pound with a hammer when you're bu
 - v: complete a pass
 - v: locate exactly
 ### Family
-nail: nailed, nailer, nailing, nails+;nailer: nailers
+- nail: nailed, nailer, nailing, nails+
+- nailer: nailers
 ### Examples
 - The stories elicited pushback from the industry, leading to legislative actions, including rules to require ventilation at all New York state nail salons. 
 - She spoke no English, but found a job at a nail salon run by a Portuguese woman.
@@ -123,7 +134,9 @@ Use the adjective molecular to describe something that has to do with or is made
 - adj: relating to or produced by or consisting of molecules
 - adj: relating to simple or elementary organization
 ### Family
-molecular: bimolecular, intermolecular, intramolecular, molecularly+;intramolecular: intramolecularly;molecule: molecular, molecules, supermolecule
+- molecular: bimolecular, intermolecular, intramolecular, molecularly+
+- intramolecular: intramolecularly
+- molecule: molecular, molecules, supermolecule
 ### Examples
 - But among the runners, the molecular blockade was much less effective.
 - Climate science is rooted in physics and chemistry—weather is energy, and the atmosphere is a stew of molecular interactions.
@@ -136,7 +149,8 @@ If you are rigorous when you do something, you do it extremely carefully and pre
 - adj: rigidly accurate; allowing no deviation from a standard
 - adj: demanding strict attention to rules and procedures
 ### Family
-rigorous: rigorously, rigorousness, rigourousness+;rigor: rigorous, rigors
+- rigorous: rigorously, rigorousness, rigourousness+
+- rigor: rigorous, rigors
 ### Examples
 - Some death penalty opponents hope that Mr. Roof’s defiance will prompt the appellate courts to adopt a more rigorous standard for capital defendants.
 - Listening to classical music is a very rigorous task and requires a lot of focus.

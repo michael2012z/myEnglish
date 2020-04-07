@@ -6,7 +6,9 @@
 - v: add zest or flavor to, make more interesting
 - v: behave saucily or impudently towards
 ### Family
-sauce: sauced, sauces, saucing, saucy+;sauciness: saucinesses;saucy: saucier, sauciest, saucily, sauciness
+- sauce: sauced, sauces, saucing, saucy+
+- sauciness: saucinesses
+- saucy: saucier, sauciest, saucily, sauciness
 ### Examples
 - Probably not — the fish is supermarket quality, and it is seasoned with what literally tastes like bottled Chinese chile sauce.
 - Thus this lasagna recipe, an exceedingly hearty dish that uses Bolognese sauce, bechamel sauce, two kinds of cheese — and chicken livers.
@@ -25,7 +27,9 @@ sauce: sauced, sauces, saucing, saucy+;sauciness: saucinesses;saucy: saucier, sa
 - v: ask for and get free; be a parasite
 - v: gather sponges, in the ocean
 ### Family
-sponge: sponged, spongelike, sponger, sponges, sponging, spongy+;sponger: spongers;spongy: spongier, spongily, sponginess
+- sponge: sponged, spongelike, sponger, sponges, sponging, spongy+
+- sponger: spongers
+- spongy: spongier, spongily, sponginess
 ### Examples
 - “What she reads about, she absorbs like a sponge.”
 - She’s on her way to Greenwich, Conn., to sponge off her sister, who married rich.
@@ -36,7 +40,10 @@ sponge: sponged, spongelike, sponger, sponges, sponging, spongy+;sponger: sponge
 ### Definition
 - adj: of or relating to or caused by tides
 ### Family
-tidal: intertidal+;tide: tidal, tided, tides, tiding, undertide;tiding: tidings;undertide: undertides
+- tidal: intertidal+
+- tide: tidal, tided, tides, tiding, undertide
+- tiding: tidings
+- undertide: undertides
 ### Examples
 - In addition, tidal friction caused by the moon’s gravity tugging on the Earth’s ocean also throws off the length of the planet’s rotation.
 - The music industry is also fighting for your subscription dollar, pushing its wares through the squabbling rivals Spotify, Apple Music and Tidal.
@@ -51,7 +58,7 @@ A swamp is an area that floods every year because the land is low. Watch out for
 - v: drench or submerge or be drenched or submerged
 - v: fill quickly beyond capacity; as with a liquid
 ### Family
-swamp: swamped, swamping, swamps, swampy
+- swamp: swamped, swamping, swamps, swampy
 ### Examples
 - After the remodeling and expansion, the shop became “swamped” with customers, they recalled. 
 - Then expenditures began swamping revenues in 2014, and by the end of 2015, all of the foundation’s assets were depleted.
@@ -64,7 +71,9 @@ When you politely refuse your neighbor’s offer of remuneration for your effort
 - n: the act of paying for goods or services or to recompense for losses
 - n: something that remunerates
 ### Family
-remuneration: remunerations+;remunerate: remunerated, remunerates, remunerating, remuneration, remunerative, remunerator;remunerative: remuneratively, unremunerative
+- remuneration: remunerations+
+- remunerate: remunerated, remunerates, remunerating, remuneration, remunerative, remunerator
+- remunerative: remuneratively, unremunerative
 ### Examples
 - The study, commissioned by the investment association CFA UK, said the increase in executive remuneration was largely driven by performance-based pay.
 - That paycheck is considerably less than the remuneration for Mr. Dauman, who was removed as Viacom chief executive this year.
@@ -77,7 +86,8 @@ If a waiter served you a whole fish and a scoop of chocolate ice cream on the sa
 - n: the act of positioning close together (or side by side)
 - n: a side-by-side position
 ### Family
-juxtaposition: juxtapositions+;juxtapose: juxtaposed, juxtaposes, juxtaposing, juxtaposition
+- juxtaposition: juxtapositions+
+- juxtapose: juxtaposed, juxtaposes, juxtaposing, juxtaposition
 ### Examples
 - There’s a logic to the Virginia painters’ show at the Athenaeum, even if their methods allow wild juxtapositions and improvisational gestures.
 - Sometimes the skill is in the technique, sometimes in the juxtaposition of flavors, often in a combination of both — plus inspiration, even accident.
@@ -91,7 +101,10 @@ You can use retention to mean the ability to keep or hold. If you have extraordi
 - n: the power of retaining liquid
 - n: the power of retaining and recalling past experience
 ### Family
-retention: retentions+;retain: retained, retainer, retaining, retains, retention, retentive;retainer: retainers;retentive: retentively, retentiveness, retentivity, unretentive
+- retention: retentions+
+- retain: retained, retainer, retaining, retains, retention, retentive
+- retainer: retainers
+- retentive: retentively, retentiveness, retentivity, unretentive
 ### Examples
 - It does not include a “retention award” of more than $200,000.
 - Retention rates at the company are high, and management tends to promote from within.
@@ -104,7 +117,15 @@ Redefine means to "give new meaning to." A really fantastic song might redefine 
 - v: give a new or different definition to
 - v: give a new or different definition of (a word)
 ### Family
-redefine: redefined, redefines, redefining, redefinition+;definable: definably, indefinable, undefinable;define: definable, defined, defines, defining, definition, redefine;defined: definedly, ill-defined, undefined;defining: definings;definition: definitions;indefinable: indefinably;redefinition: redefinitions;undefinable: undefinably
+- redefine: redefined, redefines, redefining, redefinition+
+- definable: definably, indefinable, undefinable
+- define: definable, defined, defines, defining, definition, redefine
+- defined: definedly, ill-defined, undefined
+- defining: definings
+- definition: definitions
+- indefinable: indefinably
+- redefinition: redefinitions
+- undefinable: undefinably
 ### Examples
 - When it encounters a challenge that it isn’t possibly ready for, the bar lowers just enough to redefine the obstacle.
 - But Michael’s probing the perks and challenges of celebrity, its sheen and the ways in which it redefines life, was more than simple whining.
@@ -115,7 +136,9 @@ redefine: redefined, redefines, redefining, redefinition+;definable: definably, 
 ### Definition
 - n: providing food and services
 ### Family
-catering: caterings+;cater: catered, caterer, catering, caters;caterer: caterers
+- catering: caterings+
+- cater: catered, caterer, catering, caters
+- caterer: caterers
 ### Examples
 - Catering a large event including meat seems ridiculous to us, considering that we avoid meat in our daily lives.
 - But soon she was catering for more than just her family and as the business expanded she moved downstairs to the basement.
@@ -127,7 +150,7 @@ Obese means excessively fat. In medical terms, it means you have a body mass ind
 ### Definition
 - adj: excessively fat
 ### Family
-obese: obesely, obesity
+- obese: obesely, obesity
 ### Examples
 - Basically you sew together an obese mouse that is missing leptin with a slim mouse, surgically attaching their circulatory systems.
 - And they are looking afresh at medical care for obese people.

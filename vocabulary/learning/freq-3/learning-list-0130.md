@@ -4,7 +4,14 @@ Something that's boundless has no limits or restrictions. Your dog's boundless e
 ### Definition
 - adj: seemingly boundless in amount, number, degree, or especially extent
 ### Family
-boundless: boundlessly, boundlessness+;bound: boundary, bounded, bounder, bounding, boundingly, boundless, bounds, inbound, rebound, unbound;boundary: boundaries;bounded: boundedness, unbounded;bounder: bounderish, bounders;rebound: rebounded, rebounding, rebounds;unbound: unboundedly;unbounded: unboundedness
+- boundless: boundlessly, boundlessness+
+- bound: boundary, bounded, bounder, bounding, boundingly, boundless, bounds, inbound, rebound, unbound
+- boundary: boundaries
+- bounded: boundedness, unbounded
+- bounder: bounderish, bounders
+- rebound: rebounded, rebounding, rebounds
+- unbound: unboundedly
+- unbounded: unboundedness
 ### Examples
 - Garbrandt lived up to his boundless promise with a resourceful effort against Cruz, who was favored to defend his belt.
 - And the 19-year-old with the electric smile and boundless talent was still the best in the world.
@@ -17,7 +24,12 @@ You could describe a particularly pretty scene as picturesque. But save it up fo
 - adj: suggesting or suitable for a picture; pretty as a picture
 - adj: strikingly expressive
 ### Family
-picturesque: picturesquely, picturesqueness, unpicturesque+;picture: pictural, pictured, pictures, picturesque, picturing;pictured: unpictured;picturesqueness: picturesquenesses;picturing: picturings;unpicturesque: unpicturesquely
+- picturesque: picturesquely, picturesqueness, unpicturesque+
+- picture: pictural, pictured, pictures, picturesque, picturing
+- pictured: unpictured
+- picturesqueness: picturesquenesses
+- picturing: picturings
+- unpicturesque: unpicturesquely
 ### Examples
 - It’s a drive and a lovely little ferry rice from Seattle, and the Lummi Island setting also couldn’t be more Northwest picturesque.
 - Although printing the text on giant planks is picturesque, it doesn’t disguise that the show is as wordy as it is woodsy.
@@ -33,7 +45,9 @@ Consolidate means to bring together. You may feel like you don't have any pens, 
 - v: bring together into a single whole or system
 - v: make firm or secure; strengthen
 ### Family
-consolidate: consolidated, consolidates, consolidating, consolidation, consolidative+;consolidated: unconsolidated;consolidation: consolidations
+- consolidate: consolidated, consolidates, consolidating, consolidation, consolidative+
+- consolidated: unconsolidated
+- consolidation: consolidations
 ### Examples
 - Another international consequence of Keynes’s work was that his book helped to consolidate American public opinion against the treaty.
 - The company’s headquarters are about to be consolidated in Ligety’s hometown of Park City, Utah.
@@ -50,7 +64,10 @@ If you blend red and blue, you get purple. To blend is to mix together thoroughl
 - n: an occurrence of thorough mixing
 - n: a new word formed by joining two others and combining their meanings
 ### Family
-blend: blended, blender, blending, blends+;blended: unblended;blender: blenders;blending: blendings
+- blend: blended, blender, blending, blends+
+- blended: unblended
+- blender: blenders
+- blending: blendings
 ### Examples
 - Wine varieties—Chardonnay, Pinot Grigio and a red blend—were chosen because of their popularity with women.
 - Secret Service agents are now sprinkled throughout the property, at night blending into the shrubbery along the grounds.
@@ -63,7 +80,7 @@ A faculty refers to any of your mental or physical abilities. If you lose your f
 - n: one of the inherent cognitive or perceptual powers of the mind
 - n: the body of teachers and administrators at a school
 ### Family
-faculty: faculties
+- faculty: faculties
 ### Examples
 - The faculty of Strain-Japan say they see and appreciate these advantages.
 - Problems arose immediately for students, faculty and administrators.
@@ -76,7 +93,8 @@ A miraculous occurrence can be providential or heaven-sent, or just peculiarly f
 - adj: peculiarly fortunate or appropriate; as if by divine intervention
 - adj: being or having the character of a miracle
 ### Family
-miraculous: miraculously+;miracle: miracles, miraculous
+- miraculous: miraculously+
+- miracle: miracles, miraculous
 ### Examples
 - But, he added, “the miraculous effects anticipated by some of the new supply side enthusiasts were, alas, without substance.”
 - It was, she says, "miraculous that I survived".
@@ -92,7 +110,7 @@ Your chin is the somewhat pointy part of your jaw at the bottom of your face, be
 - v: raise oneself while hanging from one's hands until one's chin is level with the support bar
 - n: Kamarupan languages spoken in western Burma and Bangladesh and easternmost India
 ### Family
-Chin: Chins
+- Chin: Chins
 ### Examples
 - This famously tall and ungainly president sits scrunched up in a chair, legs crossed, hand to chin, thinking hard.
 - “We’ve only met her once, for five minutes,” says Bob, aggressively tucking gussets under his chin and folding pants.
@@ -107,7 +125,10 @@ Perish means to die, but it suggests a slow, gradual, nonviolent death. Starving
 ### Definition
 - v: pass from physical life and lose all bodily attributes and functions necessary to sustain life
 ### Family
-perish: perishable, perished, perisher, perishes, perishing+;imperishable: imperishability, imperishableness, imperishably;perishable: imperishable, perishability, perishableness, perishables, perishably;perisher: perishers
+- perish: perishable, perished, perisher, perishes, perishing+
+- imperishable: imperishability, imperishableness, imperishably
+- perishable: imperishable, perishability, perishableness, perishables, perishably
+- perisher: perishers
 ### Examples
 - All 27 other passengers and crew aboard perished.
 - The most desperate set off in ramshackle fishing boats for Thailand and Malaysia, many perishing in the Bay of Bengal.
@@ -121,7 +142,10 @@ A delusion is a belief that has no evidence in fact — a complete illusion. The
 - n: the act of deluding; deception by creating illusory ideas
 - n: (psychology) an erroneous belief that is held in the face of evidence to the contrary
 ### Family
-delusion: delusional, delusions+;delude: deluded, deludes, deluding, delusion, delusive, delusory;delusional: delusionally;delusive: delusively
+- delusion: delusional, delusions+
+- delude: deluded, deludes, deluding, delusion, delusive, delusory
+- delusional: delusionally
+- delusive: delusively
 ### Examples
 - The Explainers are very sure of this, nodding in unison while smiling in bemusement at the pathetic delusions of the Trump people.
 - We now live in a world of half-hearted Curb imitators, all labouring under the delusion that Curb was nothing but floridly improvised swearwords.
@@ -134,7 +158,10 @@ Mania is an extreme interest, desire, or craze. If you dye your dog's fur to mat
 - n: an irrational but irresistible motive for a belief or action
 - n: a mood disorder; an affective disorder in which the victim tends to respond excessively and sometimes violently
 ### Family
-mania: maniac, manias+;maniac: maniacal, maniacs;maniacal: maniacally;manic: mania, manically, maniclike
+- mania: maniac, manias+
+- maniac: maniacal, maniacs
+- maniacal: maniacally
+- manic: mania, manically, maniclike
 ### Examples
 - As it happens, mania was Lowell’s most enduring diagnosis in his many years as a psychiatric patient.
 - I met Mr. Diaz at the supreme manifestation of the state’s truck mania: the Texas Truck Rodeo.

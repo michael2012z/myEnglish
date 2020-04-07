@@ -7,7 +7,8 @@ If you have a new car, a new high-paying job, and some flashy new shoes, then yo
 - adj: marked by peace and prosperity
 - adj: presaging or likely to bring good luck
 ### Family
-prosperous: prosperity, prosperously+;prosperity: prosperities
+- prosperous: prosperity, prosperously+
+- prosperity: prosperities
 ### Examples
 - It would protect its allies militarily while hoping that peace would promote prosperous, stable and democratic societies.
 - And on that note: Whether you agree with me or not about Trump, I wish you and yours a happy, healthy and prosperous 2017.
@@ -24,7 +25,12 @@ If you are incompetent, you are not able to complete a task, like if you only ev
 - adj: not doing a good job
 - n: someone who is not competent to take effective action
 ### Family
-incompetent: incompetence, incompetency, incompetently, incompetents+;competence: competences;competency: competencies;competent: competence, competency, competenter, competently, incompetent;incompetence: incompetences;incompetency: incompetencies
+- incompetent: incompetence, incompetency, incompetently, incompetents+
+- competence: competences
+- competency: competencies
+- competent: competence, competency, competenter, competently, incompetent
+- incompetence: incompetences
+- incompetency: incompetencies
 ### Examples
 - On Twitter, Douthat wrote, “I’d rather risk defeat at my enemies’ hands than turn my own cause over to a incompetent tyrant.”
 - Then Matthews, uncharacteristically, falls silent, because full attention must be paid to Firth and his adorably incompetent proposal.
@@ -36,7 +42,9 @@ Bacteria are microscopic living organisms, usually one-celled, that can be found
 ### Definition
 - n: (microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants
 ### Family
-bacteria: bacterial, bacterioid, bacterise, bacterize, bacteroid+;antibacterial: antibacterials;bacterial: antibacterial, bacterially
+- bacteria: bacterial, bacterioid, bacterise, bacterize, bacteroid+
+- antibacterial: antibacterials
+- bacterial: antibacterial, bacterially
 ### Examples
 - The scientists told the BBC television network that they believe the gut bacteria release chemicals that over-activate immune cells in the brain.
 - The roots of legumes host bacteria that replenish nitrogen levels.
@@ -49,7 +57,8 @@ Set up some candles and a photograph of someone important in your life in the co
 - n: a place of worship hallowed by association with some sacred thing or person
 - v: enclose in a shrine
 ### Family
-shrine: enshrine, shrined, shrines, shrining+;enshrine: enshrined, enshrines, enshrining
+- shrine: enshrine, shrined, shrines, shrining+
+- enshrine: enshrined, enshrines, enshrining
 ### Examples
 - Weaver’s funeral will be Thursday at the Jaffa Shrine Center.
 - Temple bells echoed at midnight as families gather around noodles and revelers flock to shrines for the biggest holiday in Japan.
@@ -65,7 +74,7 @@ Something considered taboo is naughty, something society considers a no-no. For 
 - adj: forbidden to profane use especially in South Pacific islands
 - v: declare as sacred and forbidden
 ### Family
-taboo: tabooed, tabooing, taboos
+- taboo: tabooed, tabooing, taboos
 ### Examples
 - Taboo also reunites Hardy with his Peaky Blinders and Locke collaborator, writer Steven Knight.
 - “It’s a taboo, to mess with flan,” Mr. Meana said.
@@ -86,7 +95,8 @@ To clutch is to grasp or hold on to tightly. Some people clutch the safety bar o
 - n: a number of birds hatched at the same time
 - n: a woman's strapless purse that is carried in the hand
 ### Family
-clutch: clutched, clutching, declutch+;declutch: declutched
+- clutch: clutched, clutching, declutch+
+- declutch: declutched
 ### Examples
 - Raiders left tackle Donald Penn left the game clutching his left knee but Del Rio said he thinks Penn should be fine for next week.
 - Now the Lions may need one more clutch performance from their franchise quarterback to advance to the playoffs.
@@ -102,7 +112,8 @@ A ferry is a boat that carries people, cars, and cargo back and forth across a b
 - v: transport by ferry
 - v: travel by ferry
 ### Family
-ferry: ferried, ferries, ferrying+;ferrying: ferryings
+- ferry: ferried, ferries, ferrying+
+- ferrying: ferryings
 ### Examples
 - At least 23 people were killed and 17 others were missing after a ferry caught fire Sunday off the coast of Indonesia’s capital, officials said.
 - Rickety boats ferry small groups of migrants to Curacao, Bonaire and other Caribbean islands a short distance from Venezuela’s north coast.
@@ -121,7 +132,9 @@ Most commonly found at the bottom of sinks and bathtubs across the globe, a drai
 - v: deplete of resources
 - v: make weak
 ### Family
-drain: drainage, drained, draining, drains+;drainage: drainages;drained: undrained
+- drain: drainage, drained, draining, drains+
+- drainage: drainages
+- drained: undrained
 ### Examples
 - The Michigan Association of Drain Commissioners says drain commissioners enforce laws related to flood protection, storm management and soil erosion.
 - So government-owned banks end up becoming politically focused weapons that are ineffective, and which drain money and resources from our community.
@@ -134,7 +147,7 @@ If a company belongs to another company, then the owned company is a subsidiary.
 - n: an assistant subject to the authority or control of another
 - n: a company that is completely controlled by another company
 ### Family
-subsidiary: subsidiaries, subsidiarily, subsidiarity
+- subsidiary: subsidiaries, subsidiarily, subsidiarity
 ### Examples
 - Hundreds of the multinational corporations rushed to channel international profits through subsidiaries in the country, among them McDonald’s, Fiat, Amazon, Shire Pharmaceuticals and Skype.
 - The agreement announced Thursday settles a lawsuit brought by Tennessee Gas Pipeline Co., a subsidiary of Kinder Morgan.
@@ -168,7 +181,11 @@ When you twist something, you turn it in a different direction. You might twist 
 - n: an interpretation of a text or action
 - n: any clever maneuver
 ### Family
-twist: twisted, twister, twisting, twists, untwist+;twisted: twistedest, twistedly;twister: supertwister, twisters;twisting: twistingly, twistings;untwist: untwisted, untwisting, untwists
+- twist: twisted, twister, twisting, twists, untwist+
+- twisted: twistedest, twistedly
+- twister: supertwister, twisters
+- twisting: twistingly, twistings
+- untwist: untwisted, untwisting, untwists
 ### Examples
 - But just like in any good TV script, a twist was in store.
 - “I think we created something new, something of a twist on horror movies on the independent scale that we haven’t seen yet.”

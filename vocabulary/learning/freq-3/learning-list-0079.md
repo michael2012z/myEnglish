@@ -6,7 +6,11 @@ If you presume something, it means you act as though it's true before all the ev
 - v: take liberties or act with too much confidence
 - v: take upon oneself; act presumptuously, without permission
 ### Family
-presume: presumable, presumed, presumes, presuming, presumption, presumptive+;presumable: presumably;presumption: presumptions, presumptuous;presumptive: presumptively;presumptuous: presumptuously, presumptuousness
+- presume: presumable, presumed, presumes, presuming, presumption, presumptive+
+- presumable: presumably
+- presumption: presumptions, presumptuous
+- presumptive: presumptively
+- presumptuous: presumptuously, presumptuousness
 ### Examples
 - “In the absence of this evidence, we must presume that Sherman performed competently.”
 - A Mali government statement says the country will not accept any visitors presumed to be Malian without a passport or Mali-issued travel documents.
@@ -22,7 +26,11 @@ presume: presumable, presumed, presumes, presuming, presumption, presumptive+;pr
 - v: treat skins and hides with tannic acid so as to convert them into leather
 - n: ratio of the opposite to the adjacent side of a right-angled triangle
 ### Family
-tan: tanned, tanner, tannery, tanning, tannish, tans+;tanned: untanned;tanner: tanners;tannery: tanneries;tanning: tannings
+- tan: tanned, tanner, tannery, tanning, tannish, tans+
+- tanned: untanned
+- tanner: tanners
+- tannery: tanneries
+- tanning: tannings
 ### Examples
 - That fake tan stuff only started showing up in the past few years.
 - Food writer Tan Vinh shared his very favorite pho spots in and around Seattle, and offered some instruction while he was at it.
@@ -34,7 +42,14 @@ An applicant is someone who signs up or applies for something. A job applicant f
 ### Definition
 - n: a person who requests or seeks something such as assistance or employment or admission
 ### Family
-applicant: applicants+;applicable: applicability, applicably, inapplicable;application: applications;applier: appliers;apply: applicable, applicant, application, applicative, applicatory, applied, applier, applies, applying, misapply;inapplicable: inapplicability, inapplicably;misapplication: misapplications;misapply: misapplication, misapplied, misapplies, misapplying
+- applicant: applicants+
+- applicable: applicability, applicably, inapplicable
+- application: applications
+- applier: appliers
+- apply: applicable, applicant, application, applicative, applicatory, applied, applier, applies, applying, misapply
+- inapplicable: inapplicability, inapplicably
+- misapplication: misapplications
+- misapply: misapplication, misapplied, misapplies, misapplying
 ### Examples
 - Krebs’ office issues a permit after it gets approved by an applicant’s county sheriff.
 - The Swedish government says it tries to prioritize cases like Girmay's, where the applicant is about to turn 18.
@@ -49,7 +64,10 @@ A hybrid is a mixture of two different things, resulting in something that has a
 - n: a word that is composed of parts from different languages (e.g., `monolingual' has a Greek prefix and a Latin root)
 - adj: produced by crossbreeding
 ### Family
-hybrid: hybridise, hybridize, hybrids+;hybridise: hybridisation, hybridising;hybridization: hybridizations;hybridize: hybridization, hybridized, hybridizing
+- hybrid: hybridise, hybridize, hybrids+
+- hybridise: hybridisation, hybridising
+- hybridization: hybridizations
+- hybridize: hybridization, hybridized, hybridizing
 ### Examples
 - Mr Younger also warned that "hybrid warfare", which included cyber-attacks and subverting democracy, was becoming an "increasingly dangerous phenomenon".
 - Naturally, with all that power, unlike today’s energy-efficient hybrids, these cars are among the greatest gas guzzlers in automotive history.
@@ -64,7 +82,7 @@ Perennial typically describes things that are permanent, constant, or repeated. 
 - adj: lasting three seasons or more
 - n: (botany) a plant lasting for three seasons or more
 ### Family
-perennial: perennially, perennials
+- perennial: perennially, perennials
 ### Examples
 - You’re officially on to the second phase, which is about refining the roster and looking like a true perennial division title contender.
 - One of the perennial questions for rock fans is which is the most important year in its history?
@@ -80,7 +98,11 @@ To precede is to come before. A short speech will precede the dinner. As you wal
 - v: come before
 - v: furnish with a preface or introduction
 ### Family
-precede: preceded, precedency, precedent, precedes, preceding, precession+;precedence: precedences, precedential;precedency: precedencies;precedent: precedence, precedently, precedents;precession: precessions
+- precede: preceded, precedency, precedent, precedes, preceding, precession+
+- precedence: precedences, precedential
+- precedency: precedencies
+- precedent: precedence, precedently, precedents
+- precession: precessions
 ### Examples
 - And those meetings were preceded by meetings of specially designated committees designed to analyze policies and proposals pertaining to certain aspects of county government.
 - The “orange alert” is the third level, preceding a “red alert,” in China’s four-tiered warning system.
@@ -95,7 +117,7 @@ Originally meaning only to gather soldiers, muster's definition has been expande
 - n: a gathering of military personnel for duty
 - n: compulsory military service
 ### Family
-muster: mustered, mustering, musters
+- muster: mustered, mustering, musters
 ### Examples
 - Washington mustered just 38 rushing yards, averaging 2.5 per carry.
 - New York’s own offense was bland, punting to end eight of its 12 drives, but it mustered up enough to get the job done.
@@ -113,7 +135,9 @@ muster: mustered, mustering, musters
 - v: sharpen with a strap
 - v: secure (a sprained joint) with a strap
 ### Family
-strap: strapless, straplike, strapped, strapping, straps, unstrap+;strapping: strappingest, strappingly;unstrap: unstrapped, unstrapping, unstraps
+- strap: strapless, straplike, strapped, strapping, straps, unstrap+
+- strapping: strappingest, strappingly
+- unstrap: unstrapped, unstrapping, unstraps
 ### Examples
 - The baby was a strapping 6 pounds, 12 ounces, with thick, curly black hair like his father’s.
 - He was strapped to a board and several Devils steadied the stretcher as Moore was lowered onto it 3:10 into the game.
@@ -128,7 +152,8 @@ strap: strapless, straplike, strapped, strapping, straps, unstrap+;strapping: st
 - v: scoop up or take up with a spoon
 - v: snuggle and lie in a position where one person faces the back of the others
 ### Family
-spoon: spooned, spoonful, spooning, spoons+;spoonful: spoonfuls
+- spoon: spooned, spoonful, spooning, spoons+
+- spoonful: spoonfuls
 ### Examples
 - A few minutes later, hunters quietly slurp down with plastic spoons the first course: warm, rich broth, tender pasta, hearty meat.
 - Remove and discard the rosemary and thyme sprigs from the tomato mixture, then spoon it over the cooked chard.
@@ -143,7 +168,11 @@ Riders are people who are in motion — riding bicycles, subways, horses, roller
 - n: a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it
 - n: a clause that is appended to a legislative bill
 ### Family
-rider: riders+;override: overridden, overrides, overriding, overrode;overriding: overridingly;ride: override, ridden, rider, rides, riding, rode;riding: ridings
+- rider: riders+
+- override: overridden, overrides, overriding, overrode
+- overriding: overridingly
+- ride: override, ridden, rider, rides, riding, rode
+- riding: ridings
 ### Examples
 - Wiggins, 36, was named on Thursday as part of the eight rider men's track endurance team in British Cycling's Olympic Podium Programme squad.
 - It’s not quite “SafeCar,” but Wiedefeld said the changes could have dramatic effect on the day-to-day experiences of Metro riders.

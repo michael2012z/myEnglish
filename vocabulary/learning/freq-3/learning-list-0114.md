@@ -6,7 +6,7 @@ If you've got myriad problems it doesn't mean you should call a myriad extermina
 - n: the cardinal number that is the product of ten and one thousand
 - adj: too numerous to be counted
 ### Family
-myriad: myriadly, myriads
+- myriad: myriadly, myriads
 ### Examples
 - There are myriad accounts of why large segments of the electorate in many developed democracies are rebelling against the status quo.
 - Currently, the clinical criteria for a diagnosis of concussion are largely subjective, involving myriad neurological and cognitive tests.
@@ -28,7 +28,9 @@ A whistle is a small wind instrument, and you probably know people who are good 
 - v: move, send, or bring as if by whistling
 - v: move with, or as with, a whistling sound
 ### Family
-whistle: whistled, whistler, whistles, whistling+;whistler: whistlers;whistling: whistlings
+- whistle: whistled, whistler, whistles, whistling+
+- whistler: whistlers
+- whistling: whistlings
 ### Examples
 - And she’s not opposed to using technology in museum exhibits, as long as interactive screens and other bells and whistles enhance the interpretation for visitors.
 - But the next morning, he was woken up by that recurring train whistle, which is somehow connected to his adolescent trauma.
@@ -43,7 +45,12 @@ Something inflexible does not bend easily. A stiff back can make you inflexible,
 - adj: incapable of adapting or changing to meet circumstances
 - adj: not making concessions
 ### Family
-inflexible: inflexibility, inflexibleness, inflexiblest, inflexibly+;flex: flexed, flexes, flexible, flexing, flexure;flexibility: flexibilities;flexible: flexibility, flexibleness, flexibly, inflexible;flexure: flexures;inflexibility: inflexibilities
+- inflexible: inflexibility, inflexibleness, inflexiblest, inflexibly+
+- flex: flexed, flexes, flexible, flexing, flexure
+- flexibility: flexibilities
+- flexible: flexibility, flexibleness, flexibly, inflexible
+- flexure: flexures
+- inflexibility: inflexibilities
 ### Examples
 - Mortensen’s inflexible patriarch in the movie is an atheist who celebrates the birth of Noam Chomsky, not Jesus.
 - The French league submitted the case to its disciplinary commission, warning that it will be “inflexible” in dealing with the issue.
@@ -58,7 +65,7 @@ Novelty is a newness or refreshing quality. Many college freshmen enjoy the nove
 - n: a small inexpensive mass-produced article
 - n: cheap showy jewelry or ornament on clothing
 ### Family
-novelty: novelties
+- novelty: novelties
 ### Examples
 - “The novelty of the first three movements is incredible. Beethoven was creating the stage for the future.”
 - The first cocktail fashions reflected the gaiety and novelty of coed drinking.
@@ -72,7 +79,8 @@ Majestic things display great dignity, befit a great ruler, or are simply far su
 - adj: majestic in manner or bearing; superior to mundane matters
 - adj: belonging to or befitting a supreme ruler
 ### Family
-majestic: majestically+;majesty: majestic, majesties
+- majestic: majestically+
+- majesty: majestic, majesties
 ### Examples
 - Months later, this coastal Georgia city hopes to see wood from the majestic oak preserved as works of art.
 - “We are from Congo,” explains Luc Hillegeon, 31, as he, his wife and infant son navigate the muddy path beneath the majestic ceiba trees.
@@ -85,7 +93,10 @@ If you rush to the carwash every time a speck of dust lands on your fender, your
 - adj: characterized by or constituting an obsession
 - n: a person who has obsessions
 ### Family
-obsessive: obsessively, obsessiveness, obsessives, obsessivity+;obsess: obsessed, obsesses, obsessing, obsession, obsessive;obsession: obsessional, obsessions;obsessional: obsessionally
+- obsessive: obsessively, obsessiveness, obsessives, obsessivity+
+- obsess: obsessed, obsesses, obsessing, obsession, obsessive
+- obsession: obsessional, obsessions
+- obsessional: obsessionally
 ### Examples
 - His obsessive attention to detail does not always bear fruit, of course.
 - The mother is a singular star to her baby, whose gaze follows her around the room with the watchfulness of an obsessive fan.
@@ -99,7 +110,12 @@ However tempting, don't pull that straggly thread hanging from your sleeve. You'
 - v: become undone
 - v: disentangle
 ### Family
-unravel: unraveled, unraveler, unraveling, unravelled, unraveller, unravelling, unravels+;ravel: raveled, raveling, ravelled, ravelling, ravels, unravel;raveling: ravelings;ravelling: ravellings;unraveler: unravelers;unraveller: unravellers
+- unravel: unraveled, unraveler, unraveling, unravelled, unraveller, unravelling, unravels+
+- ravel: raveled, raveling, ravelled, ravelling, ravels, unravel
+- raveling: ravelings
+- ravelling: ravellings
+- unraveler: unravelers
+- unraveller: unravellers
 ### Examples
 - As the parched beige hilltops fill with red-tiled homes, decades of international efforts to achieve a two-state solution are unraveling.
 - They are starting to unravel the reasons bariatric surgery allows most people to lose significant amounts of weight when dieting so often fails.
@@ -113,7 +129,8 @@ An exponent is a person who is a big promoter of something. Are you an exponent 
 - n: a person who pleads for a cause or propounds an idea
 - n: someone who expounds and interprets or explains
 ### Family
-exponent: exponential, exponentiation, exponents+;exponential: exponentially
+- exponent: exponential, exponentiation, exponents+
+- exponential: exponentially
 ### Examples
 - A beautifully illustrated meditation on two of the 19th century’s greatest exponents of textile arts, Mariano Fortuny and William Morris.
 - He was an early exponent of environmentalism and fought to secure cabinet rank for the Environmental Protection Agency.
@@ -127,7 +144,8 @@ Add the Greek prefix "meta-" (beyond) to the base "physical" (nature), and you g
 - adj: highly abstract and overly theoretical
 - adj: without material form or substance
 ### Family
-metaphysical: metaphysically+;metaphysics: metaphysical
+- metaphysical: metaphysically+
+- metaphysics: metaphysical
 ### Examples
 - They condemned mainstream genetics as metaphysical, reactionary and idealist.
 - A West imbued with similar metaphysical confidence today needn’t “fear other people and other religions.”
@@ -138,7 +156,9 @@ metaphysical: metaphysically+;metaphysics: metaphysical
 ### Definition
 - adj: given to or marked by the consumption of alcohol
 ### Family
-drunken: drunkener, drunkenest, drunkenly, drunkenness+;drunk: drunken, drunker, drunkest, drunks;drunkenness: drunkennesses
+- drunken: drunkener, drunkenest, drunkenly, drunkenness+
+- drunk: drunken, drunker, drunkest, drunks
+- drunkenness: drunkennesses
 ### Examples
 - A police statement says Seal Beach officers responding to reports of a possible drunken driver tried to conduct a traffic stop Saturday afternoon.
 - But watching the Browns’ front office evaluate talent is not unlike watching your drunken uncle fire up his Christmas-gift chain saw.

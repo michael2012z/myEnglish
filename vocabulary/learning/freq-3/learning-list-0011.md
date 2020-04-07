@@ -6,7 +6,7 @@ Junk is trash, debris, or garbage — it's something that's left behind or throw
 - v: dispose of (something useless or old)
 - n: any of various Chinese boats with a high poop and lugsails
 ### Family
-junk: junked, junking, junks
+- junk: junked, junking, junks
 ### Examples
 - Some consumer groups argued that the letters looked like junk mail.
 - I thought, “What kind of junk is this with all the sensational news about ‘fake news’?”
@@ -24,7 +24,7 @@ To lure is to entice or bait someone. A lure is used to bait or entice fish to a
 - n: qualities that attract by seeming to promise some kind of reward
 - n: something used to lure fish or other animals into danger so they can be trapped or killed
 ### Family
-lure: lured, lures, luring
+- lure: lured, lures, luring
 ### Examples
 - Just a year ago, the militants were luring foreign fighters with promises of generous paychecks, but today “that is not happening,” he said.
 - It was quite feasible for Yusupov to lure Rasputin by promising a meeting with allies of the empress.
@@ -38,7 +38,7 @@ A constraint is a limit or restriction. Hopefully your school won't cut the spor
 - n: the act of constraining; the threat or use of force to control the thoughts or behavior of others
 - n: a device that impede's something's motion
 ### Family
-constraint: constraints, unconstraint
+- constraint: constraints, unconstraint
 ### Examples
 - Because of budget constraints, Wal-Mart no longer creates those special positions.
 - Police officers were not on duty because of budget constraints.
@@ -57,7 +57,10 @@ A ramp is a slope or an incline, a surface that tilts from one level to another.
 - n: North American perennial having a slender bulb and whitish flowers
 - v: creep up -- used especially of plants
 ### Family
-ramp: rampage, rampant, ramped, ramping, ramps+;rampage: rampaged, rampageous, rampages, rampaging;rampageous: rampageousest, rampageously;rampant: rampantly
+- ramp: rampage, rampant, ramped, ramping, ramps+
+- rampage: rampaged, rampageous, rampages, rampaging
+- rampageous: rampageousest, rampageously
+- rampant: rampantly
 ### Examples
 - The infection sets off a cascade of events that ramps up inflammatory and immune response, Powers says.
 - The search for a new coach to replace the fired Jeff Fisher will ramp up this week.
@@ -70,7 +73,8 @@ If something is scarce, there isn't much of it around. Crops are scarce after a 
 - adj: deficient in quantity or number compared with the demand
 - adv: only a very short time before
 ### Family
-scarce: scarcely, scarceness, scarcer, scarcest, scarcity+;scarcity: scarcities
+- scarce: scarcely, scarceness, scarcer, scarcest, scarcity+
+- scarcity: scarcities
 ### Examples
 - But while the prospects for hope are scarce there is, none the less, one thing from which we might draw solace.
 - Alone The participants must scramble as food becomes scarce in this new episode of the wilderness-survival series.
@@ -82,7 +86,7 @@ If you stay on your current trajectory of constant shopping, dining out, and yac
 ### Definition
 - n: the path followed by an object moving through space
 ### Family
-trajectory: trajectories
+- trajectory: trajectories
 ### Examples
 - His interest is in people and their trajectories; a maximalist, he wants to reveal the entirety of his characters’ lives and minds.
 - “Almost every career trajectory entails a complex sequence of steps, each of which depends on those preceding it,” he said.
@@ -95,7 +99,7 @@ A surplus is something extra or left over. If your tree produces more apples tha
 - n: a quantity much larger than is needed
 - adj: more than is needed, desired, or required
 ### Family
-surplus: surpluses
+- surplus: surpluses
 ### Examples
 - That may limit Republican hopes for massive tax cuts or plans to redirect much of the budget surplus into transportation repairs.
 - China is Taiwan's largest trading partner, and Taiwan runs a huge trade surplus with China, worth $27 billion in 2015.
@@ -107,7 +111,8 @@ If you've ever had a teacher who was particularly stern and strict, you might ha
 ### Definition
 - n: the trait of great self-denial (especially refraining from worldly pleasures)
 ### Family
-austerity: austerities+;austere: austerely, austereness, austerer, austerest, austerity
+- austerity: austerities+
+- austere: austerely, austereness, austerer, austerest, austerity
 ### Examples
 - They got their answer beginning in 2008 when economic crisis and austerity politics proved that democracy did matter.
 - But lawmakers removed some austerity measures that the central government wanted to impose on states accepting the deal.

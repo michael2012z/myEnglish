@@ -6,7 +6,7 @@ Infantile means immature or childish. Thumb-sucking and temper tantrums are exam
 - adj: being or befitting or characteristic of an infant
 - adj: indicating a lack of maturity
 ### Family
-infantile: infantilely, infantilism
+- infantile: infantilely, infantilism
 ### Examples
 - It is unfussy in a country whose metropolitan food culture increasingly involves infantile gimmicks: dishes served on bricks, in jam-jars and the like.
 - It can instill in us a delusional sense of our own importance, and it can stir a variety of infantile responses.
@@ -18,7 +18,10 @@ infantile: infantilely, infantilism
 - adj: worthy of being honored; entitled to honor and respect
 - adj: adhering to ethical and moral principles
 ### Family
-honourable: dishonourable, honourableness, honourablest, honourably+;dishonour: dishonoured, dishonouring, dishonours;dishonourable: dishonourableness;honour: dishonour, honourable, honoured, honouring, honours
+- honourable: dishonourable, honourableness, honourablest, honourably+
+- dishonour: dishonoured, dishonouring, dishonours
+- dishonourable: dishonourableness
+- honour: dishonour, honourable, honoured, honouring, honours
 ### Examples
 - The Mobile Photography Awards are now in their fifth year, and this spectacular shot of Spring Break in Sydney got an honourable mention this year.
 - Derek Lam concurred, saying he would "rather concentrate my energies on efforts towards a more just, honourable and a mutually respectful world".
@@ -37,7 +40,15 @@ Think of the verb impress as "leaving a mark." You might impress a print onto ca
 - v: take (someone) against his will for compulsory service, especially on board a ship
 - v: dye (fabric) before it is spun
 ### Family
-impress: impressed, impresses, impressible, impressing, impression, impressive, impressment+;impressed: unimpressed;impressible: impressibly;impression: impressionable, impressionistic, impressions;impressionable: unimpressionable;impressionistic: impressionistically;impressive: impressively, impressiveness, unimpressive;impressment: impressments;unimpressive: unimpressively
+- impress: impressed, impresses, impressible, impressing, impression, impressive, impressment+
+- impressed: unimpressed
+- impressible: impressibly
+- impression: impressionable, impressionistic, impressions
+- impressionable: unimpressionable
+- impressionistic: impressionistically
+- impressive: impressively, impressiveness, unimpressive
+- impressment: impressments
+- unimpressive: unimpressively
 ### Examples
 - But, it was the massive tulip poplar that impressed him.
 - He also impressed on the students that they were just playing a game.
@@ -50,7 +61,9 @@ A proclamation is a formal public statement. If the mayor of your town issued a 
 - n: a formal public statement
 - n: the formal act of proclaiming; giving public notice
 ### Family
-proclamation: proclamations+;proclaim: proclaimed, proclaiming, proclaims, proclamation;proclaimed: self-proclaimed
+- proclamation: proclamations+
+- proclaim: proclaimed, proclaiming, proclaims, proclamation
+- proclaimed: self-proclaimed
 ### Examples
 - Mr. Obama’s unilateral actions, by executive order, proclamation or memoranda, are even more vulnerable.
 - On this day full of light, the prophetic proclamation resounds:
@@ -64,7 +77,8 @@ A doll or figure controlled by a person so that it appears to be moving on its o
 - n: a doll with a hollow head of a person or animal and a cloth body; intended to fit over the hand and be manipulated with the fingers
 - n: a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else
 ### Family
-puppet: puppeteer, puppets+;puppeteer: puppeteers
+- puppet: puppeteer, puppets+
+- puppeteer: puppeteers
 ### Examples
 - Activities include concerts, dance lessons, art exhibits, puppet shows and a fireworks display on Boston Common at 7 p.m.
 - The production also featured the puppets Zippy & George from the TV show Rainbow and a digital projection of comedian Ken Dodd.
@@ -80,7 +94,15 @@ puppet: puppeteer, puppets+;puppeteer: puppeteers
 - adj: given to expressing yourself freely or insistently
 - adj: relating to or designed for or using the singing voice
 ### Family
-vocal: vocalise, vocalism, vocalize, vocally, vocals+;vocalise: subvocalise, vocalisation, vocalised, vocaliser, vocalises, vocalising;vocaliser: subvocaliser;vocalism: vocalisms, vocalist;vocalist: vocalists;vocalization: vocalizations;vocalize: subvocalize, vocalization, vocalized, vocalizer, vocalizes, vocalizing;vocalizer: subvocalizer, vocalizers;vocalizing: vocalizings
+- vocal: vocalise, vocalism, vocalize, vocally, vocals+
+- vocalise: subvocalise, vocalisation, vocalised, vocaliser, vocalises, vocalising
+- vocaliser: subvocaliser
+- vocalism: vocalisms, vocalist
+- vocalist: vocalists
+- vocalization: vocalizations
+- vocalize: subvocalize, vocalization, vocalized, vocalizer, vocalizes, vocalizing
+- vocalizer: subvocalizer, vocalizers
+- vocalizing: vocalizings
 ### Examples
 - Referring to the backing vocal track, she said, "it is not uncommon for artists to sing to track during certain live performances".
 - She's vocal about what she thinks needs to change to encourage more women, and local Hong Kongers, to join the trade.
@@ -98,7 +120,9 @@ An antique is an old-fashioned thing, like a lamp from the sixties. Anything ant
 - v: give an antique appearance to
 - v: shop for antiques
 ### Family
-antique: antiquate, antiqued, antiquely, antiques, antiquing, antiquity+;antiquate: antiquated, antiquates, antiquating;antiquity: antiquities
+- antique: antiquate, antiqued, antiquely, antiques, antiquing, antiquity+
+- antiquate: antiquated, antiquates, antiquating
+- antiquity: antiquities
 ### Examples
 - For many people, it’s less about general antiques and more about interest in one particular collection.
 - The antique maps of Connecticut’s largest city that previously adorned his office are back on the walls.
@@ -119,7 +143,10 @@ To purge is to get rid of something or someone, and often it’s done suddenly. 
 - v: eject the contents of the stomach through the mouth
 - v: excrete or evacuate (someone's bowels or body)
 ### Family
-purge: purgation, purgative, purged, purges, purging+;purgation: purgations;purgative: purgatives;purging: purgingly, purgings
+- purge: purgation, purgative, purged, purges, purging+
+- purgation: purgations
+- purgative: purgatives
+- purging: purgingly, purgings
 ### Examples
 - A one-time Cabinet candidate, Christie ran Trump’s transition before he and his allies were purged from the operation in the week after Election Day.
 - Clingman told Chief Public Defender Ben Baur that he could purge the contempt findings by following his statutory duty to represent defendants.
@@ -137,7 +164,8 @@ Accession is the act of advancing into a position. Being elected class president
 - v: make a record of additions to a collection, such as a library
 - n: agreeing with or consenting to (often unwillingly)
 ### Family
-accession: accessional, accessioned, accessioning, accessions+;accede: acceded, accedes, acceding, accession
+- accession: accessional, accessioned, accessioning, accessions+
+- accede: acceded, accedes, acceding, accession
 ### Examples
 - The fight will focus on the wording in the original accession agreement.
 - “Brexit is like no other negotiation, far more important than an accession negotiation,” said one senior EU diplomat.
@@ -158,7 +186,7 @@ A spiral is a coil or curl, like the shape of a piece of hair wound around your 
 - v: to wind or move in a spiral course
 - v: form a spiral
 ### Family
-spiral: spiraled, spiraling, spiralled, spiralling, spirally, spirals
+- spiral: spiraled, spiraling, spiralled, spiralling, spirally, spirals
 ### Examples
 - Many galaxies of stars form spirals, where relatively few stars in the outer arms orbit around a dense mass of stars at the centre.
 - In the middle panel, around a childhood photograph, a spiraling text in the shape of a fingerprint chronicles events in Mr. Rauschenberg’s life.

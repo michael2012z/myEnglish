@@ -6,7 +6,8 @@ Subsistence means the minimal resources that are necessary for survival. If you 
 - n: a means of surviving
 - n: minimal (or marginal) resources for subsisting
 ### Family
-subsistence: subsistences+;subsist: subsisted, subsistence, subsister, subsisting, subsists
+- subsistence: subsistences+
+- subsist: subsisted, subsistence, subsister, subsisting, subsists
 ### Examples
 - Environmental groups oppose the mine, as do many native residents who rely on the fish as a subsistence food.
 - Warfare, forced relocations, slavery, suppression of traditional subsistence activities, and the dismantling of social structures and cultural practices all contributed substantially to depopulation.
@@ -24,7 +25,9 @@ Precipitate usually means "bringing something on" or "making it happen" — and 
 - v: separate as a fine suspension of solid particles
 - n: a precipitated solid substance in suspension or after settling or filtering
 ### Family
-precipitate: precipitated, precipitately, precipitateness, precipitates, precipitating, precipitation, precipitator+;precipitation: precipitations;precipitator: precipitators
+- precipitate: precipitated, precipitately, precipitateness, precipitates, precipitating, precipitation, precipitator+
+- precipitation: precipitations
+- precipitator: precipitators
 ### Examples
 - Thatcher’s departure was partially precipitated by popular resentment over the poll tax, which she championed.
 - That is what precipitated this fight over Obama’s decision not to block a U.N. resolution last week criticizing Israeli settlements in the West Bank.
@@ -37,7 +40,10 @@ To impede something is to delay or block its progress or movement. Carrying six 
 - v: be a hindrance or obstacle to
 - v: block passage through
 ### Family
-impede: impeded, impedes, impediment, impeding+;impeded: unimpeded;impediment: impediments;unimpeded: unimpededly
+- impede: impeded, impedes, impediment, impeding+
+- impeded: unimpeded
+- impediment: impediments
+- unimpeded: unimpededly
 ### Examples
 - “We will not allow any nation to dominate this industry and impede innovation through unfair trade practices and massive, non-market-based state intervention.”
 - U.S. companies are preparing to invest again after years on the sidelines, and rising interest rates are unlikely to impede them.
@@ -49,7 +55,8 @@ When something is on the periphery of your vision, you can only see it when you�
 ### Definition
 - n: the outside boundary or surface of something
 ### Family
-periphery: peripheral, peripheries+;peripheral: peripherally, peripherals
+- periphery: peripheral, peripheries+
+- peripheral: peripherally, peripherals
 ### Examples
 - With croplands on the periphery of these urban hubs in peril, ensuring food security is set to become an important part of that mandate, too.
 - Which groups are marginalized or at the periphery?
@@ -63,7 +70,8 @@ Confluence means a flowing together. In a literal sense, it's about rivers. But 
 - n: a flowing together
 - n: a coming together of people
 ### Family
-confluence: confluences+;confluent: confluence, confluently, confluents
+- confluence: confluences+
+- confluent: confluence, confluently, confluents
 ### Examples
 - The choking first aid posters of yore were a messy confluence of primary colors and a stylized fish skeleton.
 - An unusual calendar confluence means consumers are getting a later start on their holiday shopping.
@@ -81,7 +89,7 @@ An adjective referring to the military, the word martial adds a warlike tone to 
 - adj: (of persons) befitting a warrior
 - n: Roman poet noted for epigrams (first century BC)
 ### Family
-Martial: Martials
+- Martial: Martials
 ### Examples
 - The death rate declined, but football did not lose its martial character.
 - Other major figures in mixed martial arts disagree.
@@ -98,7 +106,9 @@ You know the lawyers who try to make the jury believe the guy on trial for steal
 - n: the lawyers acting for the state to put the case against the defendant
 - n: the continuance of something begun with a view to its completion
 ### Family
-prosecution: prosecutions+;prosecute: prosecuted, prosecutes, prosecuting, prosecution, prosecutor;prosecutor: prosecutors
+- prosecution: prosecutions+
+- prosecute: prosecuted, prosecutes, prosecuting, prosecution, prosecutor
+- prosecutor: prosecutors
 ### Examples
 - “People are looking for a visible clampdown in China and results in terms of arrests and prosecutions.”
 - That case is part of an overall increase in prosecutions of officers in fatal shootings in the two years since Ferguson.
@@ -109,7 +119,8 @@ prosecution: prosecutions+;prosecute: prosecuted, prosecutes, prosecuting, prose
 - n: any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects
 - n: any hormone affecting the development and growth of sex organs
 ### Family
-steroid: nonsteroid, steroidal, steroids+;steroidal: nonsteroidal
+- steroid: nonsteroid, steroidal, steroids+
+- steroidal: nonsteroidal
 ### Examples
 - She prescribed oral steroids in addition to a rescue inhaler to calm my overactive airways, which helped.
 - The doctor may prescribe a steroid cream or, in severe cases, an oral immunosuppressant for the itch.
@@ -125,7 +136,7 @@ All things being equal, parity means, basically, equality. It’s used in financ
 - n: (computer science) a bit that is used in an error detection procedure in which a 0 or 1 is added to each group of bits so that it will have either an odd number of 1's or an even number of 1's; e.g., if the parity is odd then any group of bits that arrives with an even number of 1's must contain an error
 - n: (obstetrics) the number of liveborn children a woman has delivered
 ### Family
-parity: parities
+- parity: parities
 ### Examples
 - They “back tested” risk parity over periods such as the Great Depression and the postwar bond-bear market with similar results.
 - Contract workers excluded from that policy say they want parity — and more.
@@ -137,7 +148,9 @@ If your uncle tells you that your outfit is reminiscent of the way your mother d
 ### Definition
 - adj: serving to bring to mind
 ### Family
-reminiscent: reminiscently+;reminisce: reminisced, reminiscence, reminiscent, reminisces, reminiscing;reminiscence: reminiscences
+- reminiscent: reminiscently+
+- reminisce: reminisced, reminiscence, reminiscent, reminisces, reminiscing
+- reminiscence: reminiscences
 ### Examples
 - Current A.N.T.S president Desire Solano’s load this semester is reminiscent of an ant carrying something twice its size.
 - The drink’s color is reminiscent of her signature red hair.

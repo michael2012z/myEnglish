@@ -5,7 +5,8 @@ Someone who is diligent works hard and carefully. If you want to write the epic 
 - adj: quietly and steadily persevering especially in detail or exactness
 - adj: characterized by care and perseverance in carrying out tasks
 ### Family
-diligent: diligence, diligenter, diligently+;diligence: diligences
+- diligent: diligence, diligenter, diligently+
+- diligence: diligences
 ### Examples
 - “To me, democracy works best when people are diligent at avoiding even an appearance of interest conflict.”
 - “It also demands a diligent and exhaustive investigation.”
@@ -21,7 +22,11 @@ Imitation means copying the words, facial expressions, or actions of another per
 - n: the doctrine that representations of nature or human behavior should be accurate imitations
 - adj: not genuine or real; being an imitation of the genuine article
 ### Family
-imitation: imitations+;imitate: imitated, imitates, imitating, imitation, imitative, imitator, inimitable;imitative: imitatively, nonimitative;imitator: imitators;inimitable: inimitably
+- imitation: imitations+
+- imitate: imitated, imitates, imitating, imitation, imitative, imitator, inimitable
+- imitative: imitatively, nonimitative
+- imitator: imitators
+- inimitable: inimitably
 ### Examples
 - The most historically accurate recent Oscar contender is Selma and the least is The Imitation Game.
 - At 16, she won the Miss Burbank beauty contest doing an imitation of her idol Betty Hutton performing.
@@ -34,7 +39,7 @@ When something is spectral, it has a ghostlike quality; it seems to vanish or di
 - adj: resembling or characteristic of a phantom
 - adj: of or relating to a spectrum
 ### Family
-spectral: spectrally
+- spectral: spectrally
 ### Examples
 - “Always,” Blake’s collaboration with Ocean, another essential voice of 2016, is a soft and spectral lament.
 - The singing is spectral, the cadence is practically spoken, and, as a bonus, the beat is ghost-EDM, with thumps that flicker on and off.
@@ -46,7 +51,7 @@ Tactile has to do with the sense of touch. There's a huge tactile difference bet
 - adj: of or relating to or proceeding from the sense of touch
 - adj: producing a sensation of touch
 ### Family
-tactile: tactilely, tactility, tactily
+- tactile: tactilely, tactility, tactily
 ### Examples
 - What’s more, when combined with virtual reality and tactile feedback, the systems even appear to promote a degree of recovery for people with paraplegia.
 - In an increasingly digital age, Mr. Sax reminds us of the human craving for tactile, physical things, and the persistence of the real.
@@ -60,7 +65,8 @@ Use the noun immediacy to talk about the lighting-fast speed with which somethin
 - n: lack of an intervening or mediating agency
 - n: immediate intuitive awareness
 ### Family
-immediacy: immediacies+;immediate: immediacy, immediately, immediateness
+- immediacy: immediacies+
+- immediate: immediacy, immediately, immediateness
 ### Examples
 - "It's more about the immediacy… what's happening in their lives right now," says Dr Sian Thomas.
 - Instead of reacting to a loss in its immediacy, they’ve developed an appreciation for the steady hand a season requires.
@@ -72,7 +78,8 @@ When you have done something you know you shouldn't have, or just something emba
 ### Definition
 - adj: feeling shame or guilt or embarrassment or remorse
 ### Family
-ashamed: ashamedly, unashamed+;unashamed: unashamedly
+- ashamed: ashamedly, unashamed+
+- unashamed: unashamedly
 ### Examples
 - She’s not ashamed of her father’s work, and it helped supplement his firefighter’s income.
 - “These public funds, which pay their bills on the backs of taxpayers and public servants, should be ashamed of their craven greed,” Chiang said.
@@ -84,7 +91,23 @@ A misconception is a conclusion that's wrong because it's based on faulty thinki
 ### Definition
 - n: an incorrect conception
 ### Family
-misconception: misconceptions+;conceivable: conceivability, conceivableness, conceivably, inconceivable;conceive: conceivable, conceived, conceiver, conceives, conceiving, conceptive, misconceive, preconceive;conceived: ill-conceived;conceiver: conceivers;concept: conceive, conception, concepts, conceptual, conceptualize;conception: conceptional, conceptions;conceptual: conceptualise, conceptualism, conceptuality, conceptually;conceptualise: conceptualisation;conceptualism: conceptualistic;conceptualization: conceptualizations;conceptualize: conceptualization, conceptualized, conceptualizes, conceptualizing;inconceivability: inconceivabilities;inconceivable: inconceivability, inconceivableness, inconceivably;misconceive: misconceived, misconceives, misconceiving, misconception;preconceive: preconceived, preconceives, preconception;preconception: preconceptions
+- misconception: misconceptions+
+- conceivable: conceivability, conceivableness, conceivably, inconceivable
+- conceive: conceivable, conceived, conceiver, conceives, conceiving, conceptive, misconceive, preconceive
+- conceived: ill-conceived
+- conceiver: conceivers
+- concept: conceive, conception, concepts, conceptual, conceptualize
+- conception: conceptional, conceptions
+- conceptual: conceptualise, conceptualism, conceptuality, conceptually
+- conceptualise: conceptualisation
+- conceptualism: conceptualistic
+- conceptualization: conceptualizations
+- conceptualize: conceptualization, conceptualized, conceptualizes, conceptualizing
+- inconceivability: inconceivabilities
+- inconceivable: inconceivability, inconceivableness, inconceivably
+- misconceive: misconceived, misconceives, misconceiving, misconception
+- preconceive: preconceived, preconceives, preconception
+- preconception: preconceptions
 ### Examples
 - She said there is “a lot of ignorance and misconceptions around transgender people.”
 - There is a very common misconception that all people with Down’s syndrome are the same.
@@ -97,7 +120,11 @@ If you are a chocolate lover, you'll have to show great restraint when the desse
 - n: the trait of abstaining (especially from alcohol)
 - n: act or practice of refraining from indulging an appetite
 ### Family
-abstinence: abstinences+;abstain: abstained, abstainer, abstaining, abstains, abstention, abstinent;abstainer: abstainers;abstention: abstentions;abstinent: abstinence, abstinently
+- abstinence: abstinences+
+- abstain: abstained, abstainer, abstaining, abstains, abstention, abstinent
+- abstainer: abstainers
+- abstention: abstentions
+- abstinent: abstinence, abstinently
 ### Examples
 - One of three of the six Cleveland brothers who survives today, he credits much of his health to a longtime abstinence of alcohol and tobacco.
 - In its own manual, the Islamic State outlines the abstinence method as one option.
@@ -110,7 +137,9 @@ When you exaggerate you stretch the truth. Fishermen tend to exaggerate the size
 - v: enlarge beyond bounds or the truth
 - v: do something to an excessive degree
 ### Family
-exaggerate: exaggerated, exaggerates, exaggerating, exaggeration+;exaggerated: exaggeratedly;exaggeration: exaggerations
+- exaggerate: exaggerated, exaggerates, exaggerating, exaggeration+
+- exaggerated: exaggeratedly
+- exaggeration: exaggerations
 ### Examples
 - Harry B. Harris told an audience in Australia recently that “reports of America’s abandonment of the Indo-Asia-Pacific are greatly exaggerated.”
 - On Wednesday, Trump accused the news media of exaggerating any potential conflicts presented by his business holdings.
@@ -123,7 +152,7 @@ Ivory is a hard, white substance found in the tusks of animals such as elephants
 - n: a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses
 - n: a shade of white the color of bleached bones
 ### Family
-ivory: ivories
+- ivory: ivories
 ### Examples
 - But it became increasingly clear to Chinese officials that smugglers were bringing ivory into the country illegally and marketing it as a legal product.
 - The Jacksonville Jaguars are without running back Chris Ivory, leaving Denard Robinson to start after missing the last three games with an ankle injury.

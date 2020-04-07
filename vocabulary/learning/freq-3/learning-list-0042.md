@@ -4,7 +4,7 @@ A pilgrimage is a journey to a sacred place. People make pilgrimages to places l
 ### Definition
 - n: a journey to a sacred place
 ### Family
-pilgrimage: pilgrimages
+- pilgrimage: pilgrimages
 ### Examples
 - Another says she flew in from Detroit just for the day as “sort of a Prince pilgrimage.”
 - No one should underestimate the symbolism of Mr. Abe’s pilgrimage.
@@ -19,7 +19,7 @@ When you're walking on the perfect green grass of a golf course, you might remar
 - n: surface layer of ground containing a mat of grass and grass roots
 - v: cover (the ground) with a surface layer of grass or grass roots
 ### Family
-turf: turfed, turfing, turfs, turves
+- turf: turfed, turfing, turfs, turves
 ### Examples
 - He was hurt when Jared Crick slammed him to the turf, drawing a roughing-the-passer penalty.
 - Murders last year included domestic violence incidents, drug turf wars and high profile cases such as the Nov. 27 mass shooting on Bourbon Street.
@@ -35,7 +35,9 @@ If you walk unevenly, you have a limp. Maybe you pulled your hamstring at the an
 - adj: not firm
 - adj: lacking in strength or firmness or resilience
 ### Family
-limp: limped, limper, limping, limpingly, limply, limpness, limps+;limper: limpers;limping: limpings
+- limp: limped, limper, limping, limpingly, limply, limpness, limps+
+- limper: limpers
+- limping: limpings
 ### Examples
 - The quarterback climbed to his feet and limped back to the huddle.
 - He limped off the field, but he didn’t think the injury was serious.
@@ -50,7 +52,8 @@ If something eases your disappointment or grief, consider it a solace. If you're
 - n: the act of consoling; giving relief in affliction
 - v: give moral or emotional strength to
 ### Family
-solace: solaced, solacement, solaces, solacing+;solacement: solacements
+- solace: solaced, solacement, solaces, solacing+
+- solacement: solacements
 ### Examples
 - But while the prospects for hope are scarce there is, none the less, one thing from which we might draw solace.
 - Ms. Fisher’s literary legacy seemed to offer some solace to fans mourning her death this week, at age 60.
@@ -66,7 +69,9 @@ If you have the freedom to decide something on your own, the decision is left to
 - n: knowing how to avoid embarrassment or distress
 - n: refined taste; tact
 ### Family
-discretion: discretional, discretionary, discretions, indiscretion+;discretional: discretionally;indiscretion: indiscretions
+- discretion: discretional, discretionary, discretions, indiscretion+
+- discretional: discretionally
+- indiscretion: indiscretions
 ### Examples
 - A separate entrance for emergency care directly into the hospital means a high level of discretion for trauma cases.
 - On the Portuguese left, faith was a delicate issue that required discretion.
@@ -79,7 +84,9 @@ A widely accepted belief or theory is an orthodoxy. You could call the scientifi
 - n: the quality of being orthodox (especially in religion)
 - n: a belief or orientation agreeing with conventional standards
 ### Family
-orthodoxy: orthodoxies, unorthodoxy+;orthodox: orthodoxest, orthodoxly, orthodoxy, unorthodox;unorthodoxy: unorthodoxies
+- orthodoxy: orthodoxies, unorthodoxy+
+- orthodox: orthodoxest, orthodoxly, orthodoxy, unorthodox
+- unorthodoxy: unorthodoxies
 ### Examples
 - It turns the page on a forty-year western economic orthodoxy - the liberal market consensus of Margaret Thatcher and Ronald Reagan.
 - “Silence” argues against orthodoxy, but its messenger is too pallid.
@@ -93,7 +100,10 @@ A germ is a tiny life form that spreads disease. Germs are also small things tha
 - n: a minute life form (especially a disease-causing bacterium); the term is not in technical use
 - n: anything that provides inspiration for later work
 ### Family
-germ: germinal, germinate, germs, germy+;germinal: germinally;germinate: germinated, germinates, germinating, germination;germination: germinations
+- germ: germinal, germinate, germs, germy+
+- germinal: germinally
+- germinate: germinated, germinates, germinating, germination
+- germination: germinations
 ### Examples
 - Republican leaders are quick to note that, while Garland appears to be qualified, his name is an anagram for “Rancid Lark Germ.”
 - In “20th Century Women,” this provided the germ of an opening-scene flashback.
@@ -108,7 +118,10 @@ Distressed is an adjective that describes a general feeling of unhappiness, like
 - adj: suffering severe physical strain or distress
 - adj: facing or experiencing financial trouble or difficulty
 ### Family
-distressed: distressedest, distressedly+;distress: distressed, distresses, distressful, distressing;distressful: distressfully, distressfulness;distressing: distressingly, distressingness
+- distressed: distressedest, distressedly+
+- distress: distressed, distresses, distressful, distressing
+- distressful: distressfully, distressfulness
+- distressing: distressingly, distressingness
 ### Examples
 - Those firms were, as many still are, very distressed.
 - Not all civil servants are distressed about the anti-corruption measures.
@@ -121,7 +134,7 @@ If two things are akin, then they're similar or related. A cupcake is akin to a 
 - adj: related by blood
 - adj: similar in quality or character
 ### Family
-akin
+- akin
 ### Examples
 - Hawkins said last week the choir’s tradition of presidential performances was not akin to “implied support of party affiliations or politics”.
 - That motion would, in turn, shorten or stretch the time between pulses from pulsars in different directions, in an effect akin to the Doppler shift.
@@ -133,7 +146,7 @@ A playwright is someone who writes plays. Playwrights are also known as dramatis
 ### Definition
 - n: someone who writes plays
 ### Family
-playwright: playwrights
+- playwright: playwrights
 ### Examples
 - Joseph is now a successful playwright and a professor at Columbia University.
 - He feared younger or newer actors will get fewer opportunities to get the practice they need, and playwrights will see fewer works staged.

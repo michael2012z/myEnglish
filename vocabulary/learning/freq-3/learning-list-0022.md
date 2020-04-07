@@ -10,7 +10,7 @@ The word flock refers to a group of animals, like birds or sheep, that have cong
 - v: move as a crowd or in a group
 - n: a church congregation guided by a pastor
 ### Family
-flock: flocked, flocking, flocks
+- flock: flocked, flocking, flocks
 ### Examples
 - Demand for urban properties jumped after the housing bust as young, high-earning professionals eschewed homeownership and flocked to big cities.
 - Temple bells echoed at midnight as families gather around noodles and revelers flock to shrines for the biggest holiday in Japan.
@@ -30,7 +30,8 @@ Anything that needs to be mailed, sent off, or quickly shipped needs to be dispa
 - v: kill intentionally and with premeditation
 - n: an official report (usually sent in haste)
 ### Family
-dispatch: dispatched, dispatcher, dispatches, dispatching+;dispatcher: dispatchers
+- dispatch: dispatched, dispatcher, dispatches, dispatching+
+- dispatcher: dispatchers
 ### Examples
 - Aaron Rodgers threw four touchdown passes, and the Packers calmly dispatched Detroit 31-24 on Sunday night to win the NFC North title.
 - At the age of ten, Gregor was dispatched to a boarding school of truly Dickensian awfulness.
@@ -43,7 +44,10 @@ If you have the ability to say the right thing when two friends are fighting, ma
 - adj: relating to or characteristic of diplomacy
 - adj: using or marked by tact in dealing with sensitive matters or people
 ### Family
-diplomatic: diplomatically, undiplomatic, undiplomatically+;diplomacy: diplomacies, diplomatic, diplomatical, diplomatist;diplomat: diplomacy, diplomats;diplomatist: diplomatists
+- diplomatic: diplomatically, undiplomatic, undiplomatically+
+- diplomacy: diplomacies, diplomatic, diplomatical, diplomatist
+- diplomat: diplomacy, diplomats
+- diplomatist: diplomatists
 ### Examples
 - In 1974, he was travelling from Beirut to Jerusalem in a car bearing Vatican diplomatic plates when it was stopped by Israeli security forces.
 - In this respect, she faces a more nuanced diplomatic challenge than confronted, say, Thatcher or Tony Blair.
@@ -57,7 +61,8 @@ Deprive means to keep from having. If your little brother gets loud and hyper ev
 - v: take away possessions from someone
 - v: keep from having, keeping, or obtaining
 ### Family
-deprive: deprivation, deprived, deprives, depriving+;deprivation: deprivations
+- deprive: deprivation, deprived, deprives, depriving+
+- deprivation: deprivations
 ### Examples
 - The call deprived the Trojans’ suddenly beleaguered defense of its top tackler.
 - The lawyer told the Daily News Egypt newspaper that his client was subjected to interrogations that deprived him of sleep for nearly 40 hours.
@@ -71,7 +76,11 @@ A respondent is a person who gives an answer. For example, on some Monday mornin
 - n: someone who responds
 - n: the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent
 ### Family
-respondent: co-respondent, respondently, respondents+;respond: responded, respondent, responder, responding, responds, responsive;responder: responders;responsive: responsively, responsiveness, unresponsive;unresponsive: unresponsively, unresponsiveness
+- respondent: co-respondent, respondently, respondents+
+- respond: responded, respondent, responder, responding, responds, responsive
+- responder: responders
+- responsive: responsively, responsiveness, unresponsive
+- unresponsive: unresponsively, unresponsiveness
 ### Examples
 - Of the respondents with plans, 45 percent say that they will travel only domestically.
 - But the class divide is more interesting: Sixty-five percent of white working-class respondents said the ’50s were better.
@@ -84,7 +93,8 @@ Scarcely means just before, hardly, or “almost not.” If you had scarcely mad
 - adv: only a very short time before
 - adv: almost not
 ### Family
-scarce: scarcely, scarceness, scarcer, scarcest, scarcity+;scarcity: scarcities
+- scarce: scarcely, scarceness, scarcer, scarcest, scarcity+
+- scarcity: scarcities
 ### Examples
 - The firefight was of a familiar type: a swift and ferocious clash between combatants who scarcely glimpsed one another.
 - Issues like Medicare and Medicaid were scarcely discussed.
@@ -97,7 +107,8 @@ Misery is a state of deep unhappiness or discomfort. It's not dropping your ice 
 - n: a state of ill-being due to affliction or misfortune
 - n: a feeling of intense unhappiness
 ### Family
-misery: miserable, miseries+;miserable: miserableness, miserabler, miserablest, miserably
+- misery: miserable, miseries+
+- miserable: miserableness, miserabler, miserablest, miserably
 ### Examples
 - Gospel Mavutula from neighbouring Malawi was originally named Misery but decided it was too negative and changed it.
 - “It is misery,” she said, wiping her eyes with a knuckle.
@@ -117,7 +128,8 @@ A blunt object is rounded — it isn't very pointy. A blunt comment is candid �
 - v: make less intense
 - v: make numb or insensitive
 ### Family
-blunt: blunted, blunter, bluntest, blunting, bluntly, bluntness, blunts+;bluntness: bluntnesses
+- blunt: blunted, blunter, bluntest, blunting, bluntly, bluntness, blunts+
+- bluntness: bluntnesses
 ### Examples
 - Secretary of State John Kerry’s blunt speech about the Israeli-Palestinian conflict was that of a man trapped in the past.
 - In scripted television, ABC’s smart, blunt family comedies “Black-ish” and “Fresh Off the Boat” might respond early to the forces unleashed by Trump.
@@ -132,7 +144,7 @@ A ceiling is the upper surface of a room. If you’re lying on the floor, you’
 - n: (meteorology) altitude of the lowest layer of clouds
 - n: maximum altitude at which a plane can fly (under specified conditions)
 ### Family
-ceiling: ceilings
+- ceiling: ceilings
 ### Examples
 - There is a sumptuous mosaic ceiling, with marble columns and copper clay friezes.
 - The 25-year-old victim fell through the corrugated plastic ceiling of a kitchen annexe in a basement flat on Charles Road on New Year's Day.
@@ -146,7 +158,10 @@ Pavement is a hard surface that's covered in concrete or asphalt, like a road or
 - n: material used to pave an area
 - n: walk consisting of a paved area for pedestrians; usually beside a street or roadway
 ### Family
-pavement: pavements+;pave: pavage, paved, pavement, paves, paving;paved: unpaved;paving: pavings
+- pavement: pavements+
+- pave: pavage, paved, pavement, paves, paving
+- paved: unpaved
+- paving: pavings
 ### Examples
 - That means more rain gardens, stormwater vaults and permeable pavement for all new development in the county.
 - When he was 4, he would scoop up pavement ants in front of his house and keep them in jars.

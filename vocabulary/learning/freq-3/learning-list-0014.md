@@ -5,7 +5,10 @@ Detention is a word for confinement or imprisonment, usually for a short time. I
 - n: a state of being confined (usually for a short time)
 - n: a punishment in which a student must stay at school after others have gone home
 ### Family
-detention: detentions+;detain: detained, detainee, detaining, detainment, detains, detention;detainee: detainees;detainment: detainments
+- detention: detentions+
+- detain: detained, detainee, detaining, detainment, detains, detention
+- detainee: detainees
+- detainment: detainments
 ### Examples
 - Dahlin’s first project was a report denouncing the existence of an illegal nationwide network of secret detention facilities called “black jails”.
 - Officials from the Donald W. Wyatt Detention Facility, which was holding Morales, did not respond to requests for comment.
@@ -24,7 +27,10 @@ Rage is a really intense anger. Some frustrated drivers let their emotions boil 
 - n: an interest followed with exaggerated zeal
 - n: something that is desired intensely
 ### Family
-rage: enrage, raged, rages, raging+;enrage: enraged, enragement, enrages, enraging;enraged: enragedly;raging: ragingly
+- rage: enrage, raged, rages, raging+
+- enrage: enraged, enragement, enrages, enraging
+- enraged: enragedly
+- raging: ragingly
 ### Examples
 - So the debate rages on and we continue ...
 - We are simply beneficiaries of their good graces, and prisoners of their rages.
@@ -40,7 +46,9 @@ People argue about whether the major religions of the world are just well-establ
 - n: followers of an unorthodox, extremist, or false religion or sect who often live outside of conventional society under the direction of a charismatic leader
 - n: an interest followed with exaggerated zeal
 ### Family
-cult: cultism, cults+;cultism: cultist;cultist: cultists
+- cult: cultism, cults+
+- cultism: cultist
+- cultist: cultists
 ### Examples
 - “We want to be the Harlan Estate of the East Coast,” he said, naming one of the priciest cult Cabernets in Napa.
 - The one exception is the movies’ writer, Michael Varrati, who specializes in two very different kinds of cult films—horror movies and Christmas movies.
@@ -56,7 +64,7 @@ Commerce is the exchange of goods and services. It's business. Competition betwe
 - n: social exchange, especially of opinions, attitudes, etc.
 - n: the United States federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913
 ### Family
-Commerce: Commerces
+- Commerce: Commerces
 ### Examples
 - Displays of Nazi symbols for commerce or entertainment also occur in mainland China, South Korea and Thailand.
 - Instead, cash dried up, retail commerce froze, and Maduro suspended the move as rioting and looting erupted.
@@ -78,7 +86,7 @@ Hail is when chunks of ice fall from the sky. Also, to hail someone is to greet 
 - v: be a native of
 - v: call for
 ### Family
-hail: hailed, hailing, hails
+- hail: hailed, hailing, hails
 ### Examples
 - The study’s authors hailed the new statistics as good news.
 - Hail fell in several states, including Alabama and Arkansas, it added.
@@ -92,7 +100,8 @@ Ghetto means a crowded poor part of a city lived in by a specific ethnic group. 
 - n: formerly the restricted quarter of many European cities in which Jews were required to live
 - n: any segregated mode of living or working that results from bias or stereotyping
 ### Family
-ghetto: ghettoes, ghettoise, ghettoize, ghettos+;ghettoize: ghettoized, ghettoizing
+- ghetto: ghettoes, ghettoise, ghettoize, ghettos+
+- ghettoize: ghettoized, ghettoizing
 ### Examples
 - “Israel is creating Palestinian ghettos, islands of land that are doomed to failure without basic resources,” he said.
 - A journey into one of the world’s oldest Jewish ghettos, where this year a long, rich history is commemorated.
@@ -105,7 +114,8 @@ For a formal-sounding verb that means to make worse, try exacerbate. If you're i
 - v: make worse
 - v: exasperate or irritate
 ### Family
-exacerbate: exacerbated, exacerbates, exacerbating, exacerbation+;exacerbation: exacerbations
+- exacerbate: exacerbated, exacerbates, exacerbating, exacerbation+
+- exacerbation: exacerbations
 ### Examples
 - Pressure from Western powers and Japan exacerbated China’s bleak situation.
 - The problem is exacerbated by how much power is concentrated in the presidency, relative to the legislature or to the judiciary.
@@ -120,7 +130,7 @@ Use the word levy as you would use the word tax: “When the state government im
 - v: cause to assemble or enlist in the military
 - n: the act of drafting into military service
 ### Family
-levy: levied, levies, levying
+- levy: levied, levies, levying
 ### Examples
 - Obamacare raises revenue through tax penalties tied to its insurance mandates, fees on insurers and levies on high earners and some investment income.
 - Mr. Nejedly, reached by telephone, railed briefly about the court fine levied against Lukoil Aviation Czech, before asking to see any questions in writing.
@@ -132,7 +142,8 @@ That teacher's demands are stringent — she wants the homework typed in her fav
 ### Definition
 - adj: demanding strict attention to rules and procedures
 ### Family
-stringent: stringency, stringently+;stringency: stringencies
+- stringent: stringency, stringently+
+- stringency: stringencies
 ### Examples
 - Starting a few years ago, large banks began requiring their top law firms to undergo data-security audits and meet stringent standards.
 - We’ve put stringent requirements on colleges before they get to do a bachelor’s degree.
@@ -145,7 +156,8 @@ Eagle Scout is a prestigious position within the Boy Scouts. It requires a lot o
 - adj: having an illustrious reputation; respected
 - adj: exerting influence by reason of high status or prestige
 ### Family
-prestigious: prestigiously, prestigiousness+;prestige: prestiges, prestigious
+- prestigious: prestigiously, prestigiousness+
+- prestige: prestiges, prestigious
 ### Examples
 - He is determined to earn a degree from a prestigious university to back up his professional basketball aspirations.
 - Rejection from a prestigious art academy in Japan strengthened his resolve to gain recognition for his individualized approach.

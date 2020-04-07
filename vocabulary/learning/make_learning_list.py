@@ -64,7 +64,8 @@ def format_explanation(explanation):
     # family
     if explanation[5] != None and len(explanation[5]) > 0:
         text.append("### Family")
-        text.append(explanation[5])
+        for f in explanation[5].split(";"):
+            text.append("- " + f)
     # examples
     if explanation[6] != None and len(explanation[6]) > 0:
         text.append("### Examples")

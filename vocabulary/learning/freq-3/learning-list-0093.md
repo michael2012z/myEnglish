@@ -8,7 +8,8 @@ The fairy tale Cinderella gives us many examples of uses for the word wretched. 
 - adj: morally reprehensible
 - adj: of very poor quality or condition
 ### Family
-wretched: wretcheder, wretchedest, wretchedly, wretchedness+;wretchedness: wretchednesses
+- wretched: wretcheder, wretchedest, wretchedly, wretchedness+
+- wretchedness: wretchednesses
 ### Examples
 - She details the wretched behavior of those uncles, all sons of the famously mad King George III, who gradually cleared a path for her.
 - Brazil’s wretched year got worse on November 28th when a chartered plane crashed into muddy slopes near Medellín, Colombia’s second-biggest city.
@@ -24,7 +25,9 @@ If you are trying to fit in, you are trying to assimilate.
 - v: take up mentally
 - v: take (gas, light or heat) into a solution
 ### Family
-assimilate: assimilable, assimilated, assimilates, assimilating, assimilation, assimilative, assimilator, assimilatory+;assimilation: assimilations;assimilator: assimilators
+- assimilate: assimilable, assimilated, assimilates, assimilating, assimilation, assimilative, assimilator, assimilatory+
+- assimilation: assimilations
+- assimilator: assimilators
 ### Examples
 - Rather than trying to win converts or assimilating in their new home, Parsis formed self-contained communities that effectively barred intermarriage.
 - All of them - including the followers of the Islamic faith are warm friendly people who are very eager to assimilate into American society.
@@ -54,7 +57,7 @@ When you walk into someone else's house, it's polite to wipe your feet on the ma
 - adj: not reflecting light; not glossy
 - n: a master's degree in teaching
 ### Family
-MAT: MATS
+- MAT: MATS
 ### Examples
 - Prosecutor Mat Heck Jr. said Kettering police responded Feb. 29 to call about a possible break-in at an elderly resident’s home.
 - And the Nissan Texas Titan, the floor mats and tailgate of which are emblazoned with the shape of Texas.
@@ -74,7 +77,7 @@ MAT: MATS
 - n: ratio of the hypotenuse to the adjacent side of a right-angled triangle
 - n: an independent federal agency that oversees the exchange of securities to protect investors
 ### Family
-SEC: SECS
+- SEC: SECS
 ### Examples
 - “But I say ‘Oh, wait a sec, it may be that the insurance company paid for all of that.’”
 - “It was, ‘Hang on a sec, who is actually working on this?
@@ -88,7 +91,12 @@ To be opportunistic is to quickly take advantage of a situation, usually in a wa
 ### Definition
 - adj: taking immediate advantage, often unethically, of any circumstance of possible benefit
 ### Family
-opportunistic: opportunistically+;inopportune: inopportunely, inopportuneness;opportune: inopportune, opportunely, opportuneness, opportunity;opportunism: opportunist, opportunistic;opportunist: opportunists;opportunity: opportunism, opportunities
+- opportunistic: opportunistically+
+- inopportune: inopportunely, inopportuneness
+- opportune: inopportune, opportunely, opportuneness, opportunity
+- opportunism: opportunist, opportunistic
+- opportunist: opportunists
+- opportunity: opportunism, opportunities
 ### Examples
 - Washington’s opportunistic defense led the nation in takeaways.
 - The machine died when one opportunistic participant tried to shred all his medical records.
@@ -106,7 +114,7 @@ Anything midway between two points is halfway between them. A midway is also a p
 - n: the place at a fair or carnival where sideshows and similar amusements are located
 - n: naval battle of World War II (June 1942); American planes based on land and on carriers decisively defeated a Japanese fleet on its way to invade the Midway Islands
 ### Family
-Midway: Midways
+- Midway: Midways
 ### Examples
 - Tennessee State held a 43-35 lead at the break and was up 59-51 at the midway point of the second half.
 - Houston led by 25 points midway through the second quarter but needed Harden and Harrell to carry it to victory.
@@ -121,7 +129,11 @@ If you can't change it, it's immutable. There are many things in life that are i
 ### Definition
 - adj: not subject or susceptible to change or variation in form or quality or nature
 ### Family
-immutable: immutability, immutableness, immutably+;mutability: mutabilities;mutable: immutable, mutability, mutableness, mutably;mute: mutable, muted, mutely, muteness, muter, mutes, mutest, muting;muted: mutedly
+- immutable: immutability, immutableness, immutably+
+- mutability: mutabilities
+- mutable: immutable, mutability, mutableness, mutably
+- mute: mutable, muted, mutely, muteness, muter, mutes, mutest, muting
+- muted: mutedly
 ### Examples
 - But it is widely considered an immutable feature of our political system.
 - One of the immutable rules of pop music is that boredom spurs progress.
@@ -134,7 +146,10 @@ By the time you finish reading this definition, you will understand what a proph
 - n: someone who speaks by divine inspiration; someone who is an interpreter of the will of God
 - n: an authoritative person who divines the future
 ### Family
-prophet: prophecy, prophetic+;prophecy: prophecies, prophetical;prophetic: prophetically, unprophetic;unprophetic: unprophetically
+- prophet: prophecy, prophetic+
+- prophecy: prophecies, prophetical
+- prophetic: prophetically, unprophetic
+- unprophetic: unprophetically
 ### Examples
 - After all, Jesus is a beloved prophet in Islam, though Muslims don’t believe he’s the son of God.
 - Just as the Prophet Micah did by asking, “What does God require of us?”
@@ -147,7 +162,11 @@ A sermon is a speech, usually religious in nature, given by a priest, preacher, 
 - n: an address of a religious nature (usually delivered during a church service)
 - n: a moralistic rebuke
 ### Family
-sermon: sermonise, sermonize, sermons+;sermonise: sermonised, sermoniser, sermonising;sermoniser: sermonisers;sermonize: sermonized, sermonizer, sermonizes, sermonizing;sermonizer: sermonizers
+- sermon: sermonise, sermonize, sermons+
+- sermonise: sermonised, sermoniser, sermonising
+- sermoniser: sermonisers
+- sermonize: sermonized, sermonizer, sermonizes, sermonizing
+- sermonizer: sermonizers
 ### Examples
 - Harriott is a devout Christian, and he ends each practice with a sermon at midfield.
 - Paul recalled the first time he ever told a joke during a sermon.
@@ -160,7 +179,8 @@ Granite is a type of rock that's commonly polished smooth and used for things li
 - n: plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz
 - n: something having the quality of granite (unyielding firmness)
 ### Family
-granite: granitelike, granites, granitic+;granitic: granitically
+- granite: granitelike, granites, granitic+
+- granitic: granitically
 ### Examples
 - The other woman to also serve as governor and U.S. senator is a fellow Granite Stater, Democratic U.S.
 - More than two thousand people worked on the extension, tunnelling through granite and digging through sand and mud.

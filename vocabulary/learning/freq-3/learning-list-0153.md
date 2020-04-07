@@ -7,7 +7,10 @@ If your menu tonight consists of grilled pork and savory apples, then the pork i
 - n: the act of accompanying someone or something in order to protect them
 - n: something added to complete or embellish or make perfect
 ### Family
-accompaniment: accompaniments+;accompanied: unaccompanied;accompanist: accompanists;accompany: accompanied, accompanies, accompaniment, accompanist, accompanying, accompanyist
+- accompaniment: accompaniments+
+- accompanied: unaccompanied
+- accompanist: accompanists
+- accompany: accompanied, accompanies, accompaniment, accompanist, accompanying, accompanyist
 ### Examples
 - A different kind of ambiguity arises in the solo arias, where tensions between voice and accompaniment often conjure the desperation of the beleaguered soul.
 - Familiar carols will be led by the Youth Choir with organ accompaniment and a Christmas story will be read by the rector.
@@ -21,7 +24,9 @@ The noun dread describes the fear of something bad happening, like the dread you
 - adj: causing fear or dread or terror
 - v: be afraid or scared of; be frightened of
 ### Family
-dread: dreaded, dreadful, dreading, dreadingly, dreadly, dreads+;dreadful: dreadfulest, dreadfully, dreadfulness;dreadfulness: dreadfulnesses
+- dread: dreaded, dreadful, dreading, dreadingly, dreadly, dreads+
+- dreadful: dreadfulest, dreadfully, dreadfulness
+- dreadfulness: dreadfulnesses
 ### Examples
 - “I’m dreading the unpredictability,” said John J. Lynch III, Main Line’s president and chief executive.
 - And we watched as dread turned to doom on the heels of the worst mass shooting in American history at Orlando’s Pulse nightclub.
@@ -34,7 +39,7 @@ You can call someone willing to take financial risks in new ventures entrepreneu
 - adj: of or relating to an entrepreneur
 - adj: willing to take risks in order to make a profit
 ### Family
-entrepreneur: entrepreneurial, entrepreneurs
+- entrepreneur: entrepreneurial, entrepreneurs
 ### Examples
 - So there is something entrepreneurial, creative and rebellious about it.
 - That entrepreneurial spark also highlights challenges facing the economy, from difficulty re-entering the job market to the diminishing role of fast-growing young firms.
@@ -50,7 +55,11 @@ If you're antagonistic, you're hard to get along with. Harmony is not your frien
 - adj: indicating opposition or resistance
 - adj: used especially of drugs or muscles that counteract or neutralize each other's effect
 ### Family
-antagonistic: antagonistically+;antagonise: antagonised, antagonises, antagonising;antagonism: antagonise, antagonisms, antagonist, antagonistic, antagonize;antagonist: antagonists;antagonize: antagonized, antagonizes, antagonizing
+- antagonistic: antagonistically+
+- antagonise: antagonised, antagonises, antagonising
+- antagonism: antagonise, antagonisms, antagonist, antagonistic, antagonize
+- antagonist: antagonists
+- antagonize: antagonized, antagonizes, antagonizing
 ### Examples
 - News website comment sections host antagonistic conversations between contributors.
 - TSA officials reportedly insisted on subjecting Mr. Reinhold to a secondary search when he began acting “antagonistic toward officers,” authorities told the newspaper.
@@ -66,7 +75,12 @@ A carriage is a vehicle with wheels that's usually pulled by horses. In some cit
 - n: a machine part that carries something else
 - n: characteristic way of bearing one's body
 ### Family
-carriage: carriages, undercarriage+;carrier: carriers;carry: carriage, carried, carrier, carries, carrying, miscarry;miscarriage: miscarriages;miscarry: miscarriage, miscarried, miscarries, miscarrying;undercarriage: undercarriages
+- carriage: carriages, undercarriage+
+- carrier: carriers
+- carry: carriage, carried, carrier, carries, carrying, miscarry
+- miscarriage: miscarriages
+- miscarry: miscarriage, miscarried, miscarries, miscarrying
+- undercarriage: undercarriages
 ### Examples
 - "The likelihood is that, because of its location, most of the early landlords were connected with horses, carriages and stabling," writes Dailey.
 - There was an eight-minute delay at Peterborough while the affected carriage containing about 20 people was sealed off and checked.
@@ -90,7 +104,7 @@ carriage: carriages, undercarriage+;carrier: carriers;carry: carriage, carried, 
 - n: a tributary of the Columbia River that rises in Wyoming and flows westward; discovered in 1805 by the Lewis and Clark Expedition
 - n: a long faint constellation in the southern hemisphere near the equator stretching between Virgo and Cancer
 ### Family
-Snake: Snakes
+- Snake: Snakes
 ### Examples
 - Customs line at Atlanta airport snaking around multiple wings of building.
 - Mr. Hancock says that snake plants as well as a kind often called the “ZZ plant” work well in dark corners.
@@ -105,7 +119,8 @@ Snake: Snakes
 - n: the cardinal number that is the sum of sixteen and one
 - adj: being one more than sixteen
 ### Family
-seventeen: seventeens, seventeenth+;seventeenth: seventeenthly, seventeenths
+- seventeen: seventeens, seventeenth+
+- seventeenth: seventeenthly, seventeenths
 ### Examples
 - The latest vote was a hundred and seventeen countries in favor to forty against.
 - By design, Kai utters that hello once every seventeen times.
@@ -119,7 +134,9 @@ Stand up when the powers that be order you to sit down, and you've given a fine 
 - n: a defiant act
 - n: intentionally contemptuous behavior or attitude
 ### Family
-defiance: defiances+;defiant: defiance, defiantly;defy: defiant, defied, defies, defying
+- defiance: defiances+
+- defiant: defiance, defiantly
+- defy: defiant, defied, defies, defying
 ### Examples
 - Some death penalty opponents hope that Mr. Roof’s defiance will prompt the appellate courts to adopt a more rigorous standard for capital defendants.
 - When I’m asked for my favourite inspirational scene, I nominate Tom Courtenay’s final, miserable act of defiance in The Loneliness of the Long Distance Runner.
@@ -133,7 +150,7 @@ Vibrant colors are bright. Vibrant sounds are loud and resonant. Vibrant people 
 - adj: of sounds that are strong and resonating
 - adj: of colors that are bright and striking
 ### Family
-vibrant: vibrantly
+- vibrant: vibrantly
 ### Examples
 - It refers to high dynamic range, which allows images to appear more vibrant and detailed - especially in scenes containing both glints of light and shadows.
 - A Chinese immigrant, Mr Wong's vibrant paintings captured Walt Disney's eye and became the basis of the film's distinct style.
@@ -154,7 +171,15 @@ If you're indifferent about something, you don't care much about it one way or a
 - adj: fairly poor to not very good
 - adj: having only a limited ability to react chemically; chemically inactive
 ### Family
-indifferent: indifference, indifferenter, indifferently+;differ: differed, different, differing, differs;difference: differences, differential, differentiate;different: difference, differently, indifferent;differential: differentially, differentials;differentiate: dedifferentiate, differentiable, differentiated, differentiates, differentiating, differentiation, differentiator;differentiated: dedifferentiated, undifferentiated;differentiation: dedifferentiation, differentiations;indifference: indifferences
+- indifferent: indifference, indifferenter, indifferently+
+- differ: differed, different, differing, differs
+- difference: differences, differential, differentiate
+- different: difference, differently, indifferent
+- differential: differentially, differentials
+- differentiate: dedifferentiate, differentiable, differentiated, differentiates, differentiating, differentiation, differentiator
+- differentiated: dedifferentiated, undifferentiated
+- differentiation: dedifferentiation, differentiations
+- indifference: indifferences
 ### Examples
 - By his own account an indifferent student in public school, Tyrus found his calling at the institute, now the Otis College of Art and Design.
 - All the while, the instruments churn through their material, indifferent to the singer’s plight.

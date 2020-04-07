@@ -3,7 +3,7 @@ Hegemony is political or cultural dominance or authority over others. The hegemo
 ### Definition
 - n: the dominance or leadership of one social group or nation over others
 ### Family
-hegemony: hegemonies
+- hegemony: hegemonies
 ### Examples
 - California secessionists are almost uniformly leftists disgusted by conservative hegemony in the heartland.
 - China’s behavior shows its intention to intimidate its neighbors and establish hegemony in East Asia.
@@ -21,7 +21,7 @@ hegemony: hegemonies
 - v: spread birdlime on branches to catch birds
 - v: cover with lime so as to induce growth
 ### Family
-lime: limed, limes, liming
+- lime: limed, limes, liming
 ### Examples
 - At the Brass Monkey, he swaps his Lagunitas for seltzer with a splash of cranberry and lime.
 - Order it with lime, and the restaurant staff will call the police.
@@ -33,7 +33,12 @@ To be reliant is to depend on someone or something. When you're reliant on a per
 ### Definition
 - adj: relying on another for support
 ### Family
-reliant: reliantly, self-reliant+;reliable: reliability, reliableness, reliably, unreliable;reliance: reliances, self-reliance;rely: reliable, reliance, reliant, relied, relies, relying;unreliability: unreliabilities;unreliable: unreliability, unreliableness, unreliably
+- reliant: reliantly, self-reliant+
+- reliable: reliability, reliableness, reliably, unreliable
+- reliance: reliances, self-reliance
+- rely: reliable, reliance, reliant, relied, relies, relying
+- unreliability: unreliabilities
+- unreliable: unreliability, unreliableness, unreliably
 ### Examples
 - Long reliant on a strong running game, Seattle struggled in 2016, failing to rush for at least 100 yards 10 times.
 - Ryan struggled to adapt to Shanahan’s system, reliant on zone running and bootlegs, and threw 16 interceptions in the worst season of his career.
@@ -45,7 +50,7 @@ Something that’s sparse is thin, not dense. If you’re looking for the perfec
 ### Definition
 - adj: not dense
 ### Family
-sparse: sparsely, sparseness, sparser, sparsest, sparsity
+- sparse: sparsely, sparseness, sparser, sparsest, sparsity
 ### Examples
 - Most moving is the scene in which the women exchange confidences as rain pours down, and customers are sparse.
 - “A lot of the fringe sites looked a lot more sparse,” he said.
@@ -60,7 +65,7 @@ That old dog was dormant for so long he was confused for a furry doormat, but a 
 - adj: (of e.g. volcanos) not erupting and not extinct
 - adj: (heraldry) lying with head on paws as if sleeping
 ### Family
-dormant: dormancy, dormantly
+- dormant: dormancy, dormantly
 ### Examples
 - For ages, anti-Semitism felt dead or maybe just dormant in the ugliest, dark corners of America, where moon-landing and illuminati conspiracy theories writhed.
 - The Obama administration is dismantling a dormant national registry program for some foreign visitors amid worries that the new administration would revive it.
@@ -81,7 +86,11 @@ dormant: dormancy, dormantly
 - adv: extremely
 - adj: very drunk
 ### Family
-stiff: stiffen, stiffer, stiffest, stiffly, stiffness, stiffs+;stiffen: stiffened, stiffener, stiffening, stiffens;stiffener: stiffeners;stiffening: stiffenings;stiffness: stiffnesses
+- stiff: stiffen, stiffer, stiffest, stiffly, stiffness, stiffs+
+- stiffen: stiffened, stiffener, stiffening, stiffens
+- stiffener: stiffeners
+- stiffening: stiffenings
+- stiffness: stiffnesses
 ### Examples
 - That made it stiffer than a regular shaft, but less stiff than a stiff one -- a baby step toward the grave.
 - "The first thing I did when I heard about the job was pour myself a stiff drink," he said.
@@ -93,7 +102,9 @@ Disseminate means to spread information, knowledge, opinions widely. Semin- deri
 ### Definition
 - v: cause to become widely known
 ### Family
-disseminate: disseminated, disseminates, disseminating, dissemination, disseminative, disseminator+;dissemination: disseminations;disseminator: disseminators
+- disseminate: disseminated, disseminates, disseminating, dissemination, disseminative, disseminator+
+- dissemination: disseminations
+- disseminator: disseminators
 ### Examples
 - His bizarre ideas, already widely disseminated through his media platforms, now will enjoy access to the bully pulpit of the American presidency.
 - Starting Sunday, the emergency response system that disseminates information about missing children will only be used for child abductions.
@@ -105,7 +116,7 @@ The penis is the male sexual organ. Boys and men and male animals all have penis
 ### Definition
 - n: the male organ of copulation (`member' is a euphemism)
 ### Family
-penis: micropenis, penes, penial, penises
+- penis: micropenis, penes, penial, penises
 ### Examples
 - In a medical breakthrough, doctors at Massachusetts General Hospital announce that they have performed the first successful penis transplant in the United States.
 - “They shocked me on the abdomen, the neck, the penis, the butt, the back, my hands — everywhere. I felt like my eardrums would explode.”
@@ -118,7 +129,7 @@ When something is veritable it is true, or at least feels that way. "The trees a
 - adj: not counterfeit or copied
 - adj: often used as intensifiers
 ### Family
-veritable: veritably
+- veritable: veritably
 ### Examples
 - Indeed, Parsi surnames provide a veritable smorgasbord of edible associations.
 - Mr. Trump is drawing the talent from a veritable pantheon of business leaders.
@@ -132,7 +143,11 @@ Exemplary people excel at what they do and are excellent examples to others. Som
 - adj: being or serving as an illustration of a type
 - adj: serving to warn
 ### Family
-exemplary: exemplarily+;counterexample: counterexamples;example: counterexample, examples, exemplary, exemplify, unexampled;exemplification: exemplifications;exemplify: exemplification, exemplified, exemplifies, exemplifying
+- exemplary: exemplarily+
+- counterexample: counterexamples
+- example: counterexample, examples, exemplary, exemplify, unexampled
+- exemplification: exemplifications
+- exemplify: exemplification, exemplified, exemplifies, exemplifying
 ### Examples
 - “Hidden Figures” is a film of calm and bright rage at the way things were—an exemplary reproach to the very notion of political nostalgia.
 - But it is exemplary of a future that big companies are already imagining.

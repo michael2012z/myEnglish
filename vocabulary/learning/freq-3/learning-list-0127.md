@@ -4,7 +4,7 @@ Arthritis is a painful condition in which your joints swell and stiffen. It is c
 ### Definition
 - n: inflammation of a joint or joints
 ### Family
-arthritis
+- arthritis
 ### Examples
 - From age 23 to 41, I ran 2 to 3 miles every single morning, until torn menisci and arthritis hobbled my knees.
 - Separately, the compound is being tested in human clinical trials in rheumatoid arthritis, which is also promising, Sharma said.
@@ -17,7 +17,10 @@ Something anecdotal has to do with anecdotes — little stories. Anecdotal evide
 - adj: having the character of an anecdote
 - adj: characterized by or given to telling anecdotes
 ### Family
-anecdotal: anecdotally+;anecdote: anecdotal, anecdotes, anecdotic, anecdotical, anecdotist;anecdotic: anecdotically;anecdotist: anecdotists
+- anecdotal: anecdotally+
+- anecdote: anecdotal, anecdotes, anecdotic, anecdotical, anecdotist
+- anecdotic: anecdotically
+- anecdotist: anecdotists
 ### Examples
 - Its prevalence in Africa is unknown, but anecdotally it is thought to be increasing there too.
 - The following is anecdotal and must be weighted as such.
@@ -40,7 +43,9 @@ When you dash, you run a short distance very quickly. If you forget your lunch i
 - n: a punctuation mark (-) used between parts of a compound word or between the syllables of a word when the word is divided at the end of a line of text
 - n: the longer of the two telegraphic signals used in Morse code
 ### Family
-dash: dashed, dashes, dashing+;dashed: dashedest;dashing: dashingest, dashingly
+- dash: dashed, dashes, dashing+
+- dashed: dashedest
+- dashing: dashingest, dashingly
 ### Examples
 - Why does actor Benedict Cumberbatch cut such a dash as British literary detective Sherlock Holmes?
 - This year, Republicans will drop that custom in their dash to scrap the Affordable Care Act.
@@ -53,7 +58,9 @@ If you are compassionate, you feel other people's pain and struggles as though t
 - adj: showing or having compassion
 - v: share the suffering of
 ### Family
-compassionate: compassionated, compassionately, compassionateness, compassionates, compassionating, uncompassionate+;compassion: compassionate, compassions;uncompassionate: uncompassionately
+- compassionate: compassionated, compassionately, compassionateness, compassionates, compassionating, uncompassionate+
+- compassion: compassionate, compassions
+- uncompassionate: uncompassionately
 ### Examples
 - Christopher played the camp chaplain, a courteous and compassionate presence who counselled medical staff and patients amid the chaos of the war.
 - Deeply thoughtful and compassionate, this sci-fi drama is all about trying to communicate with aliens rather than defeat them.
@@ -67,7 +74,11 @@ If you're studying anatomy you're studying animals’ bodies and you're probably
 - n: alternative names for the body of a human being
 - n: a detailed analysis
 ### Family
-anatomy: anatomic, anatomical, anatomies, anatomise, anatomist, anatomize+;anatomical: anatomically, anatomicals;anatomise: anatomised, anatomises, anatomising;anatomist: anatomists;anatomize: anatomized, anatomizes, anatomizing
+- anatomy: anatomic, anatomical, anatomies, anatomise, anatomist, anatomize+
+- anatomical: anatomically, anatomicals
+- anatomise: anatomised, anatomises, anatomising
+- anatomist: anatomists
+- anatomize: anatomized, anatomizes, anatomizing
 ### Examples
 - The current policy is to house transgender juveniles on a case-by-case basis and not by anatomy alone, in accordance with federal standards.
 - The artist contrasts styles and patterns, suggesting graffiti and anatomy textbooks simultaneously.
@@ -79,7 +90,16 @@ anatomy: anatomic, anatomical, anatomies, anatomise, anatomist, anatomize+;anato
 - n: any substance that promotes digestion
 - adj: relating to or having the power to cause or promote digestion
 ### Family
-digestive: digestively, digestives+;digest: digested, digester, digestible, digesting, digestion, digestive, digests, predigest;digested: undigested;digester: digesters;digestibility: digestibilities;digestible: digestibility, digestibleness, digestibly, indigestible, nondigestible;digestion: digestions, indigestion, self-digestion;indigestible: indigestibility, indigestibleness, indigestibly;indigestion: indigestions;predigest: predigested, predigesting
+- digestive: digestively, digestives+
+- digest: digested, digester, digestible, digesting, digestion, digestive, digests, predigest
+- digested: undigested
+- digester: digesters
+- digestibility: digestibilities
+- digestible: digestibility, digestibleness, digestibly, indigestible, nondigestible
+- digestion: digestions, indigestion, self-digestion
+- indigestible: indigestibility, indigestibleness, indigestibly
+- indigestion: indigestions
+- predigest: predigested, predigesting
 ### Examples
 - Earlier in the year, it teamed up with a U.S. biotech to develop products aimed at restoring bacterial balance in the digestive system.
 - B12 deficiency is also more common in the elderly because of dietary, digestive and absorption problems.
@@ -93,7 +113,12 @@ To have an abundance of something is to have more than you need. It's often used
 - n: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
 - n: (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
 ### Family
-abundance: abundances+;abound: abounded, abounding, abounds, abundant;abounding: aboundingly;abundant: abundance, abundanter, abundantly, overabundant, superabundant;overabundant: overabundance, overabundantly;superabundant: superabundance, superabundantly
+- abundance: abundances+
+- abound: abounded, abounding, abounds, abundant
+- abounding: aboundingly
+- abundant: abundance, abundanter, abundantly, overabundant, superabundant
+- overabundant: overabundance, overabundantly
+- superabundant: superabundance, superabundantly
 ### Examples
 - Thanks to an abundance of major-league album releases in 2016, and some genuine coups by bookers, however, an imaginative summer season is on the horizon.
 - And for the caviar substitute, add delicate pinky-orange trout roe, glistening like pearls, and used in abundance.
@@ -105,7 +130,9 @@ Incipient means something is in an early stage of existence. In its incipient fo
 ### Definition
 - adj: only partly in existence; imperfectly formed
 ### Family
-incipient: incipience, incipiency, incipiently+;incipience: incipiences;incipiency: incipiencies
+- incipient: incipience, incipiency, incipiently+
+- incipience: incipiences
+- incipiency: incipiencies
 ### Examples
 - Headquartered on the University of Minnesota’s west bank, Glitch helps incipient game designers create, develop and publish games.
 - But Jack A. Ablin, chief investment officer for BMO Private Bank, said the Trump administration’s incipient economic goals appear to be threefold.
@@ -116,7 +143,7 @@ incipient: incipience, incipiency, incipiently+;incipience: incipiences;incipien
 ### Definition
 - n: a structure attached to the exterior of a building often forming a covered entrance
 ### Family
-porch: porches
+- porch: porches
 ### Examples
 - The portraits will later be accompanied by plaques describing the artwork, which is part of archi-treasures’ Front Porch Project.
 - Then, on the enclosed back porch, she sang her 2014 No. 1 hit, “Shake It Off,” with dozens of Porter’s relatives joining in.
@@ -132,7 +159,7 @@ Cotton is a plant that grows the soft, fluffy fibers that are used to make the f
 - n: thread made of cotton fibers
 - v: take a liking to
 ### Family
-cotton: cottoned, cottoning, cottons, cottony
+- cotton: cottoned, cottoning, cottons, cottony
 ### Examples
 - Some fans thought Western’s record deserved even more recognition than a top 15 spot and a Cotton Bowl berth.
 - I top it off with a High Cotton ESB, a local brew.

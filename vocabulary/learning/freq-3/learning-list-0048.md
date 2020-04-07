@@ -11,7 +11,8 @@ A mess is a generally dirty state, like your bedroom, your hair, or anything els
 - n: (often followed by `of') a large number or amount or extent
 - n: soft semiliquid food
 ### Family
-mess: messed, messes, messing, messy+;messy: messier, messiest, messily, messiness
+- mess: messed, messes, messing, messy+
+- messy: messier, messiest, messily, messiness
 ### Examples
 - “The court stuck with the basic framework of Virginia, so it’s still pretty messed up, especially in Northern Virginia,” Cannon said.
 - “The streets were just a mess, and traffic was horrendous — it was like L.A.”
@@ -26,7 +27,8 @@ You're most likely to encounter the adjective eccentric in a description of an u
 - n: a person of a specified kind (usually with many eccentricities)
 - adj: not having a common center; not concentric
 ### Family
-eccentric: eccentrically, eccentricity, eccentricly, eccentrics+;eccentricity: eccentricities
+- eccentric: eccentrically, eccentricity, eccentricly, eccentrics+
+- eccentricity: eccentricities
 ### Examples
 - Razor Girl, full of eccentric characters, mistaken identities, coincidences and farce, follows a similar format.
 - Williams is famous for her short stories, which are full of strange, witty, fabulous, and often eccentric turns of phrase.
@@ -39,7 +41,13 @@ Whether it's a police detective who investigates crimes or a private detective h
 - n: a police officer who investigates crimes
 - n: an investigator engaged or employed in obtaining information not easily available to the public
 ### Family
-detective: detectives+;detect: detectable, detected, detecting, detection, detective, detector, detects;detectable: detectably, undetectable;detected: undetected;detection: detections;detector: detectors;undetectable: undetectably
+- detective: detectives+
+- detect: detectable, detected, detecting, detection, detective, detector, detects
+- detectable: detectably, undetectable
+- detected: undetected
+- detection: detections
+- detector: detectors
+- undetectable: undetectably
 ### Examples
 - Israel’s prime minister, Benjamin Netanyahu, is reportedly being interviewed by detectives investigating whether he broke the law by receiving gifts from wealthy businessmen.
 - Cleveland police homicide detectives investigate every child death in the city.
@@ -52,7 +60,9 @@ The adjective indefinite describes something that is vague or not clearly define
 - adj: vague or not clearly defined or stated
 - adj: not decided or not known
 ### Family
-indefinite: indefinitely, indefiniteness, indefinity+;definite: definitely, definiteness, definitive, indefinite;definitive: definitively
+- indefinite: indefinitely, indefiniteness, indefinity+
+- definite: definitely, definiteness, definitive, indefinite
+- definitive: definitively
 ### Examples
 - Unlike the United States, where the ban is indefinite, Canada said it will review its restrictions every five years.
 - Porczynski, 24, will serve an indefinite spell at a psychiatric unit.
@@ -65,7 +75,8 @@ Illicit means not allowed by law or custom. It's illegal to kill endangered elep
 - adj: contrary to accepted morality (especially sexual morality) or convention
 - adj: contrary to or forbidden by law
 ### Family
-illicit: illicitly, illicitness+;licit: illicit, liciter, licitly, licitness
+- illicit: illicitly, illicitness+
+- licit: illicit, liciter, licitly, licitness
 ### Examples
 - Baseball officials refused to confront the problem for years, then became more aggressive than other pro leagues in policing the use of illicit drugs.
 - In many cases, that legal traffic morphed into massive illicit immigration.
@@ -77,7 +88,8 @@ If there is a disparity between how great you think you are at tennis and how yo
 ### Definition
 - n: inequality or difference in some respect
 ### Family
-disparity: disparities+;disparate: disparately, disparateness, disparity
+- disparity: disparities+
+- disparate: disparately, disparateness, disparity
 ### Examples
 - Those columns were prompted by the ongoing Black Lives Matter movement, the presidential campaign and disparities along racial lines in every aspect of American life.
 - Jones faced down a 13-6 shot disparity in the first period, as San Jose lost for only the second time in its last 10 games.
@@ -89,7 +101,7 @@ disparity: disparities+;disparate: disparately, disparateness, disparity
 - n: a visible suspension in the air of particles of some substance
 - n: the process of becoming a vapor
 ### Family
-vapour: vapourisable, vapourised, vapourish, vapours
+- vapour: vapourisable, vapourised, vapourish, vapours
 ### Examples
 - E-cigarettes are devices that turn nicotine liquid into a vapour.
 - Nakaya, 83, has been working on a system of dispersing water vapour to create mist since the 1970s.
@@ -103,7 +115,13 @@ To dispense means to give out or distribute something. A school nurse can dispen
 - v: give or apply (medications)
 - v: grant a dispensation; grant an exemption
 ### Family
-dispense: dispensable, dispensary, dispensation, dispensed, dispenser, dispenses, dispensing+;dispensable: dispensability, dispensableness, indispensable;dispensary: dispensaries;dispensation: dispensations;dispenser: dispensers;indispensability: indispensabilities;indispensable: indispensability, indispensableness, indispensably
+- dispense: dispensable, dispensary, dispensation, dispensed, dispenser, dispenses, dispensing+
+- dispensable: dispensability, dispensableness, indispensable
+- dispensary: dispensaries
+- dispensation: dispensations
+- dispenser: dispensers
+- indispensability: indispensabilities
+- indispensable: indispensability, indispensableness, indispensably
 ### Examples
 - Mistakes ranged from sloppy record-keeping to the dispensing of incorrect drugs.
 - One law enacted Wednesday allows pharmacists to dispense, without a prescription, opioid antagonists.
@@ -115,7 +133,8 @@ An attorney is a lawyer. Attorneys sue people, defend people, and serve as exper
 ### Definition
 - n: a professional person authorized to practice law; conducts lawsuits or gives legal advice
 ### Family
-attorney: attorneys, attorneyship+;attorneyship: attorneyships
+- attorney: attorneys, attorneyship+
+- attorneyship: attorneyships
 ### Examples
 - The attorney general’s office did not say what those might be, only that its preliminary inquiry determined that more investigation was needed.
 - All three served within the Department of Justice while Cooper was attorney general.
@@ -130,7 +149,7 @@ A cab is a taxi, a car whose driver you pay to take you where you need to go. It
 - v: ride in a taxicab
 - n: a compartment at the front of a motor vehicle or locomotive where driver sits
 ### Family
-cab: cabbed, cabbing, cabs
+- cab: cabbed, cabbing, cabs
 ### Examples
 - If you can’t find anything else, sign up with a local cab firm and spend long hours on the streets.
 - Video footage of the scene showed the cab of a tractor-trailer cut in half. As of midafternoon, southbound I-5 was closed to traffic.

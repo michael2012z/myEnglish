@@ -4,7 +4,10 @@ Anything reproductive has to do with creating babies or other new life. If you g
 ### Definition
 - adj: producing new life or offspring
 ### Family
-reproductive: reproductively+;reproduce: reproduced, reproducer, reproduces, reproducing, reproduction, reproductive;reproducer: reproducers;reproduction: reproductions
+- reproductive: reproductively+
+- reproduce: reproduced, reproducer, reproduces, reproducing, reproduction, reproductive
+- reproducer: reproducers
+- reproduction: reproductions
 ### Examples
 - Researchers in Ghana also found that text message quizzes improved girls’ understanding of reproductive health, resulting in fewer reported pregnancies.
 - A spokesman for West Virginia University said his consulting work “was based on his 42 years of experience with reproductive neuroendocrinology.”
@@ -16,7 +19,8 @@ Humidity has to do with how much moisture is in the air. High humidity is a lot 
 ### Definition
 - n: wetness in the atmosphere
 ### Family
-humidity: humidities+;humid: humidity, humidly, humidness
+- humidity: humidities+
+- humid: humidity, humidly, humidness
 ### Examples
 - Dry, itchy skin is a common companion when the humidity drops, especially as we get older.
 - But Sense explained that opening my windows wasn’t helping because it raised the room’s humidity and worsened its air quality.
@@ -30,7 +34,8 @@ Prominence has to do with importance. If a band becomes famous, they've come int
 - n: relative importance
 - n: something that bulges out or is protuberant or projects from its surroundings
 ### Family
-prominence: prominences+;prominent: prominence, prominently
+- prominence: prominences+
+- prominent: prominence, prominently
 ### Examples
 - Happ among others during the team’s return to prominence under Hurdle.
 - But Mr. Nixon also showed how to post successes by using the visibility and prominence of his office.
@@ -44,7 +49,7 @@ The verb redress is used when you are supposed to fix a problem and make amends.
 - n: a sum of money paid in compensation for loss or injury
 - n: act of correcting an error or a fault or an evil
 ### Family
-redress: redressed, redresses, redressing
+- redress: redressed, redresses, redressing
 ### Examples
 - Arguably, the most significant change in redress for consumers may result from the 2015 Consumer Rights Act.
 - In China, it isn’t uncommon for migrant workers or people seeking redress from the government to complain about harsh treatment from public-security officials.
@@ -59,7 +64,7 @@ redress: redressed, redresses, redressing
 - n: a woman who has recently been married
 - n: Irish abbess; a patron saint of Ireland (453-523)
 ### Family
-Bride: Brides
+- Bride: Brides
 ### Examples
 - Mr. Thomas and the bride formally met one day earlier, when he suggested she grip his wrist, where his pulse is strongest.
 - She would be a bride in exchange for a bride.
@@ -76,7 +81,8 @@ If you're being juvenile, you're not acting your age. Unless of course you are a
 - adj: displaying or suggesting a lack of maturity
 - n: a young person, not fully developed
 ### Family
-juvenile: juvenilely, juveniles, juvenility+;juvenility: juvenilities
+- juvenile: juvenilely, juveniles, juvenility+
+- juvenility: juvenilities
 ### Examples
 - Authorities say police arrested the juvenile male on suspicion of murder and other charges.
 - Most involved state wards in foster homes, adoptive homes, state-licensed residential care facilities and the juvenile probation system.
@@ -97,7 +103,8 @@ Ever seen a picture of a farm girl carrying two buckets of water hanging from ro
 - n: an oppressive power
 - n: fabric comprising a fitted part at the top of a garment
 ### Family
-yoke: unyoke, yoked, yokes, yoking+;unyoke: unyoked, unyokes, unyoking
+- yoke: unyoke, yoked, yokes, yoking+
+- unyoke: unyoked, unyokes, unyoking
 ### Examples
 - Other paintings bring to mind a lyre and a yoke or a helmet and a trident.
 - Streets that he had located far apart are yoked together by a corner like a pair of horses in a coachman’s fist.
@@ -111,7 +118,9 @@ To defy is to openly refuse to do something. You can defy the no-costumes-in-cla
 - v: challenge
 - v: elude, especially in a baffling way
 ### Family
-defy: defiant, defied, defies, defying+;defiance: defiances;defiant: defiance, defiantly
+- defy: defiant, defied, defies, defying+
+- defiance: defiances
+- defiant: defiance, defiantly
 ### Examples
 - As a ubiquitous, cross-border commons, it often defies notions of state sovereignty.
 - The wolf hunt issue is just one example of a larger trend in which elected officials defy the will of the people who elected them.
@@ -125,7 +134,10 @@ A pharmaceutical is any kind of drug used for medicinal purposes, like cough syr
 - adj: of or relating to drugs used in medical treatment
 - n: drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment
 ### Family
-pharmaceutical: pharmaceuticals+;pharmaceutic: pharmaceutically, pharmaceutics;pharmacist: pharmacists;pharmacy: pharmaceutic, pharmaceutical, pharmacies, pharmacist
+- pharmaceutical: pharmaceuticals+
+- pharmaceutic: pharmaceutically, pharmaceutics
+- pharmacist: pharmacists
+- pharmacy: pharmaceutic, pharmaceutical, pharmacies, pharmacist
 ### Examples
 - “A lot of our patients get relief with this, and a lot of times this works better than pharmaceutical drugs.”
 - Pharmaceutical companies want genetic information to concoct powerful new drugs.
@@ -140,7 +152,7 @@ Prey is an animal hunted for food. If you're a delicious-looking deer during hun
 - v: prey on or hunt for
 - v: profit from in an exploitatory manner
 ### Family
-prey: preyed, preying, preys
+- prey: preyed, preying, preys
 ### Examples
 - “He denigrates and preys on people who are unlucky and then reinforces the good fortunes of people who are already lucky.”
 - Now, with almost no way to communicate with him, Sovannara’s family waits in Long Beach, fearful that Prey Sar prison may become his tomb.

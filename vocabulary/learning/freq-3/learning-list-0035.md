@@ -4,7 +4,9 @@ Someone who is complacent has become overly content — the junk-food-eating cou
 ### Definition
 - adj: contented to a fault with oneself or one's actions
 ### Family
-complacent: complacence, complacency, complacently, self-complacent+;complacency: complacencies;self-complacent: self-complacency
+- complacent: complacence, complacency, complacently, self-complacent+
+- complacency: complacencies
+- self-complacent: self-complacency
 ### Examples
 - Barclays Center rocked hard on Thursday night, compared with the more complacent norm.
 - Alonso warned against the world becoming complacent because of the many gains in fighting malaria.
@@ -18,7 +20,11 @@ When you give counsel or counsel someone, you give advice. If your neighbor is s
 - n: a lawyer who pleads cases in court
 - v: give advice to
 ### Family
-counsel: counseled, counseling, counselled, counselling, counsellor, counselor, counsels+;counseling: counselings;counselling: counsellings;counsellor: counsellors, counsellorship;counselor: counselors, counselorship
+- counsel: counseled, counseling, counselled, counselling, counsellor, counselor, counsels+
+- counseling: counselings
+- counselling: counsellings
+- counsellor: counsellors, counsellorship
+- counselor: counselors, counselorship
 ### Examples
 - Bowman denies he provided ineffective counsel, and lower courts agreed with him.
 - Other readers proffered contrary counsel for the Trump era.
@@ -32,7 +38,10 @@ A contradiction is a situation or ideas in opposition to one another. Declaring 
 - n: the speech act of contradicting someone
 - n: (logic) a statement that is necessarily false
 ### Family
-contradiction: contradictions, self-contradiction+;contradict: contradicted, contradicting, contradiction, contradictory, contradicts;contradictoriness: contradictorinesses;contradictory: contradictories, contradictorily, contradictoriness, self-contradictory
+- contradiction: contradictions, self-contradiction+
+- contradict: contradicted, contradicting, contradiction, contradictory, contradicts
+- contradictoriness: contradictorinesses
+- contradictory: contradictories, contradictorily, contradictoriness, self-contradictory
 ### Examples
 - Resolving the contradictions within the government’s various positions, and preventing backbench revolts destroying its slim parliamentary majority, will be all-consuming.
 - During the election, many critics of Trump saw a contradiction in his strong support among working-class Americans.
@@ -44,7 +53,8 @@ If you think public officials are nothing but a bunch of greedy buffoons, you ha
 ### Definition
 - adj: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others
 ### Family
-cynical: cynically+;cynic: cynical, cynics
+- cynical: cynically+
+- cynic: cynical, cynics
 ### Examples
 - This looks like little more than a cynical ploy to stoke public antipathy to federal regulation.
 - The US State Department described the attack as “heinous” and the Russian president, Vladimir Putin, said it was “hard to imagine a more cynical crime”.
@@ -59,7 +69,9 @@ A canal is a long, man-made strip of water used for irrigation or boat access to
 - v: provide (a city) with a canal
 - n: a bodily passage or tube lined with epithelial cells and conveying a secretion or other substance
 ### Family
-canal: canalise, canalize, canalled, canalling, canals+;canalise: canalisation, canalised, canalises, canalising;canalize: canalization, canalized, canalizes, canalizing
+- canal: canalise, canalize, canalled, canalling, canals+
+- canalise: canalisation, canalised, canalises, canalising
+- canalize: canalization, canalized, canalizes, canalizing
 ### Examples
 - And township residents, in a brilliant deal with Port Huron over the Black River Canal, got resident passes to Lakeside Park.
 - But our lovely fourth-floor “Cosy” room — the middle price class — was serene with two tall windows overlooking the peaceful canal.
@@ -83,7 +95,7 @@ If it has to do with the ocean or sea, you can call it marine. Your friend in US
 - n: a soldier who serves both on shipboard and on land
 - n: a member of the United States Marine Corps
 ### Family
-Marine
+- Marine
 ### Examples
 - Two years ago, Sieswerda discussed with the Guardian increased sightings around New York City of whales and other large marine creatures, including great white sharks.
 - Last session, he submitted a draft on combating Maine’s marine debris that eventually became law, and he plans to submit another draft on the issue.
@@ -98,7 +110,7 @@ Something that's airborne is flying through the air. A soaring seagull is airbor
 ### Definition
 - adj: moved or conveyed by or through air
 ### Family
-airborne
+- airborne
 ### Examples
 - From an “airborne fulfillment center” hovering near the stadium, Amazon would dispatch a drone with your purchase.
 - He later joined a British army airborne division but never saw combat.
@@ -111,7 +123,7 @@ To trickle is to weakly flow out of something, like a faucet. A trickle is like 
 - v: run or flow slowly, as in drops or in an unsteady stream
 - n: flowing in drops; the formation and falling of drops of liquid
 ### Family
-trickle: trickled, trickles, trickling
+- trickle: trickled, trickles, trickling
 ### Examples
 - In some of the country’s more expensive markets, the slowdown at the top end is showing signs of trickling down to more average-priced apartments.
 - As his grand year trickles to its final hours, James isn’t looking too far ahead.
@@ -147,7 +159,7 @@ A pole is a rounded stick or rod, usually made of wood, plastic, or metal. You n
 - n: a square rod of land
 - n: a native or inhabitant of Poland
 ### Family
-Pole: Poles
+- Pole: Poles
 ### Examples
 - She leaned against a pole, feeding a piece of bread to the baby.
 - The railroad pole that holds critical signal lights was also damaged.
@@ -163,7 +175,15 @@ A recipient is the person on the receiving end of something. Meryl Streep is the
 - n: a person who receives something
 - n: the semantic role of the animate entity that is passively involved in the happening denoted by the verb in the clause
 ### Family
-recipient: recipients+;receive: receivable, received, receiver, receives, receiving, reception, receptive, receptor, recipient;receiver: receivers, receivership;receivership: receiverships;reception: receptionist, receptions;receptionist: receptionists;receptive: receptively, receptiveness, receptivity, unreceptive;receptivity: receptivities;receptor: receptors
+- recipient: recipients+
+- receive: receivable, received, receiver, receives, receiving, reception, receptive, receptor, recipient
+- receiver: receivers, receivership
+- receivership: receiverships
+- reception: receptionist, receptions
+- receptionist: receptionists
+- receptive: receptively, receptiveness, receptivity, unreceptive
+- receptivity: receptivities
+- receptor: receptors
 ### Examples
 - Couriers may be useful if you and your intended recipient are in the same city.
 - Twenty-four transplant recipients — including Whalen — will row in unison as the float moves.

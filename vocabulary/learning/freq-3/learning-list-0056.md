@@ -7,7 +7,9 @@ To describe a person or a solution that takes a realistic approach, consider the
 - adj: guided by practical experience and observation rather than theory
 - n: an imperial decree that becomes part of the fundamental law of the land
 ### Family
-pragmatic: pragmatically, pragmatics, pragmatism+;pragmatism: pragmatical, pragmatisms, pragmatist;pragmatist: pragmatists
+- pragmatic: pragmatically, pragmatics, pragmatism+
+- pragmatism: pragmatical, pragmatisms, pragmatist
+- pragmatist: pragmatists
 ### Examples
 - Republicans prioritize policies that will allow them to maintain power, while Democrats favor pragmatic governance.
 - Ms. Reynolds, who died Wednesday, didn’t so much act as sell — she sold happiness, she sold pragmatic romance, she sold professional stardom.
@@ -22,7 +24,7 @@ pragmatic: pragmatically, pragmatics, pragmatism+;pragmatism: pragmatical, pragm
 - adj: moist as with undried perspiration and with clothing sticking to the body
 - adj: hard to deal with; especially causing pain or embarrassment
 ### Family
-sticky: stickily, stickiness
+- sticky: stickily, stickiness
 ### Examples
 - Any advice on how to approach this sticky situation?
 - She tells Belduma where to place the sticky tape that sections off areas of the painting, and then they paint the piece between them.
@@ -32,7 +34,7 @@ sticky: stickily, stickiness
 ### Definition
 - adv: under normal conditions
 ### Family
-ordinary: ordinaries, ordinarily, ordinariness, ordinaryly
+- ordinary: ordinaries, ordinarily, ordinariness, ordinaryly
 ### Examples
 - It may mean living in a place not ordinarily used for regular sleeping accommodations, like a vehicle, park, hotel or motel, or campground.
 - The BBC visited Dharavi, a sprawling slum in the centre of Mumbai, which is ordinarily a hub of small scale industry.
@@ -45,7 +47,7 @@ Puppies are the offspring, or children, of a mamma dog. You're the offspring of 
 - n: something that comes into existence as a result
 - n: any immature animal
 ### Family
-offspring: offsprings
+- offspring: offsprings
 ### Examples
 - Officials also are considering locations for a separate test of Aedes aegypti mosquitoes genetically modified to produce offspring that die outside a lab.
 - The economic costs, including to our fisheries, is only one price our offspring will pay.
@@ -57,7 +59,11 @@ The adjective cumulative describes the total amount of something when it's all a
 ### Definition
 - adj: increasing by successive addition
 ### Family
-cumulative: cumulatively+;cumulate: cumulated, cumulates, cumulating, cumulation, cumulative;cumulation: cumulations;cumulous: cumulously;cumulus: cumulate, cumuli, cumulous
+- cumulative: cumulatively+
+- cumulate: cumulated, cumulates, cumulating, cumulation, cumulative
+- cumulation: cumulations
+- cumulous: cumulously
+- cumulus: cumulate, cumuli, cumulous
 ### Examples
 - There was no increase in 2016, so the cumulative increase - including the January hike - is 27 cents per gallon over four years.
 - Here are the top 10, all videos, ordered according to cumulative likes, shares and comments.
@@ -69,7 +75,8 @@ When there is a lot of moisture in the air, it is humid out. The air in a rain f
 ### Definition
 - adj: containing or characterized by a great deal of water vapor
 ### Family
-humid: humidity, humidly, humidness+;humidity: humidities
+- humid: humidity, humidly, humidness+
+- humidity: humidities
 ### Examples
 - That prioritizes air bags in humid climes such as Texas and Florida.
 - His plot of land, on the outskirts of the kibbutz, sits way below sea level in the humid and dusty Jordan Valley.
@@ -81,7 +88,10 @@ If you are willing to submit to someone's request, then you are compliant. Paren
 ### Definition
 - adj: disposed or willing to comply
 ### Family
-compliant: compliantly, noncompliant+;compliance: compliances;comply: compliance, compliancy, compliant, complied, complies, complying;noncompliant: noncompliance, noncompliants
+- compliant: compliantly, noncompliant+
+- compliance: compliances
+- comply: compliance, compliancy, compliant, complied, complies, complying
+- noncompliant: noncompliance, noncompliants
 ### Examples
 - “Porridge,” Mr. Meyer asserted crisply, “is even more compliant with the idea. Comfort food. Comfort food and hygge must be coinciding.”
 - The man was compliant and did not struggle with officers, but officers noted the man appeared “unhealthy” and “sluggish,” Booth said.
@@ -93,7 +103,11 @@ If something is impossible to put up with, you can say it is intolerable. It wou
 ### Definition
 - adj: incapable of being put up with
 ### Family
-intolerable: intolerablest+;tolerable: intolerable, intolerably, tolerablest, tolerably;tolerance: overtolerance, tolerances;tolerate: tolerable, tolerance, tolerated, tolerates, tolerating, toleration;toleration: tolerations
+- intolerable: intolerablest+
+- tolerable: intolerable, intolerably, tolerablest, tolerably
+- tolerance: overtolerance, tolerances
+- tolerate: tolerable, tolerance, tolerated, tolerates, tolerating, toleration
+- toleration: tolerations
 ### Examples
 - Wilson found Nabokov’s proclivity for punning intolerable and told him so repeatedly.
 - The Scottish Liberal Democrats said the waiting times recorded at the hospital were "intolerable".
@@ -108,7 +122,10 @@ A tenant is someone who lives in a place owned by someone else, usually paying r
 - n: any occupant who dwells in a place
 - v: occupy as a tenant
 ### Family
-tenant: tenancy, tenanted, tenanting, tenantry, tenants+;tenancy: tenancies;tenanted: untenanted;tenantry: tenantries
+- tenant: tenancy, tenanted, tenanting, tenantry, tenants+
+- tenancy: tenancies
+- tenanted: untenanted
+- tenantry: tenantries
 ### Examples
 - The bad news for landlords is good news for tenants.
 - Detroit police spokesman Dan Donakowski says tenants of the home told officers they never entered the garage because the landlord prohibited it.
@@ -124,7 +141,15 @@ Being resistant means to be immune or impervious to something. A vest that's res
 - adj: relating to or conferring immunity (to disease or infection)
 - adj: incapable of absorbing or mixing with
 ### Family
-resistant: non-resistant, nonresistant, resistanter, unresistant+;nonresistant: nonresistance;resist: resistance, resistant, resisted, resister, resisting, resistive, resistless, resists;resistance: resistances;resister: resisters;resisting: unresisting;resistive: resistivity;resistless: resistlessly;unresisting: unresistingly
+- resistant: non-resistant, nonresistant, resistanter, unresistant+
+- nonresistant: nonresistance
+- resist: resistance, resistant, resisted, resister, resisting, resistive, resistless, resists
+- resistance: resistances
+- resister: resisters
+- resisting: unresisting
+- resistive: resistivity
+- resistless: resistlessly
+- unresisting: unresistingly
 ### Examples
 - You want to teach her to be comfortable in the “just being” zone, which means she’s mindful of flaunting and resistant to hiding.
 - All his life he was fiercely resistant to the not uncommon idea that his paintings were nothing but illustrations of a high order.

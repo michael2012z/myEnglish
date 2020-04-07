@@ -6,7 +6,14 @@
 - n: ceasing to exist
 - n: the act of leaving secretly or without explanation
 ### Family
-disappearance: disappearances+;appear: appearance, appeared, appearing, appears, disappear, reappear;appearance: appearances, nonappearance;appearing: appearings;disappear: disappearance, disappeared, disappearing, disappears;disappearing: disappearings;reappear: reappearance, reappeared, reappearing, reappears;reappearance: reappearances
+- disappearance: disappearances+
+- appear: appearance, appeared, appearing, appears, disappear, reappear
+- appearance: appearances, nonappearance
+- appearing: appearings
+- disappear: disappearance, disappeared, disappearing, disappears
+- disappearing: disappearings
+- reappear: reappearance, reappeared, reappearing, reappears
+- reappearance: reappearances
 ### Examples
 - In 2009, Gen. Álvarez was sentenced to 25 years in prison for his responsibility in the death or disappearance of 37 Uruguayans under Operation Condor.
 - State officials declined to release the name of the pilot, or say how many occupants the plane was carrying at the time of its disappearance.
@@ -22,7 +29,9 @@ A prescription is an order written by a doctor for someone to get a drug that is
 - n: a drug that is available only with written instructions from a doctor or dentist to a pharmacist
 - adj: available only with a doctor's written prescription
 ### Family
-prescription: nonprescription, prescriptions+;prescribe: prescribed, prescribes, prescribing, prescription, prescriptive;prescriptive: prescriptively
+- prescription: nonprescription, prescriptions+
+- prescribe: prescribed, prescribes, prescribing, prescription, prescriptive
+- prescriptive: prescriptively
 ### Examples
 - Prescription treatments might include a topical ­anti-inflammatory cream or an oral antibiotic for more-severe inflammation and redness.
 - There are also several agents dedicated to working pharmaceutical diversion cases in which people are doctor shopping or prescriptions are being forged.
@@ -35,7 +44,9 @@ Tragedy is a noun that indicates disaster or bad fortune. It would be a tragedy 
 - n: an event resulting in great loss and misfortune
 - n: drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity
 ### Family
-tragedy: tragedies, tragical+;tragic: tragedy, tragically, tragicly;tragical: tragicalest
+- tragedy: tragedies, tragical+
+- tragic: tragedy, tragically, tragicly
+- tragical: tragicalest
 ### Examples
 - We are physicians who teach tropical medicine in East Africa each year, where we witness the tragedy of illnesses and deaths from vaccine-preventable diseases.
 - “Every day there is tragedy, and every day we play music,” said guitar player Adel Sabawi, who is from Damascus.
@@ -50,7 +61,7 @@ The advent of something means that it's finally here. You might be waiting for t
 - n: the season including the four Sundays preceding Christmas
 - n: (Christian theology) the reappearance of Jesus as judge for the Last Judgment
 ### Family
-Advent: Advents
+- Advent: Advents
 ### Examples
 - With the advent of transcontinental railroads in the 19th century, scientists settled on an 86,400-second-long day.
 - Certainly not in the Dark Ages, before the advent of electricity.
@@ -65,7 +76,17 @@ If you're an elected official, your constituency is the group of people whose in
 ### Definition
 - n: the body of voters who elect a representative for their area
 ### Family
-constituency: constituencies+;constituent: constituency, constituents;constitute: constituent, constituted, constitutes, constituting, constitution, constitutive, reconstitute;constituted: self-constituted;constitution: constitutional, constitutionalize, constitutions;constitutional: constitutionalise, constitutionalist, constitutionally, constitutionals, unconstitutional;constitutionalise: constitutionalising;constitutionalize: constitutionalized, constitutionalizing;constitutive: constitutively;reconstitute: reconstituted, reconstitutes, reconstituting;unconstitutional: unconstitutionally
+- constituency: constituencies+
+- constituent: constituency, constituents
+- constitute: constituent, constituted, constitutes, constituting, constitution, constitutive, reconstitute
+- constituted: self-constituted
+- constitution: constitutional, constitutionalize, constitutions
+- constitutional: constitutionalise, constitutionalist, constitutionally, constitutionals, unconstitutional
+- constitutionalise: constitutionalising
+- constitutionalize: constitutionalized, constitutionalizing
+- constitutive: constitutively
+- reconstitute: reconstituted, reconstitutes, reconstituting
+- unconstitutional: unconstitutionally
 ### Examples
 - Although most MPs backed Remain, a large majority of constituencies voted to Leave.
 - These new potential voters will lean left of center and would be a key progressive constituency.
@@ -78,7 +99,8 @@ When two or more people or nations have equal exchanges of goods or services, th
 - n: a relation of mutual dependence or action or influence
 - n: mutual exchange of commercial or other privileges
 ### Family
-reciprocity: reciprocities+;reciprocal: nonreciprocal, reciprocality, reciprocally, reciprocals, reciprocity
+- reciprocity: reciprocities+
+- reciprocal: nonreciprocal, reciprocality, reciprocally, reciprocals, reciprocity
 ### Examples
 - Liberals are primarily sensitive to two such moral “tastes,” Haidt argues, one concerned with harm versus care, the other with fairness and reciprocity.
 - A work requirement encourages self-sufficiency and creates reciprocity between the recipient and the taxpayer.
@@ -92,7 +114,13 @@ A provocation makes someone angry or sometimes even violent. Telling a professio
 - n: needed encouragement
 - n: unfriendly behavior that causes anger or resentment
 ### Family
-provocation: provocations+;provocative: provocatively, unprovocative;provoke: provocation, provocative, provoked, provoker, provokes, provoking;provoked: unprovoked;provoker: provokers;provoking: provokingest, provokingly, unprovoking;unprovoked: unprovokedly
+- provocation: provocations+
+- provocative: provocatively, unprovocative
+- provoke: provocation, provocative, provoked, provoker, provokes, provoking
+- provoked: unprovoked
+- provoker: provokers
+- provoking: provokingest, provokingly, unprovoking
+- unprovoked: unprovokedly
 ### Examples
 - Decius says that he isn’t concerned about Trump’s seeming fondness for Russia; in his view, thoughtless provocations would be much more dangerous.
 - That means arresting the person who started an altercation, even if that provocation was verbal.
@@ -104,7 +132,7 @@ A verdict is a decision made after a lot of considering, usually made by the jur
 ### Definition
 - n: (law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment
 ### Family
-verdict: verdicts
+- verdict: verdicts
 ### Examples
 - The court will hear the case on December 2nd and may hand down a verdict by January.
 - Greaves, 23 in 1989, who now runs a courier company in his native Heswall, said the verdicts lifted a weight of 27 years.
@@ -117,7 +145,7 @@ A jury is a group that decides a contest or a court case together. If you get su
 - n: a body of citizens sworn to give a true verdict according to the evidence presented in a court of law
 - n: a committee appointed to judge a competition
 ### Family
-jury: juries
+- jury: juries
 ### Examples
 - Juries deciding sentences handed down punishments of life in prison about twice as often as the death penalty.
 - Defense attorney Scott Wood also questioned instructions to the jury and alleged the court wrongly found Kelly guilty of contempt.
@@ -133,7 +161,8 @@ To tout means to praise, boast, or brag about. If you like to tout your skill as
 - n: one who sells advice about gambling or speculation (especially at the racetrack)
 - n: someone who buys tickets to an event in order to resell them at a profit
 ### Family
-tout: touted, touter, touting, touts+;touter: touters
+- tout: touted, touter, touting, touts+
+- touter: touters
 ### Examples
 - Conservatives openly touted that bill as a “dress rehearsal” for the future.
 - Great vintage advertisement: The Union Pacific railroad touts its access to “America’s vital potato markets.”

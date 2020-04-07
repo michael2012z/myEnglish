@@ -6,7 +6,9 @@ Use the noun turbulence to describe instability or disturbance. If you’re on a
 - n: a state of violent disturbance and disorder (as in politics or social conditions generally)
 - n: unstable flow of a liquid or gas
 ### Family
-turbulence: turbulences+;turbulency: turbulencies;turbulent: nonturbulent, turbulence, turbulency, turbulently
+- turbulence: turbulences+
+- turbulency: turbulencies
+- turbulent: nonturbulent, turbulence, turbulency, turbulently
 ### Examples
 - “Watching live with the audience is like being in a plane in turbulence,” he said.
 - His photos bridged the cultural distance between the razzle-dazzle of 1960s film and the growing turbulence of social change.
@@ -19,7 +21,10 @@ A contentious issue is one that people are likely to argue about, and a contenti
 - adj: inclined or showing an inclination to dispute or disagree, even to engage in law suits
 - adj: involving or likely to cause controversy
 ### Family
-contentious: contentiously, contentiousness, noncontentious+;contend: contended, contender, contending, contends, contention;contender: contenders;contention: contentions, contentious
+- contentious: contentiously, contentiousness, noncontentious+
+- contend: contended, contender, contending, contends, contention
+- contender: contenders
+- contention: contentions, contentious
 ### Examples
 - His contentious Twitter posts belie his relative calm when he is at Mar-a-Lago compared with when he is isolated inside Trump Tower.
 - It’s the third category of “settlement” that is the most contentious and that Security Council Resolution 2334 explicitly condemns: East Jerusalem.
@@ -33,7 +38,9 @@ Zeal is dedication or enthusiasm for something. If you have zeal, you're willing
 - n: prompt willingness
 - n: excessive fervor to do something or accomplish some end
 ### Family
-zeal: zealous, zeals+;overzealous: overzealously;zealous: overzealous, zealousest, zealously
+- zeal: zealous, zeals+
+- overzealous: overzealously
+- zealous: overzealous, zealousest, zealously
 ### Examples
 - At the heart of this 1885 operetta by the librettist William Gilbert and the composer Arthur Sullivan is a satire skewering British bureaucratic zeal.
 - “It’s about selling books, getting my message across, it’s about legacy,” said Kennedy, whose fiery zeal keeps her working full-time.
@@ -47,7 +54,7 @@ You've heard the old saying "Pride comes before the fall?" Well, you could just 
 - n: a person who goes before or announces the coming of another
 - n: a substance from which another substance is formed (especially by a metabolic reaction)
 ### Family
-precursor: precursors
+- precursor: precursors
 ### Examples
 - “He was the precursor to what’s happening in the West.”
 - Supreme Court issued a ruling marking a precursor to its Florida decision.
@@ -61,7 +68,7 @@ Something false or inauthentic is spurious. Don't trust spurious ideas and stori
 - adj: intended to deceive
 - adj: born out of wedlock
 ### Family
-spurious: spuriously, spuriousness
+- spurious: spuriously, spuriousness
 ### Examples
 - One spurious story, based on a 33-year-old essay Khan wrote, claimed he championed sharia law.
 - On a statistical basis, the forecasters were “actively adding negative value” — essentially destroying value by issuing spurious numbers.
@@ -74,7 +81,11 @@ spurious: spuriously, spuriousness
 - adj: not brought to an end or conclusion
 - adj: lacking a surface finish such as paint
 ### Family
-finished: finisheder, finishedly, unfinished+;finish: finished, finisher, finishes, finishing, refinish;finisher: finishers;finishing: finishings;refinish: refinished, refinisher, refinishes, refinishing
+- finished: finisheder, finishedly, unfinished+
+- finish: finished, finisher, finishes, finishing, refinish
+- finisher: finishers
+- finishing: finishings
+- refinish: refinished, refinisher, refinishes, refinishing
 ### Examples
 - Dayton will also challenge lawmakers early to wrap up some unfinished business from 2016 by passing a massive package of public construction projects.
 - He acknowledged that it would mean handing off Afghanistan to his successor as unfinished business.
@@ -87,7 +98,15 @@ finished: finisheder, finishedly, unfinished+;finish: finished, finisher, finish
 - n: a device for treating injury or disease
 - adj: designed to promote discipline
 ### Family
-corrective: correctively, correctives+;correct: correctable, corrected, correctedly, correcting, correctingly, correction, corrective, correctly, correctness, corrects, incorrect;correctable: uncorrectable;corrected: uncorrected;correction: correctional, corrections;correctional: correctionally;correctness: correctnesses;incorrect: incorrectly, incorrectness;incorrectness: incorrectnesses
+- corrective: correctively, correctives+
+- correct: correctable, corrected, correctedly, correcting, correctingly, correction, corrective, correctly, correctness, corrects, incorrect
+- correctable: uncorrectable
+- corrected: uncorrected
+- correction: correctional, corrections
+- correctional: correctionally
+- correctness: correctnesses
+- incorrect: incorrectly, incorrectness
+- incorrectness: incorrectnesses
 ### Examples
 - Qualcomm said it will seek an immediate stay of the corrective order and appeal the decision to the Seoul High Court.
 - The district said Horton did not engage in corporal punishment, and its uniform complaint compliance office said no corrective action is needed.
@@ -100,7 +119,8 @@ A participant is a person who participates, or takes part in something. Vote on 
 - n: someone who takes part in an activity
 - n: a person who participates in or is skilled at some game
 ### Family
-participant: nonparticipant, participants+;nonparticipant: nonparticipants
+- participant: nonparticipant, participants+
+- nonparticipant: nonparticipants
 ### Examples
 - Because the survey relied on the memories of the participants, the researchers wrote, the more recent gun acquisition data might be more accurate.
 - More than 8,000 participants will represent the various groups.
@@ -114,7 +134,10 @@ To divert means to shift or turn from one thing to another. A magician might att
 - v: withdraw (money) and move into a different location, often secretly and with dishonest intentions
 - v: occupy in an agreeable, entertaining or pleasant fashion
 ### Family
-divert: diversion, diverted, diverting, diverts+;diversion: diversionary, diversionist, diversions;diversionist: diversionists;diverting: divertingly
+- divert: diversion, diverted, diverting, diverts+
+- diversion: diversionary, diversionist, diversions
+- diversionist: diversionists
+- diverting: divertingly
 ### Examples
 - Did hockey leagues divert precious resources — namely, young men — from duty, or were they vital to morale?
 - “To divert attention, their networks overseas were being told” to attack.
@@ -126,7 +149,7 @@ A pact is a treaty or other agreement between parties, and it's usually written.
 ### Definition
 - n: a written agreement between two states or sovereigns
 ### Family
-pact: pacts
+- pact: pacts
 ### Examples
 - The channel will likely not be back until after the baseball season starts in the spring, people with knowledge of the pact said.
 - The current pact was set to expire at 9 p.m.

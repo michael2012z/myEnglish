@@ -12,7 +12,7 @@
 - adj: occurring from time to time
 - adj: occurring or appearing or singled out by chance
 ### Family
-casual: casually, casualness
+- casual: casually, casualness
 ### Examples
 - If a casual viewer finds a tinge of rerun in this semifinal doubleheader of No. 1 Alabama vs.
 - Star Wars: The Force Awakens was a juggernaut that satisfied both diehard fans and casual observers of the saga.
@@ -24,7 +24,7 @@ An intermediary is someone who acts as a go-between or a mediator between two ot
 ### Definition
 - n: a negotiator who acts as a link between parties
 ### Family
-intermediary: intermediaries
+- intermediary: intermediaries
 ### Examples
 - Bundling is when an individual or intermediary group collects many contributions on behalf of a candidate.
 - Now Campos buys staples from intermediaries he suspects are working with the same military officials.
@@ -38,7 +38,9 @@ Filthy is a dirty word. Sure, you can say it aloud in public, but it means "dirt
 - adj: characterized by obscenity
 - adj: vile; despicable
 ### Family
-filthy: filthier, filthiest, filthily, filthiness, filthyly+;filth: filths, filthy;filthiness: filthinesses
+- filthy: filthier, filthiest, filthily, filthiness, filthyly+
+- filth: filths, filthy
+- filthiness: filthinesses
 ### Examples
 - “So let’s prepare a gift for the filthy pigs/apes.”
 - The jihadists locked her up in a filthy room with rats and bugs.
@@ -56,7 +58,8 @@ If you consider how people are treated in airports an outrage, you get really an
 - v: strike with disgust or revulsion
 - v: force (someone) to have sex against their will
 ### Family
-outrage: outraged, outrageous, outrages, outraging+;outrageous: outrageousest, outrageously, outrageousness
+- outrage: outraged, outrageous, outrages, outraging+
+- outrageous: outrageousest, outrageously, outrageousness
 ### Examples
 - The man who sparked outrage last year by hiking the price of a life-saving drug may have met his match in some Australian schoolboys.
 - While Democratic presidential nominee Hillary Clinton’s management of her State Department emails triggered massive GOP outrage, Russia’s interventions in our election trigger random statements.
@@ -68,7 +71,7 @@ outrage: outraged, outrageous, outrages, outraging+;outrageous: outrageousest, o
 - adj: enjoying or affording comforting warmth and shelter especially in a small space
 - n: a padded cloth covering to keep a teapot warm
 ### Family
-cosy: cosier, cosies, cosiest, cosily, cosiness
+- cosy: cosier, cosies, cosiest, cosily, cosiness
 ### Examples
 - But our lovely fourth-floor “Cosy” room — the middle price class — was serene with two tall windows overlooking the peaceful canal.
 - My writing room is a cosy, book-lined room, with a dark wooden desk and a window overlooking the garden.
@@ -81,7 +84,7 @@ If there is a dearth of something, there is not enough of it. A dearth of cupcak
 - n: an insufficient quantity or number
 - n: an acute insufficiency
 ### Family
-dearth: dearths
+- dearth: dearths
 ### Examples
 - There seems to be a dearth of people with consumer experience in the Washington, D.C. region, though I think that is changing a bit.
 - There’s an irreverence to it that there’s an absolute dearth of on, say, Instagram.
@@ -94,7 +97,7 @@ Use the verb succumb to say that someone yields to something they've tried to fi
 - v: consent reluctantly
 - v: be fatally overwhelmed
 ### Family
-succumb: succumbed, succumbing, succumbs
+- succumb: succumbed, succumbing, succumbs
 ### Examples
 - He never tells us what she died of, though there are hints that she committed suicide: “She succumbed to her own melancholy.”
 - But Rasputin allegedly did not succumb, and kept asking to meet Irina upstairs.
@@ -114,7 +117,9 @@ Sting most commonly refers to the wound inflicted by a bee or hornet, or to a ki
 - n: a mental pain or distress
 - n: a swindle in which you cheat at gambling or persuade a person to buy worthless property
 ### Family
-sting: stinged, stinger, stinging, stingless, stings+;stinger: stingers;stinging: stingingly, stingings
+- sting: stinged, stinger, stinging, stingless, stings+
+- stinger: stingers
+- stinging: stingingly, stingings
 ### Examples
 - Some people experience dryness, stinging, itching and burning.
 - That only worsened the sting of the game’s final two minutes.
@@ -127,7 +132,7 @@ Rev your engine at a stoplight if you want to race the car next to you. On secon
 - n: rate of revolution of a motor
 - v: increase the number of rotations per minute
 ### Family
-rev: revs, revved, revving
+- rev: revs, revved, revving
 ### Examples
 - To better understand this approach I spoke with the Rev. William Barber II, president of the North Carolina chapter of the NAACP.
 - “We’re just hoping to raise awareness about people experiencing homelessness,” said the Rev. Andrew Bales, the mission’s chief executive.
@@ -142,7 +147,7 @@ A debut is a first appearance, a launch, or public introduction. So before you m
 - v: make one's debut
 - v: present for the first time to the public
 ### Family
-debut: debuted, debuting, debuts
+- debut: debuted, debuting, debuts
 ### Examples
 - Seahawks: Somehow they stunk it up against Rams in Week 2, though it was LA debut for Rams.
 - In his playoff debut on Saturday, Ferrell never seemed far from the football.

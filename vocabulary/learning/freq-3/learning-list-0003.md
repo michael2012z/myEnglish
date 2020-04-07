@@ -10,7 +10,9 @@ Is it gross? Unsophisticated? Totally tasteless and positively offensive? Then y
 - adj: conspicuously and tastelessly indecent
 - n: a dark oil consisting mainly of hydrocarbons
 ### Family
-crude: crudely, crudeness, cruder, crudes, crudest, crudity+;crudeness: crudenesses;crudity: crudities
+- crude: crudely, crudeness, cruder, crudes, crudest, crudity+
+- crudeness: crudenesses
+- crudity: crudities
 ### Examples
 - International Brent crude oil LCOc1 was yet to trade after closing up 68 cents at $56.82 per barrel on Friday.
 - Trading in several commodities, including crude oil, was closed on Monday.
@@ -25,7 +27,11 @@ Use brutal to describe something beastly and harsh, like training for a triathlo
 - adj: harsh
 - adj: disagreeably direct and precise
 ### Family
-brutal: brutaler, brutalest, brutalise, brutality, brutalize, brutally+;brutalise: brutalisation, brutalised, brutalises, brutalising;brutality: brutalities;brutalization: brutalizations;brutalize: brutalization, brutalized, brutalizes, brutalizing
+- brutal: brutaler, brutalest, brutalise, brutality, brutalize, brutally+
+- brutalise: brutalisation, brutalised, brutalises, brutalising
+- brutality: brutalities
+- brutalization: brutalizations
+- brutalize: brutalization, brutalized, brutalizes, brutalizing
 ### Examples
 - It’s a brutal scene, and one that leaves John a widow, just like in the Conan Doyle stories.
 - Hens recalls ruefully that she did not try to shield her sons from their brutal father.
@@ -38,7 +44,15 @@ If your teacher orders you to detention every time you show up to class with a d
 - adj: expecting unquestioning obedience
 - n: a person who behaves in a tyrannical manner
 ### Family
-authoritarian: antiauthoritarian, authoritarianism, authoritarians+;authorisation: authorisations;authorise: authorisation, authorised, authoriser, authorises, authorising;authorised: unauthorised;authoritative: authoritatively;authority: authorise, authoritarian, authoritative, authorities, authorize;authorization: authorizations;authorize: authorization, authorizer, authorizes, authorizing;authorizer: authorizers
+- authoritarian: antiauthoritarian, authoritarianism, authoritarians+
+- authorisation: authorisations
+- authorise: authorisation, authorised, authoriser, authorises, authorising
+- authorised: unauthorised
+- authoritative: authoritatively
+- authority: authorise, authoritarian, authoritative, authorities, authorize
+- authorization: authorizations
+- authorize: authorization, authorizer, authorizes, authorizing
+- authorizer: authorizers
 ### Examples
 - His style of politics, from his mass rallies of the faithful after the election to his statements about himself, carries authoritarian overtones.
 - It’s my voice, in a tone of authoritarian command, saying: “Alexa, stop!”
@@ -55,7 +69,8 @@ Steep means sharply angled. When hiking trails lead straight up mountainsides, t
 - v: let sit in a liquid to extract a flavor or to cleanse
 - v: devote (oneself) fully to
 ### Family
-steep: steeped, steeper, steepest, steeping, steepish, steeply, steepness, steeps+;steepness: steepnesses
+- steep: steeped, steeper, steepest, steeping, steepish, steeply, steepness, steeps+
+- steepness: steepnesses
 ### Examples
 - The climb to the top appears as steep as ever.
 - Baldwin Street in the city of Dunedin on New Zealand's South Island is officially the world's steepest residential road.
@@ -77,7 +92,8 @@ A torn bit of old fabric is a rag. You might use a rag to dust the bookshelf or 
 - v: break into lumps before sorting
 - n: a week at British universities during which side-shows and processions of floats are organized to raise money for charities
 ### Family
-rag: ragged, ragging, rags+;ragged: raggeder, raggedest, raggedly, raggedness
+- rag: ragged, ragging, rags+
+- ragged: raggeder, raggedest, raggedly, raggedness
 ### Examples
 - Now it’s your turn to rag on the other party’s leadership every day, hour or minute.
 - Beneath the steel sink and commode, I keep a bath towel spread open across the floor, which I use as a floor rag.
@@ -93,7 +109,8 @@ A toll is a payment made for something. To drive on some highways, drivers have 
 - v: ring slowly
 - n: the sound of a bell being struck
 ### Family
-toll: tolled, toller, tolling, tolls+;toller: tollers
+- toll: tolled, toller, tolling, tolls+
+- toller: tollers
 ### Examples
 - They say all potential revenue increases should be on the table, including raising the gas tax and imposing tolls.
 - Up to 35 other people were wounded in that attack, he said, adding that the death toll was expected to rise.
@@ -106,7 +123,7 @@ A massacre is a big bloody mess of killing, and usually for no good reason. Not 
 - n: the savage and excessive killing of many people
 - v: kill a large number of people indiscriminately
 ### Family
-massacre: massacred, massacreed, massacres, massacring
+- massacre: massacred, massacreed, massacres, massacring
 ### Examples
 - Testimony in the case opened and closed with two of the massacre’s survivors.
 - “This is the biggest prison massacre in our state’s history,” Fontes said during a press conference.
@@ -123,7 +140,10 @@ A riot is a violent outburst by a crowd. When the principal didn't declare a sno
 - v: engage in boisterous, drunken merrymaking
 - n: a joke that seems extremely funny
 ### Family
-riot: rioted, rioter, rioting, riotous, riots+;rioter: rioters;rioting: riotings;riotous: riotously
+- riot: rioted, rioter, rioting, riotous, riots+
+- rioter: rioters
+- rioting: riotings
+- riotous: riotously
 ### Examples
 - The riot was sparked by a clash between two gangs in the prison and reflects shifting allegiances among Brazil’s powerful narco-trafficking groups, authorities said.
 - Deadly riots the following year in China’s far west left authorities even more convinced that it was time to step up their controls over society.
@@ -138,7 +158,11 @@ If you are the greatest, the most powerful, and the highest, you are supreme.
 - adj: greatest or maximal in degree; extreme
 - adj: final or last in your life or progress
 ### Family
-supreme: supremacy, supremely, supremest+;supremacist: supremacists;supremacy: supremacies, supremacism, supremacist, suprematism;suprematism: suprematist;suprematist: suprematists
+- supreme: supremacy, supremely, supremest+
+- supremacist: supremacists
+- supremacy: supremacies, supremacism, supremacist, suprematism
+- suprematism: suprematist
+- suprematist: suprematists
 ### Examples
 - The conservancy then appealed to the state Supreme Court, which agreed to review the case.
 - The district says it needs more money, and hopes the Kansas Supreme Court will agree.
@@ -151,7 +175,16 @@ Your opinion that most comedies are terrible and that you'd rather watch any oth
 - n: a personal belief or judgment that is not founded on proof or certainty
 - n: tender, romantic, or nostalgic feeling or emotion
 ### Family
-sentiment: presentiment, sentimental, sentimentise, sentimentize, sentiments+;presentiment: presentiments;sentimental: sentimentalest, sentimentalise, sentimentalism, sentimentality, sentimentalize, sentimentally, unsentimental;sentimentalise: sentimentalisation, sentimentalised, sentimentalises, sentimentalising;sentimentalism: sentimentalisms, sentimentalist;sentimentalist: sentimentalists;sentimentality: sentimentalities;sentimentalization: sentimentalizations;sentimentalize: sentimentalization, sentimentalized, sentimentalizes, sentimentalizing;unsentimental: unsentimentally
+- sentiment: presentiment, sentimental, sentimentise, sentimentize, sentiments+
+- presentiment: presentiments
+- sentimental: sentimentalest, sentimentalise, sentimentalism, sentimentality, sentimentalize, sentimentally, unsentimental
+- sentimentalise: sentimentalisation, sentimentalised, sentimentalises, sentimentalising
+- sentimentalism: sentimentalisms, sentimentalist
+- sentimentalist: sentimentalists
+- sentimentality: sentimentalities
+- sentimentalization: sentimentalizations
+- sentimentalize: sentimentalization, sentimentalized, sentimentalizes, sentimentalizing
+- unsentimental: unsentimentally
 ### Examples
 - None of these boded well for investor sentiment or subsequent returns.
 - The archbishop echoed the sentiment of Prime Minister Theresa May, who called for unity following June's "divisive" vote in her new year message.

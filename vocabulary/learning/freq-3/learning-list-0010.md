@@ -4,7 +4,7 @@ If the language you speak in your region is different in vocabulary, grammar and
 ### Definition
 - n: the usage or vocabulary that is characteristic of a specific group of people
 ### Family
-dialect: dialectal, dialects
+- dialect: dialectal, dialects
 ### Examples
 - One of the key challenges is getting the technology conversant with multiple languages, accents and dialects.
 - The actors, all residents of the area, speak in their native dialect.
@@ -15,7 +15,14 @@ dialect: dialectal, dialects
 ### Definition
 - adj: disturbed psychologically as if by a physical jolt or shock
 ### Family
-shaken: shakenly, unshaken+;shakable: unshakable;shake: shakable, shakeable, shaken, shaker, shakes, shaking, shaky;shakeable: shakeably;shaking: shakings;shaky: shakier, shakiest, shakily, shakiness;unshakable: unshakably;unshaken: unshakenly
+- shaken: shakenly, unshaken+
+- shakable: unshakable
+- shake: shakable, shakeable, shaken, shaker, shakes, shaking, shaky
+- shakeable: shakeably
+- shaking: shakings
+- shaky: shakier, shakiest, shakily, shakiness
+- unshakable: unshakably
+- unshaken: unshakenly
 ### Examples
 - She returned to her cell shaken but oddly relieved.
 - He will lead an agency still shaken by a critical state audit earlier this year.
@@ -30,7 +37,9 @@ A deputy is a sheriff's assistant, the person who fills in when the sheriff isn'
 - n: someone authorized to exercise the powers of sheriff in emergencies
 - n: a member of the lower chamber of a legislative assembly (such as in France)
 ### Family
-deputy: deputies, deputise, deputize+;deputise: deputised, deputising;deputize: deputized, deputizes, deputizing
+- deputy: deputies, deputise, deputize+
+- deputise: deputised, deputising
+- deputize: deputized, deputizes, deputizing
 ### Examples
 - His deputy was also jailed for bribery two years ago.
 - “It is in the national interest of the U.S. to maintain an open investment policy,” said Aimen Mir, Treasury’s deputy assistant secretary for investment security.
@@ -48,7 +57,9 @@ When you can't keep up with your fellow marathon runners, you can say that you l
 - v: cover with lagging to prevent heat loss
 - v: throw or pitch at a mark, as with coins
 ### Family
-lag: lagged, lagger, lagging, lags+;lagger: laggers;lagging: laggings
+- lag: lagged, lagger, lagging, lags+
+- lagger: laggers
+- lagging: laggings
 ### Examples
 - Klawans frequently held cash while the market was rising; the fund seldom lost money, but often lagged the market.
 - Furman also suggested that consumer confidence was a lagging indicator.
@@ -60,7 +71,7 @@ Contraception is birth control, to put it bluntly; the general term for the use 
 ### Definition
 - n: birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery
 ### Family
-contraception: contraceptions
+- contraception: contraceptions
 ### Examples
 - In January, the latest figures published by the UN showed more women than ever are now using some form of contraception.
 - “You put it in and you forget it,” he said, likening it to long-acting forms of contraception.
@@ -73,7 +84,7 @@ All those gold framed pictures you see hanging in museums? They're covered in gi
 - adj: having the deep slightly brownish color of gold
 - n: a coating of gold or of something that looks like gold
 ### Family
-gilt: gilts
+- gilt: gilts
 ### Examples
 - The gilt decorations Gouthière provided for sundry status objects enhanced their beauty and also their light-reflecting capacity, always important before electricity.
 - The ballroom’s gilt is composition leaf, a copper alloy with only trace amounts of gold, a variation of which gilders call brass leaf.
@@ -85,7 +96,10 @@ If you get good grades, volunteer at the hospital, play varsity sports, and writ
 ### Definition
 - adj: qualified for or allowed or worthy of being chosen
 ### Family
-eligible: eligibility, eligibly, ineligible+;eligibility: eligibilities;ineligibility: ineligibilities;ineligible: ineligibility
+- eligible: eligibility, eligibly, ineligible+
+- eligibility: eligibilities
+- ineligibility: ineligibilities
+- ineligible: ineligibility
 ### Examples
 - As employees, they would be eligible to press for a range of benefits that would upend the firms’ labor costs and business models.
 - Any city where schools are struggling would be eligible to volunteer.
@@ -113,7 +127,11 @@ If you slow down at the end of a race, you slack off. When you use slack this wa
 - n: dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve
 - v: cause to heat and crumble by treatment with water
 ### Family
-slack: slacked, slacken, slacker, slackest, slacking, slackly, slackness, slacks+;slacken: slackened, slackening, slackens;slackening: slackenings;slacker: slackers;slackness: slacknesses
+- slack: slacked, slacken, slacker, slackest, slacking, slackly, slackness, slacks+
+- slacken: slackened, slackening, slackens
+- slackening: slackenings
+- slacker: slackers
+- slackness: slacknesses
 ### Examples
 - In easy times, we grow slack; this will require us each to find our capacity for heroism.
 - When geneticist Daniel MacArthur checks into his lab, the first thing he does is fire up Slack, a workplace messaging app.
@@ -135,7 +153,10 @@ To stir is to mix something up. You can literally stir cake batter with a spoon,
 - n: emotional agitation and excitement
 - v: summon into action or bring into existence, often as if by magic
 ### Family
-stir: stirred, stirrer, stirring, stirs+;stirred: unstirred;stirrer: stirrers;stirring: stirringly, stirrings
+- stir: stirred, stirrer, stirring, stirs+
+- stirred: unstirred
+- stirrer: stirrers
+- stirring: stirringly, stirrings
 ### Examples
 - Still, a faint siren stirs inside of Couch Slouch that something is amiss when student-athletes renege on their part of the covenant.
 - Stir in the peppers, thyme and rosemary sprigs and continue to cook for 5 minutes to marry the flavors.
@@ -150,7 +171,7 @@ In wartime, you'll hear the word casualty used often for someone killed or injur
 - n: an accident that causes someone to die
 - n: a decrease of military personnel or equipment
 ### Family
-casualty: casualties
+- casualty: casualties
 ### Examples
 - "Evidently, ethics are the first casualty of the new Republican Congress," Pelosi said in a statement.
 - “Evidently, ethics are the first casualty of the new Republican Congress.”

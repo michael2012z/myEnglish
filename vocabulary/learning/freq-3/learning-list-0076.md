@@ -12,7 +12,10 @@
 - n: (sports) a stroke that puts reverse spin on the ball
 - n: the tender meat of the loin muscle on each side of the vertebral column
 ### Family
-undercut: undercuts, undercutting+;cut: cuts, cuttable, cutter, cutting, uncut, undercut;cutter: cutters;cutting: cuttingly, cuttings
+- undercut: undercuts, undercutting+
+- cut: cuts, cuttable, cutter, cutting, uncut, undercut
+- cutter: cutters
+- cutting: cuttingly, cuttings
 ### Examples
 - Its prices were too confusing and constantly undercut by online competitors.
 - Their victory is undercut by the fact that no one survives to enjoy it.
@@ -25,7 +28,13 @@ A meditation is an extended period of thought or concentration. If you practice 
 - n: continuous and profound contemplation or musing on a subject or series of subjects of a deep or abstruse nature
 - n: (religion) contemplation of spiritual matters (usually on religious or philosophical subjects)
 ### Family
-meditation: meditations+;meditate: meditated, meditates, meditating, meditation, meditative, premeditate;meditative: meditatively, meditativeness;premeditate: premeditated, premeditating, premeditation;premeditated: premeditatedly, unpremeditated;premeditation: premeditations;unpremeditated: unpremeditatedly
+- meditation: meditations+
+- meditate: meditated, meditates, meditating, meditation, meditative, premeditate
+- meditative: meditatively, meditativeness
+- premeditate: premeditated, premeditating, premeditation
+- premeditated: premeditatedly, unpremeditated
+- premeditation: premeditations
+- unpremeditated: unpremeditatedly
 ### Examples
 - A beautifully illustrated meditation on two of the 19th century’s greatest exponents of textile arts, Mariano Fortuny and William Morris.
 - Stressed Americans seeking calm through decluttering and meditation might add a third activity: the cocktail hour.
@@ -38,7 +47,7 @@ A parable is a short and simple story that teaches a religious or moral lesson. 
 - n: a short moral story (often with animal characters)
 - n: (New Testament) any of the stories told by Jesus to convey his religious message
 ### Family
-parable: parables, parabolical
+- parable: parables, parabolical
 ### Examples
 - “I promise you it is not a fable or an allegory or a parable of any kind,” he told the Pittsburgh Press upon its release.
 - A parable of two Americas, in vulgar microcosm.
@@ -50,7 +59,7 @@ parable: parables, parabolical
 - n: the state of being emotionally aroused and worked up
 - n: feelings of great warmth and intensity
 ### Family
-fervour: fervours
+- fervour: fervours
 ### Examples
 - Just in case you might miss the fervour of his opinion, two fellow protestors marched, bearing a coffin with the president's name on it.
 - I was worried by the fervour which accompanied his achievement.
@@ -62,7 +71,11 @@ A monarchy is a country that is ruled by a monarch, and monarchy is this system 
 ### Definition
 - n: an autocracy governed by a monarch who usually inherits the authority
 ### Family
-monarchy: monarchic, monarchies, monarchism+;monarch: monarchal, monarches, monarchical, monarchs, monarchy;monarchic: monarchically;monarchism: monarchist;monarchist: monarchists
+- monarchy: monarchic, monarchies, monarchism+
+- monarch: monarchal, monarches, monarchical, monarchs, monarchy
+- monarchic: monarchically
+- monarchism: monarchist
+- monarchist: monarchists
 ### Examples
 - While the monarchy in neighbouring Thailand is protected by a lese majeste law that outlaws any criticism, there is no similar law in Cambodia.
 - "And if the monarchy is returned to Russia I will vote with my both hands."
@@ -76,7 +89,9 @@ Inconsistent describes something that's varied or irregular. So if you're suppos
 - adj: not in agreement
 - adj: not capable of being made consistent or harmonious
 ### Family
-inconsistent: inconsistency, inconsistently+;consistent: consistently, inconsistent, self-consistent;inconsistency: inconsistencies
+- inconsistent: inconsistency, inconsistently+
+- consistent: consistently, inconsistent, self-consistent
+- inconsistency: inconsistencies
 ### Examples
 - State officials say it’s been hard to plan long term and recruit and train candidates in off-election years due to inconsistent funding from the DNC.
 - The rate of warming we are seeing, in both the air and ocean temperatures, is inconsistent with the fanciful and optimistic beliefs of this group.
@@ -91,7 +106,13 @@ An objection is a way of saying "No!" to something. People offer objections to t
 - n: the speech act of objecting
 - n: (law) a procedure whereby a party to a suit says that a particular line of questioning or a particular witness or a piece of evidence or other matter is improper and should not be continued and asks the court to rule on its impropriety or illegality
 ### Family
-objection: objectionable, objections+;object: objected, objectify, objecting, objection, objector, objects;objectification: objectifications;objectify: objectification, objectified, objectifies, objectifying;objectionable: objectionableness, objectionably, unobjectionable;objector: objectors;unobjectionable: unobjectionably
+- objection: objectionable, objections+
+- object: objected, objectify, objecting, objection, objector, objects
+- objectification: objectifications
+- objectify: objectification, objectified, objectifies, objectifying
+- objectionable: objectionableness, objectionably, unobjectionable
+- objector: objectors
+- unobjectionable: unobjectionably
 ### Examples
 - And now, a year later, the Islamic center is still tied up in traffic-pattern objections and subdivision squabbles.
 - Does that mean your primary objection is no longer to the “chaos, poor behavior and pretty rough playing that the other kids are accustomed to?”
@@ -103,7 +124,11 @@ Legislative is an adjective that describes the act or process of passing laws. C
 - adj: relating to a legislature or composed of members of a legislature
 - adj: of or relating to or created by legislation
 ### Family
-legislative: legislatively+;legislate: legislated, legislates, legislating, legislation, legislative, legislator, legislature;legislation: legislations;legislator: legislators, legislatorship;legislature: legislatures
+- legislative: legislatively+
+- legislate: legislated, legislates, legislating, legislation, legislative, legislator, legislature
+- legislation: legislations
+- legislator: legislators, legislatorship
+- legislature: legislatures
 ### Examples
 - Final legislative budget approval: Late June or early July.
 - Flynt said Brewer accomplished many goals during his partial term because of his legislative background.
@@ -119,7 +144,8 @@ If you realize mid-climb that your rock climbing rope is frayed, you might be in
 - v: pose a threat to; present a danger to
 - v: put in a dangerous, disadvantageous, or difficult position
 ### Family
-peril: periled, periling, perilled, perilling, perilous, perils+;perilous: perilously, perilousness
+- peril: periled, periling, perilled, perilling, perilous, perils+
+- perilous: perilously, perilousness
 ### Examples
 - “The unemployment rate is distressing; the impoverishment of the population is palpable everywhere; our social protection system is in deficit and is in peril.”
 - Yet we begin a year pregnant with perils with the Fear Index at exceptionally low levels.
@@ -131,7 +157,7 @@ The pile of crumbled debris that's left over after something breaks or collapses
 ### Definition
 - n: the remains of something that has been destroyed or broken up
 ### Family
-rubble: rubbles
+- rubble: rubbles
 ### Examples
 - The site, though liberated last month from the extremists, is reduced to rubble, largely unguarded and vulnerable to looters.
 - “The good thing is the rubble is still in situ,” she said.

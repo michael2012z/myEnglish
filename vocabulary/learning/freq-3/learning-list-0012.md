@@ -7,7 +7,12 @@ A franchise is a right granted by a government or corporation to an individual o
 - n: a business established or operated under an authorization to sell or distribute a company's goods or services in a particular area
 - v: grant a franchise to
 ### Family
-franchise: disfranchise, enfranchise, franchised, franchises, franchising+;disenfranchise: disenfranchised, disenfranchisement, disenfranchises, disenfranchising;disfranchise: disfranchised, disfranchisement, disfranchises, disfranchising;disfranchisement: disfranchisements;enfranchise: disenfranchise, enfranchised, enfranchisement, enfranchises, enfranchising;enfranchisement: enfranchisements
+- franchise: disfranchise, enfranchise, franchised, franchises, franchising+
+- disenfranchise: disenfranchised, disenfranchisement, disenfranchises, disenfranchising
+- disfranchise: disfranchised, disfranchisement, disfranchises, disfranchising
+- disfranchisement: disfranchisements
+- enfranchise: disenfranchise, enfranchised, enfranchisement, enfranchises, enfranchising
+- enfranchisement: enfranchisements
 ### Examples
 - Should they use the franchise tag again, paying him $24 million for one year?
 - Not just to Cousins, but to the franchise?
@@ -25,7 +30,8 @@ When two things clash, they run violently into each other, often with an accompa
 - n: a state of conflict between colors
 - n: a loud resonant repeating noise
 ### Family
-clash: clashed, clashes, clashing+;clashing: clashingly
+- clash: clashed, clashes, clashing+
+- clashing: clashingly
 ### Examples
 - As clashes continued in and around Mosul on Monday, Isis also targeted military positions away from the main battlefield.
 - Instead, Democrats see opportunities on issues on which Trump clashed with his party or where Republicans themselves worry that the party’s position is unpopular.
@@ -43,7 +49,10 @@ The adjective decent means sufficient or acceptable. The local diner you like to
 - adj: conforming to conventions of sexual behavior
 - adv: in the right manner
 ### Family
-decent: decency, decenter, decentest, decently, indecent+;decency: decencies;indecency: indecencies;indecent: indecency, indecenter, indecently
+- decent: decency, decenter, decentest, decently, indecent+
+- decency: decencies
+- indecency: indecencies
+- indecent: indecency, indecenter, indecently
 ### Examples
 - At first glance, Melania Trump did a good job of seeming like a decent sane person in her softball interview with Anderson Cooper in October.
 - If this is just a decent match, it will be memorable.
@@ -57,7 +66,7 @@ An ingredient is one part of a mixture. For example, if you're making chocolate 
 - n: food that is a component of a mixture in cooking
 - n: an abstract part of something
 ### Family
-ingredient: ingredients
+- ingredient: ingredients
 ### Examples
 - But Smith left Beard with the ingredients needed to compete in the Big 12.
 - Food and Drug Administration’s issues with the ingredient, particularly as it related to deaths of minors.
@@ -72,7 +81,8 @@ Fabric filled with foam, feathers, or other padding material makes a cushion, wh
 - n: the layer of air that supports a hovercraft or similar vehicle
 - n: a mechanical damper; absorbs energy of sudden impulses
 ### Family
-cushion: cushioned, cushioning, cushions, cushiony+;cushioning: cushionings
+- cushion: cushioned, cushioning, cushions, cushiony+
+- cushioning: cushionings
 ### Examples
 - The prologue is not just an effective way to frame the show and cushion the impact of its more offensive elements.
 - Sam Fuehring added 10 points in the quarter to provide a cushion before the Orange rallied to within seven in the fourth.
@@ -99,7 +109,10 @@ cushion: cushioned, cushioning, cushions, cushiony+;cushioning: cushionings
 - v: be in equilibrium during a flight
 - n: attitude of an aircraft in flight when allowed to take its own orientation
 ### Family
-trim: trimly, trimmed, trimmer, trimmest, trimming, trimness, trims+;trimmed: untrimmed;trimmer: trimmers;trimming: trimmings
+- trim: trimly, trimmed, trimmer, trimmest, trimming, trimness, trims+
+- trimmed: untrimmed
+- trimmer: trimmers
+- trimming: trimmings
 ### Examples
 - A trim black dress, its neckline marked by tiny silver squares, halts just above the knee.
 - Trim the chicken thighs of scraggy bits of skin.
@@ -116,7 +129,9 @@ Harsh means severe or strict, particularly when referring to punishment. It woul
 - adj: unpleasantly stern
 - adj: sharply disagreeable; rigorous
 ### Family
-harsh: harshen, harsher, harshest, harshly, harshness+;harshen: harshened;harshness: harshnesses
+- harsh: harshen, harsher, harshest, harshly, harshness+
+- harshen: harshened
+- harshness: harshnesses
 ### Examples
 - They recommended harsher sentences for gun crimes and for the use of high-capacity magazines.
 - He quickly convened an inquiry into the death, which led to courts-martial, and banned the harsh techniques used at the prison.
@@ -131,7 +146,8 @@ A mob is a big, rowdy group of people. You might avoid shopping at the mall righ
 - n: a loose affiliation of gangsters in charge of organized criminal activities
 - n: an association of criminals
 ### Family
-mob: mobbed, mobbing, mobbish, mobed, mobing, moblike, mobs, mobster+;mobster: mobsters
+- mob: mobbed, mobbing, mobbish, mobed, mobing, moblike, mobs, mobster+
+- mobster: mobsters
 ### Examples
 - All of his team-mates joined him, mobbing him to celebrate.
 - He moves up the ranks with a rival mob, overseeing a rum-running operation.
@@ -147,7 +163,10 @@ When you take an oath about something, you swear to it, affirming its truth. Iro
 - v: have confidence or faith in
 - v: make a deposition; declare under oath
 ### Family
-swear: foreswear, swearer, swearing, swears, swore+;foreswear: foreswearing, foreswears;swearer: swearers;swearing: swearings
+- swear: foreswear, swearer, swearing, swears, swore+
+- foreswear: foreswearing, foreswears
+- swearer: swearers
+- swearing: swearings
 ### Examples
 - The day is full-fledged production, complete with corsages for lawmakers, prayers and judges swearing them in.
 - Nevertheless, the singer railed against police officers who appear in the background of one of Songz’s videos, unfazed as the artist swears at them.
@@ -162,7 +181,12 @@ In its simplest sense, descend means to go or move downward, but there are a cou
 - v: come from; be connected by a relationship of blood, for example
 - v: do something that one considers to be below one's dignity
 ### Family
-descend: descendant, descended, descendent, descender, descending, descends+;descendant: descendants;descended: undescended;descendent: descendents;descender: descenders;descending: descendingly
+- descend: descendant, descended, descendent, descender, descending, descends+
+- descendant: descendants
+- descended: undescended
+- descendent: descendents
+- descender: descenders
+- descending: descendingly
 ### Examples
 - Just minutes into the cocktail reception, a few of Ms. Kerr’s best friends descended upon her.
 - Officials believe as many a million people will descend upon Times Square to bring in the New Year.

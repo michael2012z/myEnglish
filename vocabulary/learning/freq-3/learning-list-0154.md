@@ -5,7 +5,8 @@ To chronicle an event is to record it as it happens, and a chronicle is a record
 - n: a record or narrative description of past events
 - v: record in chronological order; make a historical record
 ### Family
-chronicle: chronicled, chronicler, chronicles, chronicling+;chronicler: chroniclers
+- chronicle: chronicled, chronicler, chronicles, chronicling+
+- chronicler: chroniclers
 ### Examples
 - The Houston Chronicle reports that Mayor Sylvester Turner attributes the $95 million deficit to the continued growth of the city’s pension obligations.
 - In the middle panel, around a childhood photograph, a spiraling text in the shape of a fingerprint chronicles events in Mr. Rauschenberg’s life.
@@ -18,7 +19,8 @@ An egalitarian is a person who believes in the equality of all people, and an eg
 - adj: favoring social equality
 - n: a person who believes in the equality of all people
 ### Family
-egalitarian: egalitarianism, egalitarians+;egality: egalitarian
+- egalitarian: egalitarianism, egalitarians+
+- egality: egalitarian
 ### Examples
 - Alaoui shunned the traditions of ethnographic “exoticism,” instead favoring a more egalitarian, respectful approach.
 - Or we would need to adopt labor laws and norms of business behavior that would force markets to distribute incomes on a more egalitarian basis.
@@ -30,7 +32,7 @@ Wrought is an adjective that means "molded," "shaped," or "manufactured." A wrou
 ### Definition
 - adj: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)
 ### Family
-wrought: inwrought, overwrought, wroughtest
+- wrought: inwrought, overwrought, wroughtest
 ### Examples
 - The burglar bars on the windows are wrought to resemble the Star of David.
 - We’ve now become so used to these sounds that it’s easy to lose sight of the sheer strangeness they wrought upon arrival.
@@ -44,7 +46,10 @@ Have you ever had the same crazy dream night after night? If so, you know that d
 - v: return in thought or speech to something
 - v: have recourse to
 ### Family
-recur: recured, recurred, recurrence, recurrent, recurring, recurs+;recurrence: recurrences;recurrent: recurrently;recurring: recurringly
+- recur: recured, recurred, recurrence, recurrent, recurring, recurs+
+- recurrence: recurrences
+- recurrent: recurrently
+- recurring: recurringly
 ### Examples
 - This is a recurring promise among presidential aspirants in South Korea.
 - But the next morning, he was woken up by that recurring train whistle, which is somehow connected to his adolescent trauma.
@@ -57,7 +62,7 @@ Strife is the act or state of fighting or arguing violently. The years leading u
 - n: bitter conflict; heated often violent dissension
 - n: lack of agreement or harmony
 ### Family
-strife: strifes
+- strife: strifes
 ### Examples
 - The developments are easily visualised: the PA collapses in strife or rebellion and the Israeli army ends up governing.
 - The sheer range of musical expression is astonishing: pastoral reveries, woodland scenes, romantic arias, heroic dramas, historical legends and visions of spiritual strife.
@@ -73,7 +78,13 @@ If something turns off course or is diverted, it deviates from the expected or t
 - adj: markedly different from an accepted norm
 - n: a person whose behavior deviates from what is acceptable especially in sexual behavior
 ### Family
-deviate: deviance, deviated, deviates, deviating, deviatingly, deviation+;deviance: deviances;deviating: undeviating;deviation: deviationism, deviations;deviationism: deviationist;deviationist: deviationists;undeviating: undeviatingly
+- deviate: deviance, deviated, deviates, deviating, deviatingly, deviation+
+- deviance: deviances
+- deviating: undeviating
+- deviation: deviationism, deviations
+- deviationism: deviationist
+- deviationist: deviationists
+- undeviating: undeviatingly
 ### Examples
 - But four years ago the Fire Ridge HOA filed a lawsuit, asserting that Marsh's amusement park deviated from approved plans and violated the neighborhood’s covenants.
 - When they deviated from the diet, even after years of compliance, the disease invariably got worse.
@@ -87,7 +98,11 @@ When something is fabulous and wonderful it can be described as glorious, like t
 - adj: having great beauty and splendor
 - adj: characterized by grandeur
 ### Family
-glorious: gloriousest, gloriously, inglorious+;glorification: glorifications;glorify: glorification, glorified, glorifies, glorifying;glory: gloried, glories, glorify, glorious, glorying;inglorious: ingloriously
+- glorious: gloriousest, gloriously, inglorious+
+- glorification: glorifications
+- glorify: glorification, glorified, glorifies, glorifying
+- glory: gloried, glories, glorify, glorious, glorying
+- inglorious: ingloriously
 ### Examples
 - Then, 2017 will be a glorious year and set us on a path of recovery.
 - Dembélé wasted a glorious opportunity to send his team ahead within five minutes of the restart.
@@ -99,7 +114,7 @@ A heyday is a peak of popularity or success. If you hear someone say "Hey! Back 
 ### Definition
 - n: the period of greatest prosperity or productivity
 ### Family
-heyday: heydays
+- heyday: heydays
 ### Examples
 - Lou Pepper, 92, the respected former CEO of Washington Mutual during its heyday and named partner of Seattle law firm Foster Pepper, died Dec. 23.
 - Lou Pepper, who led Washington Mutual during its heyday, was much respected by the bank’s employees.
@@ -112,7 +127,8 @@ Concomitant means accompanying. If you run into someone that you have a crush on
 - adj: following or accompanying as a consequence
 - n: an event or situation that happens at the same time as or in connection with another
 ### Family
-concomitant: concomitance, concomitantly, concomitants+;concomitance: concomitances
+- concomitant: concomitance, concomitantly, concomitants+
+- concomitance: concomitances
 ### Examples
 - The state is growing quickly and our aging infrastructure can’t accommodate the concomitant population increase.
 - A passing interest in flatulence, of all unlikely topics, links “The Children” to the concomitant work playing in the Royal Court’s studio-sized upstairs space.
@@ -130,7 +146,7 @@ Violent, angry, and ferocious, fury is a feeling of wild, intense anger. Before 
 - n: state of violent mental agitation
 - n: (classical mythology) the hideous snake-haired monsters (usually three in number) who pursued unpunished criminals
 ### Family
-Fury: Furies
+- Fury: Furies
 ### Examples
 - I got it from both sides: eardrum-denting yells of fury, which managed to break through the noise of surrounding protestors.
 - The Rams prevailed, 73-64, but the atmosphere crackled with the type of energy and fury unseen at EagleBank Arena for many winters.

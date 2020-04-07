@@ -9,7 +9,9 @@ If you decide to knit a sweater, you will need yarn, knitting needles, an instru
 - n: needlework created by interlacing yarn in a series of connected loops using straight eyeless needles or by machine
 - v: to gather something into small wrinkles or folds
 ### Family
-knit: knits, knitted, knitter, knitting+;knitter: knitters;knitting: knittings
+- knit: knits, knitted, knitter, knitting+
+- knitter: knitters
+- knitting: knittings
 ### Examples
 - Knitted figures with, frankly, very good crochet work.
 - An appeal for volunteers to knit cots, wraps and hats for still-born babies saw a big response and items now fill Mr Scully-Sloan's living room.
@@ -22,7 +24,7 @@ Use the adjective rife to mean "full of" or "widespread," especially when you're
 - adj: excessively abundant
 - adj: most frequent or common
 ### Family
-rife: rifely, rifer, rifest
+- rife: rifely, rifer, rifest
 ### Examples
 - Local and foreign non-governmental organisations say corruption is rife in Egypt.
 - Consumers balked at ads rife with racist, sexist and violent undertones, including a billboard of a female character being strangled.
@@ -49,7 +51,8 @@ We love words that sound like what they mean, and bolt is no exception. It's a q
 - adv: in a rigid manner
 - adv: directly
 ### Family
-bolt: bolted, bolting, bolts, unbolt+;unbolt: unbolted, unbolting, unbolts
+- bolt: bolted, bolting, bolts, unbolt+
+- unbolt: unbolted, unbolting, unbolts
 ### Examples
 - In the athletic competition, Jamaican sprinter Usain Bolt becomes the first athlete ever to win the men’s 100-meter final wearing flip-flops.
 - Sitting bolt upright, laboring to breathe, was the poet Robert Lowell.
@@ -60,7 +63,7 @@ When something happens anew, it happens again, but in a fresh way that might be 
 ### Definition
 - adv: again but in a new or different way
 ### Family
-anew
+- anew
 ### Examples
 - The end of a year is a time to reëvaluate, resolve, and begin anew.
 - He showed anew the crispness of his enunciation — in this case stretched to farcical parody — and his talent for broad comedy.
@@ -74,7 +77,9 @@ A compliment is an expression of respect or admiration, like, "You're such a goo
 - v: express respect or esteem for
 - v: say something to someone that expresses praise
 ### Family
-compliment: complimentary, complimented, complimenting, compliments+;complimentary: complimentarily, uncomplimentary;uncomplimentary: uncomplimentarily
+- compliment: complimentary, complimented, complimenting, compliments+
+- complimentary: complimentarily, uncomplimentary
+- uncomplimentary: uncomplimentarily
 ### Examples
 - At a recent celebration, friends used one cake to congratulate Bill Word on his retirement and compliment Matt Word on his new job.
 - The next day, Fisher said he was simply “complimenting” Rams players.
@@ -87,7 +92,9 @@ A villain is a bad person — real or made up. In books, movies, current events,
 - n: a wicked or evil person; someone who does evil deliberately
 - n: the principal bad character in a film or work of fiction
 ### Family
-villain: villainess, villainous, villains+;villainess: villainesses;villainous: villainously, villainousness
+- villain: villainess, villainous, villains+
+- villainess: villainesses
+- villainous: villainously, villainousness
 ### Examples
 - But what looked like a potentially game-winning subsequent drive for Washington ended on Cousins’s second interception, with Rodgers-Cromartie playing the villain again.
 - He’s a very unctuous, oily, truly horrific villain who the audience will enjoy despising.
@@ -98,7 +105,10 @@ villain: villainess, villainous, villains+;villainess: villainesses;villainous: 
 ### Definition
 - adj: not making concessions
 ### Family
-uncompromising: uncompromisingly+;compromise: compromised, compromiser, compromises, compromising;compromiser: compromisers;compromising: compromisingly, uncompromising
+- uncompromising: uncompromisingly+
+- compromise: compromised, compromiser, compromises, compromising
+- compromiser: compromisers
+- compromising: compromisingly, uncompromising
 ### Examples
 - There were also final, uncompromising albums in the Top 10 from elders like David Bowie, Leonard Cohen and A Tribe Called Quest.
 - Back then, standards employed in evaluating generalship were clear-cut and uncompromising.
@@ -111,7 +121,7 @@ If something is pristine it's immaculately clean or has never been used. So plea
 - adj: immaculately clean and unused
 - adj: completely free from dirt or contamination
 ### Family
-pristine: pristinely
+- pristine: pristinely
 ### Examples
 - At first it was pretty standard fare: She posed, framed by feathers, as a glittering pop princess through a pristine, apparently lip-synced “Auld Lang Syne.”
 - A group of nations that included the United States, China and Russia also agreed to protect a vast swath of pristine, life-supporting ocean off Antarctica.
@@ -124,7 +134,8 @@ If there is no doubt about it, it's unequivocal. An unequivocal response to a ma
 - adj: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion
 - adj: clearly defined or formulated
 ### Family
-unequivocal: unequivocally, unequivocalness+;equivocal: equivocally, equivocalness, unequivocal
+- unequivocal: unequivocally, unequivocalness+
+- equivocal: equivocally, equivocalness, unequivocal
 ### Examples
 - Siatta’s journal entry that day was unequivocal about the purpose.
 - Now the international community’s message is unequivocal: you were right in 2009.
@@ -141,7 +152,9 @@ Willing to pay an arm and a leg for those World Series tickets? Then you're will
 - n: (astronomy) the circumferential edge of the apparent disc of the sun or the moon or a planet
 - n: the graduated arc that is attached to an instrument for measuring angles
 ### Family
-limb: forelimb, limbless, limbs+;forelimb: forelimbs;limbless: limblessly
+- limb: forelimb, limbless, limbs+
+- forelimb: forelimbs
+- limbless: limblessly
 ### Examples
 - He struggled to maintain regular body temperature, and he was confined to a wheelchair until he regained mobility in his limbs.
 - No limb he or she can’t hit on the way down.

@@ -6,7 +6,14 @@ A contractor is someone who is hired to build something. As a contractor at a bu
 - n: (law) a party to a contract
 - n: the bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps
 ### Family
-contractor: contractors+;contract: contractable, contracted, contracting, contraction, contractor, contracts, contractual, contracture, subcontract;contracted: contractedly;contraction: contractions;contractual: contractually;contracture: contractures;subcontract: subcontracted, subcontracting, subcontractor, subcontracts;subcontractor: subcontractors
+- contractor: contractors+
+- contract: contractable, contracted, contracting, contraction, contractor, contracts, contractual, contracture, subcontract
+- contracted: contractedly
+- contraction: contractions
+- contractual: contractually
+- contracture: contractures
+- subcontract: subcontracted, subcontracting, subcontractor, subcontracts
+- subcontractor: subcontractors
 ### Examples
 - They also seized 12 employees of Umanizzare, a private contractor that operates prisons in the Amazon.
 - They include “burdensome” school lunch standards, tobacco regulations, laws that set higher wages for contractors and elements of the Paris climate-change agreement.
@@ -20,7 +27,7 @@ A serpent is a snake. If you keep a serpent as a pet, you may have to get used t
 - n: a firework that moves in serpentine manner when ignited
 - n: an obsolete bass cornet; resembles a snake
 ### Family
-serpent: serpents
+- serpent: serpents
 ### Examples
 - Of course, as if the Serpent himself were conducting the interview, the questions were slyly adorned with luring compliments.
 - Born just four months ago, the endangered serpents are among 50 newborns now in the Los Angeles Zoo’s care. 
@@ -34,7 +41,8 @@ An anomaly is an abnormality, a blip on the screen of life that doesn’t fit wi
 - n: a person who is unusual
 - n: (astronomy) position of a planet as defined by its angular distance from its perihelion (as observed from the sun)
 ### Family
-anomaly: anomalies, anomalist, anomalous+;anomalous: anomalously, anomalousness
+- anomaly: anomalies, anomalist, anomalous+
+- anomalous: anomalously, anomalousness
 ### Examples
 - Justice Stephen G. Breyer, writing the controlling opinion in that 2014 case, acknowledged Roosevelt’s move, though he called it an anomaly.
 - “Sadly, Mr. Jacobs is no anomaly,” Holder wrote last summer in an opinion piece in the New York Times.
@@ -48,7 +56,9 @@ Discretionary means it's up to you to decide. Bathing regularly is a discretiona
 - adj: having or using the ability to act or decide according to your own discretion or judgment
 - adj: (especially of funds) not earmarked; available for use as needed
 ### Family
-discretion: discretional, discretionary, discretions, indiscretion+;discretional: discretionally;indiscretion: indiscretions
+- discretion: discretional, discretionary, discretions, indiscretion+
+- discretional: discretionally
+- indiscretion: indiscretions
 ### Examples
 - Its budget at the time of the report was roughly $580 billion - more than half of all federal discretionary spending.
 - Yet those who need to work two jobs are also those with the least discretionary income to spend on robotic cribs for their children.
@@ -61,7 +71,7 @@ To dispel is to get rid of something that's bothering or threatening you, regard
 - v: to cause to separate and go in different directions
 - v: force to go away; used both with concrete and metaphoric meanings
 ### Family
-dispel: dispelled, dispelling, dispels
+- dispel: dispelled, dispelling, dispels
 ### Examples
 - That's been dispelled a million times, and they still lean on that.
 - And yet she did much to dispel the stigma around mental illness, even cheekily proposing a Bipolar Pride Day.
@@ -72,7 +82,10 @@ Concurrent means happening at the same time, as in two movies showing at the sam
 ### Definition
 - adj: occurring or operating at the same time
 ### Family
-concurrent: concurrency, concurrently+;concur: concuring, concurred, concurrence, concurrent, concurring, concurs;concurrence: concurrences;concurrency: concurrencies
+- concurrent: concurrency, concurrently+
+- concur: concuring, concurred, concurrence, concurrent, concurring, concurs
+- concurrence: concurrences
+- concurrency: concurrencies
 ### Examples
 - It is concurrent with a four-year sentence on similar charges from a recent military court-martial.
 - At a hearing Wednesday, 33-year-old Kilwa Jones was expected to plead guilty to state charges and be sentenced a term concurrent to the federal charges.
@@ -86,7 +99,8 @@ To rejoice is to be incredibly happy, or to express your incredible happiness. I
 - v: to express great joy
 - v: be ecstatic with joy
 ### Family
-rejoice: rejoiced, rejoices, rejoicing+;rejoicing: rejoicingly, rejoicings
+- rejoice: rejoiced, rejoices, rejoicing+
+- rejoicing: rejoicingly, rejoicings
 ### Examples
 - Rejoice: After three years away, the hit BBC series “Sherlock” is back for three new episodes of buddy comedy and intrigue.
 - “Let us rejoice in this season and look forward with renewed hope and determination.”
@@ -99,7 +113,14 @@ When you reconsider something, you think about it again or in a new way. You mig
 - v: consider again; give new consideration to; usually with a view to changing
 - v: consider again (a bill) that had been voted upon before, with a view to altering it
 ### Family
-reconsider: reconsideration, reconsidered, reconsidering, reconsiders+;consider: considerable, consideration, considered, considering, considers, reconsider;considerable: considerabler, considerablest, considerably, inconsiderable;consideration: considerations, inconsideration;considered: ill-considered, unconsidered;inconsiderable: inconsiderably;inconsideration: inconsiderations;reconsideration: reconsiderations
+- reconsider: reconsideration, reconsidered, reconsidering, reconsiders+
+- consider: considerable, consideration, considered, considering, considers, reconsider
+- considerable: considerabler, considerablest, considerably, inconsiderable
+- consideration: considerations, inconsideration
+- considered: ill-considered, unconsidered
+- inconsiderable: inconsiderably
+- inconsideration: inconsiderations
+- reconsideration: reconsiderations
 ### Examples
 - Smith nearly retired in 2015 but an Achilles injury in November of that year prompted him to reconsider.
 - Progressives should reconsider the assumption that social mobility is the answer to inequality.
@@ -111,7 +132,10 @@ As a noun, the word midday refers to the middle of the day. You should avoid the
 ### Definition
 - n: the middle of the day
 ### Family
-midday: middays+;daily: dailies;day: daily, days, midday;days: dayses
+- midday: middays+
+- daily: dailies
+- day: daily, days, midday
+- days: dayses
 ### Examples
 - There are no immediate details on the midday blasts.
 - Obama returns to Washington at midday Monday from Hawaii with less than three weeks remaining in his presidency.

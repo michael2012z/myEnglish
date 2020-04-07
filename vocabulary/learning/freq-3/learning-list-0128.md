@@ -5,7 +5,7 @@
 - n: a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process
 - n: the liquid in which vegetables or meat have be cooked
 ### Family
-liquor: liquors
+- liquor: liquors
 ### Examples
 - One of the DUI charges was the arrest of Charles W. Caldwell III, the former chairman of the Prince George’s County liquor board.
 - The Utah Department of Alcoholic Beverage Control oversees all licensing and runs the state’s liquor stores.
@@ -20,7 +20,7 @@ A batch is a completed group, collection, or quantity of something, especially s
 - n: (often followed by `of') a large number or amount or extent
 - v: batch together; assemble or process as a batch
 ### Family
-batch: batched, batches, batching
+- batch: batched, batches, batching
 ### Examples
 - A first batch of factories and shops will need to close and hand in their licenses by March 31, 2017.
 - In another bout of this archaic ritual, Russia closing Moscow’s Anglo-American school and expelling a batch of Americans from Moscow.
@@ -35,7 +35,11 @@ Anyone highly regarded or prominent is eminent. Eminent people are very successf
 - adj: having an illustrious reputation; respected
 - adj: of imposing height; especially standing out above others
 ### Family
-eminent: eminence, eminenter, eminentest, eminently, preeminent+;eminence: eminences;eminently: pre-eminently;preeminence: preeminences;preeminent: preeminence, preeminently
+- eminent: eminence, eminenter, eminentest, eminently, preeminent+
+- eminence: eminences
+- eminently: pre-eminently
+- preeminence: preeminences
+- preeminent: preeminence, preeminently
 ### Examples
 - Ruth Gruber, an eminent photojournalist and writer, devoted her life to documenting the struggle of Jewish refugees.
 - I lauded Mattis’s eminent qualifications and leadership skills while affirming that this central tenent of our democracy should matter more than any single individual.
@@ -54,7 +58,9 @@ You can serve as a foil to someone if you show them to be better than you by con
 - n: a light slender flexible sword tipped by a button
 - n: a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through
 ### Family
-foil: foiled, foiling, foils, foliate+;foliate: bifoliate, foliated, foliating, foliation;foliation: foliations
+- foil: foiled, foiling, foils, foliate+
+- foliate: bifoliate, foliated, foliating, foliation
+- foliation: foliations
 ### Examples
 - In Melbourne, police foiled a “significant” Islamic State-inspired Christmas Day terror plot.
 - But a lack of progress in his recovery foiled those plans.
@@ -69,7 +75,8 @@ The noun countenance means the face or its expression. If you're a great poker p
 - v: consent to, give permission
 - n: formal and explicit approval
 ### Family
-countenance: countenanced, countenances, countenancing, discountenance+;discountenance: discountenanced, discountenances, discountenancing
+- countenance: countenanced, countenances, countenancing, discountenance+
+- discountenance: discountenanced, discountenances, discountenancing
 ### Examples
 - The party was doubtless pleased by his resolute refusal, in line with its own, to countenance such concessions.
 - So whatever he has in his heart, he countenances it for either political or media gain.
@@ -82,7 +89,9 @@ If something looks or sounds ominous, be careful: a threat or an unpleasant even
 - adj: threatening or foreshadowing evil or tragic developments
 - adj: presaging ill fortune
 ### Family
-ominous: ominously+;omen: omened, omening, omens, ominous;omened: ill-omened
+- ominous: ominously+
+- omen: omened, omening, omens, ominous
+- omened: ill-omened
 ### Examples
 - The conditions at the Naud Street warehouse appeared to be nowhere near as ominous.
 - Almost all current trends look ominous for Britain’s first four broadcast networks.
@@ -96,7 +105,12 @@ To change the way something looks or functions is to redesign it. If you use a w
 ### Definition
 - v: design anew, make a new design for
 ### Family
-redesign: redesigned, redesigning, redesigns+;design: designed, designer, designing, designs, redesign;designed: designedly, undesigned;designer: designers;designing: designingly, designings;undesigned: undesignedly
+- redesign: redesigned, redesigning, redesigns+
+- design: designed, designer, designing, designs, redesign
+- designed: designedly, undesigned
+- designer: designers
+- designing: designingly, designings
+- undesigned: undesignedly
 ### Examples
 - Whether you’re looking for a single statement piece or to redesign your home, 14th Street NW is a haven for furniture seekers.
 - A quick redesign incorporated the Nebraska sower with his hands properly placed.
@@ -111,7 +125,7 @@ A rupture is a break or tear in something that pulls it apart. A rupture can be 
 - n: a personal or social separation (as between opposing factions)
 - v: separate or cause to separate abruptly
 ### Family
-rupture: ruptured, ruptures, rupturing
+- rupture: ruptured, ruptures, rupturing
 ### Examples
 - That, or the tumor would rupture her heart.
 - The company determined the 2015 accident was caused by the rupture of a substandard metal piece supporting a pressurized helium vessel.
@@ -125,7 +139,7 @@ The center or source of something is known as the locus. A shopping mall is usua
 - n: the set of all points or lines that satisfy or are determined by specific conditions
 - n: the specific site of a particular gene on its chromosome
 ### Family
-locus: loci
+- locus: loci
 ### Examples
 - About 70% of the genetic loci that contribute to IBD susceptibility are thought to be shared with other complex diseases such as ankylosing spondylitis.
 - Then there is Trump Tower, the current locus of power for the incoming administration.

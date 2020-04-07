@@ -4,7 +4,9 @@ Use empathy if you're looking for a noun meaning "the ability to identify with a
 ### Definition
 - n: understanding and entering into another's feelings
 ### Family
-empathy: empathetic, empathies, empathise, empathize+;empathetic: empathetically;empathize: empathized, empathizes, empathizing
+- empathy: empathetic, empathies, empathise, empathize+
+- empathetic: empathetically
+- empathize: empathized, empathizes, empathizing
 ### Examples
 - The magazine article did an excellent job of presenting the complex issue of “mass shooter preparedness training” with empathy, intelligence and a lack of judgment.
 - One thing that seems to be common in people with Down’s syndrome is a high level of emotional intelligence and incredible empathy.
@@ -22,7 +24,11 @@ A tier is a level or a layer. If you sit in the top tier of seats at a concert, 
 - n: a worker who ties something
 - n: something that is used for tying
 ### Family
-tier: tiers+;retie: retied, reties, retying;tie: retie, tied, tier, ties, tying, untie;tying: tyings;untie: untied, untier, unties, untying
+- tier: tiers+
+- retie: retied, reties, retying
+- tie: retie, tied, tier, ties, tying, untie
+- tying: tyings
+- untie: untied, untier, unties, untying
 ### Examples
 - The first of four state-regulated casinos planned for upstate opened in December in the state’s Southern Tier.
 - Rangers scrambled back up the four-division league pyramid to the top tier this season.
@@ -37,7 +43,10 @@ A disguise is something you put on so no one recognizes you. It also can be used
 - n: an outward semblance that misrepresents the true nature of something
 - v: make unrecognizable
 ### Family
-disguise: disguised, disguises, disguising+;disguised: disguisedly, undisguised;guise: disguise, guises;undisguised: undisguisedly
+- disguise: disguised, disguises, disguising+
+- disguised: disguisedly, undisguised
+- guise: disguise, guises
+- undisguised: undisguisedly
 ### Examples
 - In 1987 Fisher wrote a thinly disguised novel about her conflict with her mother.
 - But Mr. Cooper accused Republicans of disguising their intentions.
@@ -54,7 +63,9 @@ disguise: disguised, disguises, disguising+;disguised: disguisedly, undisguised;
 - n: the liquid parts of the body
 - n: a characteristic (habitual or relatively temporary) state of feeling
 ### Family
-humour: humoured, humouring, humourist, humourless, humours+;humoured: ill-humoured;humourist: humourists
+- humour: humoured, humouring, humourist, humourless, humours+
+- humoured: ill-humoured
+- humourist: humourists
 ### Examples
 - "Everyone adored him,'' she said. "A great sense of humour and a great humanitarian.
 - I told myself it was just her ironic humour.
@@ -65,7 +76,7 @@ An aptitude is something you're good at. A rock star might have an aptitude for 
 ### Definition
 - n: inherent ability
 ### Family
-aptitude: aptitudes, inaptitude
+- aptitude: aptitudes, inaptitude
 ### Examples
 - His aptitude was caught at the age of 8, thanks to the Canadian school system’s nationwide use of the Seashore Measures of Musical Talent tests.
 - Mr. Albers, noting his aptitude for three-dimensional design, asked him to help Fuller by constructing geometrical models for him to use in his lectures.
@@ -81,7 +92,7 @@ Use the word sage for someone or something wise and judicious. Thanks to the sag
 - n: aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc
 - adj: of the grey-green color of sage leaves
 ### Family
-sage: sagely, sager, sages, sagest
+- sage: sagely, sager, sages, sagest
 ### Examples
 - It was a sage decision in the current hyperpartisan climate.
 - Sage grouse live in 11 Western states, but their numbers are down significantly because of habitat loss.
@@ -95,7 +106,17 @@ Something disposable is not meant to last. It's OK to throw it out after you use
 - adj: designed to be disposed of after use
 - adj: free or available for use or disposition
 ### Family
-disposable: disposables, nondisposable+;disposal: disposals;dispose: disposable, disposal, disposed, disposes, disposing, disposition, indispose, predispose, redispose;disposed: disposedly;disposition: dispositions;indispose: indisposed, indisposes, indisposing, indisposition;indisposition: indispositions;predispose: predisposed, predisposes, predisposing, predisposition;predisposition: predispositions;redispose: redisposed, redisposes, redisposing, redisposition;redisposition: redispositions
+- disposable: disposables, nondisposable+
+- disposal: disposals
+- dispose: disposable, disposal, disposed, disposes, disposing, disposition, indispose, predispose, redispose
+- disposed: disposedly
+- disposition: dispositions
+- indispose: indisposed, indisposes, indisposing, indisposition
+- indisposition: indispositions
+- predispose: predisposed, predisposes, predisposing, predisposition
+- predisposition: predispositions
+- redispose: redisposed, redisposes, redisposing, redisposition
+- redisposition: redispositions
 ### Examples
 - The figures show consumers really are "lovin' it", yet the concept is also ubiquitous - a familiar, disposable and repeatable experience.
 - Disposable incomes in the countryside are about one-third of those in big cities.
@@ -109,7 +130,11 @@ Appropriation is the act of taking something, usually without permission, like s
 - n: incorporation by joining or uniting
 - n: money set aside (as by a legislature) for a specific purpose
 ### Family
-appropriation: appropriations+;appropriate: appropriable, appropriated, appropriately, appropriateness, appropriates, appropriating, appropriation, appropriative, appropriator, misappropriate;appropriator: appropriators;misappropriate: misappropriated, misappropriates, misappropriating, misappropriation;misappropriation: misappropriations
+- appropriation: appropriations+
+- appropriate: appropriable, appropriated, appropriately, appropriateness, appropriates, appropriating, appropriation, appropriative, appropriator, misappropriate
+- appropriator: appropriators
+- misappropriate: misappropriated, misappropriates, misappropriating, misappropriation
+- misappropriation: misappropriations
 ### Examples
 - The 2016 law to again allow a wolf hunt also includes an appropriation.
 - The House Appropriations and Senate Finance committees will meet together on Wednesday.
@@ -124,7 +149,12 @@ To avail means to take advantage of an opportunity, the way you'd be crazy not t
 - v: use to one's advantage
 - n: a means of serving
 ### Family
-avail: available, availed, availing, avails+;availability: availabilities;available: availability, availableness, availably, unavailable;availing: unavailing;unavailable: unavailability;unavailing: unavailingly
+- avail: available, availed, availing, avails+
+- availability: availabilities
+- available: availability, availableness, availably, unavailable
+- availing: unavailing
+- unavailable: unavailability
+- unavailing: unavailingly
 ### Examples
 - The anecdote sparked a brief media frenzy as gossip writers and others sought to track down Sasha's Snapchat account, but to no avail.
 - White called it a “one off” situation, and said that after the bout he expected Rousey to avail herself to the media.

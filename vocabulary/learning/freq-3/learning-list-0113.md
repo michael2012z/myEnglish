@@ -7,7 +7,9 @@ When you overthrow a ruler or a regime, you throw them out, usually by force. If
 - n: the termination of a ruler or institution (especially by force)
 - n: the act of disturbing the mind or body
 ### Family
-overthrow: overthrew, overthrowing, overthrown, overthrows+;throw: overthrow, threw, throwed, thrower, throwing, throws;thrower: throwers
+- overthrow: overthrew, overthrowing, overthrown, overthrows+
+- throw: overthrow, threw, throwed, thrower, throwing, throws
+- thrower: throwers
 ### Examples
 - Romo, completed three of four passes for 29 yards, overthrew Terrance Williams on a deep pass on his first play.
 - The right defended the status quo; the left agitated to overthrow or at least ameliorate it.
@@ -19,7 +21,7 @@ A small tube of paper that's filled with tobacco and lit with a match is a cigar
 ### Definition
 - n: finely ground tobacco wrapped in paper; for smoking
 ### Family
-cigarette: cigarettes
+- cigarette: cigarettes
 ### Examples
 - The man in front of me lights up a cigarette.
 - She devoted herself to her job at the Brinkmann cigarette factory.
@@ -32,7 +34,7 @@ Solitude is the state of being alone. You might crave solitude after spending th
 - n: the state or situation of being alone
 - n: a solitary place
 ### Family
-solitude: solitudes
+- solitude: solitudes
 ### Examples
 - Mr. Akay uses those rare moments of solitude to write letters home.
 - In “The Labyrinth of Solitude,” the Mexican poet Octavio Paz described his country’s revolution as an existential event, liberating and channeling enormous energies of self-discovery.
@@ -48,7 +50,14 @@ Simplicity is a noun that means "the quality of being plain." The simplicity of 
 - n: lack of ornamentation
 - n: freedom from difficulty or hardship or effort
 ### Family
-simplicity: simplicities+;oversimplification: oversimplifications;oversimplify: oversimplification, oversimplified, oversimplifies, oversimplifying;simple: simmpleness, simpleness, simpler, simples, simplest, simplicity, simplify, simplism, simplistic, simply;simplification: simplifications;simplify: oversimplify, simplification, simplified, simplifies, simplifying;simplism: simplisms;simplistic: simplistically
+- simplicity: simplicities+
+- oversimplification: oversimplifications
+- oversimplify: oversimplification, oversimplified, oversimplifies, oversimplifying
+- simple: simmpleness, simpleness, simpler, simples, simplest, simplicity, simplify, simplism, simplistic, simply
+- simplification: simplifications
+- simplify: oversimplify, simplification, simplified, simplifies, simplifying
+- simplism: simplisms
+- simplistic: simplistically
 ### Examples
 - Think Airbnb for cars, with selection, simplicity and lower prices.
 - It’s an album about heroes and desires, passion and vision, simplicity and transcendence, all of them still very much a part of her music.
@@ -61,7 +70,10 @@ Things that are miniature are teeny tiny versions of something else. Think minia
 - n: a copy that reproduces a person or thing in greatly reduced size
 - n: painting or drawing included in a book (especially in illuminated medieval manuscripts)
 ### Family
-miniature: miniatures, miniaturise, miniaturist, miniaturize+;miniaturise: miniaturisation;miniaturist: miniaturists;miniaturize: miniaturization, miniaturized, miniaturizes, miniaturizing
+- miniature: miniatures, miniaturise, miniaturist, miniaturize+
+- miniaturise: miniaturisation
+- miniaturist: miniaturists
+- miniaturize: miniaturization, miniaturized, miniaturizes, miniaturizing
 ### Examples
 - But with the rise of the mobile phone, the redundant kiosks are increasingly being put to inventive uses, from miniature art galleries to pint-sized pubs.
 - She described the new stamps as part of a showcase of “miniature works of art to help continue telling America’s story.”
@@ -77,7 +89,7 @@ If you are ardent, you are passionate about something. A pop star's ardent admir
 - adj: characterized by strong enthusiasm
 - adj: glowing or shining like fire
 ### Family
-ardent: ardenter, ardently
+- ardent: ardenter, ardently
 ### Examples
 - Mr. Berger’s methods, influenced by the ideas of Walter Benjamin, tended to attract either ardent admiration or seething criticism, with little in between.
 - Mr. Broeksmit was always an ardent advocate for Mr. Jain.
@@ -89,7 +101,7 @@ The cosmos is the sum total of everything — pretty big. It's hard to wrap your
 - n: everything that exists anywhere
 - n: any of various mostly Mexican herbs of the genus Cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals
 ### Family
-cosmos: cosmoses
+- cosmos: cosmoses
 ### Examples
 - While fighting these battles on Earth, Dr. Rubin peered into the cosmos and examined the rotation of more than 200 galaxies.
 - For the first quarter of a million years, the cosmos was hidden from astronomers.
@@ -102,7 +114,8 @@ Bravery is the admirable quality of being able to confront frightening things. I
 - n: a quality of spirit that enables you to face danger or pain without showing fear
 - n: feeling no fear
 ### Family
-bravery: braveries+;brave: braved, bravely, braveness, braver, bravery, braves, bravest, braving
+- bravery: braveries+
+- brave: braved, bravely, braveness, braver, bravery, braves, bravest, braving
 ### Examples
 - Governor Tom Wolf in a statement said Weaver would be remembered for “his bravery, his sacrifice, and his willingness to serve”.
 - The governor said he will be remembered for his bravery and willingness to serve.
@@ -113,7 +126,15 @@ bravery: braveries+;brave: braved, bravely, braveness, braver, bravery, braves, 
 ### Definition
 - adj: not necessarily inaudible but not heard
 ### Family
-heard: heardest, heardly, unheard+;hear: hearable, heard, hearer, hearing, hears, overhear, rehear;hearable: hearably, unhearable;hearer: hearers;hearing: hearings, rehearing, unhearing;overhear: overheard, overhearing, overhears;rehear: reheard;rehearing: rehearings;unhearing: unhearingly
+- heard: heardest, heardly, unheard+
+- hear: hearable, heard, hearer, hearing, hears, overhear, rehear
+- hearable: hearably, unhearable
+- hearer: hearers
+- hearing: hearings, rehearing, unhearing
+- overhear: overheard, overhearing, overhears
+- rehear: reheard
+- rehearing: rehearings
+- unhearing: unhearingly
 ### Examples
 - Such appointments are not unheard of in American history.
 - The Gospel introduced St. Joseph, confronted by God with something unheard of, that the child she was carrying was the work of the Holy Spirit.

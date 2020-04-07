@@ -5,7 +5,19 @@ If your poetry is incomprehensible, it's difficult to understand, and it might b
 - adj: difficult to understand
 - adj: incapable of being explained or accounted for
 ### Family
-incomprehensible: incomprehensibility, incomprehensibly+;comprehend: comprehended, comprehendible, comprehending, comprehends, comprehensible, comprehension, comprehensive;comprehended: uncomprehended;comprehending: uncomprehending;comprehensible: comprehensibility, comprehensibly, incomprehensible, uncomprehensible, understandably;comprehension: comprehensions, incomprehension;comprehensive: comprehensively, comprehensiveness, comprehensives, incomprehensive, noncomprehensive;comprehensively: noncomprehensively;incomprehensibility: incomprehensibilities;incomprehension: incomprehensions;incomprehensive: incomprehensively;uncomprehending: uncomprehendingly;understandably: ununderstandably
+- incomprehensible: incomprehensibility, incomprehensibly+
+- comprehend: comprehended, comprehendible, comprehending, comprehends, comprehensible, comprehension, comprehensive
+- comprehended: uncomprehended
+- comprehending: uncomprehending
+- comprehensible: comprehensibility, comprehensibly, incomprehensible, uncomprehensible, understandably
+- comprehension: comprehensions, incomprehension
+- comprehensive: comprehensively, comprehensiveness, comprehensives, incomprehensive, noncomprehensive
+- comprehensively: noncomprehensively
+- incomprehensibility: incomprehensibilities
+- incomprehension: incomprehensions
+- incomprehensive: incomprehensively
+- uncomprehending: uncomprehendingly
+- understandably: ununderstandably
 ### Examples
 - For example, Hanoi, the capital of Vietnam, is famous for its buzzing, swirling, incomprehensible traffic.
 - It’s incomprehensible — except as a parting shot of personal revenge on Benjamin Netanyahu.
@@ -20,7 +32,13 @@ When a place or your state of mind is peaceful, quiet and serene, it is tranquil
 - adj: (of a body of water) free from disturbance by heavy waves
 - adj: not agitated; without losing self-possession
 ### Family
-tranquil: tranquiler, tranquilest, tranquilising, tranquility, tranquilize, tranquillise, tranquillising, tranquillity, tranquillize, tranquilly+;tranquility: tranquilities;tranquilize: tranquilized, tranquilizer, tranquilizes, tranquilizing;tranquilizer: tranquilizers;tranquillise: tranquillised, tranquilliser, tranquillises;tranquillity: tranquillities;tranquillize: tranquillized, tranquillizes, tranquillizing
+- tranquil: tranquiler, tranquilest, tranquilising, tranquility, tranquilize, tranquillise, tranquillising, tranquillity, tranquillize, tranquilly+
+- tranquility: tranquilities
+- tranquilize: tranquilized, tranquilizer, tranquilizes, tranquilizing
+- tranquilizer: tranquilizers
+- tranquillise: tranquillised, tranquilliser, tranquillises
+- tranquillity: tranquillities
+- tranquillize: tranquillized, tranquillizes, tranquillizing
 ### Examples
 - Some neighbors and visitors oppose the project, saying it will introduce a commercial enterprise into a tranquil park.
 - Delicate, wings folded, the insects looked so tranquil, like creatures here to stay.
@@ -32,7 +50,8 @@ Discrete means separate or divided. A discrete unit is a separate part of someth
 ### Definition
 - adj: constituting a separate entity or part
 ### Family
-discrete: discretely, discreteness, discretest, indiscrete+;indiscrete: indiscretely
+- discrete: discretely, discreteness, discretest, indiscrete+
+- indiscrete: indiscretely
 ### Examples
 - The plan, which he calls a daisy drive, separates the components of any gene drive into discrete parts—a genetic version of a multistage rocket.
 - Modular tiles representing discrete districts compose the cityscape.
@@ -48,7 +67,10 @@ You can't touch this word — it is intangible. You can grasp the meaning of the
 - adj: hard to pin down or identify
 - n: assets that are saleable though not material or physical
 ### Family
-intangible: intangibility, intangibleness, intangibles, intangibly+;intangibility: intangibilities;tangibility: tangibilities;tangible: intangible, tangibility, tangibleness, tangibly
+- intangible: intangibility, intangibleness, intangibles, intangibly+
+- intangibility: intangibilities
+- tangibility: tangibilities
+- tangible: intangible, tangibility, tangibleness, tangibly
 ### Examples
 - Those are the intangibles that help build a football player.
 - What was diverse about them lay in intangibles: personality, moral compass, I.Q. — all hard to read in a formal portrait.
@@ -63,7 +85,7 @@ A covenant is an agreement between two people, or companies, or even countries. 
 - v: enter into a covenant
 - v: enter into a covenant or formal agreement
 ### Family
-covenant: covenanted, covenanting, covenants
+- covenant: covenanted, covenanting, covenants
 ### Examples
 - Still, a faint siren stirs inside of Couch Slouch that something is amiss when student-athletes renege on their part of the covenant.
 - Alien: Covenant A new planet and new dangers for Ridley Scott’s space franchise.
@@ -78,7 +100,8 @@ The most common example of an infusion you are likely to encounter in your daily
 - n: the process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water)
 - n: a solution obtained by steeping or soaking a substance (usually in water)
 ### Family
-infusion: infusions+;infuse: infused, infuses, infusing, infusion
+- infusion: infusions+
+- infuse: infused, infuses, infusing, infusion
 ### Examples
 - He travels from Beaufort to the Charleston VA Medical Center once every three weeks for an immunotherapy infusion.
 - “In 1980, after a decade of stagnation, we needed an infusion of individualism,” he wrote.
@@ -89,7 +112,10 @@ If a sign says "Swimming Prohibited," don't go for a dip. It's not allowed. To p
 ### Definition
 - v: command against
 ### Family
-prohibit: prohibited, prohibiting, prohibition, prohibitive, prohibits+;prohibition: prohibitionist, prohibitions;prohibitionist: prohibitionists;prohibitive: prohibitively
+- prohibit: prohibited, prohibiting, prohibition, prohibitive, prohibits+
+- prohibition: prohibitionist, prohibitions
+- prohibitionist: prohibitionists
+- prohibitive: prohibitively
 ### Examples
 - The measure also prohibits limits the OCE’s jurisdiction to the previous three Congresses, aligning its statute of limitations to the Ethics Committee’s.
 - The manual adds, “Cruel, inhuman and degrading treatment is prohibited.”
@@ -102,7 +128,7 @@ Are you looking for another word to describe a person who is highly skilled, ver
 - adj: having or showing knowledge and skill and aptitude
 - n: someone who is dazzlingly skilled in any field
 ### Family
-adept: adeptly, adeptness, adepts
+- adept: adeptly, adeptness, adepts
 ### Examples
 - Maybe Petersen is slightly more adept at film review, which allows the Huskies to narrow the gap with each passing day.
 - Like Janus, the Film Society of Lincoln Center is pretty adept at looking backward and forward at the same time.
@@ -124,7 +150,7 @@ If you hear you’re getting a citation, wait before bragging about it. A citati
 - n: a summons that commands the appearance of a party at a proceeding
 - n: thoroughbred that won the triple crown in 1948
 ### Family
-Citation: Citations
+- Citation: Citations
 ### Examples
 - She also wants citations reported to courts and insurance companies.
 - You may also remember him from a citation in South Carolina church mass murderer Dylann Roof’s manifesto.

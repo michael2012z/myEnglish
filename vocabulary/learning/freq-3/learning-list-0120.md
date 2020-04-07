@@ -4,7 +4,7 @@ When you're indignant, you're angry about an unfair situation. If you discovered
 ### Definition
 - adj: angered at something unjust or wrong
 ### Family
-indignant: indignanter, indignantly
+- indignant: indignanter, indignantly
 ### Examples
 - Andre is indignant about the way he is treated, but urges his angry family to let him seek justice through the court.
 - The Russian athletes were indignant, many of the rest incensed.
@@ -16,7 +16,9 @@ When you weep, you cry. If you're very empathetic, you might start to weep whene
 ### Definition
 - v: shed tears because of sadness, rage, or pain
 ### Family
-weep: weeped, weeper, weeping, weeps, wept+;weeper: weepers;weeping: weepingly, weepings
+- weep: weeped, weeper, weeping, weeps, wept+
+- weeper: weepers
+- weeping: weepingly, weepings
 ### Examples
 - During one meeting with the team’s trainers, he wept and begged for help.
 - Clark tried to look defiant, but her lip twitched, and she began to quietly weep.
@@ -31,7 +33,9 @@ Use the adjective bald to describe someone who has no hair on his head. If your 
 - adj: with no effort to conceal
 - v: grow bald; lose hair on one's head
 ### Family
-bald: balded, baldest, balding, baldly, baldness, balds+;balding: baldinger;baldness: baldnesses
+- bald: balded, baldest, balding, baldly, baldness, balds+
+- balding: baldinger
+- baldness: baldnesses
 ### Examples
 - Morales is black, bald, 6 feet tall and 175 pounds.
 - The guy who “grabbed” Lily was bald, and violent around the eyes.
@@ -49,7 +53,16 @@ When you vent, you let something out, whether it's hot air or your feelings. If 
 - v: expose to cool or cold air so as to cool or freshen
 - v: give expression or utterance to
 ### Family
-vent: vented, venter, ventilate, venting, vents+;hyperventilate: hyperventilated, hyperventilates, hyperventilating, hyperventilation;vented: unvented;venter: venters, ventral;ventilate: hyperventilate, ventilated, ventilates, ventilating, ventilation, ventilator, ventilatory;ventilated: unventilated;ventilation: ventilations;ventilator: ventilators;venting: ventings;ventral: ventrally
+- vent: vented, venter, ventilate, venting, vents+
+- hyperventilate: hyperventilated, hyperventilates, hyperventilating, hyperventilation
+- vented: unvented
+- venter: venters, ventral
+- ventilate: hyperventilate, ventilated, ventilates, ventilating, ventilation, ventilator, ventilatory
+- ventilated: unventilated
+- ventilation: ventilations
+- ventilator: ventilators
+- venting: ventings
+- ventral: ventrally
 ### Examples
 - It’s important not to place plants near air-conditioning or heating vents.
 - On one side was Mr. Kerry, venting years of frustration on behalf of President Obama and himself at what they consider Israeli intransigence.
@@ -63,7 +76,8 @@ A federation is an organization made up of smaller groups, parties, or states. T
 - n: a union of political organizations
 - n: the act of constituting a political unity out of a number of separate states or colonies or provinces so that each member retains the management of its internal affairs
 ### Family
-federation: federations+;federate: federated, federates, federating, federation
+- federation: federations+
+- federate: federated, federates, federating, federation
 ### Examples
 - The FIS also said it was working with the Russian Snowboard Federation to look “for possible replacement competitions in Russia on the same dates.”
 - The monthly purchasing managers’ index by the Chinese Federation of Logistics and Purchasing was 51.4 in December, the second highest level of 2016.
@@ -75,7 +89,7 @@ Use the adjective marital to describe something that relates to a marriage. You 
 ### Definition
 - adj: of or relating to the state of marriage
 ### Family
-marital: maritally, premarital
+- marital: maritally, premarital
 ### Examples
 - “I can’t remember the last time I cared so much about the marital prospects of a fictional character,” A. O. Scott wrote in The Times.
 - In Seattle a misdemeanor malicious harassment law extends those protections to include gender identity, homelessness, marital status, political ideology, age and parental status.
@@ -104,7 +118,9 @@ A rack is a device meant to hold something, or several things. A coat rack has h
 - v: run before a gale
 - v: draw off from the lees
 ### Family
-rack: racked, racker, racking, racks+;racker: rackers;racking: rackingly
+- rack: racked, racker, racking, racks+
+- racker: rackers
+- racking: rackingly
 ### Examples
 - The overtime racked up by Community Colleges of Spokane alone is more than $500,000 — and growing.
 - This is followed by macaroni and cheese, BBQ beans and a rack of ribs that is pretty much larger than I am.
@@ -116,7 +132,9 @@ Momentous describes an important event or moment in time. It is used for a time 
 ### Definition
 - adj: of very great significance
 ### Family
-momentous: momentously, momentousness+;moment: momentaneous, momentary, momentous, moments;momentary: momentarily
+- momentous: momentously, momentousness+
+- moment: momentaneous, momentary, momentous, moments
+- momentary: momentarily
 ### Examples
 - The National Defense Authorization Act, a year-end policy bill encompassing virtually every aspect of the U.S. military, contained two provisions with potentially momentous consequences.
 - It represents a momentous victory for President Bashar Assad and a crushing defeat for Syria's opposition, which will struggle to forge a way forward.
@@ -128,7 +146,7 @@ A fetus is a mammal before it's born. Once upon a time, you started as an embryo
 ### Definition
 - n: an unborn or unhatched vertebrate in the later stages of development showing the main recognizable features of the mature animal
 ### Family
-fetus: fetuses
+- fetus: fetuses
 ### Examples
 - The bills OK’d Wednesday bar physicians and their associates from knowingly benefiting financially from or being compensated for an embryo, fetus or neonate.
 - The mosquito-borne Zika virus exploded in Brazil, where it was found to cause birth defects in the fetuses of infected women, especially microcephaly.
@@ -141,7 +159,10 @@ An inspector is someone who looks into, observes, and examines things — it's a
 - n: an investigator who observes carefully
 - n: a high ranking police officer
 ### Family
-inspector: inspectors, inspectorship+;inspect: inspected, inspecting, inspection, inspector, inspects;inspection: inspections;inspectorship: inspectorships
+- inspector: inspectors, inspectorship+
+- inspect: inspected, inspecting, inspection, inspector, inspects
+- inspection: inspections
+- inspectorship: inspectorships
 ### Examples
 - Inspectors detect the larvae by looking for the powdery product of their wood boring, which looks like sawdust.
 - Inspector Thrower said Mr. Gronych is from Slovenia and is in Canada on a work visa.

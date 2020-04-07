@@ -4,7 +4,7 @@ Ambient is an adjective used to describe an aspect of the environment that compl
 ### Definition
 - adj: completely enveloping
 ### Family
-ambient: ambience
+- ambient: ambience
 ### Examples
 - The ambient air is Newark’s, but filtered, ventilated, heated, and cooled.
 - In my little corner of Brooklyn, ambient feminism appeared to influence the way fashionable young women dressed.
@@ -23,7 +23,10 @@ A beetle creeps along the ground. Moving slowly and silently, it creeps up on yo
 - n: someone unpleasantly strange or eccentric
 - n: a pen that is fenced so that young animals can enter but adults cannot
 ### Family
-creep: creeped, creeper, creeping, creeps, creepy, crept+;creeper: creepers;creeping: creepings;creepy: creepier, creepiest, creepily, creepiness
+- creep: creeped, creeper, creeping, creeps, creepy, crept+
+- creeper: creepers
+- creeping: creepings
+- creepy: creepier, creepiest, creepily, creepiness
 ### Examples
 - “That’s where the mindfulness creeps in,” he said.
 - The downturn for Nebraska farms and ranches crept into small town main streets across the state.
@@ -36,7 +39,7 @@ An alley is a narrow street with walls or buildings on both sides, like the dark
 - n: a narrow street with walls on both sides
 - n: a lane down which a bowling ball is rolled toward pins
 ### Family
-alley: alleys
+- alley: alleys
 ### Examples
 - Police say Kedarie was found in an alley with several gunshot wounds.
 - The entrance was off a back alley, where donations of $10 were collected.
@@ -52,7 +55,9 @@ Adolescent is just a fancy word for teenager — someone who is no longer a chil
 - adj: displaying or suggesting a lack of maturity
 - adj: relating to or peculiar to or suggestive of an adolescent
 ### Family
-adolescent: adolescence, adolescently, adolescents, preadolescent+;adolesce: adolescent, adolescing;adolescence: adolescences
+- adolescent: adolescence, adolescently, adolescents, preadolescent+
+- adolesce: adolescent, adolescing
+- adolescence: adolescences
 ### Examples
 - But the next morning, he was woken up by that recurring train whistle, which is somehow connected to his adolescent trauma.
 - For school-age children and adolescents, the academy calls for balancing media with other healthy behaviors.
@@ -68,7 +73,7 @@ adolescent: adolescence, adolescently, adolescents, preadolescent+;adolesce: ado
 - n: a republic in western Africa on the Atlantic; formerly a French colony; achieved independence from France in 1958
 - n: (ethnic slur) offensive term for a person of Italian descent
 ### Family
-Guinea: Guineas
+- Guinea: Guineas
 ### Examples
 - Oscar, the class’s guinea pig, munched contentedly on his guinea pig chow.
 - Prices are kept in line in part through affordable ingredients like guinea hen, roasted and confitted in a memorable main course.
@@ -85,7 +90,9 @@ If something is full of tiny holes or openings, you can describe it as porous. A
 - adj: allowing passage in and out
 - adj: able to absorb fluids
 ### Family
-porous: nonporous, porosity, porousness+;pore: pored, pores, poring, porous;porosity: porosities
+- porous: nonporous, porosity, porousness+
+- pore: pored, pores, poring, porous
+- porosity: porosities
 ### Examples
 - It was nowhere to be found against the Rockets, who shredded the Clippers’ porous defense to shoot 55.6% from the field.
 - Some Russian media pointed at lax security at Chkalovsky outside Moscow where the plane was based, saying that it’s quite porous compared to civilian airports.
@@ -99,7 +106,8 @@ If you're a diabetic, you are a person who suffers from the disease of diabetes.
 - adj: suffering from diabetes
 - adj: of or relating to or causing diabetes
 ### Family
-diabetic: antidiabetic, diabetics+;antidiabetic: antidiabetics
+- diabetic: antidiabetic, diabetics+
+- antidiabetic: antidiabetics
 ### Examples
 - The emphasis on prevention of diabetic eye disease starts with regular care of the disease, he said.
 - He is a Type 1 diabetic who specializes in treating diabetes.
@@ -123,7 +131,9 @@ Your lap is the top of your thighs when you sit down, where your cat might sit. 
 - n: touching with the tongue
 - v: move with or cause to move with a whistling or hissing sound
 ### Family
-lap: lapful, lapped, lapping, laps+;lapful: lapfuls;lapping: lappings
+- lap: lapful, lapped, lapping, laps+
+- lapful: lapfuls
+- lapping: lappings
 ### Examples
 - “It’s amazing,” Elliott said as she watched her mom do laps around the 135-foot mini track inside the physical therapy gym.
 - We rented a car for our five-day stay and did not need GPS; a map in the lap worked fine.
@@ -136,7 +146,8 @@ If three friends are out having dinner, and one disappears when the check comes,
 - adj: out of proportion
 - adj: not proportionate
 ### Family
-disproportionate: disproportionately+;proportionate: disproportionate, proportionately, proportionateness
+- disproportionate: disproportionately+
+- proportionate: disproportionate, proportionately, proportionateness
 ### Examples
 - A disproportionate number of these are people of color.
 - The appeals court ruled the relatively modest fine wasn’t a disproportionate penalty compared with the seriousness of her crime.

@@ -4,7 +4,9 @@
 - adj: marked by or given to doubt
 - adj: denying or questioning the tenets of especially a religion
 ### Family
-sceptical: sceptically, scepticism+;sceptic: sceptical, sceptics;scepticism: scepticisms
+- sceptical: sceptically, scepticism+
+- sceptic: sceptical, sceptics
+- scepticism: scepticisms
 ### Examples
 - There are some innocuous or mildly sceptical posters, and even one or two Democrats.
 - Merkel is the Europe’s most powerful politician, personally sceptical of Putin and an advocate of Russian sanctions.
@@ -22,7 +24,8 @@ sceptical: sceptically, scepticism+;sceptic: sceptical, sceptics;scepticism: sce
 - v: load or cover with stacks
 - v: arrange the order of so as to increase one's winning chances
 ### Family
-stack: stacked, stacker, stacking, stacks+;stacker: stackers
+- stack: stacked, stacker, stacking, stacks+
+- stacker: stackers
 ### Examples
 - Leaving him with a mouthful of condemned teeth that would likely deteriorate merely stacked the odds against him.
 - The building’s ceiling allowed for grow tables to be stacked twelve layers tall, to a height of thirty-six feet, in rows eighty feet long.
@@ -40,7 +43,7 @@ Someone who's handy is skilled and clever, especially when it comes to making or
 - adj: easy to reach
 - n: United States blues musician who transcribed and published traditional blues music (1873-1958)
 ### Family
-Handy: Handier, Handies, Handiest, Handys
+- Handy: Handier, Handies, Handiest, Handys
 ### Examples
 - Built in the 19th Century around a private garden, it features stucco white facades and is handy for Knightsbridge and Chelsea.
 - That’s a handy ability for a mother tending to an infant.
@@ -67,7 +70,7 @@ You know when you've done something really wrong, and the person who gets you in
 - n: the fleshy part of the human body that you sit on
 - n: United States concert violinist (born in Russia in 1920)
 ### Family
-Stern: Sterns
+- Stern: Sterns
 ### Examples
 - The many jurisdictions, combined with a lack of legal precedent, present a stern challenge to athletes who want the prize money they are owed.
 - The coaches were stern, urging the players not to back down and to hit anyone who hit them.
@@ -85,7 +88,8 @@ An abrupt decision is one you make suddenly. An abrupt halt is one the Road Runn
 - adj: surprisingly and unceremoniously brusque in manner
 - adj: extremely steep
 ### Family
-abrupt: abruptedly, abrupter, abruptest, abruptly, abruptness+;abruptness: abruptnesses
+- abrupt: abruptedly, abrupter, abruptest, abruptly, abruptness+
+- abruptness: abruptnesses
 ### Examples
 - Venezuelan President Nicolas Maduro declared the abrupt cash overhaul an economic triumph, claiming people were racing to deposit the old notes into banks.
 - He described the company’s change as an “evolution,” not an abrupt shift.
@@ -97,7 +101,7 @@ abrupt: abruptedly, abrupter, abruptest, abruptly, abruptness+;abruptness: abrup
 - n: flesh of chickens or turkeys or ducks or geese raised for food
 - n: a domesticated gallinaceous bird thought to be descended from the red jungle fowl
 ### Family
-poultry: poultries
+- poultry: poultries
 ### Examples
 - Now, they raise grass-fed cattle, pastured poultry and pastured hogs.
 - Packaging for raw meat, poultry or seafood is also exempt.
@@ -110,7 +114,7 @@ A clause can be a scary thing. Whether it is a stipulation in a contract or a gr
 - n: a separate section of a legal document (as a statute or contract or will)
 - n: (grammar) an expression including a subject and predicate but not constituting a complete sentence
 ### Family
-clause: clauses
+- clause: clauses
 ### Examples
 - New laws often include clauses with extraterritorial reach.
 - He says the term of the clause was reduced to only a few months.
@@ -125,7 +129,9 @@ If you relinquish something, you let it go. You relinquish control of the army w
 - v: part with a possession or right
 - v: release, as from one's grip
 ### Family
-relinquish: relinquished, relinquishes, relinquishing, relinquishment+;relinquishing: relinquishings;relinquishment: relinquishments
+- relinquish: relinquished, relinquishes, relinquishing, relinquishment+
+- relinquishing: relinquishings
+- relinquishment: relinquishments
 ### Examples
 - In some counties, state legislators effectively control central committees and are reluctant to relinquish appointment power.
 - If I were Israel, I would not relinquish control of the West Bank borders — for now.
@@ -143,7 +149,7 @@ This adjective means the opposite of playful or drunk. When attending a funeral,
 - v: cause to become sober
 - v: become more realistic
 ### Family
-sober: sobered, soberer, soberest, sobering, soberingly, soberly, soberness, sobers
+- sober: sobered, soberer, soberest, sobering, soberingly, soberly, soberness, sobers
 ### Examples
 - Eventually, he sobered up and decided to grow up but no matter how many jobs he applied for, no one wanted to hire him.
 - Despite its subject matter, or perhaps because of it, “Wonderland” is a sober, sturdy book.
@@ -157,7 +163,9 @@ A lieutenant is a commissioned officer in the armed forces or the police who can
 - n: an officer in a police force
 - n: an assistant with power to act when his superior is absent
 ### Family
-lieutenant: lieutenancy, lieutenants, sublieutenant+;lieutenancy: lieutenancies;sublieutenant: sublieutenants
+- lieutenant: lieutenancy, lieutenants, sublieutenant+
+- lieutenancy: lieutenancies
+- sublieutenant: sublieutenants
 ### Examples
 - In 1966, he was elected lieutenant governor, defeating three opponents in the Democratic primary without a runoff.
 - “I am writing to you today concerning your public support for the candidacy of Sen. Bryce Reeves to be our next lieutenant governor,” it begins.

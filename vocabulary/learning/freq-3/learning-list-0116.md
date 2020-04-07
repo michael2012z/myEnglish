@@ -7,7 +7,7 @@ A mortar is a bowl-shaped container that you can grind things in using a pestle.
 - v: plaster with mortar
 - n: a muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range
 ### Family
-mortar: mortared, mortaring, mortars
+- mortar: mortared, mortaring, mortars
 ### Examples
 - The older woman is instructing the younger one, who is lost in thought in the midst of crushing garlic with a copper mortar and pestle.
 - But he says too often people who discover old grenades or a mortar shell will haul it to the police station.
@@ -20,7 +20,7 @@ mortar: mortared, mortaring, mortars
 - v: chop or split with an ax
 - v: terminate
 ### Family
-axe: axed, axing
+- axe: axed, axing
 ### Examples
 - If you get axed from the EPA, don’t worry, the Ministry of Truth is hiring!
 - Obama spoke in an interview with Democratic political operative and former senior adviser David Axelrod for his The Axe Reports podcast.
@@ -33,7 +33,8 @@ axe: axed, axing
 - adj: relating to or produced by or consisting of volcanoes
 - adj: explosively unstable
 ### Family
-volcanic: volcanically, volcanism+;volcano: volcanic, volcanoes, volcanos
+- volcanic: volcanically, volcanism+
+- volcano: volcanic, volcanoes, volcanos
 ### Examples
 - Hawaii Volcanoes National Park said Monday no one was injured when the lava delta collapsed and sent showers of volcanic rock into the air.
 - The Azores are an archipelago of nine volcanic islands located about 900 miles west of Portugal.
@@ -47,7 +48,10 @@ The effort put into something and the pay-off when the work is over is called at
 - n: an ability that has been acquired by training
 - n: arrival at a new stage
 ### Family
-attainment: attainments+;attain: attainable, attained, attaining, attainment, attains;attainable: attainability, attainableness, unattainable;unattainable: unattainableness, unattainably
+- attainment: attainments+
+- attain: attainable, attained, attaining, attainment, attains
+- attainable: attainability, attainableness, unattainable
+- unattainable: unattainableness, unattainably
 ### Examples
 - Running year-round in four-week sessions, the program consists of 12 levels of language attainment, with components including grammar and vocabulary, essay writing, and conversational English.
 - Even the attainment of joy in the finale is preceded by a terrifying outburst of sonic chaos.
@@ -63,7 +67,13 @@ Your reason for doing something is your motive. Your motive to go to school ever
 - n: a theme that is repeated or elaborated in a piece of music
 - n: a design or figure that consists of recurring shapes or colors, as in architecture or decoration
 ### Family
-motive: motivate, motiveless, motively, motives, motivity+;motivate: motivated, motivates, motivating, motivation, motivator;motivated: unmotivated;motivation: motivational, motivations;motivational: motivationally;motivator: motivators;motiveless: motivelessly
+- motive: motivate, motiveless, motively, motives, motivity+
+- motivate: motivated, motivates, motivating, motivation, motivator
+- motivated: unmotivated
+- motivation: motivational, motivations
+- motivational: motivationally
+- motivator: motivators
+- motiveless: motivelessly
 ### Examples
 - In the real world, meanwhile, he soon realizes that he is being pursued by ruthless people whose motives are not immediately clear.
 - The motive for the attack is not clear.
@@ -80,7 +90,15 @@ To differentiate is to identify the differences between things, to discriminate 
 - v: evolve so as to lead to a new species or develop in a way most suited to the environment
 - v: calculate a derivative; take the derivative
 ### Family
-differentiate: dedifferentiate, differentiable, differentiated, differentiates, differentiating, differentiation, differentiator+;differ: differed, different, differing, differs;difference: differences, differential, differentiate;different: difference, differently, indifferent;differential: differentially, differentials;differentiated: dedifferentiated, undifferentiated;differentiation: dedifferentiation, differentiations;indifference: indifferences;indifferent: indifference, indifferenter, indifferently
+- differentiate: dedifferentiate, differentiable, differentiated, differentiates, differentiating, differentiation, differentiator+
+- differ: differed, different, differing, differs
+- difference: differences, differential, differentiate
+- different: difference, differently, indifferent
+- differential: differentially, differentials
+- differentiated: dedifferentiated, undifferentiated
+- differentiation: dedifferentiation, differentiations
+- indifference: indifferences
+- indifferent: indifference, indifferenter, indifferently
 ### Examples
 - “Right now, Charles Town needs to be looking to differentiate itself from the Maryland casinos including MGM National Harbor, located outside of Washington, D.C.,”
 - MaxBack is like Gazelle, but differentiates itself by accepting a wider variety of gadgets.
@@ -93,7 +111,8 @@ A transfusion is when doctors put blood into a patient's vein. An accident victi
 - n: the introduction of blood or blood plasma into a vein or artery
 - n: the action of pouring a liquid from one vessel to another
 ### Family
-transfusion: transfusions+;transfuse: transfused, transfuses, transfusing, transfusion
+- transfusion: transfusions+
+- transfuse: transfused, transfuses, transfusing, transfusion
 ### Examples
 - And in between, I deal with blood transfusions.
 - He received blood transfusions to be strong enough to travel to some games, and returned to the hospital after others.
@@ -105,7 +124,13 @@ transfusion: transfusions+;transfuse: transfused, transfuses, transfusing, trans
 - adj: beyond normal limits
 - adj: not reasonable; not showing good judgment
 ### Family
-unreasonable: unreasonably+;reason: reasonable, reasoned, reasoner, reasoning, reasonless, reasons, unreason;reasonable: reasonableness, reasonabler, reasonablest, reasonably;reasoner: reasoners;reasoning: reasoningly, reasonings, unreasoning;unreason: unreasonable, unreasons;unreasoning: unreasoningly
+- unreasonable: unreasonably+
+- reason: reasonable, reasoned, reasoner, reasoning, reasonless, reasons, unreason
+- reasonable: reasonableness, reasonabler, reasonablest, reasonably
+- reasoner: reasoners
+- reasoning: reasoningly, reasonings, unreasoning
+- unreason: unreasonable, unreasons
+- unreasoning: unreasoningly
 ### Examples
 - As her lawyer, Foster replied, “A performance marker is not unreasonable.”
 - Somehow, the whole, vast, rowdy, unreasonable sport is fairly Saban-Meyer.
@@ -119,7 +144,15 @@ Solvent’s meaning changes pretty drastically depending on its part of speech. 
 - n: a liquid substance capable of dissolving other substances
 - n: a statement that solves a problem or explains how to solve the problem
 ### Family
-solvent: insolvent, solvency, solvently, solvents+;insolvency: insolvencies;insolvent: insolvency, insolvents;solvability: unsolvability;solvable: insolvable, solvability, unsolvable;solve: solvable, solved, solvent, solver, solves, solving;solved: unsolved;solvency: solvencies;solver: solvers
+- solvent: insolvent, solvency, solvently, solvents+
+- insolvency: insolvencies
+- insolvent: insolvency, insolvents
+- solvability: unsolvability
+- solvable: insolvable, solvability, unsolvable
+- solve: solvable, solved, solvent, solver, solves, solving
+- solved: unsolved
+- solvency: solvencies
+- solver: solvers
 ### Examples
 - My goal is to stay solvent through the Super Bowl, then throw myself at the mercy of the courts.
 - A precautionary recapitalization is a type of state intervention in a struggling bank that is still solvent.
@@ -134,7 +167,8 @@ The adjective delinquent describes something that is past due or people who are 
 - adj: guilty of a misdeed
 - adj: past due; not paid at the scheduled time
 ### Family
-delinquent: delinquency, delinquents+;delinquency: delinquencies
+- delinquent: delinquency, delinquents+
+- delinquency: delinquencies
 ### Examples
 - Congress considered bills to prevent the IRS from hiring or retaining people delinquent in their tax payments.
 - Others refused to discuss helping a borrower until they were 90 days delinquent.

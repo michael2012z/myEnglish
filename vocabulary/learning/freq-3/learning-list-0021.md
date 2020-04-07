@@ -4,7 +4,12 @@ Movie stars look glamorous when they walk down the red carpet in their designer 
 ### Definition
 - adj: having an air of allure, romance and excitement
 ### Family
-glamorous: glamorously, unglamorous+;glamor: glamorise, glamorize, glamorous, glamors;glamorise: glamorisation;glamorization: glamorizations;glamorize: glamorization, glamorized, glamorizes, glamorizing;unglamorous: unglamorously
+- glamorous: glamorously, unglamorous+
+- glamor: glamorise, glamorize, glamorous, glamors
+- glamorise: glamorisation
+- glamorization: glamorizations
+- glamorize: glamorization, glamorized, glamorizes, glamorizing
+- unglamorous: unglamorously
 ### Examples
 - Glamorous Cypress Point, Alister Mackenzie's masterpiece woven through cypress, sand dunes and jagged coastline, wasn't always the darling of America's 100 Greatest.
 - Georgia Tech beat the Tar Heels three days after struggling to beat one of their less glamorous neighbors: North Carolina A&T.
@@ -17,7 +22,7 @@ A celebrity is a very famous person. If you single-handedly save an entire famil
 - n: the state or quality of being widely honored and acclaimed
 - n: a widely known person
 ### Family
-celebrity: celebrities
+- celebrity: celebrities
 ### Examples
 - Louis is not the first celebrity with an app, and the sales and communication functions of his app are not particularly unique.
 - Nearly two-thirds of the dead in the upmarket club, which is frequented by local celebrities, were foreigners, Turkey’s Anadolu Agency said.
@@ -34,7 +39,8 @@ Making small talk is not much fun for a shy person. Shy means being nervous or r
 - n: a quick throw
 - adj: short
 ### Family
-shy: shied, shier, shies, shiest, shyed, shyer, shyest, shying, shyly, shyness, shys+;shyness: shynesses
+- shy: shied, shier, shies, shiest, shyed, shyer, shyest, shying, shyly, shyness, shys+
+- shyness: shynesses
 ### Examples
 - Butler was a point shy of his career high, which he got Jan. 14, 2016 at Philadelphia.
 - By some counts the states are a half-dozen shy of the number needed to force a convention on that subject.
@@ -51,7 +57,8 @@ A notch is a small cut or nick in something. People make notches to keep track o
 - v: cut or make a notch into
 - v: notch a surface to record something
 ### Family
-notch: notched, notches, notching+;notched: unnotched
+- notch: notched, notches, notching+
+- notched: unnotched
 ### Examples
 - Eight goals were selected for a public vote with Mkhitaryan's effort - also against Sunderland, on 26 December - notching up 39.9%.
 - Kansas State: The Wildcats notched their first win in a conference opener since defeating Oklahoma State in 2014.
@@ -65,7 +72,8 @@ Something nasty is filthy, foul, dirty, or awful. Nasty isn't a word for anythin
 - adj: exasperatingly difficult to handle or circumvent
 - adj: characterized by obscenity
 ### Family
-nasty: nastier, nastiest, nastily, nastiness+;nastiness: nastinesses
+- nasty: nastier, nastiest, nastily, nastiness+
+- nastiness: nastinesses
 ### Examples
 - The bullying remained, but the joy faded, and the comedy was often reduced to nasty zingers and schoolyard-quality taunts.
 - This timely novel captures every character in the worst light, and the grudge matches among Brooklyn’s liberal parentocracy are nastier than any playground brawl.
@@ -91,7 +99,11 @@ A blast is an explosion, or a sudden sharp noise. When you blast someone, you ei
 - n: a very long fly ball
 - v: shrivel or wither or mature imperfectly
 ### Family
-blast: blasted, blaster, blasting, blasts, counterblast+;blasted: blastedest, blastedly;blaster: blasters;blasting: blastingly;counterblast: counterblasts
+- blast: blasted, blaster, blasting, blasts, counterblast+
+- blasted: blastedest, blastedly
+- blaster: blasters
+- blasting: blastingly
+- counterblast: counterblasts
 ### Examples
 - DJs blast deafening music in each room, the beat so loud it rattles your sternum and lungs.
 - Monday's blast in Sadr City hit a square where day laborers typically gather.
@@ -104,7 +116,8 @@ An instinct is something you don't need to learn — it happens naturally, witho
 - n: inborn pattern of behavior often responsive to specific stimuli
 - adj: (followed by `with')deeply filled or permeated
 ### Family
-instinct: instinctive, instinctly, instincts+;instinctive: instinctively
+- instinct: instinctive, instinctly, instincts+
+- instinctive: instinctively
 ### Examples
 - “He is definitely playing with a killer instinct,” McAdoo said.
 - “Most of the instinct stuff is still the same,” Bowles said.
@@ -115,7 +128,7 @@ instinct: instinctive, instinctly, instincts+;instinctive: instinctively
 ### Definition
 - n: the bony skeleton of the head of vertebrates
 ### Family
-skull: skulls
+- skull: skulls
 ### Examples
 - It’s like seeing Harrison Ford in a suit and tie in “Indiana Jones and the Kingdom of the Crystal Skull.”
 - She suffered a skull fracture and broke her legs.
@@ -128,7 +141,7 @@ A balcony is a porch or platform that extends from an upper floor of a building.
 - n: a platform projecting from the wall of a building and surrounded by a balustrade or railing or parapet
 - n: an upper floor projecting from the rear over the main floor in an auditorium
 ### Family
-balcony: balconies
+- balcony: balconies
 ### Examples
 - A wreath adorns the balcony outside the room, where he was felled by a bullet.
 - His doves, Divinity and Majesty, flutter in an ornate white cage on the viewing balcony above.
@@ -152,7 +165,7 @@ A ward is a group of rooms or a section in a hospital or prison; in a hospital, 
 - n: English writer of novels who was an active opponent of the women's suffrage movement (1851-1920)
 - n: English economist and conservationist (1914-1981)
 ### Family
-Ward: Wards
+- Ward: Wards
 ### Examples
 - He’d like to see forces deployed in Poland and the Baltic States to ward off Russian hostilities.
 - To ward off atrophy, buy a drawer organizer, suggested Ms. Lowenheim, who uses expandable drawer organizers from Staples in her own home.

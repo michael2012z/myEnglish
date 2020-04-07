@@ -8,7 +8,7 @@ A torch is a handheld light. Although flashlights are sometimes called "torches,
 - v: burn maliciously, as by arson
 - n: tall-stalked very woolly mullein with densely packed yellow flowers; ancient Greeks and Romans dipped the stalks in tallow for funeral torches
 ### Family
-torch: torched, torches, torching
+- torch: torched, torches, torching
 ### Examples
 - Organisers said there were "limited torches and wristbands" for the Torchlight Procession.
 - Little Torch Key is about 30 miles north of Key West.
@@ -23,7 +23,7 @@ A spear consists of a long shaft that has a sharp point at one end. You might us
 - v: pierce with a spear
 - v: thrust up like a spear
 ### Family
-spear: speared, spearing, spears
+- spear: speared, spearing, spears
 ### Examples
 - Mr. Cakautavatava described the old days of hunting turtles in a fiberglass boat and spearing them through the shell.
 - The third, a Zulu spear, and so on.
@@ -35,7 +35,7 @@ As any fan of Star Trek knows, “live long and prosper” is good advice. The v
 ### Definition
 - v: make steady progress; be at the high point in one's career or reach a high point in historical significance or importance
 ### Family
-prosper: prospered, prospering, prospers
+- prosper: prospered, prospering, prospers
 ### Examples
 - To care for your fellow creatures is to want them to be happy and prosper, to want to change what is causing them to suffer.
 - We do not root for Mr. Trump to fail; we root for the nation to succeed and prosper.
@@ -48,7 +48,8 @@ The adjective shabby describes something that is threadbare or worn out. Your la
 - adj: showing signs of wear and tear
 - adj: mean and unworthy and despicable
 ### Family
-shabby: shabbier, shabbiest, shabbily, shabbiness+;shabbiness: shabbinesses
+- shabby: shabbier, shabbiest, shabbily, shabbiness+
+- shabbiness: shabbinesses
 ### Examples
 - Once merrily decorated during the holidays, Caracas looks shabby.
 - And despite not winning any majors, Day wasn’t too shabby in golf’s four biggest events.
@@ -59,7 +60,7 @@ shabby: shabbier, shabbiest, shabbily, shabbiness+;shabbiness: shabbinesses
 ### Definition
 - n: edge of a way or road or path
 ### Family
-roadside: roadsides
+- roadside: roadsides
 ### Examples
 - Edward O’Grady, stopped a truck at a roadside checkpoint and were killed in an ambush.
 - Edward O’Grady, were killed in an ambush after stopping a truck at a roadside checkpoint.
@@ -73,7 +74,7 @@ A hymn is a religious song, especially one praising God. People often sing hymns
 - v: sing a hymn
 - v: praise by singing a hymn
 ### Family
-hymn: hymned, hymning, hymns
+- hymn: hymned, hymning, hymns
 ### Examples
 - A cube-shaped, see-through facade that encases the orb serves as a visual hymn to the European Union’s motto, “United in diversity,” Mr. Samyn said.
 - They are rooted in archaic chants, hymns, and chorales.
@@ -86,7 +87,11 @@ If you’ve been trying to get anyone and everyone to go see your friend’s ban
 - n: someone who is an active supporter and advocate
 - n: a sponsor who books and stages public entertainments
 ### Family
-promoter: promoters+;promote: promoted, promoter, promotes, promoting, promotion, promotive;promotion: promotional, promotions;promotional: promotionally;promotive: promotively
+- promoter: promoters+
+- promote: promoted, promoter, promotes, promoting, promotion, promotive
+- promotion: promotional, promotions
+- promotional: promotionally
+- promotive: promotively
 ### Examples
 - King, the flamboyant boxing promoter who hyped Mike Tyson’s 1980s fights, was also saluted by Trump as “a phenomenal person” despite a conviction for manslaughter.
 - His father was a dance promoter in Liverpool.
@@ -98,7 +103,9 @@ promoter: promoters+;promote: promoted, promoter, promotes, promoting, promotion
 - v: to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
 - n: a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement
 ### Family
-grin: grinned, grinner, grinning, grins+;grinner: grinners;grinning: grinnings
+- grin: grinned, grinner, grinning, grins+
+- grinner: grinners
+- grinning: grinnings
 ### Examples
 - Sideline grins may not exceed an upturn of more than 0.3 centimeters.
 - "Stereotypical Shanghai women are fierce and loud," she says with a grin.
@@ -116,7 +123,7 @@ A chorus is a group of singers or that catchy part of a song that repeats severa
 - v: sing in a choir
 - v: utter in unison
 ### Family
-chorus: chorused, choruses, chorusing, chorussed, chorussing
+- chorus: chorused, choruses, chorusing, chorussed, chorussing
 ### Examples
 - “Night of intoxication, O mad night!” the chorus sings.
 - After the very last chorus, we dropped the sheets and were completely naked holding our groin areas.
@@ -131,7 +138,8 @@ If you are earnest, it means you are serious about something. Your parents might
 - adj: not distracted by anything unrelated to the goal
 - n: something of value given by one person to another to bind a contract
 ### Family
-earnest: earnester, earnestest, earnestly, earnestness, earnests+;earnestness: earnestnesses, earnestnesss
+- earnest: earnester, earnestest, earnestly, earnestness, earnests+
+- earnestness: earnestnesses, earnestnesss
 ### Examples
 - The agency urged drivers to leave early and travel through the passes before the storm begins in earnest. 
 - The idea for a Second Avenue line was first floated in the 1920s, but after decades of delays, construction finally began in earnest in 2007.

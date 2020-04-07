@@ -5,7 +5,7 @@ Think of a repository as a storehouse, a place where things are kept until neede
 - n: a burial vault (usually for some famous person)
 - n: a person to whom a secret is entrusted
 ### Family
-repository: repositories
+- repository: repositories
 ### Examples
 - The museum will not, as many assume, be a repository for “Star Wars” memorabilia.
 - “A right-wing demagogue in charge of the world’s most influential repository of democratic values,” wrote Financial Times columnist Martin Wolf, “is a devastating fact.”
@@ -18,7 +18,11 @@ If you think the Queen of England is just the coolest thing ever, then you like 
 - n: a nation's ruler or head of state usually by hereditary right
 - n: large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed
 ### Family
-monarch: monarchal, monarches, monarchical, monarchs, monarchy+;monarchic: monarchically;monarchism: monarchist;monarchist: monarchists;monarchy: monarchic, monarchies, monarchism
+- monarch: monarchal, monarches, monarchical, monarchs, monarchy+
+- monarchic: monarchically
+- monarchism: monarchist
+- monarchist: monarchists
+- monarchy: monarchic, monarchies, monarchism
 ### Examples
 - The monarch, who became king in 2004, is largely respected by the public and seen as being above politics.
 - Last year, an anonymous letter by a nephew of the monarch was published online, calling on his uncles to remove their brother, King Salman.
@@ -34,7 +38,8 @@ A nucleus is often called the brain, or control center, of a eukaryotic cell (th
 - n: the central structure of the lens that is surrounded by the cortex
 - n: (astronomy) the center of the head of a comet; consists of small solid particles of ice and frozen gas that vaporizes on approaching the sun to form the coma and tail
 ### Family
-nucleus: nucleate, nuclei, nucleuses+;nucleate: multinucleate, nucleated, nucleating
+- nucleus: nucleate, nuclei, nucleuses+
+- nucleate: multinucleate, nucleated, nucleating
 ### Examples
 - That is what he used as the nucleus of his business.
 - The methods are intended to fix problems linked to mitochondria, the energy-producing structures outside a cell’s nucleus.
@@ -49,7 +54,7 @@ A tract is a large, open piece of land — like that tract of farmland you bough
 - n: a bundle of myelinated nerve fibers following a path through the brain
 - n: a brief treatise on a subject of interest; published in the form of a booklet
 ### Family
-tract: tracts
+- tract: tracts
 ### Examples
 - Its rabbi, Zalman Melamed, wrote a tract calling on soldiers serving in the Israel Defense Forces to disobey orders to evacuate “Jewish settlements in Israel.”
 - The gut’s microbiome — the thousands of strains of bacteria in the intestinal tract — changes, too, immediately and permanently.
@@ -63,7 +68,9 @@ Something that's exterior is on the outside of some structure or object. An exte
 - n: the outer side or surface of something
 - n: the region that is outside of something
 ### Family
-exterior: exteriorise, exteriorize, exteriorly, exteriors+;exteriorise: exteriorisation;exteriorize: exteriorization, exteriorized
+- exterior: exteriorise, exteriorize, exteriorly, exteriors+
+- exteriorise: exteriorisation
+- exteriorize: exteriorization, exteriorized
 ### Examples
 - Planned work on the 161-year-old home includes mechanical system upgrades, landscape and grounds improvements, security enhancements and interior and exterior restoration work.
 - From the exterior, the building possesses none of Prince’s flash.
@@ -81,7 +88,8 @@ Fusion is the process of combining two or more things together into one. If your
 - n: correction of an unstable part of the spine by joining two or more vertebrae; usually done surgically but sometimes done by traction or immobilization
 - n: a nuclear reaction in which nuclei combine to form more massive nuclei with the simultaneous release of energy
 ### Family
-fusion: fusions+;fuse: fused, fuses, fusible, fusing, fusion
+- fusion: fusions+
+- fuse: fused, fuses, fusible, fusing, fusion
 ### Examples
 - This education seemed to be conducted via a vein that formed between the naive and worldly slime molds after two or three hours of fusion.
 - Few other drummers were as integral to the development of fusion as Mr. Mouzon, who combined volcanic intensity with a brisk attunement to dynamic flow.
@@ -96,7 +104,11 @@ When you inhibit something, you block it or hold it back. If you put plants in a
 - v: to put down by force or authority
 - v: control and refrain from showing; of emotions, desires, impulses, or behavior
 ### Family
-inhibit: inhibited, inhibiting, inhibition, inhibitor, inhibitory, inhibits+;inhibited: uninhibited;inhibition: inhibitions;inhibitor: inhibitors;uninhibited: uninhibitedly
+- inhibit: inhibited, inhibiting, inhibition, inhibitor, inhibitory, inhibits+
+- inhibited: uninhibited
+- inhibition: inhibitions
+- inhibitor: inhibitors
+- uninhibited: uninhibitedly
 ### Examples
 - Former Democratic Rep. Sharon Treat sponsored an unsuccessful rule change in 2011 to eliminate concept drafts, which she says waste time and inhibit transparency.
 - And athletes’ celebrity shouldn’t inhibit their opportunity to express themselves, whether it’s their T-shirt, footwear or posture during the national anthem.
@@ -108,7 +120,13 @@ In medical terms, something that is inflammatory causes a local reaction that sh
 - adj: arousing to action or rebellion
 - adj: characterized or caused by inflammation
 ### Family
-inflammatory: anti-inflammatory, inflammatorily, noninflammatory, pro-inflammatory+;flame: flame-colored, flamed, flames, flaming, inflame;flaming: flamingest, flamingly, flamings;inflame: inflamed, inflames, inflaming, inflammation, inflammatory;inflamed: inflamedly;inflaming: inflamings;inflammation: inflammations
+- inflammatory: anti-inflammatory, inflammatorily, noninflammatory, pro-inflammatory+
+- flame: flame-colored, flamed, flames, flaming, inflame
+- flaming: flamingest, flamingly, flamings
+- inflame: inflamed, inflames, inflaming, inflammation, inflammatory
+- inflamed: inflamedly
+- inflaming: inflamings
+- inflammation: inflammations
 ### Examples
 - The infection sets off a cascade of events that ramps up inflammatory and immune response, Powers says.
 - Occasionally, the drugs provoke a severe auto-immune response, resulting in potential toxicities including inflammatory lung, liver and thyroid disorders.
@@ -123,7 +141,14 @@ If your two best friends aren't speaking to each other, you might find yourself 
 - adj: acting through or dependent on an intervening agency
 - adj: being neither at the beginning nor at the end in a series
 ### Family
-mediate: intermediate, mediacy, mediated, mediately, mediateness, mediates, mediating, mediation, mediator, mediatory+;intermediate: intermediated, intermediately, intermediates, intermediating, intermediation, intermediator;intermediation: intermediations;intermediator: intermediators;mediated: unmediated;mediation: mediations;mediator: mediators;mediatory: mediatorily
+- mediate: intermediate, mediacy, mediated, mediately, mediateness, mediates, mediating, mediation, mediator, mediatory+
+- intermediate: intermediated, intermediately, intermediates, intermediating, intermediation, intermediator
+- intermediation: intermediations
+- intermediator: intermediators
+- mediated: unmediated
+- mediation: mediations
+- mediator: mediators
+- mediatory: mediatorily
 ### Examples
 - Capucci remained in the headlines following his release, attempting to mediate in the Iran hostage crisis.
 - Those talks will be mediated by Russia, Turkey, and Iran.
@@ -135,7 +160,15 @@ mediate: intermediate, mediacy, mediated, mediately, mediateness, mediates, medi
 - n: a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response
 - n: an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation
 ### Family
-receptor: receptors+;receive: receivable, received, receiver, receives, receiving, reception, receptive, receptor, recipient;receiver: receivers, receivership;receivership: receiverships;reception: receptionist, receptions;receptionist: receptionists;receptive: receptively, receptiveness, receptivity, unreceptive;receptivity: receptivities;recipient: recipients
+- receptor: receptors+
+- receive: receivable, received, receiver, receives, receiving, reception, receptive, receptor, recipient
+- receiver: receivers, receivership
+- receivership: receiverships
+- reception: receptionist, receptions
+- receptionist: receptionists
+- receptive: receptively, receptiveness, receptivity, unreceptive
+- receptivity: receptivities
+- recipient: recipients
 ### Examples
 - Cheese proteins contain casomorphins, chemical compounds that attach to the same opiate receptors in the brain as heroin or morphine.
 - But the result is startlingly delicious, hitting your brain’s receptors like a jackpot.

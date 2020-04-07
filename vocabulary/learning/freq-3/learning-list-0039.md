@@ -9,7 +9,10 @@ To dissent is to publicly disagree with an official opinion or decision. Dissent
 - v: express opposition through action or words
 - v: withhold assent
 ### Family
-dissent: dissension, dissented, dissenter, dissentient, dissenting, dissentious, dissents+;dissension: dissensions;dissenter: dissenters;dissenting: dissentingly
+- dissent: dissension, dissented, dissenter, dissentient, dissenting, dissentious, dissents+
+- dissension: dissensions
+- dissenter: dissenters
+- dissenting: dissentingly
 ### Examples
 - Democratic centralism still prevails—exemplified by the party’s monopoly on power, Xi Jinping’s autocratic rule and the suppression of dissent.
 - Amid the positivity, there were some dissenting voices.
@@ -21,7 +24,7 @@ If your brother says he’s going to become a guerrilla, don't worry, he's not p
 ### Definition
 - n: a member of an irregular armed force that fights a stronger force by sabotage and harassment
 ### Family
-guerrilla: guerrillas
+- guerrilla: guerrillas
 ### Examples
 - The subtitle of Banks' book is "Tales of Mischief, Mayhem and Guerrilla Warfare in the EU Referendum Campaign".
 - In Colombia, voters narrowly rejected a deal between the government and a guerrilla group to end a 52-year civil war.
@@ -34,7 +37,12 @@ To hesitate is to pause before doing something, often out of concern or worry.
 - v: pause or hold back in uncertainty or unwillingness
 - v: interrupt temporarily an activity before continuing
 ### Family
-hesitate: hesitated, hesitater, hesitates, hesitating, hesitation, hesitator+;hesitater: hesitaters;hesitating: hesitatingly, unhesitating;hesitation: hesitations;hesitator: hesitators;unhesitating: unhesitatingly
+- hesitate: hesitated, hesitater, hesitates, hesitating, hesitation, hesitator+
+- hesitater: hesitaters
+- hesitating: hesitatingly, unhesitating
+- hesitation: hesitations
+- hesitator: hesitators
+- unhesitating: unhesitatingly
 ### Examples
 - Let’s not hesitate to tell him what to do.
 - Schanes told Gates to never hesitate in calling to get revisions done to her wig.
@@ -49,7 +57,9 @@ hesitate: hesitated, hesitater, hesitates, hesitating, hesitation, hesitator+;he
 - v: state or announce
 - v: praise, glorify, or honor
 ### Family
-proclaim: proclaimed, proclaiming, proclaims, proclamation+;proclaimed: self-proclaimed;proclamation: proclamations
+- proclaim: proclaimed, proclaiming, proclaims, proclamation+
+- proclaimed: self-proclaimed
+- proclamation: proclamations
 ### Examples
 - “Comrade President, the people request that you continue to lead the country’s destiny,” the signs proclaim.
 - In addition to famously proclaiming that he would “drain the swamp,” Trump also attacked many of his rivals for their alleged dependence on wealthy donors.
@@ -62,7 +72,10 @@ Compelling means attractive, or irresistible, or really, really convincing. You 
 - adj: driving or forcing
 - adj: tending to persuade by forcefulness of argument
 ### Family
-compelling: compellingly+;compel: compelled, compelling, compels, compulsion, compulsive;compulsion: compulsions;compulsive: compulsively, compulsiveness, compulsives, compulsivity
+- compelling: compellingly+
+- compel: compelled, compelling, compels, compulsion, compulsive
+- compulsion: compulsions
+- compulsive: compulsively, compulsiveness, compulsives, compulsivity
 ### Examples
 - East Coast — compelling, nationwide viewing on a Saturday.
 - But Mother Nature is nothing if not compelling, and my broodiness sat in my core like an ache.
@@ -75,7 +88,7 @@ Without reading the long document about the group's beliefs — its creed — he
 - n: any system of principles or beliefs
 - n: the written body of teachings of a religious group that are generally accepted by that group
 ### Family
-creed: credal, creedal, creeds
+- creed: credal, creedal, creeds
 ### Examples
 - Koretz declined to respond to Creed’s comments, instead scheduling his own news conference outside Caruso’s development site for later Thursday afternoon.
 - “Passengers” and “Assassin’s Creed,” two high-profile live-action efforts that debuted this weekend, proved to be no match at the box office for “Rogue One.”
@@ -87,7 +100,8 @@ The adjective ferocious means more than merely angry or active. If you can imagi
 ### Definition
 - adj: marked by extreme and violent energy
 ### Family
-ferocious: ferociously, ferociousness+;ferocity: ferocious, ferocities
+- ferocious: ferociously, ferociousness+
+- ferocity: ferocious, ferocities
 ### Examples
 - Nimrud was a capital of the Assyrians, one the ancient world’s earliest and most ferocious empires.
 - All three teams play at a ferocious pace, harrying the opposition and countering quickly – rather like Liverpool, their opponents on Saturday evening.
@@ -109,7 +123,10 @@ Rats are mouse-like rodents with long tails, pointed noses, and whiskers. Rats a
 - v: employ scabs or strike breakers in
 - v: take the place of work of someone on strike
 ### Family
-rat: ratable, ratlike, rats, ratted, ratter, ratting, ratty+;ratable: ratability, ratably, unratable;ratter: ratters;ratty: rattier, rattiest, rattily
+- rat: ratable, ratlike, rats, ratted, ratter, ratting, ratty+
+- ratable: ratability, ratably, unratable
+- ratter: ratters
+- ratty: rattier, rattiest, rattily
 ### Examples
 - The streets were torn up and gridlocked during the construction, which unleashed a pestilence of rats through the neighborhood.
 - “What you find very quickly is that rats and mice lose weight just the way you see in humans,” Dr. Seeley said.
@@ -123,7 +140,10 @@ If something happens on a stage, you can describe it as theatrical. Even reading
 - adj: suited to or characteristic of the stage or theater
 - n: a performance of a play
 ### Family
-theatrical: theatricality, theatrically, theatricals, untheatrical+;theater: theaters, theatrical;theatricality: theatricalities;untheatrical: untheatrically
+- theatrical: theatricality, theatrically, theatricals, untheatrical+
+- theater: theaters, theatrical
+- theatricality: theatricalities
+- untheatrical: untheatrically
 ### Examples
 - PWR BTTM, the melodic and theatrical punk duo of Liv Bruce and Ben Hopkins, are masters of presentation.
 - It will include site-specific pieces incorporating theatrical backdrops used by the Freemasons in ritual performances.
@@ -142,7 +162,8 @@ A polar bear in a zoo might look like an adorable giant stuffed animal, but if y
 - v: attack brutally and fiercely
 - v: criticize harshly or violently
 ### Family
-savage: savaged, savagely, savageness, savager, savagery, savages, savagest, savaging+;savagery: savageries
+- savage: savaged, savagely, savageness, savager, savagery, savages, savagest, savaging+
+- savagery: savageries
 ### Examples
 - But then Savage suffered a concussion during Sunday’s defeat at Tennessee.
 - But Savage’s status for this week is in question after he suffered a concussion in the second quarter of a loss to Tennessee on Sunday.

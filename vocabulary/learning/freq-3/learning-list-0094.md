@@ -6,7 +6,10 @@ Although the word is most usually assigned to the members of a church, any gathe
 - n: an assemblage of people or animals or things collected together
 - n: a group of people who adhere to a common faith and habitually attend a given church
 ### Family
-congregation: congregational, congregations+;congregate: congregated, congregates, congregating, congregation;congregating: congregatings;congregational: congregationally
+- congregation: congregational, congregations+
+- congregate: congregated, congregates, congregating, congregation
+- congregating: congregatings
+- congregational: congregationally
 ### Examples
 - Much like a local congregation, there is a sense of family that characterizes we “12s.”
 - While his congregation is comparatively small, Jones said, “God never used big armies.”
@@ -18,7 +21,11 @@ Rivalry is the act of competing for the same thing against another person. Your 
 ### Definition
 - n: the act of competing as for profit or a prize
 ### Family
-rivalry: rivalries+;rival: rivaled, rivaling, rivalled, rivalling, rivalrous, rivalry, rivals;rivaled: unrivaled;rivalled: unrivalled;unrivaled: unrivaledest
+- rivalry: rivalries+
+- rival: rivaled, rivaling, rivalled, rivalling, rivalrous, rivalry, rivals
+- rivaled: unrivaled
+- rivalled: unrivalled
+- unrivaled: unrivaledest
 ### Examples
 - The Reeves-Vogel rivalry will hardly be the only one simmering inside what everyone here calls “Mr. Jefferson’s Capitol.”
 - The Warriors and the Cavaliers appear determined to re-establish that sort of rivalry.
@@ -35,7 +42,12 @@ Diffuse mean spread out, or the action of spreading out. If lots of people in sc
 - v: spread or diffuse through
 - v: cause to become widely known
 ### Family
-diffuse: diffused, diffusely, diffuseness, diffuser, diffuses, diffusing, diffusion, diffusive, diffusor+;diffused: diffusedly;diffuser: diffusers;diffusion: diffusions;diffusive: diffusively;diffusor: diffusors
+- diffuse: diffused, diffusely, diffuseness, diffuser, diffuses, diffusing, diffusion, diffusive, diffusor+
+- diffused: diffusedly
+- diffuser: diffusers
+- diffusion: diffusions
+- diffusive: diffusively
+- diffusor: diffusors
 ### Examples
 - National health spending is also re-accelerating as the law diffuses through the system.
 - But by employing a nonlinear structure, Cheng Er — who wrote, directed and edited this film — severely diffuses the story’s dramatic impact.
@@ -47,7 +59,8 @@ You describe something as asymmetric when it lacks the mirror-image quality of s
 ### Definition
 - adj: characterized by asymmetry in the spatial arrangement or placement of parts or components
 ### Family
-asymmetry: asymmetric, asymmetrical, asymmetries+;asymmetrical: asymmetrically
+- asymmetry: asymmetric, asymmetrical, asymmetries+
+- asymmetrical: asymmetrically
 ### Examples
 - The left has waged asymmetric political warfare, routinely traducing the same norms is was demanding its opponents respect.
 - "They will go back to more asymmetric warfare, and we will be seeing suicide attacks inside KRG, inside Iraqi cities and elsewhere."
@@ -60,7 +73,7 @@ Choose the adjective tentative to describe something you are unsure or hesitant 
 - adj: unsettled in mind or opinion
 - adj: under terms not final or fully worked out or agreed upon
 ### Family
-tentative: tentatively
+- tentative: tentatively
 ### Examples
 - For there is nothing tentative about “La La Land,” especially concerning its exuberant dance numbers.
 - Though intriguing, the small number of artists involved in the study means the findings are highly tentative.
@@ -76,7 +89,9 @@ When there's devastation, there's terrible destruction. You can see the devastat
 - n: the termination of something by causing so much damage to it that it cannot be repaired or no longer exists
 - n: plundering with excessive damage and destruction
 ### Family
-devastation: devastations+;devastate: devastated, devastates, devastating, devastation;devastating: devastatingly
+- devastation: devastations+
+- devastate: devastated, devastates, devastating, devastation
+- devastating: devastatingly
 ### Examples
 - The remains of the boat were towed back to Jakarta, where images showed the devastation caused by the blaze.
 - He said it aimed to mobilize public opinion “in the face of the devastation of unique heritage.”
@@ -89,7 +104,8 @@ Abide means to be able to live with, or stand. If you can't abide with something
 - v: dwell
 - v: put up with something or somebody unpleasant
 ### Family
-abide: abidance, abided, abides, abiding+;abiding: abidingly
+- abide: abidance, abided, abides, abiding+
+- abiding: abidingly
 ### Examples
 - The rebel groups questioned Russia’s ability to force the Syrian government and their allies to abide by the terms of the ceasefire deal.
 - Players, abiding by their religious tenets, use the sport as an outlet between long hours spent studying Judaic texts and other subjects.
@@ -102,7 +118,7 @@ Sabotage isn't very nice: It's when you ruin or disrupt something by messing up 
 - n: a deliberate act of destruction or disruption in which equipment is damaged
 - v: destroy property or hinder normal operations
 ### Family
-sabotage: sabotaged, sabotages, sabotaging
+- sabotage: sabotaged, sabotages, sabotaging
 ### Examples
 - Maduro attempted to outlaw Venezuela’s largest ­banknote in mid-December, a measure that he said would strike at foreign powers conspiring to sabotage his socialist government.
 - But at the time, the Obama administration’s fear was that Russia would sabotage voting machines and remove names from voter registration rolls.
@@ -120,7 +136,8 @@ If you get along with someone very well, you have an affinity with them. Sometim
 - n: the force attracting atoms to each other and binding them together in a molecule
 - n: (immunology) the attraction between an antigen and an antibody
 ### Family
-affinity: affinities+;affine: affines, affinity
+- affinity: affinities+
+- affine: affines, affinity
 ### Examples
 - Cody’s affinity for children is rooted in his own childhood.
 - This news was accompanied by candidate Trump’s strange affinity for Vladimir Putin.
@@ -137,7 +154,10 @@ A murmur is a quiet, blurred sound often heard from a distance. It can be comfor
 - v: make complaining remarks or noises under one's breath
 - n: a schwa that is incidental to the pronunciation of a consonant
 ### Family
-murmur: murmuration, murmured, murmurer, murmuring, murmurous, murmurred, murmurring, murmurs+;murmurer: murmurers;murmuring: murmuringly, murmurings;murmurous: murmurously
+- murmur: murmuration, murmured, murmurer, murmuring, murmurous, murmurred, murmurring, murmurs+
+- murmurer: murmurers
+- murmuring: murmuringly, murmurings
+- murmurous: murmurously
 ### Examples
 - He pulled Mills into a bear hug and murmured plaudits into his ear.
 - “The public domain” began ritualistically, with murmuring, some vocal drones and intoned intervals.

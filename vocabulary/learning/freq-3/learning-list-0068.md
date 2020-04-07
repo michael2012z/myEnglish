@@ -8,7 +8,7 @@ If you plant a seed, water it daily and give it lots of light, you nurture it un
 - n: helping someone grow up to be an accepted member of the community
 - n: the properties acquired as a consequence of the way you were treated as a child
 ### Family
-nurture: nurtural, nurturance, nurtured, nurtures, nurturing
+- nurture: nurtural, nurturance, nurtured, nurtures, nurturing
 ### Examples
 - It is about nurturing, comfort and spending time with people who are important to us.
 - Physical health is foundational to be sure, but its our more humanitarian capacities that need nurturing.
@@ -21,7 +21,7 @@ If you have a copious amount of something, you have a lot of it. If you take cop
 - adj: large in number or quantity (especially of discourse)
 - adj: affording an abundant supply
 ### Family
-copious: copiousest, copiously, copiousness
+- copious: copiousest, copiously, copiousness
 ### Examples
 - Sigler recalled visiting the property for a Labor Day picnic last year and “drinking copious amounts of Russian vodka.”
 - Along with the milk, I hope Duterte will be enjoying warm Christmas cookies baked with a copious amount of catnip.
@@ -32,7 +32,7 @@ Conducive means tending to cause or produce something. Regular exercise is condu
 ### Definition
 - adj: tending to bring about; being partly responsible for
 ### Family
-conduce: conduced, conduces, conducing, conducive
+- conduce: conduced, conduces, conducing, conducive
 ### Examples
 - But, she says, the political climate was not conducive to a good education.
 - Even for tokens, these women tend to be pretty cliched: They wear leather and heels, even though neither are conducive to fighting.
@@ -46,7 +46,7 @@ A grievance is a complaint. It can be formal, as when an employee files a grieva
 - n: an allegation that something imposes an illegal obligation or denies some legal right or causes injustice
 - n: a resentment strong enough to justify retaliation
 ### Family
-grievance: grievances
+- grievance: grievances
 ### Examples
 - Did we fail to recognize and understand the grievances of white, working-class Trump voters?
 - And outside the confines of Mar-a-Lago, old grievances flare up.
@@ -59,7 +59,7 @@ Choose the adjective dubious for something you have doubts about or you suspect 
 - adj: open to doubt or suspicion
 - adj: not convinced
 ### Family
-dubious: dubiously, dubiousness
+- dubious: dubiously, dubiousness
 ### Examples
 - Failing that, why not try a scalping site, morally dubious as that is?
 - Those remarks kick started the dubious criminal proceedings that led to Sovannara’s imprisonment.
@@ -75,7 +75,12 @@ Restrain means to hold yourself back, which is exactly what you'd have to do if,
 - v: compel or deter by or as if by threats
 - v: place limits on (extent or access)
 ### Family
-restrain: restrained, restrainer, restraining, restrains, restraint+;restrained: restrainedly, unrestrained;restrainer: restrainers;restraining: self-restraining;restraint: restraints, self-restraint, unrestraint;unrestrained: unrestrainedly
+- restrain: restrained, restrainer, restraining, restrains, restraint+
+- restrained: restrainedly, unrestrained
+- restrainer: restrainers
+- restraining: self-restraining
+- restraint: restraints, self-restraint, unrestraint
+- unrestrained: unrestrainedly
 ### Examples
 - Apart from signing Norman, McCloughan was restrained in free agency.
 - To restrain Burr, Hamilton wrote Morris, would be “to bind a Giant by a cobweb.”
@@ -88,7 +93,7 @@ When someone lays eyes on you and keeps looking, it is a gaze or a stare. You ca
 - n: a long fixed look
 - v: look at with fixed eyes
 ### Family
-gaze: gazed, gazes, gazing
+- gaze: gazed, gazes, gazing
 ### Examples
 - “They just sat there in silence, gazing at the barren canyon walls,” Mr. Lattin wrote in “The Harvard Psychedelic Club.”
 - She held my new baby’s hand and, as little Robbie gazed at this woman 91 years his senior, there was an almost breathtaking connection.
@@ -100,7 +105,17 @@ An electorate is a body of people allowed to vote in an election. In the United 
 ### Definition
 - n: the body of enfranchised citizens; those qualified to vote
 ### Family
-electorate: electorates+;elect: elected, electing, election, elective, electly, elector, electorate, elects, reelect;elected: nonelected;election: electioneer, elections, electoral;electioneer: electioneered, electioneering, electioneers;electioneering: electioneerings;elective: electively, electives, non-elective, nonelective;elector: electors;electoral: electorally;reelect: reelected, reelecting, reelection, reelects;reelection: reelections
+- electorate: electorates+
+- elect: elected, electing, election, elective, electly, elector, electorate, elects, reelect
+- elected: nonelected
+- election: electioneer, elections, electoral
+- electioneer: electioneered, electioneering, electioneers
+- electioneering: electioneerings
+- elective: electively, electives, non-elective, nonelective
+- elector: electors
+- electoral: electorally
+- reelect: reelected, reelecting, reelection, reelects
+- reelection: reelections
 ### Examples
 - Voter Registration More voting access would lead to a more progressive electorate.
 - For other pollsters, 2018 represented a fresh start, without a Democratic candidate whose post-State Department unpopularity and negative story lines scrambled the electorate.
@@ -111,7 +126,7 @@ electorate: electorates+;elect: elected, electing, election, elective, electly, 
 ### Definition
 - n: the time at which something is supposed to begin
 ### Family
-outset
+- outset
 ### Examples
 - That’s why he was frank with Graf about her chances from the outset.
 - From the outset, therefore, self-interest rather than affection governed Israel’s attitude toward the United States.
@@ -121,7 +136,7 @@ outset
 ### Definition
 - n: the imperial dynasty of China from 960 to 1279; noted for art and literature and philosophy
 ### Family
-Sung: Sungs
+- Sung: Sungs
 ### Examples
 - A Low Mass at 8:30 a.m. and a Sung Mass with Choir at 11 a.m.
 - Recently, she found Sung Yoo, a Korean man with gastric cancer who qualified for a promising study of a checkpoint inhibitor.

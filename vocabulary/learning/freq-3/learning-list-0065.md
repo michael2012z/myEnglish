@@ -6,7 +6,7 @@
 - v: apply a styling gel to
 - n: a thin translucent membrane used over stage lights for color effects
 ### Family
-gel: geling, gelled, gelling, gels
+- gel: geling, gelled, gelling, gels
 ### Examples
 - In the morning, I use a sensitive cleansing gel from my dermatologist, Dr. Paul Jarrod Frank, on my face.
 - For whatever reason, every coach in America does what I’m talking about, but teams gel at it.
@@ -21,7 +21,8 @@ Petty used to mean just "petite" or "small," but now it's used for things that a
 - n: larceny of property having a value less than some amount (the amount varies by locale)
 - adj: contemptibly narrow in outlook
 ### Family
-petty: pettier, petties, pettiest, pettily, pettiness+;pettiness: pettinesses
+- petty: pettier, petties, pettiest, pettily, pettiness+
+- pettiness: pettinesses
 ### Examples
 - Its beauty and cultural significance deserve better than petty, partisan fights.
 - Coast Guard Petty Officer 1st Class Andrew Kendrick says the Apache helicopter based at nearby Ellington Field was carrying two people.
@@ -34,7 +35,10 @@ The adjective insurmountable describes some barrier that is incapable of being o
 - adj: not capable of being surmounted or overcome
 - adj: impossible to surmount
 ### Family
-insurmountable: insurmountably+;surmount: surmountable, surmounted, surmounter, surmounting, surmounts;surmountable: insurmountable, unsurmountable;surmounted: surmountedest
+- insurmountable: insurmountably+
+- surmount: surmountable, surmounted, surmounter, surmounting, surmounts
+- surmountable: insurmountable, unsurmountable
+- surmounted: surmountedest
 ### Examples
 - In 1959, Raymond Williams described the seemingly insurmountable gulf between the progressive intellectuals of his day and the great bulk of the population.
 - Good intentions won’t begin to address a problem that’s becoming insurmountable.
@@ -47,7 +51,7 @@ A spectre is a ghost or spirit. If you see a spectre of the previous owners in y
 - n: a ghostly appearing figure
 - n: a mental representation of some haunting experience
 ### Family
-spectre: spectres
+- spectre: spectres
 ### Examples
 - The spectres start to wave and smile as they draw closer.
 - The spectre of the country’s economic crisis flaring up again deepened as the extent of the differences between creditors was laid bare.
@@ -60,7 +64,16 @@ Call a person sentimental if he or she is led more by emotions than by reason. I
 - adj: given to or marked by sentiment or sentimentality
 - adj: effusively or insincerely emotional
 ### Family
-sentimental: sentimentalest, sentimentalise, sentimentalism, sentimentality, sentimentalize, sentimentally, unsentimental+;presentiment: presentiments;sentiment: presentiment, sentimental, sentimentise, sentimentize, sentiments;sentimentalise: sentimentalisation, sentimentalised, sentimentalises, sentimentalising;sentimentalism: sentimentalisms, sentimentalist;sentimentalist: sentimentalists;sentimentality: sentimentalities;sentimentalization: sentimentalizations;sentimentalize: sentimentalization, sentimentalized, sentimentalizes, sentimentalizing;unsentimental: unsentimentally
+- sentimental: sentimentalest, sentimentalise, sentimentalism, sentimentality, sentimentalize, sentimentally, unsentimental+
+- presentiment: presentiments
+- sentiment: presentiment, sentimental, sentimentise, sentimentize, sentiments
+- sentimentalise: sentimentalisation, sentimentalised, sentimentalises, sentimentalising
+- sentimentalism: sentimentalisms, sentimentalist
+- sentimentalist: sentimentalists
+- sentimentality: sentimentalities
+- sentimentalization: sentimentalizations
+- sentimentalize: sentimentalization, sentimentalized, sentimentalizes, sentimentalizing
+- unsentimental: unsentimentally
 ### Examples
 - Part of the agenda of the sentimental Christmas movie is to inspire characters and audience to lead better lives.
 - He was also depressive, maudlin, sentimental and he drank like a fish.
@@ -82,7 +95,9 @@ sentimental: sentimentalest, sentimentalise, sentimentalism, sentimentality, sen
 - n: gear for a horse
 - v: sew together loosely, with large stitches
 ### Family
-tack: tacked, tacker, tacking, tacks+;tacker: tackers;tacking: tackings
+- tack: tacked, tacker, tacking, tacks+
+- tacker: tackers
+- tacking: tackings
 ### Examples
 - The movie business is tacking Monday on to New Year’s weekend, because many companies and schools are observing it as a national holiday.
 - The movie business is tacking Monday on to New Year’s weekend, because many companies and schools observe it as a holiday.
@@ -95,7 +110,7 @@ A barrage is something that comes quickly and heavily — as an attack of bullet
 - n: the rapid and continuous delivery of linguistic communication (spoken or written)
 - v: address with continuously or persistently, as if with a barrage
 ### Family
-barrage: barraged, barrages, barraging
+- barrage: barraged, barrages, barraging
 ### Examples
 - The barrage of criticism amounts to a rare sustained burst of public anger by China’s burgeoning middle class.
 - Yet last week, on a miserable rainy day, militants unleashed a torrential barrage on the district.
@@ -106,7 +121,7 @@ A trait is something about you that makes you "you." When your mother says that 
 ### Definition
 - n: a distinguishing feature of your personal nature
 ### Family
-trait: traits
+- trait: traits
 ### Examples
 - After a while, as Burke regained his position in the Wizards’ rotation, Brooks began embracing his best traits.
 - When I spoke with Barrett, she noted that the traits we think of as gender-based generally depend on varying perception, not varying behavior.
@@ -119,7 +134,8 @@ An antipathy is a deep-seated dislike of something or someone. Usually it's a co
 - n: a feeling of intense dislike
 - n: the object of a feeling of intense aversion; something to be avoided
 ### Family
-antipathy: antipathetic, antipathetical, antipathies+;antipathetic: antipathetically
+- antipathy: antipathetic, antipathetical, antipathies+
+- antipathetic: antipathetically
 ### Examples
 - This looks like little more than a cynical ploy to stoke public antipathy to federal regulation.
 - For all his antipathy toward Trump, Rossen said he wouldn’t mind if the country’s new leader is in New York as often as possible.
@@ -131,7 +147,8 @@ Appalled is an adjective that describes feeling shocked and disappointed. Being 
 ### Definition
 - adj: struck with fear, dread, or consternation
 ### Family
-appall: appalled, appalling, appalls+;appalling: appallingly
+- appall: appalled, appalling, appalls+
+- appalling: appallingly
 ### Examples
 - Appalled by sexist and demeaning banners displayed by Brass Monkey Hotel, Northbridge.
 - The bestselling children’s author was appalled to be considered a potential children’s laureate some years ago.

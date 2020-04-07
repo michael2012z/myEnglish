@@ -8,7 +8,8 @@ A cue is the long stick used for playing pool. A cue is also a reminder or stimu
 - n: sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards
 - n: evidence that helps to solve a problem
 ### Family
-cue: cued, cues, cuing, miscue+;miscue: miscues
+- cue: cued, cues, cuing, miscue+
+- miscue: miscues
 ### Examples
 - Cue tingles down spines, lumps in throats and tears in eyes all round.
 - At the core of every habit is a neurological loop with three parts: A cue, a routine and a reward.
@@ -20,7 +21,7 @@ Genocide refers to the systematic destruction of a race or cultural group. In th
 ### Definition
 - n: systematic killing of a racial or cultural group
 ### Family
-genocide: genocides
+- genocide: genocides
 ### Examples
 - The name of Boutros Boutros-Ghali, the Egyptian diplomat who led the United Nations, led to replayed nightmares of genocide in Rwanda and Bosnia.
 - Decades after World War II, the U.S. established the Holocaust Memorial Museum presumably to warn against genocides like the mass murder of European Jewry.
@@ -36,7 +37,7 @@ genocide: genocides
 - n: a polyvalent metallic element that resembles chromium and tungsten in its properties; used to strengthen and harden steel
 - n: a midwestern state in central United States; a border state during the American Civil War, Missouri was admitted to the Confederacy without actually seceding from the Union
 ### Family
-MO
+- MO
 ### Examples
 - Andy Cooper: "I hope that the public finally recognise the achievements of @mo_farah this year - a great athlete, unfairly overlooked previously."
 - One anecdotal case had a guy working at fast food restaurant with premiums of $1/per month --yes 1$/mo but his deductible was $6000.
@@ -55,7 +56,7 @@ Sanitation has to do with making things clean, especially by sterilizing.
 - n: the state of being clean and conducive to health
 - n: making something sanitary (free of germs) as by sterilizing
 ### Family
-sanitate: sanitated, sanitates, sanitating, sanitation
+- sanitate: sanitated, sanitates, sanitating, sanitation
 ### Examples
 - Dozens of 20-ton sanitation trucks weighted with an extra 15 tons of sand will block off streets leading to the celebration zone.
 - The sanitation trucks are meant to prevent terrorist attacks like those in Berlin this month and Nice, France, over the summer.
@@ -77,7 +78,13 @@ When you spoil something, you destroy it or ruin its quality. If you spoil a sur
 - v: treat with excessive indulgence
 - v: have a strong desire or urge to do something
 ### Family
-spoil: spoilable, spoilage, spoilation, spoiled, spoiler, spoiling, spoils, spoliation+;spoilage: spoilages;spoilation: spoilations;spoiled: unspoiled;spoiler: spoilers;spoiling: spoilings;spoliation: spoliations
+- spoil: spoilable, spoilage, spoilation, spoiled, spoiler, spoiling, spoils, spoliation+
+- spoilage: spoilages
+- spoilation: spoilations
+- spoiled: unspoiled
+- spoiler: spoilers
+- spoiling: spoilings
+- spoliation: spoliations
 ### Examples
 - If importers try to get through the process without greasing the wheels, food sits and spoils, Pena said.
 - But some resolute defending in the first half from the home side suggested they were in the mood to spoil the party.
@@ -92,7 +99,8 @@ Haze is the fog or mist that's caused by small particles in the air. There is of
 - v: become hazy, dull, or cloudy
 - v: harass by imposing humiliating or painful tasks, as in military institutions
 ### Family
-haze: hazed, hazes, hazing, hazy+;hazy: hazier, haziest, hazily, haziness
+- haze: hazed, hazes, hazing, hazy+
+- hazy: hazier, haziest, hazily, haziness
 ### Examples
 - In other images, the distant mountains are wrapped in haze.
 - “New Year’s morning in Beijing, I thought I was blind,” said another, attaching a photo of a window completely darkened with grey haze.
@@ -113,7 +121,8 @@ A blaze is a bright, strong flame. A raging fire is blazing and you can also say
 - v: indicate by marking trees with blazes
 - n: a cause of difficulty and suffering
 ### Family
-blaze: blazed, blazes, blazing+;blazing: blazingly, blazings
+- blaze: blazed, blazes, blazing+
+- blazing: blazingly, blazings
 ### Examples
 - They say firefighters got control of the fire within minutes and the blaze was contained to the main sanctuary.
 - The town’s fire department says the owner of the home wasn’t there when the blaze began.
@@ -125,7 +134,10 @@ If something's unparalleled, there's never been anything like it — such as a b
 ### Definition
 - adj: radically distinctive and without equal
 ### Family
-paralleled: unparalleled+;parallel: nonparallel, paralleled, paralleling, parallelism, parallelize, parallelled, parallelling, parallels, unparallel;parallelism: parallelisms;parallelize: parallelizing
+- paralleled: unparalleled+
+- parallel: nonparallel, paralleled, paralleling, parallelism, parallelize, parallelled, parallelling, parallels, unparallel
+- parallelism: parallelisms
+- parallelize: parallelizing
 ### Examples
 - Samantha Power, defended the vote as consistent with “steadfast and unparalleled commitment to the security of Israel,” CNN reported Friday.
 - All-brick and limestone; “an unparalleled opportunity to purchase a prime vacant landmark building within a block of the National Mall.”
@@ -140,7 +152,10 @@ Use the verb converge to describe something that comes together at a common poin
 - v: move or draw together at a certain location
 - v: come together so as to form a single product
 ### Family
-converge: converged, convergency, convergent, converges, converging+;convergence: convergences;convergency: convergencies;convergent: convergence, convergently, nonconvergent
+- converge: converged, convergency, convergent, converges, converging+
+- convergence: convergences
+- convergency: convergencies
+- convergent: convergence, convergently, nonconvergent
 ### Examples
 - And Cousins played throughout as if pass rushers were converging from all corners.
 - The men back away, and then others converge and fight.
@@ -152,7 +167,8 @@ Something that is dangerous or very risky can be described with the adjective pe
 ### Definition
 - adj: fraught with danger
 ### Family
-perilous: perilously, perilousness+;peril: periled, periling, perilled, perilling, perilous, perils
+- perilous: perilously, perilousness+
+- peril: periled, periling, perilled, perilling, perilous, perils
 ### Examples
 - Even if we just miss it, the upward trend of global temperatures overall continues at a perilous rate.
 - For the Nasser family, Mosul was just one stop in a perilous odyssey that began when IS swept across the country in 2014.

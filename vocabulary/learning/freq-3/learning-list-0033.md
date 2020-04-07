@@ -4,7 +4,8 @@ When you force an undesirable or harmful event on someone, you inflict it on the
 ### Definition
 - v: impose something unpleasant
 ### Family
-inflict: inflicted, inflicting, infliction, inflicts+;infliction: inflictions
+- inflict: inflicted, inflicting, infliction, inflicts+
+- infliction: inflictions
 ### Examples
 - We may finally end the long reign of terror inflicted on us by former Miss USAs, federal judges from Indiana, and Gold Star parents.
 - These wounds were inflicted when I was much younger and fed up with everything.
@@ -16,7 +17,8 @@ Pneumonia is a lung infection that gives you a cough and a fever and generally m
 ### Definition
 - n: respiratory disease characterized by inflammation of the lung parenchyma (excluding the bronchi) with congestion caused by viruses or bacteria or irritants
 ### Family
-pneumonia: pneumonias+;pneumonic: pneumonia
+- pneumonia: pneumonias+
+- pneumonic: pneumonia
 ### Examples
 - Also called pneumococcus, this pathogen is the most common perpetrator of community-acquired pneumonia, which is pneumonia that people get outside hospitals and nursing homes.
 - Problem: Pneumonia kills 27,000 Ugandan children under the age of five every year.
@@ -28,7 +30,7 @@ If something is statutory, it is related to or set by laws or statutes. Statutor
 - adj: relating to or created by statutes
 - adj: prescribed or authorized by or punishable under a statute
 ### Family
-statutory: statutorily
+- statutory: statutorily
 ### Examples
 - Between the various funds and the statutory limitations placed on them, it’s hard to understand.
 - Another prominent example of this principle is the executive’s power to issue regulations pursuant to statutory authority.
@@ -40,7 +42,7 @@ A feat is an exemplary, even bold achievement, often an act of great courage or 
 ### Definition
 - n: a notable achievement
 ### Family
-feat: feats
+- feat: feats
 ### Examples
 - Matthews accomplishing the feat might be more impressive.
 - He did not achieve the feat this season.
@@ -52,7 +54,11 @@ Anything feudal relates to the medieval system of feudalism — where the nobili
 ### Definition
 - adj: of or relating to or characteristic of feudalism
 ### Family
-feudal: feudalism, feudalize, feudally, feudatory+;feudalism: feudalisms, feudalistic;feudalistic: feudalistically;feudalize: feudalized;feudatory: feudatories
+- feudal: feudalism, feudalize, feudally, feudatory+
+- feudalism: feudalisms, feudalistic
+- feudalistic: feudalistically
+- feudalize: feudalized
+- feudatory: feudatories
 ### Examples
 - In Scorsese’s film, a gaunt Garfield portrays a priest grappling with a flagging faith while on a mission in 17th century feudal Japan.
 - “A lot of people carry the baggage of tradition and archaic, feudal thinking because that’s the way they were socialized,” Kumari said.
@@ -63,7 +69,9 @@ feudal: feudalism, feudalize, feudally, feudatory+;feudalism: feudalisms, feudal
 ### Definition
 - n: someone who works with their hands; someone engaged in manual labor
 ### Family
-labourer: labourers+;labour: laboured, labourer, labouring, labours;labouring: labouringly
+- labourer: labourers+
+- labour: laboured, labourer, labouring, labours
+- labouring: labouringly
 ### Examples
 - The security sources told the BBC that Monday's attack targeted daily labourers waiting for work at the 55th intersection in Sadr City.
 - The area that was targeted on Saturday is packed with wholesale markets and usually teeming with daily labourers unloading vans and wheeling carts around.
@@ -80,7 +88,7 @@ Stark means "complete or extreme," like the stark contrast between your music ta
 - adj: without qualification; used informally as (often pejorative) intensifiers
 - adv: completely
 ### Family
-stark: starker, starkest, starkly, starkness, starks
+- stark: starker, starkest, starkly, starkness, starks
 ### Examples
 - Nowhere were the challenges starker than in Chicago, where the rates of murders and shootings skyrocketed.
 - In Braslavsky’s starker show in the Common Ground Gallery, the vegetation is all on paper.
@@ -93,7 +101,9 @@ At the opposite end of the spectrum from capitalism, communism is an economic th
 - n: a political theory favoring collectivism in a classless society
 - n: a form of socialism that abolishes private ownership
 ### Family
-communism: Communist, communisms, communistic+;Communist: Communists;communistic: communistically
+- communism: Communist, communisms, communistic+
+- Communist: Communists
+- communistic: communistically
 ### Examples
 - Communism’s psychological and political appeal would be rejected.
 - At first the exiles thought the embassy outreach was to learn how the Czech Republic transitioned away from Communism.
@@ -109,7 +119,10 @@ To devise is to figure out a plan. Men twirling long mustaches might devise a pl
 - n: (law) a gift of real property by will
 - n: a will disposing of real property
 ### Family
-devise: devised, devisee, deviser, devises, devising+;devisee: devisees;deviser: devisers;devising: devisings
+- devise: devised, devisee, deviser, devises, devising+
+- devisee: devisees
+- deviser: devisers
+- devising: devisings
 ### Examples
 - Devising a nozzle for the aeroponic sprayer proved a tougher problem.
 - Daly says the league is devising two separate schedules for the 2017-18 season, one of which would feature an Olympic break.
@@ -123,7 +136,7 @@ Take the noun tenure for the period of time a person holds a position or office.
 - n: the right to hold property; part of an ancient hierarchical system of holding lands
 - v: give life-time employment to
 ### Family
-tenure: tenured, tenures
+- tenure: tenured, tenures
 ### Examples
 - The Niners became the first team in nearly four decades to follow coaches in successive seasons after only one-year tenures.
 - During his tenure, Ashe earned national recognition for his innovative rehabilitation programs.

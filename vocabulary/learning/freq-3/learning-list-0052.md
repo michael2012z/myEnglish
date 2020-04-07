@@ -7,7 +7,8 @@ The verb to haunt means to appear as a ghost or some kind of supernatural phenom
 - v: haunt like a ghost; pursue
 - n: a frequently visited place
 ### Family
-haunt: haunted, haunting, haunts+;haunting: hauntingly
+- haunt: haunted, haunting, haunts+
+- haunting: hauntingly
 ### Examples
 - Their expressions are shy and calm, yet the picture is haunting.
 - On Christmas Day, the Answer Wife suggested that Answer Man start a rumor that the Trump International Hotel is haunted.
@@ -21,7 +22,8 @@ A hinge is a type of joint that attaches two things together while allowing for 
 - n: a circumstance upon which subsequent events depend
 - v: attach with a hinge
 ### Family
-hinge: hinged, hinges, hinging, unhinge+;unhinge: unhinged, unhinges, unhinging
+- hinge: hinged, hinges, hinging, unhinge+
+- unhinge: unhinged, unhinges, unhinging
 ### Examples
 - Much of the Rams’ immediate future will hinge on Goff’s development under a new coach.
 - In the end, her life hinged on one thing - a heart transplant.
@@ -36,7 +38,10 @@ To induce is to move or lead someone to action. A promise of a lollipop can indu
 - v: produce electric current by electrostatic or magnetic processes
 - v: reason or establish by induction
 ### Family
-induce: induced, inducement, inducer, induces, inducing, inducive+;induced: self-induced;inducement: inducements;inducer: inducers
+- induce: induced, inducement, inducer, induces, inducing, inducive+
+- induced: self-induced
+- inducement: inducements
+- inducer: inducers
 ### Examples
 - The 42-year-old pizzeria owner strolled along Route 9 for 10 minutes on Labor Day, inducing hilarity and horror in pedestrians and motorists.
 - Christopher Tester, from Torquay, is in an induced coma on the Caribbean island after he was attacked at his parents' restaurant on Christmas Day night.
@@ -52,7 +57,11 @@ The verb deflect describes blocking something or changing its course. Hockey goa
 - v: impede the movement of (an opponent or a ball)
 - v: draw someone's attention away from something
 ### Family
-deflect: deflected, deflecting, deflection, deflective, deflector, deflects, deflexion+;deflection: deflections;deflective: deflectively;deflector: deflectors;deflexion: deflexions
+- deflect: deflected, deflecting, deflection, deflective, deflector, deflects, deflexion+
+- deflection: deflections
+- deflective: deflectively
+- deflector: deflectors
+- deflexion: deflexions
 ### Examples
 - That year, her first Oscars season, Ms. Bening playfully deflected personal questions about her budding romance and attended the ceremony with her parents.
 - And a few of them performed some of the more hilarious contortions seen on the campaign trail to deflect attention from the damaging revelations.
@@ -68,7 +77,10 @@ Damn is a common, somewhat naughty exclamation. In one sense it means to condemn
 - v: wish harm upon; invoke evil upon
 - adv: extremely
 ### Family
-damn: damnable, damnation, damnatory, damned, damnedly, damning, damningly, damns+;damnable: damnablest, damnably;damnation: damnations;damned: damnedest
+- damn: damnable, damnation, damnatory, damned, damnedly, damning, damningly, damns+
+- damnable: damnablest, damnably
+- damnation: damnations
+- damned: damnedest
 ### Examples
 - Which is what Gruden is saying all along about the Cardinals, record be damned.
 - “It’s not presidential when the president calls up the head of a damn air-conditioning company, but it’s so much fun for me.”
@@ -83,7 +95,9 @@ A companion is one who serves as a friend or partner in something. Whether it’
 - n: one paid to accompany or assist or live with another
 - v: be a companion to somebody
 ### Family
-companion: companionable, companioned, companioning, companions, companionship+;companionable: companionability, companionableness, companionably;companionship: companionships
+- companion: companionable, companioned, companioning, companions, companionship+
+- companionable: companionability, companionableness, companionably
+- companionship: companionships
 ### Examples
 - But his companions didn’t seek medical treatment, not then and not for hours.
 - The woman in the trench coat is guided to the back of the bus by her companion.
@@ -96,7 +110,14 @@ Heed is an old word, meaning to listen to and follow. It can also be used as a n
 - n: paying particular notice (as to children or helpless people)
 - v: pay close attention to; give heed to
 ### Family
-heed: heeded, heedful, heeding, heedless, heeds+;heeded: unheeded;heedful: heedfully, heedfulness;heeding: unheeding;heedless: heedlessest, heedlessly, heedlessness;heedlessness: heedlessnesses;unheeded: unheededly;unheeding: unheedingly
+- heed: heeded, heedful, heeding, heedless, heeds+
+- heeded: unheeded
+- heedful: heedfully, heedfulness
+- heeding: unheeding
+- heedless: heedlessest, heedlessly, heedlessness
+- heedlessness: heedlessnesses
+- unheeded: unheededly
+- unheeding: unheedingly
 ### Examples
 - But why should Trump now heed a political movement that was unable to stop him?
 - Amazingly, people move in an orderly fashion as they heed arrows that guide them up and down stairs and along sidewalks.
@@ -109,7 +130,7 @@ An ordeal is something difficult or painful to go through. Something kind of har
 - n: a severe or trying experience
 - n: a primitive method of determining a person's guilt or innocence by subjecting the accused person to dangerous or painful tests believed to be under divine control; escape was usually taken as a sign of innocence
 ### Family
-ordeal: ordeals
+- ordeal: ordeals
 ### Examples
 - Driving away from the scene, the men say little about the ordeal aside from nervous small talk.
 - Less than three months later, what Golden calls “the whole ordeal” started.
@@ -126,7 +147,8 @@ A raid is a military attack, especially a quick surprise attack. The word comes 
 - n: an attempt by speculators to defraud investors
 - v: take over (a company) by buying a controlling interest of its stock
 ### Family
-raid: raided, raider, raiding, raids+;raider: raiders
+- raid: raided, raider, raiding, raids+
+- raider: raiders
 ### Examples
 - Gariev said that as he and his allies turned their attention away from domestic politics, raids by the police also subsided.
 - The account said police, acting on a tip, then raided a village looking for the attackers.
@@ -147,7 +169,9 @@ Dim has several meanings related to a lack of light, hope, or knowledge. A room 
 - adj: offering little or no hope
 - adj: slow to learn or understand; lacking intellectual acuity
 ### Family
-dim: dimly, dimmed, dimmest, dimming, dimness, dims+;dimmed: undimmed;dimness: dimnesses
+- dim: dimly, dimmed, dimmest, dimming, dimness, dims+
+- dimmed: undimmed
+- dimness: dimnesses
 ### Examples
 - Is there anything better than the Met’s Viennese chandeliers gliding to the ceiling as the lights dim?
 - The fast-paced techno music played in a second-floor room, up a dim stairwell and down a long corridor.

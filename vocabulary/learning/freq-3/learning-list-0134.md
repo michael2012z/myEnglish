@@ -6,7 +6,13 @@ A detector is a machine that responds to particular substances in a consistent w
 - n: electronic equipment that detects the presence of radio signals or radioactivity
 - n: rectifier that extracts modulation from a radio carrier wave
 ### Family
-detector: detectors+;detect: detectable, detected, detecting, detection, detective, detector, detects;detectable: detectably, undetectable;detected: undetected;detection: detections;detective: detectives;undetectable: undetectably
+- detector: detectors+
+- detect: detectable, detected, detecting, detection, detective, detector, detects
+- detectable: detectably, undetectable
+- detected: undetected
+- detection: detections
+- detective: detectives
+- undetectable: undetectably
 ### Examples
 - “This generation of detectors should be the last,” said astronomer Stacy McGaugh at Case Western Reserve University in Cleveland, Ohio.
 - There are law enforcement officers at the doors and metal detectors guarding the place.
@@ -18,7 +24,7 @@ Simply put, a modem is an electronic device that changes a digital computer sign
 ### Definition
 - n: (from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line
 ### Family
-modem: modems
+- modem: modems
 ### Examples
 - “We want to keep it simple, for people in nursing homes or people on modems,” she said.
 - The U.S. firm also hindered competition by refusing or limiting licensing of its standard essential patents for modem chips to rival chipmakers, the regulator said.
@@ -31,7 +37,9 @@ Anything noisy is loud. Your noisy party probably won't go over too well with yo
 - adj: full of or characterized by loud and nonmusical sounds
 - adj: attracting attention by showiness or bright colors
 ### Family
-noisy: noisier, noisiest, noisily, noisiness+;noise: noised, noiseless, noises, noising, noisy;noiseless: noiselessly, noiselessness
+- noisy: noisier, noisiest, noisily, noisiness+
+- noise: noised, noiseless, noises, noising, noisy
+- noiseless: noiselessly, noiselessness
 ### Examples
 - Whether he deserves it will remain the noisiest nonpolitical argument in town.
 - It’s not too noisy; not too precious; not too far; not too healthy; not too gluttonous.
@@ -44,7 +52,7 @@ A lane is a relatively narrow street or road. Most country lanes never get backe
 - n: a narrow way or road
 - n: a well-defined track or path; for e.g. swimmers or lines of traffic
 ### Family
-lane: lanes, multilane
+- lane: lanes, multilane
 ### Examples
 - The Yellow Jackets struggled badly in the lane, unable to capitalize on 13 offensive rebounds in the first half.
 - After a timeout with 41.8 seconds left, Powers drove the right side of the lane to tie it at 86.
@@ -62,7 +70,9 @@ A bloom is a flower. You might mark the beginning of spring by the very first bl
 - n: a rosy color (especially in the cheeks) taken as a sign of good health
 - n: a powdery deposit on a surface
 ### Family
-bloom: bloomed, bloomer, blooming, blooms+;bloomer: bloomers;blooming: bloomingest, bloomingly, bloomings
+- bloom: bloomed, bloomer, blooming, blooms+
+- bloomer: bloomers
+- blooming: bloomingest, bloomingly, bloomings
 ### Examples
 - Bloom should leave the classroom and stop by the lab — the world we live in.
 - The documentary, directed by Alexis Bloom and Fisher Stevens, features vintage family films and what is being dubbed “extensive vérité footage.”
@@ -77,7 +87,9 @@ If something stands out in a very obvious way, it can be called salient. It's ti
 - adj: represented as leaping (rampant but leaning forward)
 - n: (military) the part of the line of battle that projects closest to the enemy
 ### Family
-salient: salience, saliency, saliently, salients+;salience: saliences;saliency: saliencies
+- salient: salience, saliency, saliently, salients+
+- salience: saliences
+- saliency: saliencies
 ### Examples
 - IJ’s Robert Everett Johnson notes that this senator missed a few salient points: In civil forfeiture there usually is no proper “judicial process.”
 - Email the contractor — mentioning specific dates, materials to be used, when items are being installed, details of salient conversations, etc., says Lowell.
@@ -89,7 +101,7 @@ Complicity is involvement in a wrongful act — like when you drove your newly-t
 ### Definition
 - n: guilt as an accomplice in a crime or offense
 ### Family
-complicity: complicities
+- complicity: complicities
 ### Examples
 - It also found “official complicity in human trafficking.”
 - News outlets report that 37-year-old Lebruce B. Ellington pleaded guilty Wednesday to seven felony counts, including two counts of complicity to murder.
@@ -101,7 +113,8 @@ If two words are synonymous, they mean the same thing. You tried to convince her
 ### Definition
 - adj: (of words) meaning the same or nearly the same
 ### Family
-synonymous: synonymity, synonymously, synonymousness+;synonym: synonymous, synonyms
+- synonymous: synonymity, synonymously, synonymousness+
+- synonym: synonymous, synonyms
 ### Examples
 - For some Maryland police departments, such as in Baltimore County, the Public Information Act is synonymous with policy regarding the footage.
 - The winner of this battle will determine whether the Trump name forever becomes synonymous with climate heroism or villainy.
@@ -114,7 +127,9 @@ To accrue is to accumulate or to keep growing in value or size. If you can accru
 - v: grow by addition
 - v: come into the possession of
 ### Family
-accrue: accrual, accrued, accruement, accrues, accruing+;accrual: accruals;accruement: accruements
+- accrue: accrual, accrued, accruement, accrues, accruing+
+- accrual: accruals
+- accruement: accruements
 ### Examples
 - Benefits accruing to the United States proved more difficult to specify.
 - But the budget for “20th Century Women” was seven million dollars—a number at which commercial responsibilities begin to accrue.
@@ -130,7 +145,8 @@ A manifestation is the public display of emotion or feeling, or something theore
 - n: expression without words
 - n: a public display of group feelings (usually of a political nature)
 ### Family
-manifestation: manifestations+;manifest: manifestation, manifested, manifestedly, manifesting, manifestly, manifests
+- manifestation: manifestations+
+- manifest: manifestation, manifested, manifestedly, manifesting, manifestly, manifests
 ### Examples
 - For many though, their understanding of “domestic violence” remains limited to its physical manifestations.
 - I met Mr. Diaz at the supreme manifestation of the state’s truck mania: the Texas Truck Rodeo.

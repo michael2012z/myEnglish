@@ -5,7 +5,7 @@ A vintage is the specific year that a wine was made. Different vintages are bett
 - n: the oldness of wines
 - n: a season's yield of wine from a vineyard
 ### Family
-vintage: vintages
+- vintage: vintages
 ### Examples
 - Great vintage advertisement: The Union Pacific railroad touts its access to “America’s vital potato markets.”
 - This is a good place for reasonably priced, vintage furniture.
@@ -18,7 +18,8 @@ If you are reckless, you don't think or care about the consequences of your word
 - adj: marked by defiant disregard for danger or consequences
 - adj: characterized by careless unconcern
 ### Family
-reckless: recklessly, recklessness+;recklessness: recklessnesses
+- reckless: recklessly, recklessness+
+- recklessness: recklessnesses
 ### Examples
 - “In previous campaigns, there was a clear delineation between the serious main event and the reckless fringe, but not in this one,” Ronson writes.
 - He was cited on suspicion of misdemeanor reckless driving.
@@ -31,7 +32,9 @@ Tragic means sad on a grand scale. Rain on your parade? Sad. Weeks of rain leadi
 - adj: very sad; especially involving grief or death or destruction
 - adj: of or relating to or characteristic of tragedy
 ### Family
-tragic: tragedy, tragically, tragicly+;tragedy: tragedies, tragical;tragical: tragicalest
+- tragic: tragedy, tragically, tragicly+
+- tragedy: tragedies, tragical
+- tragical: tragicalest
 ### Examples
 - Mark Caldwell, one of the hotel’s managers, read a prepared statement calling the incident “a tragic accident.”
 - A manager at the Dupont Circle Hotel called the incident “a tragic accident” in a prepared statement.
@@ -43,7 +46,7 @@ When you do something afresh, you start it again as if it's the first time. You 
 ### Definition
 - adv: again but in a new or different way
 ### Family
-afresh
+- afresh
 ### Examples
 - And they are looking afresh at medical care for obese people.
 - The obvious and proper step is for Ofcom to consider the plurality issues afresh and repeat an assessment of fitness.
@@ -54,7 +57,7 @@ afresh
 ### Definition
 - adj: constricted in size
 ### Family
-cramp: cramped, cramping, cramps
+- cramp: cramped, cramping, cramps
 ### Examples
 - He looked around the cramped shop, which contained nearly everything he owned.
 - They lived in a cramped apartment on Ft.
@@ -77,7 +80,7 @@ The action of soaking or washing yourself in water is a bath. You might take a b
 - n: an ancient Hebrew liquid measure equal to about 10 gallons
 - n: a town in southwestern England on the River Avon; famous for its hot springs and Roman remains
 ### Family
-Bath: Baths
+- Bath: Baths
 ### Examples
 - The apartment’s 8,055 square feet includes five bedrooms, seven and a half baths, a library and a family room.
 - Beneath the steel sink and commode, I keep a bath towel spread open across the floor, which I use as a floor rag.
@@ -92,7 +95,9 @@ Bath: Baths
 - n: narrow wood or metal or plastic runners used in pairs for gliding over snow
 - v: move along on skis
 ### Family
-ski: skied, skier, skiing, skis+;skier: skiers;skiing: skiings
+- ski: skied, skier, skiing, skis+
+- skier: skiers
+- skiing: skiings
 ### Examples
 - Cyclist Sir Bradley Wiggins is to swap two wheels for two skis after signing up to appear on Channel 4's winter sports show The Jump.
 - Day previously worked with the U.S. men’s ski team, coaching Ted Ligety to four world titles and two World Cup giant slalom globes.
@@ -111,7 +116,10 @@ A bird such as a hen that sits on eggs to incubate them can be said to hatch the
 - v: draw, cut, or engrave lines, usually parallel, on metal, wood, or paper
 - n: shading consisting of multiple crossing lines
 ### Family
-hatch: hatched, hatchery, hatches, hatching+;hatched: unhatched;hatchery: hatcheries;hatching: hatchings
+- hatch: hatched, hatchery, hatches, hatching+
+- hatched: unhatched
+- hatchery: hatcheries
+- hatching: hatchings
 ### Examples
 - When the time and price were right, bankers would seek to match the tech giants with a start-up, and a deal would be hatched.
 - The finding suggests that, at least in terms of hatch times, dinosaurs were more like modern reptiles than birds.
@@ -124,7 +132,7 @@ A maid is a household worker who cleans and performs various other tasks. Today,
 - n: a female domestic
 - n: an unmarried girl (especially a virgin)
 ### Family
-maid: maidhood, maids
+- maid: maidhood, maids
 ### Examples
 - He hired the Scottish émigré Williamina Fleming, a former teacher, as a maid after her husband abandoned her in a “delicate condition.”
 - With no increase in the federal minimum wage — it’s been the same since 2009 — the eight maids received the same basic compensation as last year.
@@ -137,7 +145,7 @@ When you do something piecemeal, you're doing it little by little, but in a seem
 - adj: one thing at a time
 - adv: a little bit at a time
 ### Family
-piecemeal
+- piecemeal
 ### Examples
 - The epidemic is addressed piecemeal, by churches, police, judges, nonprofit groups and volunteers.
 - Despite reforms under the previous government, Myanmar's land laws are piecemeal and contain overlapping provisions.

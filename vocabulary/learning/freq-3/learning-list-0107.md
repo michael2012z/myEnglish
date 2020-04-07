@@ -5,7 +5,9 @@ An optimum is the best condition or highest extent of something. He didn't mean 
 - adj: most desirable possible under a restriction expressed or implied
 - n: most favorable conditions or greatest degree or amount possible under given circumstances
 ### Family
-optimum: optima, optimise, optimize+;optimise: optimisation, optimises, optimising;optimize: optimization, optimized, optimizes, optimizing
+- optimum: optima, optimise, optimize+
+- optimise: optimisation, optimises, optimising
+- optimize: optimization, optimized, optimizes, optimizing
 ### Examples
 - The common thread in the losses is the Clippers’ failure to perform at an optimum level in the fourth quarter.
 - More research is needed to determine the optimum amount of strength training for women and men to reduce their risks.
@@ -19,7 +21,13 @@ Reflective is an adjective that can describe a person who thinks things through,
 - adj: deeply or seriously thoughtful
 - adj: devoted to matters of the mind
 ### Family
-reflective: nonreflective, reflectively, reflectiveness, reflectivity, unreflective+;reflect: reflected, reflecting, reflection, reflective, reflector, reflects;reflected: unreflected;reflecting: nonreflecting, reflectingly;reflection: reflections;reflector: reflectorise, reflectorize, reflectors;unreflective: unreflectively
+- reflective: nonreflective, reflectively, reflectiveness, reflectivity, unreflective+
+- reflect: reflected, reflecting, reflection, reflective, reflector, reflects
+- reflected: unreflected
+- reflecting: nonreflecting, reflectingly
+- reflection: reflections
+- reflector: reflectorise, reflectorize, reflectors
+- unreflective: unreflectively
 ### Examples
 - We’ll be a team that is reflective of our value and our market.
 - This song is one of the best from his sturdy, reflective debut album, “Vinyl.”
@@ -33,7 +41,12 @@ reflective: nonreflective, reflectively, reflectiveness, reflectivity, unreflect
 - n: the work of applying something
 - n: a heavy fabric suitable for coats
 ### Family
-coating: coatings, overcoating+;coat: coated, coating, coats, overcoat, undercoat;coated: uncoated;overcoat: overcoats;overcoating: overcoatings;undercoat: undercoated, undercoating, undercoats
+- coating: coatings, overcoating+
+- coat: coated, coating, coats, overcoat, undercoat
+- coated: uncoated
+- overcoat: overcoats
+- overcoating: overcoatings
+- undercoat: undercoated, undercoating, undercoats
 ### Examples
 - Praxair produces, sells and distributes atmospheric, process and specialty gases and high-performance surface coatings.
 - It destroys the protective coating that wraps round nerves called the myelin sheath.
@@ -46,7 +59,11 @@ If you can't tell the difference between two things, they're indistinguishable �
 - adj: exactly alike; incapable of being perceived as different
 - adj: not capable of being distinguished or differentiated
 ### Family
-indistinguishable: indistinguishability, indistinguishably+;distinguish: distinguishable, distinguished, distinguishes, distinguishing;distinguishable: distinguishably, indistinguishable, undistinguishable;distinguished: distinguishedly, undistinguished;undistinguishable: undistinguishably
+- indistinguishable: indistinguishability, indistinguishably+
+- distinguish: distinguishable, distinguished, distinguishes, distinguishing
+- distinguishable: distinguishably, indistinguishable, undistinguishable
+- distinguished: distinguishedly, undistinguished
+- undistinguishable: undistinguishably
 ### Examples
 - For the narrator, his daughter’s death and the end of the world are indistinguishable.
 - Maybe the Clinton picture represents a new brand of presidential portraiture, for a time when politics and entertainment are indivisible, heroes and rogues indistinguishable.
@@ -59,7 +76,9 @@ An indictment, or a legal document charging you with a crime, is something you d
 - n: an accusation of wrongdoing
 - n: a formal document written for a prosecuting attorney charging a person with some offense
 ### Family
-indictment: indictments+;indict: indictable, indicted, indicting, indictment, indicts;indictable: indictability
+- indictment: indictments+
+- indict: indictable, indicted, indicting, indictment, indicts
+- indictable: indictability
 ### Examples
 - Though the police recommended an indictment, the attorney general at the time decided not to pursue the case for lack of evidence.
 - Nor are the successes of rural schools necessarily an indictment on the struggles of those in metropolitan areas.
@@ -77,7 +96,7 @@ A gloss is a shiny finish on an object. It’s also an explanation about a word 
 - n: an alphabetical list of technical terms in some specialized field of knowledge; usually published as an appendix to a text on that field
 - n: an outward or token appearance or form that is deliberately misleading
 ### Family
-gloss: glossed, glosses, glossing, semigloss
+- gloss: glossed, glosses, glossing, semigloss
 ### Examples
 - Or are they putting a lovely gloss on some of Trump’s unsavory rhetoric and actions?
 - Amid this flood of leaks, we did learn a few new details, in addition to the CIA’s new gloss on existing intelligence.
@@ -90,7 +109,7 @@ A sequel is a continuation or part two. The Empire Strikes Back and Toy Story 2 
 - n: something that follows something else
 - n: a part added to a book or play that continues and extends it
 ### Family
-sequel: sequels
+- sequel: sequels
 ### Examples
 - Reynolds and the Deadpool creative team are hard at work on the upcoming sequel, with John Wick’s David Leitch on board to direct.
 - I wrote about the many projects Fisher was involved in as an actor and writer, from “Star Wars” to a possible sequel to “Wishful Drinking.”
@@ -102,7 +121,7 @@ In the Christian church, the clergy is the entire class of religious officials, 
 ### Definition
 - n: in Christianity, clergymen collectively (as distinguished from the laity)
 ### Family
-clergy: clergies
+- clergy: clergies
 ### Examples
 - As a clergy person I’m inclined to see more than just team loyalty.
 - The clergy’s stance, however, hasn’t stopped Muslims across the country from joining the throngs of Americans shopping, decorating and cooking this season.
@@ -116,7 +135,12 @@ Nobility refers to a privileged class of people — often receiving hereditary t
 - n: the state of being of noble birth
 - n: the quality of elevation of mind and exaltation of character or ideals or conduct
 ### Family
-nobility: nobilities+;ennoble: ennobled, ennoblement, ennobles, ennobling;ennobling: ennoblingly;noble: ennoble, nobility, nobleness, nobler, nobles, noblest, nobly;nobleness: noblenesses;nobly: noblys
+- nobility: nobilities+
+- ennoble: ennobled, ennoblement, ennobles, ennobling
+- ennobling: ennoblingly
+- noble: ennoble, nobility, nobleness, nobler, nobles, noblest, nobly
+- nobleness: noblenesses
+- nobly: noblys
 ### Examples
 - Then he executes the old regime’s nobility, judges and financiers.
 - And while sportsmanship guardians will admonish me for saying this, it’s disingenuous to expect too much nobility in a sport that requires such viciousness.
@@ -128,7 +152,7 @@ The gentry are the powerful members of society. In the United Kingdom, where the
 ### Definition
 - n: the most powerful members of a society
 ### Family
-gentry: gentries
+- gentry: gentries
 ### Examples
 - Gentry said Houston’s offense is fueled by Harden’s abilities as a playmaker.
 - “I thought we played well the first half. I thought we competed, did a good job,” Pelicans coach Alvin Gentry said.

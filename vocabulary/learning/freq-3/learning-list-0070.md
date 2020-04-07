@@ -5,7 +5,8 @@ Use the adjective perpetual to describe something that never ends or changes. If
 - adj: continuing forever or indefinitely
 - adj: uninterrupted in time and indefinitely long continuing
 ### Family
-perpetual: perpetually, perpetuity+;perpetuity: perpetuities
+- perpetual: perpetually, perpetuity+
+- perpetuity: perpetuities
 ### Examples
 - This poet is, for me, a perpetual inspiration.
 - But Kerry was also right when he said that “the status quo is leading towards one state and perpetual occupation.”
@@ -18,7 +19,12 @@ If something experiences a revival, that means it’s once again popular or impo
 - n: bringing again into activity and prominence
 - n: an evangelistic meeting intended to reawaken interest in religion
 ### Family
-revival: revivalism, revivals+;revivalism: revivalist, revivalistic;revivalist: revivalists;revive: revival, revived, revives, reviving;revived: unrevived;reviving: revivingly
+- revival: revivalism, revivals+
+- revivalism: revivalist, revivalistic
+- revivalist: revivalists
+- revive: revival, revived, revives, reviving
+- revived: unrevived
+- reviving: revivingly
 ### Examples
 - The Raiders, after trailing by 17 points at halftime, needed one of those revivals Sunday.
 - Promoting a revival in business creation should be a top priority of the Trump Administration.
@@ -30,7 +36,9 @@ revival: revivalism, revivals+;revivalism: revivalist, revivalistic;revivalist: 
 - n: doubt about the truth of something
 - n: the disbelief in any claims of ultimate knowledge
 ### Family
-scepticism: scepticisms+;sceptic: sceptical, sceptics;sceptical: sceptically, scepticism
+- scepticism: scepticisms+
+- sceptic: sceptical, sceptics
+- sceptical: sceptically, scepticism
 ### Examples
 - Scepticism about the prospects for a wider deal abounds.
 - There may be increased climate scepticism, but there will also be more scientists, teachers and citizens banding together to respond.
@@ -44,7 +52,7 @@ The brink of something is the very edge of it. If you want to give your mom a go
 - n: the limit beyond which something happens or changes
 - n: a region marking a boundary
 ### Family
-brink: brinks
+- brink: brinks
 ### Examples
 - Then the Brink’s robbery occurred, and there was no point in trying anymore.
 - “The South Sudanese people are very strong, resilient people, but this is pushing them to the brink,” said McCray.
@@ -56,7 +64,9 @@ brink: brinks
 - adj: of or relating to a focus
 - adj: having or localized centrally at a focus
 ### Family
-focal: bifocal, focalise, focalize+;focalise: focalisation, focalised, focalises, focalising;focalize: focalization, focalized, focalizes, focalizing
+- focal: bifocal, focalise, focalize+
+- focalise: focalisation, focalised, focalises, focalising
+- focalize: focalization, focalized, focalizes, focalizing
 ### Examples
 - Seven barges were used to launch the pyrotechnics, and the iconic bridge served as a focal point for the show.
 - The programming connects practicing artist volunteers with residents and provides a dance center that’s the focal point for a burgeoning arts district.
@@ -71,7 +81,7 @@ Relish isn't just a hotdog topping. The verb relish means to enjoy something imm
 - n: spicy or savory condiment
 - n: the taste experience when a savoury condiment is taken into the mouth
 ### Family
-relish: relished, relishes, relishing
+- relish: relished, relishes, relishing
 ### Examples
 - We relished the opportunity to meet with local Azoreans, all while eating great, free food!
 - Mr. Johnson relished his lush job, but he soon grew restless again.
@@ -83,7 +93,10 @@ Guise, a noun, is the art of pretending to be something you aren't, like when, i
 ### Definition
 - n: an artful or simulated semblance
 ### Family
-guise: disguise, guises+;disguise: disguised, disguises, disguising;disguised: disguisedly, undisguised;undisguised: undisguisedly
+- guise: disguise, guises+
+- disguise: disguised, disguises, disguising
+- disguised: disguisedly, undisguised
+- undisguised: undisguisedly
 ### Examples
 - This work, painted in 1618, is really about the visual puzzle it presents, but this is packaged in the guise of a religious painting.
 - Another man was accused of raising money for Islamic State under the guise of helping displaced persons.
@@ -96,7 +109,9 @@ To frighten is to make someone feel afraid. Your new look — pink hair, tattoos
 - v: cause fear in
 - v: drive out by frightening
 ### Family
-frighten: frightened, frightening, frightens+;frightened: frighteneder, frightenedest, frightenedly, unfrightened;frightening: frighteningly, frightenings
+- frighten: frightened, frightening, frightens+
+- frightened: frighteneder, frightenedest, frightenedly, unfrightened
+- frightening: frighteningly, frightenings
 ### Examples
 - With relatives and friends still in harm's way in Syria, or seeking sanctuary in neighbouring countries, these are frightening times.
 - The frightening prospect for opponents is, Hurts will only improve.
@@ -110,7 +125,15 @@ When you obstruct something, you block it. If you’re gobbling down your pizza,
 - v: hinder or prevent the progress or accomplishment of
 - v: shut out from view or get in the way so as to hide from sight
 ### Family
-obstruct: obstructed, obstructer, obstructing, obstruction, obstructive, obstructor, obstructs+;obstructed: unobstructed;obstructer: obstructers;obstruction: obstructionism, obstructions;obstructionism: obstructionist;obstructionist: obstructionists;obstructive: obstructively;obstructor: obstructors;unobstructed: unobstructedly
+- obstruct: obstructed, obstructer, obstructing, obstruction, obstructive, obstructor, obstructs+
+- obstructed: unobstructed
+- obstructer: obstructers
+- obstruction: obstructionism, obstructions
+- obstructionism: obstructionist
+- obstructionist: obstructionists
+- obstructive: obstructively
+- obstructor: obstructors
+- unobstructed: unobstructedly
 ### Examples
 - But the lawsuit, filed on behalf of Senegal’s widow, claims deputies misrepresented facts and obstructed the investigation.
 - That all ended in April when Morel pleaded guilty to obstructing justice.
@@ -122,7 +145,7 @@ A patriarchy is a social system or organization run by men. If Dad always gets t
 ### Definition
 - n: a form of social organization in which a male is the family head and title is traced through the male line
 ### Family
-patriarchy: patriarchic, patriarchies
+- patriarchy: patriarchic, patriarchies
 ### Examples
 - Perhaps the reason for the disconnect isn’t just a reflection of deeply entrenched patriarchy.
 - Mrs. Clinton’s “makeup free look,” she wrote, is “one last middle finger to the patriarchy.”

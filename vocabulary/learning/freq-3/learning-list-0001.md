@@ -4,7 +4,8 @@ The word fiscal resembles the word financial, which makes sense because both inv
 ### Definition
 - adj: involving financial matters
 ### Family
-fiscal: fiscally+;fisc: fiscal, fiscs
+- fiscal: fiscally+
+- fisc: fiscal, fiscs
 ### Examples
 - Iowa will save more than $100 million this fiscal year, Branstad insisted, even as the insurers themselves reported huge losses and demanded more cash.
 - The “fiscal cliff” compromise left almost no one happy.
@@ -18,7 +19,11 @@ A rival is a competitor or contender that you want to defeat, whether in an actu
 - v: be the rival of, be in competition with
 - v: be equal to in quality or ability
 ### Family
-rival: rivaled, rivaling, rivalled, rivalling, rivalrous, rivalry, rivals+;rivaled: unrivaled;rivalled: unrivalled;rivalry: rivalries;unrivaled: unrivaledest
+- rival: rivaled, rivaling, rivalled, rivalling, rivalrous, rivalry, rivals+
+- rivaled: unrivaled
+- rivalled: unrivalled
+- rivalry: rivalries
+- unrivaled: unrivaledest
 ### Examples
 - Deutsche Bank was the focus of that dream and along the way, he declined many offers to leave and join rival banks.
 - He told the media and political rivals to "hold off partying", adding: "Nothing will happen, because there is nothing."
@@ -34,7 +39,10 @@ If you have an urge to eat candy, you really want to eat those sweets. Your moth
 - n: an instinctive motive
 - n: a strong, restless desire
 ### Family
-urge: urged, urgent, urges, urging+;urgency: urgencies;urgent: urgency, urgentest, urgently;urging: urgings
+- urge: urged, urgent, urges, urging+
+- urgency: urgencies
+- urgent: urgency, urgentest, urgently
+- urging: urgings
 ### Examples
 - Andre is indignant about the way he is treated, but urges his angry family to let him seek justice through the court.
 - More than 170 House Republicans signed a recent letter of which Mr. Price was an author, urging the administration to “stop experimenting with Americans’ health.”
@@ -47,7 +55,13 @@ An institute is an organization or association designed to study or promote some
 - v: advance or set forth in court
 - n: an association organized to promote art or science or education
 ### Family
-institute: instituted, institutes, instituting, institution+;institution: institutional, institutionalise, institutionalize, institutions;institutional: institutionally, noninstitutional;institutionalise: institutionalised;institutionalised: noninstitutionalised;institutionalize: institutionalized, institutionalizes, institutionalizing;institutionalized: noninstitutionalized
+- institute: instituted, institutes, instituting, institution+
+- institution: institutional, institutionalise, institutionalize, institutions
+- institutional: institutionally, noninstitutional
+- institutionalise: institutionalised
+- institutionalised: noninstitutionalised
+- institutionalize: institutionalized, institutionalizes, institutionalizing
+- institutionalized: noninstitutionalized
 ### Examples
 - The inventors of the new process are two young chemists at the Indian Institute of Technology in Kharagpur.
 - For example, the University of Wisconsin Population Health Institute does health rankings of counties in every state.
@@ -63,7 +77,11 @@ Jobs being cut? Houses not selling? Everyone talking about the poor sales of eve
 - n: the state of the economy declines; a widespread decline in the GDP and employment and trade lasting from six months to a year
 - n: a small concavity
 ### Family
-recession: recessional, recessions+;cede: ceded, cedes, ceding, cession, recede;cession: cessions;recede: receded, recedes, receding, recession;recessional: recessionals
+- recession: recessional, recessions+
+- cede: ceded, cedes, ceding, cession, recede
+- cession: cessions
+- recede: receded, recedes, receding, recession
+- recessional: recessionals
 ### Examples
 - Still, the years after the Great Recession dug a deep hole for the companies to clear.
 - The Great Recession hurt school funding, according to the lawsuit.
@@ -82,7 +100,7 @@ recession: recessional, recessions+;cede: ceded, cedes, ceding, cession, recede;
 - n: negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time
 - n: the British cabinet minister responsible for economic strategy
 ### Family
-Treasury: Treasuries
+- Treasury: Treasuries
 ### Examples
 - Nominees for treasury secretary, however, are typically requested to supply three years of tax returns.
 - Each decision affects the balance of your kingdom between four powers: the church, the people, the army and the treasury.
@@ -99,7 +117,10 @@ If you have an ally, you have someone who is on your side, like a more experienc
 - n: an associate who provides cooperation or assistance
 - v: become an ally or associate, as by a treaty or marriage
 ### Family
-ally: Allies, alliance, allied, allies, allying, misally+;alliance: alliances;misalliance: misalliances;misally: misalliance, misallied
+- ally: Allies, alliance, allied, allies, allying, misally+
+- alliance: alliances
+- misalliance: misalliances
+- misally: misalliance, misallied
 ### Examples
 - The rebel groups questioned Russia’s ability to force the Syrian government and their allies to abide by the terms of the ceasefire deal.
 - Israel’s main ally, for allowing the United Nations to censure his government over its controversial plans to build new settlements in the occupied West Bank.
@@ -118,7 +139,11 @@ A surge is a sudden strong swelling, like a tsunami wave that engulfs the land. 
 - n: a sudden forceful flow
 - n: a sudden or abrupt strong increase
 ### Family
-surge: resurge, surged, surges, surging+;resurge: resurged, resurgent, resurges, resurging;resurgence: resurgences;resurgent: resurgence;surging: surginger, surgingly
+- surge: resurge, surged, surges, surging+
+- resurge: resurged, resurgent, resurges, resurging
+- resurgence: resurgences
+- resurgent: resurgence
+- surging: surginger, surgingly
 ### Examples
 - But the number of U.S. cases of measles is now surging.
 - The 2016 French Open champion saved three set points to surge ahead and broke Stosur twice early in the second set.
@@ -132,7 +157,8 @@ A coalition is a group of people who join together for a common cause, like a co
 - n: the state of being combined into one body
 - n: an organization of people (or countries) involved in a pact or treaty
 ### Family
-coalition: coalitions+;coalesce: coalesced, coalescency, coalesces, coalescing, coalition
+- coalition: coalitions+
+- coalesce: coalesced, coalescency, coalesces, coalescing, coalition
 ### Examples
 - Iraq’s military, aided by air support from the U.S.-led coalition fighting Islamic State, in October began a long-awaited offensive on Mosul.
 - Mr. Petraeus and retired astronaut Mark Kelly teamed up this year to launch the gun control advocacy group Veterans Coalition for Common Sense.
@@ -153,7 +179,7 @@ A stake is a wooden stick, sharpened on one end and used to mark property lines 
 - v: put at risk
 - v: place a bet on
 ### Family
-stake: staked, stakes, staking
+- stake: staked, stakes, staking
 ### Examples
 - The impending mission carries huge stakes for both SpaceX and Iridium.
 - The deep stake that Mr. Dos Santos’s family holds in the economy also is likely to remain undiminished.

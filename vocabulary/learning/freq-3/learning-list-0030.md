@@ -8,7 +8,7 @@ A communion is an intimate connection. Many people enjoy hiking in the woods in 
 - n: (Christianity) a group of Christians with a common religious faith who practice the same rites
 - n: the act of participating in the celebration of the Eucharist
 ### Family
-Communion: Communions
+- Communion: Communions
 ### Examples
 - In Iran three men who converted to Christianity were recently sentenced to 80 lashes for drinking communion wine.
 - We live these moments, seeking communion with others and with ourselves, and connection to the ancient roots and human longings they fulfill.
@@ -25,7 +25,9 @@ A collision is when two or more things smash together. You shouldn't give yourse
 - n: (physics) a brief event in which two or more bodies come together
 - n: a conflict of opposed ideas or attitudes or goals
 ### Family
-collision: collisions+;collide: collided, collider, collides, colliding, collision;collider: colliders
+- collision: collisions+
+- collide: collided, collider, collides, colliding, collision
+- collider: colliders
 ### Examples
 - The Federal Aviation Administration says the collision occurred shortly after 5:30 p.m. near Aero Country Airport.
 - This vignette gets its bathetic comedy from the collision of two scales: the immensity of war and its mass casualties hitting against private comforts.
@@ -41,7 +43,8 @@ You might still have terrifying dreams about the bully who harassed you on the p
 - n: a hired thug
 - adj: very good
 ### Family
-bully: bullied, bullies, bullying, bullyingly+;bullying: bullyings
+- bully: bullied, bullies, bullying, bullyingly+
+- bullying: bullyings
 ### Examples
 - The final days are Obama’s last chance to define his presidency before he loses the bully pulpit and cedes his legacy to historians.
 - These officials should use the bully pulpit and negotiation skills to achieve fantastic outcomes for Washingtonians.
@@ -53,7 +56,10 @@ Procurement is the act of getting something you need. Save it for when you need 
 ### Definition
 - n: the act of getting possession of something
 ### Family
-procurement: procurements+;procurable: unprocurable;procure: procurable, procural, procurance, procured, procurement, procurer, procures, procuring;procurer: procurers
+- procurement: procurements+
+- procurable: unprocurable
+- procure: procurable, procural, procurance, procured, procurement, procurer, procures, procuring
+- procurer: procurers
 ### Examples
 - Drabkin, the former senior procurement officer at the GSA, thinks for this reason alone, the president-elect should give up the hotel.
 - Congress combined several agencies into what is now the General Services Administration, which reduced paperwork and federal procurement costs.
@@ -82,7 +88,16 @@ If you're tender, it means you're fragile, sensitive, easily bruised or gentle. 
 - n: ship that usually provides supplies to other ships
 - n: a boat for communication between ship and shore
 ### Family
-tender: tendered, tenderer, tenderest, tendering, tenderise, tenderize, tenderized, tenderly, tenderness, tenders+;tend: tended, tendency, tender, tending, tends;tended: untended;tendency: tendencies, tendencious, tendentious;tendentious: tendentiously, tendentiousness;tenderise: tenderisation, tenderised, tenderiser;tenderize: tenderization, tenderizer, tenderizes, tenderizing;tenderizer: tenderizers;tenderness: tendernesses;tending: tendings
+- tender: tendered, tenderer, tenderest, tendering, tenderise, tenderize, tenderized, tenderly, tenderness, tenders+
+- tend: tended, tendency, tender, tending, tends
+- tended: untended
+- tendency: tendencies, tendencious, tendentious
+- tendentious: tendentiously, tendentiousness
+- tenderise: tenderisation, tenderised, tenderiser
+- tenderize: tenderization, tenderizer, tenderizes, tenderizing
+- tenderizer: tenderizers
+- tenderness: tendernesses
+- tending: tendings
 ### Examples
 - The round £1 will be legal tender alongside the new, more-secure coin until October 15.
 - That led the Peruvian government to announce on Wednesday that the company would not be permitted to participate in the country's future public works tenders.
@@ -94,7 +109,10 @@ Danger! Hazardous! Do not eat! These are just some of the warnings you'll see on
 ### Definition
 - adj: of or relating to or caused by a toxin or poison
 ### Family
-toxic: antitoxic, detoxify, nontoxic, toxically, toxicity+;detoxicate: detoxicated, detoxicates, detoxicating;detoxify: detoxicate, detoxification, detoxified, detoxifies, detoxifying;toxicity: toxicities
+- toxic: antitoxic, detoxify, nontoxic, toxically, toxicity+
+- detoxicate: detoxicated, detoxicates, detoxicating
+- detoxify: detoxicate, detoxification, detoxified, detoxifies, detoxifying
+- toxicity: toxicities
 ### Examples
 - But the country is now facing the limits of that model amid slowing growth, toxic pollution and the shift of manufacturing work to less-developed nations.
 - That bout of smog saw 460 million people, a population greater than North America, breathing toxic air, according to Greenpeace.
@@ -108,7 +126,10 @@ If you have a negative attitude towards someone based on race or ethnicity rathe
 - v: influence (somebody's) opinion in advance
 - v: disadvantage by prejudice
 ### Family
-prejudice: prejudiced, prejudices, prejudicial, prejudicing+;prejudiced: unprejudiced;prejudicial: prejudicially;unprejudiced: unprejudicedly
+- prejudice: prejudiced, prejudices, prejudicial, prejudicing+
+- prejudiced: unprejudiced
+- prejudicial: prejudicially
+- unprejudiced: unprejudicedly
 ### Examples
 - As they bear witness, the Dukakises face decades of prejudice against a treatment that Dukakis credits with saving her life.
 - As they bear witness, the Dukakises face decades of prejudice against a treatment that Mrs. Dukakis credits with saving her life.
@@ -119,7 +140,7 @@ prejudice: prejudiced, prejudices, prejudicial, prejudicing+;prejudiced: unpreju
 ### Definition
 - n: a man-made object taken as a whole
 ### Family
-artefact: artefacts
+- artefact: artefacts
 ### Examples
 - The Bears Ears National Monument and the Gold Butte National Monument will protect areas rich in Native American artefacts from energy drilling.
 - A look around a museum in Russia dedicated to Soviet-era artefacts.
@@ -130,7 +151,9 @@ artefact: artefacts
 ### Definition
 - n: a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues
 ### Family
-nitrogen: nitrogenise, nitrogenize, nitrogenous, nitrogens+;nitrogenise: nitrogenised;nitrogenize: nitrogenized
+- nitrogen: nitrogenise, nitrogenize, nitrogenous, nitrogens+
+- nitrogenise: nitrogenised
+- nitrogenize: nitrogenized
 ### Examples
 - In a natural state, plants grow, they die, the nitrogen they contain returns to the soil, and new plants use it to grow.
 - The nitrogen imparts a sweetness to coffee, helping to reduce the amount of sugar needed.
@@ -142,7 +165,9 @@ Anything disruptive is loud, chaotic, and disorderly. Disruptive things disturb 
 ### Definition
 - adj: characterized by unrest or disorder or insubordination
 ### Family
-disruptive: disruptively+;disrupt: disrupted, disrupting, disruption, disruptive, disrupts;disruption: disruptions
+- disruptive: disruptively+
+- disrupt: disrupted, disrupting, disruption, disruptive, disrupts
+- disruption: disruptions
 ### Examples
 - This season, he was team’s most disruptive lineman.
 - “It’s better to acquire disruptive technology than to be disrupted by that technology.”

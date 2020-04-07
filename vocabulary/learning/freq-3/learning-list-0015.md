@@ -5,7 +5,7 @@ A donor is a person who donates something of value to a person or an organizatio
 - n: person who makes a gift of property
 - n: (medicine) someone who gives blood or tissue or an organ to be used in another person (the host)
 ### Family
-donor: donors
+- donor: donors
 ### Examples
 - An opposition lawmaker is also campaigning for Netanyahu to be investigated over suspicions that donors improperly transferred money for his personal use.
 - It's also why he's devoted his life to keeping the memory of his donor, Jason Gosnell, alive.
@@ -17,7 +17,8 @@ The courts and the people who run them — particularly judges — make up the j
 - n: the system of law courts that administer justice and constitute the judicial branch of government
 - n: persons who administer justice
 ### Family
-judiciary: judiciaries+;judicial: judicially, judiciary
+- judiciary: judiciaries+
+- judicial: judicially, judiciary
 ### Examples
 - The problem is exacerbated by how much power is concentrated in the presidency, relative to the legislature or to the judiciary.
 - “I expect the parliament not to vote ... on the agreement before the judiciary rules, so that there won’t be any conflict between them,” he said.
@@ -33,7 +34,11 @@ A precedent is something that sets a standard for future events. It's hard to sa
 - n: a subject mentioned earlier (preceding in time)
 - adj: preceding in time, order, or significance
 ### Family
-precedent: precedence, precedently, precedents+;precede: preceded, precedency, precedent, precedes, preceding, precession;precedence: precedences, precedential;precedency: precedencies;precession: precessions
+- precedent: precedence, precedently, precedents+
+- precede: preceded, precedency, precedent, precedes, preceding, precession
+- precedence: precedences, precedential
+- precedency: precedencies
+- precession: precessions
 ### Examples
 - Her allies were delighted that Trump raised the precedent of Ronald Reagan’s bond with Margaret Thatcher in his first phone call with May.
 - “There is long historical precedent for a Supreme Court with fewer justices,” Cruz lied at a campaign event.
@@ -45,7 +50,7 @@ Notwithstanding means "in spite of something." Your boasts about having memorize
 ### Definition
 - adv: despite anything to the contrary (usually following a concession)
 ### Family
-notwithstanding: notwithstandings
+- notwithstanding: notwithstandings
 ### Examples
 - And global condemnations notwithstanding, the trend is poised to accelerate. 
 - That’s right, over 30,000 settlement units advance notwithstanding the positions in the United States and other countries.
@@ -59,7 +64,14 @@ Something illegitimate is unlawful, or improper. If you're a doctor, even a grea
 - adj: of marriages and offspring; not recognized as lawful
 - n: the illegitimate offspring of unmarried parents
 ### Family
-illegitimate: illegitimacy, illegitimately, illegitimates+;illegitimacy: illegitimacies;legitimacy: legitimacies;legitimate: illegitimate, legitimacy, legitimated, legitimately, legitimates, legitimating, legitimation, legitimatise, legitimatize, legitimise, legitimize;legitimatise: legitimatised, legitimatises, legitimatising;legitimatize: legitimatized, legitimatizes, legitimatizing;legitimise: legitimised, legitimises, legitimising;legitimize: legitimized, legitimizes, legitimizing
+- illegitimate: illegitimacy, illegitimately, illegitimates+
+- illegitimacy: illegitimacies
+- legitimacy: legitimacies
+- legitimate: illegitimate, legitimacy, legitimated, legitimately, legitimates, legitimating, legitimation, legitimatise, legitimatize, legitimise, legitimize
+- legitimatise: legitimatised, legitimatises, legitimatising
+- legitimatize: legitimatized, legitimatizes, legitimatizing
+- legitimise: legitimised, legitimises, legitimising
+- legitimize: legitimized, legitimizes, legitimizing
 ### Examples
 - Linhardt says his limited review determined the expense reimbursements “may be illegitimate” and need to be thoroughly investigated.
 - Trump’s national security adviser considers the Islamic faith — all of it, not just the radicalized fringes — to be illegitimate and akin to a “cancer.”
@@ -72,7 +84,7 @@ Remember that aide with an "e" at the end is a noun. It refers to a person who h
 - n: someone who acts as assistant
 - n: an officer who acts as military assistant to a more senior officer
 ### Family
-aide
+- aide
 ### Examples
 - The aide, Martin Nejedly, stayed on as economic adviser to the Czech president, Milos Zeman, and vice chairman of his party.
 - The meeting will include both House and Senate Democrats, a senior Democratic aide confirmed.
@@ -90,7 +102,8 @@ Bread. Milk. Gasoline. Xboxes. What do these all have in common? They're all a s
 - n: paper fastener consisting of a short length of U-shaped wire that can fasten papers together
 - v: secure or fasten with a staple or staples
 ### Family
-staple: stapled, stapler, staples, stapling, unstaple+;stapler: staplers
+- staple: stapled, stapler, staples, stapling, unstaple+
+- stapler: staplers
 ### Examples
 - An uneven 109-98 victory over the lowly Suns in Staples Center would hardly classify as a “fix.”
 - To ward off atrophy, buy a drawer organizer, suggested Ms. Lowenheim, who uses expandable drawer organizers from Staples in her own home.
@@ -107,7 +120,7 @@ Rein is both a noun and a verb for guiding and restraining. You can use the long
 - v: keep in check
 - v: stop or slow up one's horse or oneself by or as if by pulling the reins
 ### Family
-rein: reined, reining, reins
+- rein: reined, reining, reins
 ### Examples
 - Mr Trump also berated China for failing to help rein in its ally North Korea.
 - But growth did slow slightly more than expected, in a sign that government measures to rein in soaring asset prices are affecting the broader economy.
@@ -125,7 +138,9 @@ If everyone decided to litter, or drop trash on the ground, the world would be c
 - v: give birth to a litter of animals
 - n: conveyance consisting of a chair or bed carried on two poles by bearers
 ### Family
-litter: littered, litterer, littering, litters+;littered: unlittered;litterer: litterers
+- litter: littered, litterer, littering, litters+
+- littered: unlittered
+- litterer: litterers
 ### Examples
 - Nationwide, sales of kitty litter approached $2.9 billion last year.
 - Steady demand for kitty litter helped Wyo-Ben and other bentonite miners through the downturn.
@@ -138,7 +153,12 @@ Choose the verb mitigate when something lessens the unpleasantness of a situatio
 - v: lessen or to try to lessen the seriousness or extent of
 - v: make less severe or harsh
 ### Family
-mitigate: mitigable, mitigated, mitigates, mitigating, mitigation, mitigative, mitigatory+;mitigable: unmitigable;mitigated: unmitigated;mitigation: mitigations;unmitigable: unmitigably;unmitigated: unmitigatedest, unmitigatedly
+- mitigate: mitigable, mitigated, mitigates, mitigating, mitigation, mitigative, mitigatory+
+- mitigable: unmitigable
+- mitigated: unmitigated
+- mitigation: mitigations
+- unmitigable: unmitigably
+- unmitigated: unmitigatedest, unmitigatedly
 ### Examples
 - The document was intended to help companies mitigate Russian hacking and report any suspicious activity to the government.
 - Because evidence of mitigating factors is supposed to be reserved for the penalty phase, Judge Gergel allowed him little leeway.

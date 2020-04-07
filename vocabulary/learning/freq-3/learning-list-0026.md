@@ -5,7 +5,7 @@ If you live in a remote place that's under attack by an upstart band of thieves,
 - n: civilians trained as soldiers but not part of the regular army
 - n: the entire body of physically fit civilians eligible by law for military service
 ### Family
-militia: militias
+- militia: militias
 ### Examples
 - The DRC’s restive east remains a battleground for rival ethnic militias, with a recent upsurge of violence there a concern to many experts.
 - To reach it, one drives through checkpoints of multiple armed groups fighting IS — the Iraqi military, Shiite militias, Kurdish peshmerga and Christian fighters.
@@ -20,7 +20,7 @@ When you ration your supplies, you dole them out a little at a time. A ration is
 - v: restrict the consumption of a relatively scarce commodity, as during war
 - v: distribute in rations, as in the army
 ### Family
-ration: rationing, rations
+- ration: rationing, rations
 ### Examples
 - Food rationing grew so severe that Venezuelans spent all day waiting in lines.
 - She helped feed Jews and get them ration cards.
@@ -35,7 +35,9 @@ To summon is to formally call for the presence of someone. If, as soccer team ca
 - v: gather or bring together
 - v: make ready for action or use
 ### Family
-summon: summoned, summoning, summons+;summoning: summonings;summons: summonsed, summonses, summonsing
+- summon: summoned, summoning, summons+
+- summoning: summonings
+- summons: summonsed, summonses, summonsing
 ### Examples
 - Andrew Brunson was elated when Turkey’s Interior Ministry summoned him on Oct.
 - Officers were summoned to a room at a Hampton Inn around 1 a.m.
@@ -51,7 +53,8 @@ A basin is a container that holds water and is used for washing, but you probabl
 - n: a natural depression in the surface of the land often with a lake at the bottom of it
 - n: the entire geographical area drained by a river and its tributaries; an area characterized by all runoff being conveyed to the same outlet
 ### Family
-basin: basinful, basins+;basinful: basinfuls
+- basin: basinful, basins+
+- basinful: basinfuls
 ### Examples
 - The herd typically summers northwest of Meeteetse and migrates into the Bighorn Basin in winter.
 - Much of the sand is used for construction in Shanghai, about 400 miles east, and other Chinese cities along the lower Yangtze River basin.
@@ -64,7 +67,8 @@ If it's delicate and easily broken, like a rare glass vase or the feelings of an
 - adj: vulnerably delicate
 - adj: lacking substance or significance
 ### Family
-fragile: fragilely, fragiler, fragilest, fragility+;fragility: fragilities
+- fragile: fragilely, fragiler, fragilest, fragility+
+- fragility: fragilities
 ### Examples
 - Wrap fragile ornaments in leftover tissue paper or newspaper, or invest in storage containers like archival ornament boxes from the Container Store.
 - Their chemistry was on display against fragile Watford on New Year’s Day.
@@ -78,7 +82,7 @@ Lavish means generous and extravagant as an adjective and to give generously as 
 - adj: characterized by extravagance and profusion
 - v: expend profusely; also used with abstract nouns
 ### Family
-lavish: lavished, lavishes, lavishing, lavishingly, lavishly, lavishness
+- lavish: lavished, lavishes, lavishing, lavishingly, lavishly, lavishness
 ### Examples
 - In New Delhi and many other cities, newspapers are full of big advertisements for lavish parties at upscale hotels and restaurants.
 - Share prices are also being driven by salivation that he will deliver the lavish tax breaks he promised corporate America.
@@ -91,7 +95,8 @@ When something is strong and able to recover from damage quickly, call it resili
 - adj: recovering readily from adversity, depression, or the like
 - adj: elastic; rebounding readily
 ### Family
-resilient: nonresilient, resilience, resiliency, resiliently+;resilience: resiliences
+- resilient: nonresilient, resilience, resiliency, resiliently+
+- resilience: resiliences
 ### Examples
 - "And it became resilient to the fungal disease," he says.
 - She was less optimistic about how resilient the rest of British society would be to an outbreak.
@@ -109,7 +114,9 @@ To lease something is to borrow it in exchange for money. If you lease a car fro
 - v: engage for service under a term of contract
 - v: hold under a lease or rental agreement; of goods and services
 ### Family
-lease: leased, leases, leasing, lessee, sublease+;lessee: lessees;sublease: subleased, subleases, subleasing
+- lease: leased, leases, leasing, lessee, sublease+
+- lessee: lessees
+- sublease: subleased, subleases, subleasing
 ### Examples
 - Despite the complaints, the Vatican agency that oversees its real estate holdings approved a lease, and the restaurant quietly opened last week without public protests.
 - “This will be a very challenged leasing environment almost everywhere,” Mr. Parsons said.
@@ -127,7 +134,10 @@ The word lyric claims its emotional place in music and poetry, with the words to
 - n: the text of a popular song or musical-comedy number
 - v: write lyrics for (a song)
 ### Family
-lyric: lyrical, lyricism, lyricist, lyrics, lyrist+;lyrical: lyricality, lyrically;lyricist: lyricists;lyrist: lyrists
+- lyric: lyrical, lyricism, lyricist, lyrics, lyrist+
+- lyrical: lyricality, lyrically
+- lyricist: lyricists
+- lyrist: lyrists
 ### Examples
 - As the songwriters strummed guitars and punched lyrics into their phones, Pine’s children splashed in a swimming pool and a chef prepared brick-oven pizzas.
 - She even stopped singing her song Emotions, instead pacing the stage and telling the audience to finish the lyrics for her.
@@ -140,7 +150,8 @@ Anything vigorous is done with force and energy. Vigorous exercise makes you swe
 - adj: characterized by forceful and energetic action or activity
 - adj: strong and active physically or mentally
 ### Family
-vigorous: vigorously+;vigor: vigorous, vigors
+- vigorous: vigorously+
+- vigor: vigorous, vigors
 ### Examples
 - A 15th major is unlikely but vigorous pursuit would be thrilling.
 - The medical examiner said that the infant suffered “vigorous and repetitive shaking” and ruled the death a homicide.

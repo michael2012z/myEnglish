@@ -5,7 +5,18 @@ An advisory is an announcement that often gives a warning, like a weather adviso
 - n: an announcement that usually advises or warns the public of some threat
 - adj: giving advice
 ### Family
-advisory: advisories+;advisable: advisability, advisabler, advisablest, advisably, inadvisable, unadvisable;advise: advisable, advised, advisee, advisement, adviser, advises, advising, advisor, advisory, misadvise;advised: advisedly, ill-advised, unadvised;advisee: advisees;advisement: advisements;adviser: advisers;advisor: advisors;inadvisable: inadvisability, inadvisably;misadvise: misadvised, misadvising;unadvisable: unadvisably;unadvised: unadvisedly
+- advisory: advisories+
+- advisable: advisability, advisabler, advisablest, advisably, inadvisable, unadvisable
+- advise: advisable, advised, advisee, advisement, adviser, advises, advising, advisor, advisory, misadvise
+- advised: advisedly, ill-advised, unadvised
+- advisee: advisees
+- advisement: advisements
+- adviser: advisers
+- advisor: advisors
+- inadvisable: inadvisability, inadvisably
+- misadvise: misadvised, misadvising
+- unadvisable: unadvisably
+- unadvised: unadvisedly
 ### Examples
 - The Anchorage Office of Emergency Management says the advisory will be in effect until 6 a.m.
 - “We got together a community advisory group and asked them, ‘What do these objects mean to you today?’” she said.
@@ -19,7 +30,8 @@ While a mood can change, your temperament is your overall tone most of the time.
 - n: excessive emotionalism or irritability and excitability (especially when displayed openly)
 - n: an adjustment of the intervals (as in tuning a keyboard instrument) so that the scale can be used to play in different keys
 ### Family
-temperament: temperamental, temperaments+;temperamental: temperamentally
+- temperament: temperamental, temperaments+
+- temperamental: temperamentally
 ### Examples
 - The Massachusetts Republican famously refused to support Trump during the campaign - even refused to vote for him after raising concerns about Trump’s temperament.
 - Meanwhile there was no such thing back then as equal temperament.
@@ -31,7 +43,7 @@ You might be the putative leader of your lacrosse team, even if someone else hol
 ### Definition
 - adj: purported; commonly put forth or accepted as true on inconclusive grounds
 ### Family
-putative: putatively
+- putative: putatively
 ### Examples
 - The United States now finds itself trying to persuade its putative ally to play a constructive rather than destructive role.
 - One advantage of being the putative leader of a great nation is that people pay attention, even when you’re spouting nonsense.
@@ -44,7 +56,12 @@ Nutrition is the study of food and drink. If you take a nutrition class, you'll 
 - n: the scientific study of food and drink (especially in humans)
 - n: a source of materials to nourish the body
 ### Family
-nutrition: nutritional, nutritionist, nutritions, nutritious+;nutrient: nutrients;nutrify: nutrient, nutrition;nutritional: nutritionally;nutritionist: nutritionists;nutritious: nutritiously, nutritiousness
+- nutrition: nutritional, nutritionist, nutritions, nutritious+
+- nutrient: nutrients
+- nutrify: nutrient, nutrition
+- nutritional: nutritionally
+- nutritionist: nutritionists
+- nutritious: nutritiously, nutritiousness
 ### Examples
 - We need to do better in battling poor nutrition and a lack of exercise in our youth.
 - Also, a North Carolina State University nutritionist in Winston-Salem will be presenting nutrition classes in the program.
@@ -58,7 +75,7 @@ An onion is a plant that grows as a bulb underground and can be harvested and ea
 - n: an aromatic flavorful vegetable
 - n: the bulb of an onion plant
 ### Family
-onion: onions
+- onion: onions
 ### Examples
 - But he added that “we’re starting to peel back some of the layers of the onion here.”
 - Sweat the onion, minced garlic, red pepper flakes and paprika for 3 minutes.
@@ -70,7 +87,9 @@ onion: onions
 - n: physical discomfort (as mild sickness or depression)
 - n: the trait of seeming ill at ease
 ### Family
-ease: eased, easement, eases, easing, unease+;easement: easements;easing: easings
+- ease: eased, easement, eases, easing, unease+
+- easement: easements
+- easing: easings
 ### Examples
 - Much of the publishers’ unease is rooted in Google’s presentation of AMP stories, which appear as if they are Google articles.
 - This digital bathos, the deflating consequence of an amoral algorithm, no doubt contributes to our general sense of unease about the social-media project.
@@ -83,7 +102,14 @@ ease: eased, easement, eases, easing, unease+;easement: easements;easing: easing
 - adj: not subjected to chemical or physical treatment
 - adj: (of a specimen for study under a microscope) not treated with a reagent or dye
 ### Family
-treated: ill-treated, retreated, untreated+;entreat: entreated, entreating, entreats;ill-treat: ill-treating;mistreat: mistreated, mistreating, mistreatment, mistreats;mistreatment: mistreatments;treat: entreat, ill-treat, mistreat, treated, treater, treating, treatment, treats;treater: treaters;treatment: ill-treatment, treatments
+- treated: ill-treated, retreated, untreated+
+- entreat: entreated, entreating, entreats
+- ill-treat: ill-treating
+- mistreat: mistreated, mistreating, mistreatment, mistreats
+- mistreatment: mistreatments
+- treat: entreat, ill-treat, mistreat, treated, treater, treating, treatment, treats
+- treater: treaters
+- treatment: ill-treatment, treatments
 ### Examples
 - Under the city program, replacement trees will be lining streets as untreated ash trees die.
 - In other cases, these distant possessions nag away like an untreated sore tooth.
@@ -99,7 +125,9 @@ The verb evoke most commonly means to bring a feeling, memory, or picture into t
 - v: summon into action or bring into existence, often as if by magic
 - v: deduce (a principle) or construe (a meaning)
 ### Family
-evoke: evocation, evocative, evoked, evokes, evoking+;evocation: evocations;evocative: evocatively
+- evoke: evocation, evocative, evoked, evokes, evoking+
+- evocation: evocations
+- evocative: evocatively
 ### Examples
 - Yet he also sustains an underlying sense of tension, revealing a deeper musical structure that evokes an ever-intensifying spiritual struggle.
 - But the passion evoked by these issues suggests that something more is at stake.
@@ -113,7 +141,8 @@ evoke: evocation, evocative, evoked, evokes, evoking+;evocation: evocations;evoc
 - adv: toward the center or interior
 - adv: to or toward the inside of
 ### Family
-inward: inwardest, inwardly, inwardness+;inwardness: inwardnesses
+- inward: inwardest, inwardly, inwardness+
+- inwardness: inwardnesses
 ### Examples
 - When faced with adversity and disappointment, it is often comforting to look inward to the essence of being.
 - It serves Mr. Pettibon well, deflecting attention from evidence, in his work and in person, of what seems an essentially inward, melancholy character.
@@ -131,7 +160,9 @@ A complement is something that makes up a satisfying whole with something else. 
 - n: one of a series of enzymes in the blood serum that are part of the immune response
 - v: make complete or perfect; supply what is wanting or form the complement to
 ### Family
-complement: complemental, complementary, complementation, complemented, complementing, complements+;complementarity: complementarities;complementary: complementaries, complementarily, complementarity
+- complement: complemental, complementary, complementation, complemented, complementing, complements+
+- complementarity: complementarities
+- complementary: complementaries, complementarily, complementarity
 ### Examples
 - Size is an important consideration with plants, says Mr. Hancock, who notes that the plants should complement the furnishings and space, not dominate it.
 - “Her energy and her drive are something we were absolutely looking for to complement the existing management here,” Harvey said of Fischer.

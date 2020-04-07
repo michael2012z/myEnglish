@@ -8,7 +8,11 @@ The dissolution of a relationship means that it's broken up or ended. The dissol
 - n: dissolute indulgence in sensual pleasure
 - n: the process of going into solution
 ### Family
-dissolution: dissolutions+;dissolve: dissolution, dissolvable, dissolved, dissolvent, dissolver, dissolves, dissolving;dissolved: undissolved;dissolvent: dissolvents;dissolver: dissolvers
+- dissolution: dissolutions+
+- dissolve: dissolution, dissolvable, dissolved, dissolvent, dissolver, dissolves, dissolving
+- dissolved: undissolved
+- dissolvent: dissolvents
+- dissolver: dissolvers
 ### Examples
 - Cook County court records show that Jesse Jackson Jr. filed a petition for dissolution of marriage Monday citing “irreconcilable differences.”
 - The protests led to the dissolution of the SDP government.
@@ -23,7 +27,8 @@ Someone clumsy is a klutz. They're awkward, ungraceful, and walk like they have 
 - adj: showing lack of skill or aptitude
 - adj: difficult to handle or manage especially because of shape
 ### Family
-clumsy: clumsier, clumsiest, clumsily, clumsiness+;clumsiness: clumsinesses
+- clumsy: clumsier, clumsiest, clumsily, clumsiness+
+- clumsiness: clumsinesses
 ### Examples
 - Russia called the penalties a clumsy yet aggressive attempt to “harm Russian-American ties.”
 - “Cute” is dancing toddlers, puppies and clumsy kittens, anything involving that optimal eye-size-to-head-size ratio.
@@ -35,7 +40,8 @@ High school graduation is a pivotal moment in most people's lives — an importa
 ### Definition
 - adj: being of crucial importance
 ### Family
-pivotal: pivotally+;pivot: pivotal, pivoted, pivoting, pivots, pivotting
+- pivotal: pivotally+
+- pivot: pivotal, pivoted, pivoting, pivots, pivotting
 ### Examples
 - It’s on your watch now,’” recalled GOP Rep. Pat Tiberi, chairman of a pivotal health subcommittee.
 - It’s on your watch now,'” recalled GOP Rep. Pat Tiberi, chairman of a pivotal health subcommittee.
@@ -47,7 +53,12 @@ To be inventive is to be creative. Inventive people are good at using their imag
 ### Definition
 - adj: (used of persons or artifacts) marked by independence and creativity in thought or action
 ### Family
-inventive: inventively, inventiveness, inventivest, uninventive+;invent: invented, inventing, invention, inventive, inventor, invents, reinvent;invention: inventions;inventor: inventors;reinvent: reinvented, reinventing, reinvents;uninventive: uninventively
+- inventive: inventively, inventiveness, inventivest, uninventive+
+- invent: invented, inventing, invention, inventive, inventor, invents, reinvent
+- invention: inventions
+- inventor: inventors
+- reinvent: reinvented, reinventing, reinvents
+- uninventive: uninventively
 ### Examples
 - From the author of “The Music of Chance,” an inventive tale of one man’s life as it unfolds in four different plots.
 - But with the rise of the mobile phone, the redundant kiosks are increasingly being put to inventive uses, from miniature art galleries to pint-sized pubs.
@@ -62,7 +73,9 @@ Things that are elusive are hard to find, pin down, or remember. They slip right
 - adj: difficult to describe
 - adj: making great mental demands; hard to comprehend or solve or believe
 ### Family
-elusive: elusively, elusiveness+;elude: eluded, eludes, eluding, elusion, elusive;elusion: elusions
+- elusive: elusively, elusiveness+
+- elude: eluded, eludes, eluding, elusion, elusive
+- elusion: elusions
 ### Examples
 - This is what creates the red patches and silvery scales of psoriasis, and it also explains why “cures” are elusive.
 - The Russian companies newly sanctioned by the U.S. also suggest an elusive link.
@@ -74,7 +87,8 @@ A protagonist is the central character in a story: the protagonist of Huckleberr
 - n: the principal character in a work of fiction
 - n: a person who backs a politician or a team etc.
 ### Family
-protagonist: protagonists+;protagonism: protagonist
+- protagonist: protagonists+
+- protagonism: protagonist
 ### Examples
 - Like the protagonists of those shows, the main character shares his name and the show mirrors, somewhat, his own life.
 - The protagonist of this week’s story, “On the Street Where You Live,” is a woman named Becky.
@@ -89,7 +103,18 @@ Are you full of life? Vigorous and energetic? Lucky you. You have vitality, the 
 - n: an energetic style
 - n: (biology) a hypothetical force (not physical or chemical) once thought by Henri Bergson to cause the evolution and development of organisms
 ### Family
-vitality: vitalities+;devitalise: devitalisation, devitalised, devitalises, devitalising;devitalize: devitalization, devitalized, devitalizes, devitalizing;revitalise: revitalisation, revitalised, revitalising;revitalization: revitalizations;revitalize: revitalization, revitalized, revitalizes, revitalizing;vital: vitalest, vitalise, vitalism, vitality, vitalize, vitally, vitalness;vitalise: devitalise, revitalise, vitalisation, vitalised, vitaliser, vitalises, vitalising;vitalism: vitalist;vitalist: vitalists;vitalization: vitalizations;vitalize: devitalize, revitalize, vitalization, vitalized, vitalizer, vitalizes, vitalizing
+- vitality: vitalities+
+- devitalise: devitalisation, devitalised, devitalises, devitalising
+- devitalize: devitalization, devitalized, devitalizes, devitalizing
+- revitalise: revitalisation, revitalised, revitalising
+- revitalization: revitalizations
+- revitalize: revitalization, revitalized, revitalizes, revitalizing
+- vital: vitalest, vitalise, vitalism, vitality, vitalize, vitally, vitalness
+- vitalise: devitalise, revitalise, vitalisation, vitalised, vitaliser, vitalises, vitalising
+- vitalism: vitalist
+- vitalist: vitalists
+- vitalization: vitalizations
+- vitalize: devitalize, revitalize, vitalization, vitalized, vitalizer, vitalizes, vitalizing
 ### Examples
 - Everything about Fisher, in fact, seemed irrepressible on set, from her blunt honesty to her physical vitality.
 - Measures of economic vitality including income growth, consumer spending and inflation weakened last month following a short-lived spurt.
@@ -101,7 +126,8 @@ vitality: vitalities+;devitalise: devitalisation, devitalised, devitalises, devi
 - n: position 13 in a countable series of things
 - adj: coming next after the twelfth in position
 ### Family
-thirteenth: thirteenthly, thirteenths+;thirteen: thirteener, thirteens, thirteenth
+- thirteenth: thirteenthly, thirteenths+
+- thirteen: thirteener, thirteens, thirteenth
 ### Examples
 - We were sitting in Café Loup, a brasserie on West Thirteenth Street.
 - On Friday the thirteenth, she had gone to hear the Eagles of Death Metal play at the Bataclan.
@@ -114,7 +140,9 @@ You can use the adjective delighted to describe being really pleased or happy wi
 - adj: greatly pleased
 - adj: filled with wonder and delight
 ### Family
-delighted: delightedest, delightedly+;delight: delighted, delightful, delighting, delights;delightful: delightfulest, delightfully
+- delighted: delightedest, delightedly+
+- delight: delighted, delightful, delighting, delights
+- delightful: delightfulest, delightfully
 ### Examples
 - Her allies were delighted that Trump raised the precedent of Ronald Reagan’s bond with Margaret Thatcher in his first phone call with May.
 - “As 2016 continued, Trump delighted them, or derived inspiration from them.”
@@ -128,7 +156,9 @@ delighted: delightedest, delightedly+;delight: delighted, delightful, delighting
 - v: have a craving, appetite, or great desire for
 - v: feel the need to drink
 ### Family
-thirst: thirsted, thirster, thirsting, thirsts, thirsty+;thirster: thirsters;thirsty: thirstier, thirstiest, thirstily, thirstiness
+- thirst: thirsted, thirster, thirsting, thirsts, thirsty+
+- thirster: thirsters
+- thirsty: thirstier, thirstiest, thirstily, thirstiness
 ### Examples
 - I hope that the thirst for reputable news and responsible sources will revitalize news media in the US.
 - “Talk about a strong desire to do something,” Mr. Balick said of Ms. Thompson’s thirst to learn.

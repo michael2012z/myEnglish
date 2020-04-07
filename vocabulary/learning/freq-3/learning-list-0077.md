@@ -7,7 +7,9 @@ An intrigue is a secret plot. If you ever become the monarch of a small island k
 - v: form intrigues (for) in an underhand manner
 - v: cause to be interested or curious
 ### Family
-intrigue: intrigued, intriguer, intrigues, intriguing+;intriguer: intriguers;intriguing: intriguingly
+- intrigue: intrigued, intriguer, intrigues, intriguing+
+- intriguer: intriguers
+- intriguing: intriguingly
 ### Examples
 - At first I instantly thought it was marketing hype but slowly the story intrigued me and I began searching online.
 - The manuscript’s odyssey — from its creation in Mexico to its recent arrival in Manhattan — is a tale laced with intrigue.
@@ -23,7 +25,9 @@ A fort is a place that's made strong and secure enough to be defended during a w
 - v: station (troops) in a fort
 - v: gather in, or as if in, a fort, as for protection or defense
 ### Family
-fort: forted, fortify, forting, forts+;fortification: fortifications;fortify: fortification, fortified, fortifies, fortifying
+- fort: forted, fortify, forting, forts+
+- fortification: fortifications
+- fortify: fortification, fortified, fortifies, fortifying
 ### Examples
 - Then the crisis at Fort Sumter escalated, threatening to engulf the nation.
 - Officers say 27-year-old Carrington Carter II of Fort Washington died at a hospital after being found with a gunshot wound.
@@ -37,7 +41,8 @@ Things that are surgical have something to do with an operation performed by a s
 - adj: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine
 - adj: performed with great precision
 ### Family
-surgical: nonsurgical, surgically+;surgery: microsurgery, surgeries, surgical
+- surgical: nonsurgical, surgically+
+- surgery: microsurgery, surgeries, surgical
 ### Examples
 - Dr. Max Langham, who led the surgical team, says the first few weeks afterward were a challenge for the twins.
 - The care station is closely located next to two surgical suites, one for scopic procedures, such as colonoscopies, and another for general surgery.
@@ -48,7 +53,7 @@ surgical: nonsurgical, surgically+;surgery: microsurgery, surgeries, surgical
 ### Definition
 - n: a hollow muscular organ in the pelvic cavity of females; contains the developing fetus
 ### Family
-uterus: uteri, uteruses
+- uterus: uteri, uteruses
 ### Examples
 - Born without a uterus, she hoped the transplant would enable her to become pregnant.
 - “It’s where the lining of your uterus grows on your other organs and acts like a cancer,” says Storm.
@@ -59,7 +64,7 @@ uterus: uteri, uteruses
 ### Definition
 - n: the flow of blood from a ruptured blood vessel
 ### Family
-haemorrhage: haemorrhages
+- haemorrhage: haemorrhages
 ### Examples
 - "Microsoft could have tried to fight it and haemorrhage red-ink, or they could embrace it and profit. They chose to make money."
 - However, several individuals were developing CAA, which would have led to cerebral haemorrhages.
@@ -80,7 +85,10 @@ When you tread on the earth, you walk on it. The next time your pal thinks you h
 - v: apply (the tread) to a tire
 - v: mate with
 ### Family
-tread: retread, treaded, treading, treads, trod, trodden+;retread: retreaded, retreading, retreads;trod: untrod;trodden: untrodden
+- tread: retread, treaded, treading, treads, trod, trodden+
+- retread: retreaded, retreading, retreads
+- trod: untrod
+- trodden: untrodden
 ### Examples
 - A song that speaks to all the disregarded and down trodden black people in the United States.
 - On the game's final play, with the Warriors down by one point, Durant stumbled when Cleveland's Richard Jefferson trod on his foot.
@@ -92,7 +100,7 @@ An entrepreneur is someone who starts a new business. Little stores and huge com
 ### Definition
 - n: someone who organizes a business venture and assumes the risk for it
 ### Family
-entrepreneur: entrepreneurial, entrepreneurs
+- entrepreneur: entrepreneurial, entrepreneurs
 ### Examples
 - Kangas said the basic income experiment may be expanded later to other low-income groups such as freelancers, small-scale entrepreneurs and part-time workers.
 - Advice for women on success, by the entrepreneur and daughter of the president-elect.
@@ -107,7 +115,9 @@ That trickle of sweat didn't just miraculously appear — it was secreted out of
 - n: a minute epidermal pore in a leaf or stem through which gases and water vapor can pass
 - v: direct one's attention on something
 ### Family
-pore: pored, pores, poring, porous+;porosity: porosities;porous: nonporous, porosity, porousness
+- pore: pored, pores, poring, porous+
+- porosity: porosities
+- porous: nonporous, porosity, porousness
 ### Examples
 - While she and Harriet played, the grandfather, with other reading material banned, sat in a corner rocking chair poring over the children’s books.
 - Poring over the books was a little like bellying up to the oyster bar with the two writers.
@@ -121,7 +131,23 @@ To conceive is to come up with an idea. If you conceive a plan for your little b
 - v: judge or regard; look upon; judge
 - v: become pregnant; undergo conception
 ### Family
-conceive: conceivable, conceived, conceiver, conceives, conceiving, conceptive, misconceive, preconceive+;conceivable: conceivability, conceivableness, conceivably, inconceivable;conceived: ill-conceived;conceiver: conceivers;concept: conceive, conception, concepts, conceptual, conceptualize;conception: conceptional, conceptions;conceptual: conceptualise, conceptualism, conceptuality, conceptually;conceptualise: conceptualisation;conceptualism: conceptualistic;conceptualization: conceptualizations;conceptualize: conceptualization, conceptualized, conceptualizes, conceptualizing;inconceivability: inconceivabilities;inconceivable: inconceivability, inconceivableness, inconceivably;misconceive: misconceived, misconceives, misconceiving, misconception;misconception: misconceptions;preconceive: preconceived, preconceives, preconception;preconception: preconceptions
+- conceive: conceivable, conceived, conceiver, conceives, conceiving, conceptive, misconceive, preconceive+
+- conceivable: conceivability, conceivableness, conceivably, inconceivable
+- conceived: ill-conceived
+- conceiver: conceivers
+- concept: conceive, conception, concepts, conceptual, conceptualize
+- conception: conceptional, conceptions
+- conceptual: conceptualise, conceptualism, conceptuality, conceptually
+- conceptualise: conceptualisation
+- conceptualism: conceptualistic
+- conceptualization: conceptualizations
+- conceptualize: conceptualization, conceptualized, conceptualizes, conceptualizing
+- inconceivability: inconceivabilities
+- inconceivable: inconceivability, inconceivableness, inconceivably
+- misconceive: misconceived, misconceives, misconceiving, misconception
+- misconception: misconceptions
+- preconceive: preconceived, preconceives, preconception
+- preconception: preconceptions
 ### Examples
 - “I think the thing that people sort of misinterpret about this is they’re well conceived. They fit their offense,” Saban said.
 - The first baby conceived using a new method to combine material from two women and one man was born in Mexico.
@@ -133,7 +159,9 @@ Picture this: imagery is a noun to describe the way things or ideas seem in your
 ### Definition
 - n: the ability to form mental images of things or events
 ### Family
-imagery: imageries+;image: imaged, imagery, images, imaging, imagism;imaging: imagings
+- imagery: imageries+
+- image: imaged, imagery, images, imaging, imagism
+- imaging: imagings
 ### Examples
 - In these deliberately tarnished tales, such wondrousness mainly shines through in their often beautiful imagery.
 - And how many Hollywood celebrities publicly bemoaned their own insecurities with such striking self-deprecating imagery?

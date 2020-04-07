@@ -6,7 +6,8 @@ A fluorescent bulb gets its light from mercury vapor inside a glass tube. The in
 - adj: brilliantly colored and apparently giving off light
 - n: a lighting fixture that uses a fluorescent lamp
 ### Family
-fluorescent: fluorescence, fluorescently, fluorescents+;fluoresce: fluorescent, fluoresces, fluorescing
+- fluorescent: fluorescence, fluorescently, fluorescents+
+- fluoresce: fluorescent, fluoresces, fluorescing
 ### Examples
 - The bright fluorescent ceiling lights seem to burn into me.
 - Inside, young women dressed in soft linen and fluorescent lace hijabs sat with men wearing velvet pinstriped blazers and fake leather jackets.
@@ -18,7 +19,7 @@ A handkerchief is a square of fabric that you can use to blow your nose. You can
 ### Definition
 - n: a square piece of cloth used for wiping the eyes or nose or as a costume accessory
 ### Family
-handkerchief: handkerchiefs
+- handkerchief: handkerchiefs
 ### Examples
 - Brown’s handkerchief was to be laid atop her, while Albert’s was merely to be included in the large collection of burial accouterments.
 - We even fight about the creatures I drag home, things I find, most often, on my walks and wrap up in a handkerchief.
@@ -30,7 +31,7 @@ handkerchief: handkerchiefs
 - n: a kitchen appliance used for cooking food
 - n: any heating apparatus
 ### Family
-stove: stoves
+- stove: stoves
 ### Examples
 - Her client chose ivory and white for the kitchen cabinets and backsplash, and black for the stove top.
 - Place the whole eggplants directly on the burners of a gas stove turned to medium-high or close to a medium-high fire on a grill.
@@ -47,7 +48,10 @@ In common use, sublime is an adjective meaning "awe-inspiringly grand, excellent
 - v: change or cause to change directly from a solid into a vapor without first melting
 - v: vaporize and then condense right back again
 ### Family
-sublime: sublimate, sublimed, sublimely, sublimer, sublimes, sublimest, subliming, sublimity+;sublimate: sublimated, sublimates, sublimating, sublimation;sublimation: sublimations;sublimity: sublimities
+- sublime: sublimate, sublimed, sublimely, sublimer, sublimes, sublimest, subliming, sublimity+
+- sublimate: sublimated, sublimates, sublimating, sublimation
+- sublimation: sublimations
+- sublimity: sublimities
 ### Examples
 - There was sublime chanting from a choir of men and women in smart cream uniforms.
 - The most sublime and insightful words, more often than not, emerge from decidedly ignoble creatures.
@@ -61,7 +65,7 @@ A cellar is a basic, unfinished basement. In a very old house, the cellar might 
 - n: an excavation where root vegetables are stored
 - n: storage space where wines are stored
 ### Family
-cellar: cellars
+- cellar: cellars
 ### Examples
 - The NBC broadcast network was in the ratings cellar — in fourth place among the big broadcast networks.
 - On a visit to Champagne, where some of that war’s fiercest battles raged, I visited the cellars of Champagne Bollinger.
@@ -76,7 +80,13 @@ To cultivate is to nurture and help grow. Farmers cultivate crops, fundraising p
 - v: foster the growth of
 - v: teach or refine to be discriminative in taste or judgment
 ### Family
-cultivate: cultivable, cultivatable, cultivated, cultivates, cultivating, cultivation, cultivator, overcultivate+;cultivable: uncultivable;cultivatable: uncultivatable;cultivated: uncultivated;cultivation: cultivations, self-cultivation;cultivator: cultivators;overcultivate: overcultivated
+- cultivate: cultivable, cultivatable, cultivated, cultivates, cultivating, cultivation, cultivator, overcultivate+
+- cultivable: uncultivable
+- cultivatable: uncultivatable
+- cultivated: uncultivated
+- cultivation: cultivations, self-cultivation
+- cultivator: cultivators
+- overcultivate: overcultivated
 ### Examples
 - People who live and die by their reputations and therefore cultivate those reputations.
 - As chief minister of Gujarat, one of India’s wealthier states, Modi cultivated a reputation as a master administrator.
@@ -91,7 +101,12 @@ Insecure means either lacking self-confidence or lacking security. An insecure p
 - adj: not firm or firmly fixed; likely to fail or give way
 - adj: lacking self-confidence or assurance
 ### Family
-insecure: insecurely, insecureness, insecurity+;insecurity: insecurities;secure: insecure, secured, securely, secureness, securer, secures, securest, securing, security;secured: unsecured;securer: securers;security: securities
+- insecure: insecurely, insecureness, insecurity+
+- insecurity: insecurities
+- secure: insecure, secured, securely, secureness, securer, secures, securest, securing, security
+- secured: unsecured
+- securer: securers
+- security: securities
 ### Examples
 - Typically, the focus is on security for the Israeli occupier, not for the occupied Palestinians who are in fact utterly insecure.
 - I would 100% recommend to anyone who is insecure about flying.
@@ -107,7 +122,8 @@ Dirt is earth or soil — it's the substance that makes up the dry surfaces of o
 - n: obscene terms for feces
 - adj: (of roads) not leveled or drained; unsuitable for all year travel
 ### Family
-dirt: dirts, dirty+;dirty: dirtied, dirtier, dirties, dirtiest, dirtily, dirtiness, dirtying
+- dirt: dirts, dirty+
+- dirty: dirtied, dirtier, dirties, dirtiest, dirtily, dirtiness, dirtying
 ### Examples
 - As the front lines shift, the fighters leave mines in their wake, burying them in the shallow dirt and hiding them in empty buildings.
 - Off a dirt road, in a small village north of Tirana, there's a half-built, tumble-down, brick house.
@@ -119,7 +135,9 @@ When something is pervasive, it's everywhere. Common things are pervasive — li
 ### Definition
 - adj: spreading or spread throughout
 ### Family
-pervasive: pervasively, pervasiveness+;pervade: pervaded, pervades, pervading, pervasion, pervasive;pervasion: pervasions
+- pervasive: pervasively, pervasiveness+
+- pervade: pervaded, pervades, pervading, pervasion, pervasive
+- pervasion: pervasions
 ### Examples
 - Mr. Trump said the episode demonstrates how pervasive hacking is, after numerous high-profile cyber attacks against the U.S. government and corporations.
 - A recent C.I.A. report described Uzbekistan as being plagued by “pervasive corruption.”
@@ -130,7 +148,11 @@ pervasive: pervasively, pervasiveness+;pervade: pervaded, pervades, pervading, p
 ### Definition
 - adj: that is on a string
 ### Family
-strung: overstrung, strunger, unstrung+;string: stringed, stringer, stringing, strings, strung, substring, superstring, unstring;stringer: stringers;superstring: superstrings;unstring: unstringed, unstringing, unstrings
+- strung: overstrung, strunger, unstrung+
+- string: stringed, stringer, stringing, strings, strung, substring, superstring, unstring
+- stringer: stringers
+- superstring: superstrings
+- unstring: unstringed, unstringing, unstrings
 ### Examples
 - We passed a French family on a walk, strung along the trail like beads on a chain.
 - “Everyone to the polls!” proclaimed psychedelic billboards strung over Tashkent’s broad boulevards, but not everyone heeded the call.

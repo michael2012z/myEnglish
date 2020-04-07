@@ -6,7 +6,8 @@ Evangelical is a word to describe anyone who is super enthusiastic about somethi
 - adj: of or pertaining to or in keeping with the Christian gospel especially as in the first 4 books of the New Testament
 - adj: marked by ardent or zealous enthusiasm for a cause
 ### Family
-evangelical: evangelicalism, evangelically+;evangel: evangelical, evangels
+- evangelical: evangelicalism, evangelically+
+- evangel: evangelical, evangels
 ### Examples
 - Although Brazil is largely Roman Catholic, the evangelical community now accounts for one-fifth of the population of around 200 million.
 - She helped orchestrate his meeting with hundreds of evangelical leaders in June and is now chair of his evangelical advisory board.
@@ -20,7 +21,10 @@ A mimic is someone who is good at imitating others. A gifted mimic might be able
 - n: someone who mimics (especially an actor or actress)
 - adj: constituting an imitation
 ### Family
-mimic: mimicing, mimicked, mimicker, mimicking, mimicry, mimics+;mime: mimed, mimer, mimes, mimic, miming;mimicker: mimickers;mimicry: mimicries
+- mimic: mimicing, mimicked, mimicker, mimicking, mimicry, mimics+
+- mime: mimed, mimer, mimes, mimic, miming
+- mimicker: mimickers
+- mimicry: mimicries
 ### Examples
 - To bolster that idea, he adds, “some creationists also try to mimic the appearance of hypotheses, research, and so forth.”
 - Project ECHO’s long-distance training for physicians, their assistants and nurse practitioners mimics the mentoring that interns and residents receive at elite urban hospitals.
@@ -40,7 +44,9 @@ mimic: mimicing, mimicked, mimicker, mimicking, mimicry, mimics+;mime: mimed, mi
 - n: someone who guards prisoners
 - v: defeat someone through trickery or deceit
 ### Family
-screw: screwed, screwing, screws, unscrew+;screwing: screwings;unscrew: unscrewed, unscrewing, unscrews
+- screw: screwed, screwing, screws, unscrew+
+- screwing: screwings
+- unscrew: unscrewed, unscrewing, unscrews
 ### Examples
 - “It showed how difficult it was to screw up a record that great,” Robertson writes.
 - In June, more than a year since she’d been let go, she screwed up her courage.
@@ -52,7 +58,8 @@ Idiosyncratic means unique to an individual. Albert Einstein famously had lots o
 ### Definition
 - adj: peculiar to the individual
 ### Family
-idiosyncratic: idiosyncratically+;idiosyncrasy: idiosyncrasies, idiosyncratic
+- idiosyncratic: idiosyncratically+
+- idiosyncrasy: idiosyncrasies, idiosyncratic
 ### Examples
 - Ken Graves, a street photographer whose idiosyncratic images captured the color of 1960s and 70s San Francisco, died in May, aged 74.
 - Many equally admire Wayne Eagling’s idiosyncratic treatment for the English National Ballet, first seen in 2010.
@@ -64,7 +71,8 @@ If something is consensual, all parties are in agreement that they approve of it
 ### Definition
 - adj: existing by consent
 ### Family
-consensual: consensually+;consensus: consensual, consensuses
+- consensual: consensually+
+- consensus: consensual, consensuses
 ### Examples
 - Adaptable, consensual, affable, intellectual, Guterres is perhaps better qualified than any of his nine predecessors for the world’s most demanding job.
 - In some cases, studios will grant their employees early releases from their contracts, but typically only if a consensual agreement is reached, Petrocelli said.
@@ -79,7 +87,8 @@ A rash is something that spreads like wild fire — red itchy skin or a series o
 - n: any red eruption of the skin
 - n: a series of unexpected and unpleasant occurrences
 ### Family
-rash: rashes, rashest, rashly, rashness+;rashness: rashnesses
+- rash: rashes, rashest, rashly, rashness+
+- rashness: rashnesses
 ### Examples
 - She recalled how wearing a hairpiece caused a rash.
 - Cleveland dressed only 10 players thanks to a rash of recent injuries.
@@ -97,7 +106,12 @@ At its most basic, animate means simply alive, while inanimate means not living,
 - adj: endowed with feeling and unstructured consciousness
 - adj: belonging to the class of nouns that denote living beings
 ### Family
-animate: animated, animateness, animates, animating, animatingly, animation, animator, inanimate, reanimate+;animated: animatedly, unanimated;animation: animations;animator: animators;inanimate: inanimately, inanimateness;reanimate: reanimated, reanimates, reanimating
+- animate: animated, animateness, animates, animating, animatingly, animation, animator, inanimate, reanimate+
+- animated: animatedly, unanimated
+- animation: animations
+- animator: animators
+- inanimate: inanimately, inanimateness
+- reanimate: reanimated, reanimates, reanimating
 ### Examples
 - Dr. Appleby was part of a generation of historians who examined the ideologies and beliefs that animated the American Revolution.
 - At this point the inclusion of this animated Netflix series on various Best of TV lists seems obligatory.
@@ -110,7 +124,7 @@ A heterosexual person is attracted to people of the opposite sex. Boys who like 
 - n: a heterosexual person; someone having a sexual orientation to persons of the opposite sex
 - adj: sexually attracted exclusively to members of the opposite sex
 ### Family
-heterosexual: heterosexualism, heterosexuality, heterosexually, heterosexuals
+- heterosexual: heterosexualism, heterosexuality, heterosexually, heterosexuals
 ### Examples
 - Religious conservatives claimed that the accord incorporated a hidden pro-LGBTI agenda that would redefine sexual orientation and disenfranchise heterosexuals.
 - Not only the 70 million homosexual people in China, but also the millions of heterosexual women who risk ending up married to homosexual men.
@@ -132,7 +146,10 @@ Mould is the British spelling for "mold" — the stuff you find growing on old b
 - n: the process of becoming mildewed
 - n: loose soil rich in organic matter
 ### Family
-mould: moulded, moulding, moulds, mouldy, remould+;moulding: mouldings;mouldy: mouldier, mouldiest;remould: remoulded, remoulding, remoulds
+- mould: moulded, moulding, moulds, mouldy, remould+
+- moulding: mouldings
+- mouldy: mouldier, mouldiest
+- remould: remoulded, remoulding, remoulds
 ### Examples
 - Mould agreed with that assessment, and said he was confident of a production date in the 1590s.
 - Another meta-fictional thriller in the mould of The Ghost Writer, this one stars Eva Green as a writer who becomes involved with an obsessive admirer.
@@ -146,7 +163,9 @@ Use the noun maternity to describe the relationship of a mother to her children.
 - n: the quality of having or showing the tenderness and warmth and affection of or befitting a mother
 - n: the state of being pregnant; the period from conception to birth when a woman carries a developing fetus in her uterus
 ### Family
-maternity: maternities+;maternal: maternalism, maternally, maternity;maternalism: maternalistic
+- maternity: maternities+
+- maternal: maternalism, maternally, maternity
+- maternalism: maternalistic
 ### Examples
 - Couric is filling in for Savannah Guthrie, who’s on maternity leave.
 - “You were supposed to do maternity scenes or watercolours, but not something as tough and decisive as what you do,” Bechara says.

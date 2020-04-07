@@ -7,7 +7,12 @@ If your mom can magically conjure up the most delicious meals from the most rand
 - v: ask for or request earnestly
 - v: engage in plotting or enter into a conspiracy, swear together
 ### Family
-conjure: conjuration, conjured, conjurer, conjures, conjuring, conjuror, conjury+;conjuration: conjurations;conjurer: conjurers;conjuring: conjurings;conjuror: conjurors;conjury: conjuries
+- conjure: conjuration, conjured, conjurer, conjures, conjuring, conjuror, conjury+
+- conjuration: conjurations
+- conjurer: conjurers
+- conjuring: conjurings
+- conjuror: conjurors
+- conjury: conjuries
 ### Examples
 - I conjure his voice and respond to it, preserving his presence in my life.
 - Most conjure the show’s themes with techniques that considerably predate Thomas Edison.
@@ -18,7 +23,7 @@ conjure: conjuration, conjured, conjurer, conjures, conjuring, conjuror, conjury
 ### Definition
 - n: a joint between the distal end of the radius and the proximal row of carpal bones
 ### Family
-wrist: wrists
+- wrist: wrists
 ### Examples
 - The wrist injury last year forced Nadal to withdraw from the French Open before the third round and skip Wimbledon.
 - He skated freely to above the circles and beat Jones on the glove side with a wrist shot for his second goal in three games.
@@ -31,7 +36,8 @@ When you are careless or reckless and you don’t take care of a person, object 
 - n: failure to act with the prudence that a reasonable person would exercise under the same circumstances
 - n: the trait of neglecting responsibilities and lacking concern
 ### Family
-negligence: negligences+;negligent: negligence, negligenter, negligently
+- negligence: negligences+
+- negligent: negligence, negligenter, negligently
 ### Examples
 - Police are questioning him in connection with negligence.
 - The evidence showed ordinary negligence, a prosecutor’s letter said, but not “an aggravated kind of negligence or carelessness” required to file felony charges.
@@ -44,7 +50,14 @@ A mythology is a collection of myths or stories about a specific person, culture
 - n: myths collectively; the body of stories associated with a culture or institution or person
 - n: the study of myths
 ### Family
-mythology: mythologic, mythological, mythologies, mythologise, mythologist, mythologize+;demythologise: demythologised;demythologize: demythologization, demythologized, demythologizes, demythologizing;mythologic: mythologically;mythologisation: demythologisation;mythologise: demythologise, mythologisation, mythologising;mythologist: mythologists;mythologize: demythologize, mythologization, mythologized, mythologizes, mythologizing
+- mythology: mythologic, mythological, mythologies, mythologise, mythologist, mythologize+
+- demythologise: demythologised
+- demythologize: demythologization, demythologized, demythologizes, demythologizing
+- mythologic: mythologically
+- mythologisation: demythologisation
+- mythologise: demythologise, mythologisation, mythologising
+- mythologist: mythologists
+- mythologize: demythologize, mythologization, mythologized, mythologizes, mythologizing
 ### Examples
 - The story touches upon elements from the “Harry Potter” and “X-Men” mythologies, if seen through the eyes of David Lynch.
 - Nazi mythologies about Hitler’s origins emphasized his poverty and homelessness as a young man, as well as his disdain for creature comforts.
@@ -58,7 +71,10 @@ Imperialism is a type of government that seeks to increase its size, either by f
 - n: a political orientation that advocates imperial interests
 - n: any instance of aggressive extension of authority
 ### Family
-imperialism: imperialisms, imperialist, imperialistic+;imperial: imperialism, imperially, imperials;imperialist: imperialists;imperialistic: imperialistically
+- imperialism: imperialisms, imperialist, imperialistic+
+- imperial: imperialism, imperially, imperials
+- imperialist: imperialists
+- imperialistic: imperialistically
 ### Examples
 - Local cultures didn’t always react well to this seasonal imperialism.
 - In August, Flynn told a Massachusetts audience, “We are facing another ‘ism,’ just like we faced Nazism and fascism and imperialism and communism.
@@ -70,7 +86,9 @@ Geology is the study of the Earth and what it's made of, including its natural h
 ### Definition
 - n: a science that deals with the history of the earth as recorded in rocks
 ### Family
-geology: geologic, geological, geologies, geologist+;geological: geologically;geologist: geologists
+- geology: geologic, geological, geologies, geologist+
+- geological: geologically
+- geologist: geologists
 ### Examples
 - It is geology, ecology, meteorology, economics, and many other disciplines rolled into one.
 - He graduated from the University of Oregon, where he played football and earned a degree in geology.
@@ -85,7 +103,9 @@ Use the noun redundancy to refer to something that's needlessly repeated. As muc
 - n: repetition of messages to reduce the probability of errors in transmission
 - n: (electronics) a system design that duplicates components to provide alternatives in case one component fails
 ### Family
-redundancy: redundancies+;redundance: redundances;redundant: redundance, redundancy, redundantly
+- redundancy: redundancies+
+- redundance: redundances
+- redundant: redundance, redundancy, redundantly
 ### Examples
 - Shops risk redundancy as consumers turn to e-commerce.
 - That’s because it coordinates funding for science across government agencies, and is the main entity looking for redundancies and gaps in those portfolios.
@@ -97,7 +117,9 @@ If you own something, especially something of value, then you have proprietary r
 - adj: protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights
 - n: an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits
 ### Family
-proprietary: nonproprietary, proprietaries, proprietarily+;proprietor: proprietary, proprietors, proprietorship;proprietorship: proprietorships
+- proprietary: nonproprietary, proprietaries, proprietarily+
+- proprietor: proprietary, proprietors, proprietorship
+- proprietorship: proprietorships
 ### Examples
 - Founded in 1768 before publicly funded libraries existed, the "proprietary subscription library" is believed to be the oldest of its kind in the UK.
 - Western trade groups said China may use the security reviews to discriminate against foreign companies and force them to transfer proprietary technology.
@@ -113,7 +135,10 @@ The predicate is the part of a sentence that includes the verb and verb phrase. 
 - n: one of the two main constituents of a sentence; the predicate contains the verb and its complements
 - v: make the (grammatical) predicate in a proposition
 ### Family
-predicate: predicated, predicates, predicating, predication, predicative, predicator+;predication: predications;predicative: predicatively;predicator: predicators
+- predicate: predicated, predicates, predicating, predication, predicative, predicator+
+- predication: predications
+- predicative: predicatively
+- predicator: predicators
 ### Examples
 - Curiously, though, Trump’s priorities seem predicated on the premise that the U.S. economy is still circling the drain.
 - The Chiefs’ run defense is predicated on their defensive front occupying offensive linemen long enough for the linebacker crew to dart in and plays.

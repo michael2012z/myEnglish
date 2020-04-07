@@ -5,7 +5,7 @@ Choose the adjective serene to describe someone who is calm and untroubled. If y
 - adj: not agitated; without losing self-possession
 - adj: completely clear and fine
 ### Family
-serene: serenely, serener, serenest
+- serene: serenely, serener, serenest
 ### Examples
 - In front of the Barça fans it seemed quite serene and peaceful as they fitted together like a perfect puzzle.
 - But our lovely fourth-floor “Cosy” room — the middle price class — was serene with two tall windows overlooking the peaceful canal.
@@ -18,7 +18,10 @@ Your persona is the public image you present to the world. When T.S. Eliot wrote
 - n: (Jungian psychology) a personal facade that one presents to the world
 - n: an actor's portrayal of someone in a play
 ### Family
-persona: impersonate, personae, personas+;impersonate: impersonated, impersonates, impersonating, impersonation, impersonator;impersonation: impersonations;impersonator: impersonators
+- persona: impersonate, personae, personas+
+- impersonate: impersonated, impersonates, impersonating, impersonation, impersonator
+- impersonation: impersonations
+- impersonator: impersonators
 ### Examples
 - “He was always trying on different personae,” Ms. Faludi recalled.
 - Her Twitter feed cultivates the persona of a digital rebel.
@@ -31,7 +34,12 @@ If you get into trouble in England, don't ask for a lawyer. Find a solicitor. En
 - n: a British lawyer who gives legal advice and prepares legal documents
 - n: a petitioner who solicits contributions or trade or votes
 ### Family
-solicitor: solicitors, solicitorship+;solicit: solicitation, solicited, soliciting, solicitor, solicits;solicitation: solicitations;solicited: unsolicited;solicitorship: solicitorships;unsolicited: unsolicitedly
+- solicitor: solicitors, solicitorship+
+- solicit: solicitation, solicited, soliciting, solicitor, solicits
+- solicitation: solicitations
+- solicited: unsolicited
+- solicitorship: solicitorships
+- unsolicited: unsolicitedly
 ### Examples
 - This was despite him sending information to Concentrix, including a solicitor's letter and a tenancy agreement, showing he was a single parent.
 - Theodore B. Olson, a Time 100 honoree, served as Solicitor General under George W. Bush, whom he represented in Bush v.
@@ -45,7 +53,7 @@ A lid is a top, or a cap — some kind of removable or hinged cover for a contai
 - n: either of two folds of skin that can be moved to cover or open the eye
 - n: headdress that protects the head from bad weather; has shaped crown and usually a brim
 ### Family
-lid: lidless, lids
+- lid: lidless, lids
 ### Examples
 - When I’m lying in my coffin and they pull back the lid, the smile on my face will be from that day in Korea.”
 - One of his other legacies was helping to create a coffee cup lid that may now be as prevalent as the Solo cup.
@@ -61,7 +69,8 @@ A parade is a group of people marching in ceremony, celebration, or protest. Oft
 - v: march in a procession
 - v: walk ostentatiously
 ### Family
-parade: paraded, parader, parades, parading+;parader: paraders
+- parade: paraded, parader, parades, parading+
+- parader: paraders
 ### Examples
 - But it's not like you can't be hip enough to emcee the Rose Parade.
 - Any time is a good time to remember Arnold Palmer, of course, and the Rose Parade in Pasadena, Calif., this morning was among them.
@@ -75,7 +84,22 @@ To signify means to "mean." When Paul Revere looked for the lanterns in the chur
 - v: make known with a word or signal
 - v: convey or express a meaning
 ### Family
-signify: significant, signification, signified, signifier, signifies, signifying+;co-sign: co-signed;countersign: countersignature, countersigned, countersigning, countersigns;insignificance: insignificances;insignificant: insignificance, insignificantly;sign: co-sign, countersign, signatory, signature, signed, signedly, signer, signify, signing, signs, undersign;signatory: signatories;signature: signatures;signed: unsigned;signer: signers;significance: significances;significant: insignificant, nonsignificant, significance, significantly;signification: significations;signifier: signifiers;signing: signings;undersign: undersigned, undersigning
+- signify: significant, signification, signified, signifier, signifies, signifying+
+- co-sign: co-signed
+- countersign: countersignature, countersigned, countersigning, countersigns
+- insignificance: insignificances
+- insignificant: insignificance, insignificantly
+- sign: co-sign, countersign, signatory, signature, signed, signedly, signer, signify, signing, signs, undersign
+- signatory: signatories
+- signature: signatures
+- signed: unsigned
+- signer: signers
+- significance: significances
+- significant: insignificant, nonsignificant, significance, significantly
+- signification: significations
+- signifier: signifiers
+- signing: signings
+- undersign: undersigned, undersigning
 ### Examples
 - The rink itself was placed on a tableau of the No. 100, signifying both the centennial season for both the Leafs and NHL.
 - He’s a dad now and it signifies change.
@@ -91,7 +115,9 @@ Uneven is the opposite of uniform and predictable. If the road is uneven, it's b
 - adj: variable and recurring at irregular intervals
 - adj: not divisible by two
 ### Family
-uneven: unevenly, unevenness+;even: evened, evener, evenest, eveningly, evenly, evenness, evens, uneven;unevenness: unevennesses
+- uneven: unevenly, unevenness+
+- even: evened, evener, evenest, eveningly, evenly, evenness, evens, uneven
+- unevenness: unevennesses
 ### Examples
 - An uneven 109-98 victory over the lowly Suns in Staples Center would hardly classify as a “fix.”
 - So, why does this fightin’ team produce such uneven results until it’s in a desperate situation?
@@ -105,7 +131,10 @@ A hindrance is something in the way, an obstacle. An untied shoelace is a hindra
 - n: something immaterial that interferes with or delays action or progress
 - n: the act of hindering or obstructing or impeding
 ### Family
-hindrance: hindrances+;hinder: hindered, hindering, hinders, hindrance;hindered: unhindered;hindering: hinderingly
+- hindrance: hindrances+
+- hinder: hindered, hindering, hinders, hindrance
+- hindered: unhindered
+- hindering: hinderingly
 ### Examples
 - And many in Belarus said the country’s reputation as Europe’s last dictatorship is no hindrance to their work.
 - This formula, however, holds only if lack of pipeline capacity is a major hindrance to oil development.
@@ -116,7 +145,10 @@ Do you dream again and again that you are flying? If so, you could say that you 
 ### Definition
 - adj: recurring again and again
 ### Family
-recurrent: recurrently+;recur: recured, recurred, recurrence, recurrent, recurring, recurs;recurrence: recurrences;recurring: recurringly
+- recurrent: recurrently+
+- recur: recured, recurred, recurrence, recurrent, recurring, recurs
+- recurrence: recurrences
+- recurring: recurringly
 ### Examples
 - But that’s a recurrent feature of conservative politics, as Corey Robin argued in his book “The Reactionary Mind” and echoed on Salon last March:
 - There is a recurrent genesis to these various artivist projects: the felt need to do something.
@@ -127,7 +159,7 @@ recurrent: recurrently+;recur: recured, recurred, recurrence, recurrent, recurri
 ### Definition
 - n: a light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite
 ### Family
-potassium
+- potassium
 ### Examples
 - Department of Correction Spokesman Solomon Graves confirmed Friday that the state’s supply of the drug potassium chloride expires on Sunday.
 - Ingredients like potassium, electrolytes, milk thistle, vitamin B-12 and green tea and caffeine extracts process the toxins inherent in alcohol.

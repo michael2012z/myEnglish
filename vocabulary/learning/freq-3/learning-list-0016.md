@@ -5,7 +5,11 @@ Patience is a person's ability to wait something out or endure something tedious
 - n: good-natured tolerance of delay or incompetence
 - n: a card game played by one person
 ### Family
-patience: patiences+;impatience: impatiences;impatient: impatience, impatienter, impatiently;inpatient: inpatients;patient: impatient, inpatient, patience, patiently, patients
+- patience: patiences+
+- impatience: impatiences
+- impatient: impatience, impatienter, impatiently
+- inpatient: inpatients
+- patient: impatient, inpatient, patience, patiently, patients
 ### Examples
 - "Please be advised, @CustomsBorder outage is nationwide. They are working to restore. Thanks for your patience," Miami International Airport said on its Twitter feed.
 - It’s not impossible to do well, but you need the right equipment and probably some patience.
@@ -18,7 +22,9 @@ Distract is what you do when you draw someone’s attention — Hey! Look! Over 
 - v: draw someone's attention away from something
 - v: disturb in mind or make uneasy or cause to be worried or alarmed
 ### Family
-distract: distracted, distracting, distraction, distracts+;distracted: distractedly;distraction: distractions
+- distract: distracted, distracting, distraction, distracts+
+- distracted: distractedly
+- distraction: distractions
 ### Examples
 - But it’s precisely because governments are distracted or incapacitated that there is a role for non-state actors.
 - It was one of many that distracted her from packing up her office.
@@ -35,7 +41,11 @@ To tempt is to lure or entice. You might tempt your runaway dog back inside with
 - v: try to seduce
 - v: try presumptuously
 ### Family
-tempt: temptable, temptation, tempted, tempter, tempting, tempts+;temptation: temptations;tempter: tempters;tempting: temptingly, temptingness, untempting;untempting: untemptingly
+- tempt: temptable, temptation, tempted, tempter, tempting, tempts+
+- temptation: temptations
+- tempter: tempters
+- tempting: temptingly, temptingness, untempting
+- untempting: untemptingly
 ### Examples
 - When the burdens of modern life weigh people down, a huge life change is tempting.
 - Now, viewers may be tempted to split their time between assessing the show’s new host, Arnold Schwarzenegger, and checking Mr. Trump’s Twitter feed.
@@ -49,7 +59,8 @@ A plea is what you make when you're begging for something with a sense of urgenc
 - n: an answer indicating why a suit should be dismissed
 - n: (law) a defendant's answer by a factual matter (as distinguished from a demurrer)
 ### Family
-plea: counterplea, pleas+;counterplea: counterpleas
+- plea: counterplea, pleas+
+- counterplea: counterpleas
 ### Examples
 - Many cases with strong evidence against capital punishment for a defendant are resolved with plea bargains before ever reaching a jury, he added.
 - Sister Donna Gould closes that missive with a plea:
@@ -64,7 +75,7 @@ A bout is a fight. If you want to be a boxer, start with some easy bouts before 
 - n: a period of illness
 - n: an occasion for excessive eating or drinking
 ### Family
-bout: bouts
+- bout: bouts
 ### Examples
 - It seemed his first duty was keeping a constant smile, even as he battled through what is now his third bout with cancer, Long said.
 - The latest bout of air pollution began on Friday.
@@ -80,7 +91,11 @@ What do rock gods do when they travel? They charter their own plane, of course. 
 - v: hold under a lease or rental agreement; of goods and services
 - n: a contract to hire or lease transportation
 ### Family
-charter: chartered, chartering, charters+;chart: charted, charter, charting, chartist, chartless, charts;charted: uncharted;chartered: unchartered;chartist: chartists
+- charter: chartered, chartering, charters+
+- chart: charted, charter, charting, chartist, chartless, charts
+- charted: uncharted
+- chartered: unchartered
+- chartist: chartists
 ### Examples
 - After graduating from Cambridge University, he became a chartered accountant.
 - Democrats opposed to school choice often claim that charter schools and vouchers siphon taxpayer money from traditional public schools.
@@ -91,7 +106,7 @@ charter: chartered, chartering, charters+;chart: charted, charter, charting, cha
 - n: a large low horse-drawn wagon without sides
 - n: a large truck designed to carry heavy loads; usually without sides
 ### Family
-lorry: lorries
+- lorry: lorries
 ### Examples
 - On 20 December a lorry, driven by Anis Amri, ploughed into a Christmas market in Berlin, killing 12 people and injuring 48.
 - Truckers sounded their horns across Poland as the first victim of the Berlin lorry attack, driver Lukasz Urban, was buried in his village.
@@ -102,7 +117,8 @@ When something's sanitary, it's extremely clean. It's important for hospitals to
 ### Definition
 - adj: free from filth and pathogens
 ### Family
-sanitary: insanitary, sanitarily, sanitariness, unsanitary+;unsanitary: unsanitariness
+- sanitary: insanitary, sanitarily, sanitariness, unsanitary+
+- unsanitary: unsanitariness
 ### Examples
 - Emerald Coast Utilities Authority issued a notice of a sanitary sewer overflow caused by a 15-minute loss of power from a lightning strike.
 - According to the document, the agreements were primarily involving baby diapers but also involved other products in the sanitary business.
@@ -124,7 +140,9 @@ If you like to grind your own coffee beans, it means you prefer to buy whole bea
 - v: dance by rotating the pelvis in an erotically suggestive way, often while in contact with one's partner such that the dancers' legs are interlaced
 - n: an insignificant student who is ridiculed as being affected or boringly studious
 ### Family
-grind: grinded, grinder, grinding, grinds+;grinder: grinders;grinding: grindings
+- grind: grinded, grinder, grinding, grinds+
+- grinder: grinders
+- grinding: grindings
 ### Examples
 - During short breaks they pose for selfies in balaclavas, keepsakes from their week away from the daily grind.
 - It’s an endless grind, but she gets it.
@@ -139,7 +157,8 @@ If your accountant tells you that you’re exempt from taxes this year, give him
 - v: grant relief or an exemption from a rule or requirement to
 - v: grant exemption or release to
 ### Family
-exempt: exempted, exempting, exemption, exempts, nonexempt+;exemption: exemptions
+- exempt: exempted, exempting, exemption, exempts, nonexempt+
+- exemption: exemptions
 ### Examples
 - But it exempts bars, private clubs and casinos.
 - Or the brief proposal to amend Maine’s constitution to exempt lobster traps from property taxes.

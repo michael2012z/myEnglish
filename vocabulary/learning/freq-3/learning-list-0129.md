@@ -12,7 +12,10 @@ A saddle is a leather seat for horseback riders. If you saddle something, you ei
 - v: load or burden; encumber
 - v: impose a task upon, assign a responsibility to
 ### Family
-saddle: saddled, saddler, saddlery, saddles, saddling, unsaddle+;saddler: saddlers;saddlery: saddleries;unsaddle: unsaddled, unsaddles, unsaddling
+- saddle: saddled, saddler, saddlery, saddles, saddling, unsaddle+
+- saddler: saddlers
+- saddlery: saddleries
+- unsaddle: unsaddled, unsaddles, unsaddling
 ### Examples
 - “It’s the same situation, financially struggling and trying to get myself back into the saddle,” Mr. Canunayon said.
 - The expansion will add 14,000 square feet to the Saddle Peak Lodge to provide more room for the ski school and additional lockers.
@@ -26,7 +29,11 @@ When you flatter someone, you praise and compliment him or her — but you aren'
 ### Definition
 - v: praise somewhat dishonestly
 ### Family
-flatter: flattered, flatterer, flattering, flatters, flattery+;flatterer: flatterers;flattering: flatteringest, flatteringly, unflattering;flattery: flatteries;unflattering: unflatteringly
+- flatter: flattered, flatterer, flattering, flatters, flattery+
+- flatterer: flatterers
+- flattering: flatteringest, flatteringly, unflattering
+- flattery: flatteries
+- unflattering: unflatteringly
 ### Examples
 - Apparently midi-skirts elongate the figure and flatter the wearer, so this must be a good fall.
 - Mom would tell me how flattering the shirt was on me “now.”
@@ -37,7 +44,7 @@ Pssst... do you know the secret handshake? If you haven't been brought into the 
 ### Definition
 - adj: confined to and understandable by only an enlightened inner circle
 ### Family
-esoteric: esoterically
+- esoteric: esoterically
 ### Examples
 - Sleep technology products range from the basic app to the esoteric.
 - You become the conductor of a lavish, esoteric fireworks display, warm and unforgettable.
@@ -48,7 +55,7 @@ If something is fleeting or lasts a short time, it is transitory. Your boss decl
 ### Definition
 - adj: lasting a very short time
 ### Family
-transitory: transitorily, transitoriness
+- transitory: transitorily, transitoriness
 ### Examples
 - “In the first appearances, I thought it was a transitory phenomenon,” he said.
 - Recent stars have faded, in the market’s transitory judgment.
@@ -60,7 +67,7 @@ A person, object, or situation that's bizarre is very odd or unusual in appearan
 ### Definition
 - adj: conspicuously or grossly unconventional or unusual
 ### Family
-bizarre: bizarrely, bizarreness
+- bizarre: bizarrely, bizarreness
 ### Examples
 - Another bizarre one in the final days of the campaign was a depiction of how President Obama treated a protester at a Clinton campaign rally:
 - His bizarre ideas, already widely disseminated through his media platforms, now will enjoy access to the bully pulpit of the American presidency.
@@ -83,7 +90,8 @@ To glow is to shine with light. On a clear night when the moon is full, it glows
 - n: an alert and refreshed state
 - n: a feeling of considerable warmth
 ### Family
-glow: counterglow, glowed, glowing, glows+;glowing: glowingly, glowings
+- glow: counterglow, glowed, glowing, glows+
+- glowing: glowingly, glowings
 ### Examples
 - In the rows in front of me, I see supertitles glowing in German, in Spanish.
 - Despite this apparent open challenge to Putin, the museum received a glowing review from the state-run news agency. 
@@ -97,7 +105,10 @@ A physicist is a scientist who studies and is trained in physics, which is the s
 ### Definition
 - n: a scientist trained in physics
 ### Family
-physicist: physicists+;physical: nonphysical, physicalism, physicality, physically, physicalness;physicality: physicalities;physics: physical, physicist
+- physicist: physicists+
+- physical: nonphysical, physicalism, physicality, physically, physicalness
+- physicality: physicalities
+- physics: physical, physicist
 ### Examples
 - He is among the last living physicists who helped usher in the nuclear age.
 - The physicist Stephen Hawking, who publicly confirmed his atheism in 2014, doesn’t believe that God is needed to explain creation.
@@ -109,7 +120,10 @@ Midnight is the moment at which one day ends and the next begins — it's twelve
 ### Definition
 - n: 12 o'clock at night; the middle of the night
 ### Family
-midnight: midnights+;night: midnight, nightly, nights, overnight;overnight: overnighter, overnights;overnighter: overnighters
+- midnight: midnights+
+- night: midnight, nightly, nights, overnight
+- overnight: overnighter, overnights
+- overnighter: overnighters
 ### Examples
 - Cooper unveiled names of only a few people to serve in his administration before he was sworn in to office just after midnight Saturday.
 - Gov. Ricardo Rossello, 37, proposed several measures aimed at alleviating the crisis shortly after he was sworn in at midnight.

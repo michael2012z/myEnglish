@@ -4,7 +4,7 @@ A furnace is an appliance that heats houses and buildings by burning fuel or cir
 ### Definition
 - n: an enclosed chamber in which heat is produced to heat buildings, destroy refuse, smelt or refine ores, etc.
 ### Family
-furnace: furnaces
+- furnace: furnaces
 ### Examples
 - To reduce heating costs, wood furnaces were installed in the homes and residents were put to work to provide a steady supply of wood.
 - Fire Chief Dan Meehan says the man was working on an old furnace underneath a grate in the floor when he fell in headfirst.
@@ -16,7 +16,8 @@ Wrath is great anger that expresses itself in a desire to punish someone: Noah s
 - n: intense anger (usually on an epic scale)
 - n: belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
 ### Family
-wrath: wrathful, wraths+;wrathful: wrathfully
+- wrath: wrathful, wraths+
+- wrathful: wrathfully
 ### Examples
 - Achilles’ defining attribute—it’s the first word of the Iliad—is mēnin, usually translated as “wrath” or “rage.”
 - When he was younger, concerned parents pulled their children off the football field, sparing them the wrath of the bruising, hard-hitting grade-schooler.
@@ -29,7 +30,8 @@ Requisite is a formal or fancy word for indispensable. During your punk phase, y
 - adj: necessary for relief or supply
 - n: anything indispensable
 ### Family
-requisite: prerequisite, requisiteness, requisites+;prerequisite: prerequisites
+- requisite: prerequisite, requisiteness, requisites+
+- prerequisite: prerequisites
 ### Examples
 - Admittedly, many of us in media-land tend to lockstep to the same films, or throw in a requisite foreign outlier.
 - If the company were to secure the requisite permits to operate — and that’s a big if — it’s not clear that it would succeed.
@@ -41,7 +43,9 @@ Something prevalent is common in a particular place at a particular time. Preval
 ### Definition
 - adj: most frequent or common
 ### Family
-prevalent: prevalently+;prevail: prevailed, prevailing, prevails, prevalence, prevalent;prevailing: prevailingly
+- prevalent: prevalently+
+- prevail: prevailed, prevailing, prevails, prevalence, prevalent
+- prevailing: prevailingly
 ### Examples
 - One of his other legacies was helping to create a coffee cup lid that may now be as prevalent as the Solo cup.
 - Only a few worked in cobalt mines, but the poll results showed how problems are prevalent no matter the mineral.
@@ -55,7 +59,13 @@ Indispensable is a strong adjective for something that you couldn't do without. 
 - adj: absolutely necessary; vitally necessary
 - adj: unavoidable
 ### Family
-indispensable: indispensability, indispensableness, indispensably+;dispensable: dispensability, dispensableness, indispensable;dispensary: dispensaries;dispensation: dispensations;dispense: dispensable, dispensary, dispensation, dispensed, dispenser, dispenses, dispensing;dispenser: dispensers;indispensability: indispensabilities
+- indispensable: indispensability, indispensableness, indispensably+
+- dispensable: dispensability, dispensableness, indispensable
+- dispensary: dispensaries
+- dispensation: dispensations
+- dispense: dispensable, dispensary, dispensation, dispensed, dispenser, dispenses, dispensing
+- dispenser: dispensers
+- indispensability: indispensabilities
 ### Examples
 - Some of them are not just important, but indispensable.
 - Her calculations very soon prove indispensable to the effort to put the first American astronaut, Alan Shepard, into outer space.
@@ -70,7 +80,9 @@ If you concede something, you admit that it is true, proper, or certain––usu
 - v: be willing to concede
 - v: admit (to a wrongdoing)
 ### Family
-concede: conceded, concedes, conceding, concession, concessive+;concession: concessions;concessive: concessively
+- concede: conceded, concedes, conceding, concession, concessive+
+- concession: concessions
+- concessive: concessively
 ### Examples
 - Mane’s joy was short-lived when he conceded the game’s second penalty by blocking Sebastian Larsson’s free kick with his arm.
 - Fernyhough does not spend much time on these criticisms, though in a footnote he does concede the scant evidentiary basis of the movement’s claims.
@@ -88,7 +100,8 @@ A fleet is usually a large group of ships, but it can be any group of vessels li
 - v: move along rapidly and lightly; skim or dart
 - v: disappear gradually
 ### Family
-fleet: fleeted, fleeter, fleetest, fleeting, fleetly, fleetness, fleets+;fleeting: fleetingest, fleetingly, fleetingness
+- fleet: fleeted, fleeter, fleetest, fleeting, fleetly, fleetness, fleets+
+- fleeting: fleetingest, fleetingly, fleetingness
 ### Examples
 - Four days later, after being allowed a fleeting meeting with Pan, he was blindfolded and escorted back downstairs into The Residence’s garage.
 - Paul Newell, a spokesman for the Navy’s 7th Fleet, said when asked about the matter last week.
@@ -100,7 +113,8 @@ Ingenuity is the ability to think creatively about a situation or to solve probl
 - n: the power of creative imagination
 - n: the property of being ingenious
 ### Family
-ingenuity: ingenuities+;ingenious: ingeniousest, ingeniously, ingeniousness, ingenuity
+- ingenuity: ingenuities+
+- ingenious: ingeniousest, ingeniously, ingeniousness, ingenuity
 ### Examples
 - Finding an answer for Quinlan and children like him relies as much on Chinese expertise as it does American ingenuity.
 - It’s not somber scientists who drive human ingenuity, nor the warrior class and its quest for a better spear.
@@ -112,7 +126,7 @@ ingenuity: ingenuities+;ingenious: ingeniousest, ingeniously, ingeniousness, ing
 - v: support with evidence or authority or make more certain or confirm
 - v: support from beneath
 ### Family
-underpin: underpinned, underpinning, underpins
+- underpin: underpinned, underpinning, underpins
 ### Examples
 - But in devising the underpinning technology, he says it is time to ditch the motors and metal approach that he himself pioneered.
 - This fuelling of anxieties underpinned a narrative centered on the need to “regain control,” whether of borders or of economic forces.
@@ -131,7 +145,11 @@ An arch is a shape that resembles an upside down "U." You may find this shape in
 - adj: naughtily or annoyingly playful
 - adj: expert in skulduggery
 ### Family
-arch: arched, archer, arches, archest, arching, archly, archness, overarch+;archer: archers, archery;archery: archeries;archness: archnesses;overarch: overarched, overarches, overarching
+- arch: arched, archer, arches, archest, arching, archly, archness, overarch+
+- archer: archers, archery
+- archery: archeries
+- archness: archnesses
+- overarch: overarched, overarches, overarching
 ### Examples
 - The headline-grabbing arch conservative from Spartanburg County faced a trio of opponents in his primary battle to win a third term in the Senate.
 - So he and Houmam Saad, his Syrian colleague, spent four days flying a drone with a robot camera over the crumbled arches and temples.

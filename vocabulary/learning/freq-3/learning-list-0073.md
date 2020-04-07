@@ -4,7 +4,9 @@ Pessimistic describes the state of mind of someone who always expects the worst.
 ### Definition
 - adj: expecting the worst possible outcome
 ### Family
-pessimistic: pessimistically+;pessimism: pessimisms, pessimist, pessimistic;pessimist: pessimists
+- pessimistic: pessimistically+
+- pessimism: pessimisms, pessimist, pessimistic
+- pessimist: pessimists
 ### Examples
 - The fresh mix in the currency group, therefore, likely won’t change many investors’ pessimistic outlook for the yuan, analysts say.
 - Eduardo Porter, a columnist for the Times, recently wrote a pessimistic piece on income inequality.
@@ -16,7 +18,13 @@ pessimistic: pessimistically+;pessimism: pessimisms, pessimist, pessimistic;pess
 - n: an expectation
 - n: something expected (as on the basis of a norm)
 ### Family
-expectancy: expectancies+;expect: expectable, expectant, expectation, expected, expecting, expects;expectable: expectably;expectant: expectancy, expectantly;expectation: expectations;expected: expectedly, expectedness, unexpected;unexpected: unexpecteder, unexpectedly, unexpectedness
+- expectancy: expectancies+
+- expect: expectable, expectant, expectation, expected, expecting, expects
+- expectable: expectably
+- expectant: expectancy, expectantly
+- expectation: expectations
+- expected: expectedly, expectedness, unexpected
+- unexpected: unexpecteder, unexpectedly, unexpectedness
 ### Examples
 - “I’m competitive and every disappointment stays with me forever. It is a scar in your heart and reduces your life expectancy.”
 - The typical life expectancy of lions in zoos is 17 years, the zoo said.
@@ -29,7 +37,10 @@ To testify is to make a statement or provide evidence, usually in court. Witness
 - v: give testimony in a court of law
 - v: provide evidence for
 ### Family
-testify: testified, testifier, testifies, testifying, testimony+;testifier: testifiers;testimonial: testimonials;testimony: testimonial, testimonies
+- testify: testified, testifier, testifies, testifying, testimony+
+- testifier: testifiers
+- testimonial: testimonials
+- testimony: testimonial, testimonies
 ### Examples
 - With Park refusing to appear on Tuesday, the nine-justice court asked her to testify on Thursday.
 - But by law, those who testify now are prohibited from telling the jury what penalty they think he should receive.
@@ -44,7 +55,9 @@ You know how you feel when you can’t open a jar of pickles? And then grandma w
 - adj: lacking strength
 - adj: lacking bodily or muscular strength or vitality
 ### Family
-feeble: enfeeble, feebleness, feebler, feeblest, feebly+;enfeeble: enfeebled, enfeeblement, enfeebles, enfeebling;feebleness: feeblenesses
+- feeble: enfeeble, feebleness, feebler, feeblest, feebly+
+- enfeeble: enfeebled, enfeeblement, enfeebles, enfeebling
+- feebleness: feeblenesses
 ### Examples
 - We humans are born in a feeble state, very much needing our parents to help us survive.
 - Mr. Gentiloni confirmed that his government will, like his predecessor’s, push for pro-growth policies in Europe to support Italy’s feeble economic recovery.
@@ -62,7 +75,7 @@ If you relay something, you pass it to another person. When you relay the inform
 - n: electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit
 - v: control or operate by relay
 ### Family
-relay: relayed, relaying, relays
+- relay: relayed, relaying, relays
 ### Examples
 - No, it was a story which appeared to grow wilder somewhere along the relay chain of information from local media to international news.
 - I relayed the details to my best friend, who was sympathetic.
@@ -74,7 +87,9 @@ relay: relayed, relaying, relays
 - adj: relating to cells
 - adj: characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)
 ### Family
-cellular: cellularity, cellularly, intercellular, intracellular, multicellular, noncellular, unicellular+;cell: cell-like, cells, cellular;cellularity: hypercellularity, hypocellularity
+- cellular: cellularity, cellularly, intercellular, intracellular, multicellular, noncellular, unicellular+
+- cell: cell-like, cells, cellular
+- cellularity: hypercellularity, hypocellularity
 ### Examples
 - Considering video is a data hoover, cellular carriers will offer heftier plans and incentives to increase our data buckets.
 - There are currently no cellular installations in the park.
@@ -89,7 +104,11 @@ If you feel loyal and loving toward someone or something, that's devotion. If yo
 - n: religious zeal; the willingness to serve God
 - n: (usually plural) religious observance or prayers (usually spoken silently)
 ### Family
-devotion: devotional, devotions+;devote: devoted, devotee, devotes, devoting, devotion;devoted: devotedest, devotedly, devotedness;devotee: devotees;devotional: devotionally, devotionals
+- devotion: devotional, devotions+
+- devote: devoted, devotee, devotes, devoting, devotion
+- devoted: devotedest, devotedly, devotedness
+- devotee: devotees
+- devotional: devotionally, devotionals
 ### Examples
 - The final years of my dad’s life, and my mom’s awe-inspiring devotion and care to the very end.
 - Despite marrying and fathering several children, Rasputin abandoned family life in search of Orthodox Christian religious devotion and piety.
@@ -104,7 +123,8 @@ A sore is a broken patch of skin — something you might put a bandage on — or
 - adj: roused to anger
 - n: an open skin infection
 ### Family
-sore: sorely, soreness, sorer, sores, sorest+;soreness: sorenesses
+- sore: sorely, soreness, sorer, sores, sorest+
+- soreness: sorenesses
 ### Examples
 - Anthony, who led the Knicks against Orlando with 19 points, missed the second half of Saturday’s game because of a sore left knee.
 - No, the sore back that prompted his competitive sabbatical wasn’t acting up.
@@ -121,7 +141,7 @@ When you heighten something, you increase it or make it more intense. If you wan
 - v: make more intense, stronger, or more marked
 - v: make (one's senses) more acute
 ### Family
-heighten: heightened, heightening, heightens
+- heighten: heightened, heightening, heightens
 ### Examples
 - But there was also anger at what some saw as heightened polarisation and rhetoric in the run-up to the attack.
 - Ambrose accuses President Obama of breaking “records in polarizing the country” by stirring up class antagonisms, heightening racial tensions and helping instigate political stalemate.
@@ -135,7 +155,11 @@ Degrade means to put down––a degrading comment is one that makes the subject
 - v: lower the grade of something; reduce its worth
 - v: reduce the level of land, as by erosion
 ### Family
-degrade: degradation, degraded, degrader, degrades, degrading+;degradation: degradations;degraded: degradedly;degrader: degraders;degrading: degradingly
+- degrade: degradation, degraded, degrader, degrades, degrading+
+- degradation: degradations
+- degraded: degradedly
+- degrader: degraders
+- degrading: degradingly
 ### Examples
 - “Torture and cruel, inhuman, and degrading treatment is never a morally permissible option, even if lives depend on gaining information,” the manual said.
 - Some appear to be in good condition but were conserved using a 1940s process that is slowly degrading the documents housed in the temperature-controlled archives.

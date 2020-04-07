@@ -8,7 +8,7 @@ If someone describes you as a pillar of strength, he's saying you're reliable an
 - n: a fundamental principle or practice
 - n: anything that approximates the shape of a column or tower
 ### Family
-pillar: pillars
+- pillar: pillars
 ### Examples
 - One of the pillars of Mr. Trump’s campaign was his intention to revive the fortunes of the coal industry through support of so-called clean coal.
 - The promotion of Louisiana as a tourist destination is one of the economic pillars of the state, particularly in New Orleans.
@@ -20,7 +20,7 @@ When something is compulsory, it is required or must be done. In most states, it
 ### Definition
 - adj: required by rule
 ### Family
-compulsory: compulsorily
+- compulsory: compulsorily
 ### Examples
 - Nonetheless, in those days of compulsory patriotic flag-waving the media showed no inclination to be even slightly skeptical, and the result was catastrophic.
 - Chess is compulsory in schools; grandmasters are salaried and top players get the same adulation as pop stars.
@@ -34,7 +34,8 @@ You know you're driving through an affluent neighborhood when you see large hous
 - n: an affluent person; a person who is financially well off
 - n: a branch that flows into the main stream
 ### Family
-affluent: affluence, affluently, affluents+;affluence: affluences
+- affluent: affluence, affluently, affluents+
+- affluence: affluences
 ### Examples
 - The national referendum result was narrow but Remain votes piled up in big cities, affluent suburbs and Scotland.
 - In every income group in Britain bar the most affluent ABs, there was a majority for leaving the EU.
@@ -46,7 +47,7 @@ Colossal describes something so large it makes you say, "Whoa!" You might have a
 ### Definition
 - adj: so great in size or force or extent as to elicit awe
 ### Family
-colossal: colossally
+- colossal: colossally
 ### Examples
 - These are the men who will soon occupy the highest civilian offices in America’s colossal national security state.
 - How did a film with a classic Will Smith vehicle implode so colossally?
@@ -61,7 +62,10 @@ When you plant seeds in the ground, you sow them. You can also sow things like d
 - v: introduce into an environment
 - n: an adult female hog
 ### Family
-sow: sowed, sower, sowing, sown, sows+;sowed: self-sowed;sower: sowers;sown: self-sown, sowner, unsown
+- sow: sowed, sower, sowing, sown, sows+
+- sowed: self-sowed
+- sower: sowers
+- sown: self-sown, sowner, unsown
 ### Examples
 - Austin Wilson, environmental health program manager for As You Sow, said the company’s new plan represented progress.
 - Facebook’s activation of the feature sowed confusion, however, because the platform also promoted a link to a false news report of a major “explosion”.
@@ -75,7 +79,7 @@ If you enjoy reading tales set in the Middle Ages, you’ve probably encountered
 - n: a country person
 - n: a crude uncouth ill-bred person lacking culture or refinement
 ### Family
-peasant: peasanthood, peasants
+- peasant: peasanthood, peasants
 ### Examples
 - Grigory Rasputin, a mystic peasant who captivated the Russian imperial court, met his death at the hands of aristocratic enemies 100 years ago.
 - Born to peasants in a small village in Western Siberia, the young Rasputin turned to religion early in his life.
@@ -87,7 +91,9 @@ If there is a forceful flowing inward or coming in, you can say there is an infl
 ### Definition
 - n: the process of flowing in
 ### Family
-influx: influxes+;flux: fluxed, fluxes, fluxing, fluxion, influx;fluxion: fluxions
+- influx: influxes+
+- flux: fluxed, fluxes, fluxing, fluxion, influx
+- fluxion: fluxions
 ### Examples
 - The challenge is dealing with the obvious influx of drugs that’s fueling the addictions epidemic, Beidelschies said.
 - “The influx of illicitly manufactured fentanyl from overseas is a nationwide issue that requires a multidisciplinary intervention from all levels of government.”
@@ -99,7 +105,11 @@ Describe an action as prudent if it is the wise thing to do under the existing c
 ### Definition
 - adj: careful and sensible; marked by sound judgment
 ### Family
-prudent: imprudent, prudence, prudenter, prudentest, prudently+;imprudence: imprudences;imprudent: imprudence, imprudenter, imprudently;prudence: prudences, prudential;prudential: prudentially
+- prudent: imprudent, prudence, prudenter, prudentest, prudently+
+- imprudence: imprudences
+- imprudent: imprudence, imprudenter, imprudently
+- prudence: prudences, prudential
+- prudential: prudentially
 ### Examples
 - It’s entirely possible to believe that the basis for his skepticism is sound and prudent.
 - That’s why attacking the settlements’ legality—as opposed to questioning whether they’re prudent—is so insidious.
@@ -112,7 +122,9 @@ A chant is a type of song with a repetitive, monotonous structure. It’s also s
 - v: utter monotonously and repetitively and rhythmically
 - v: recite with musical intonation; recite as a chant or a psalm
 ### Family
-chant: chanted, chanter, chanting, chantlike, chants+;chanter: chanters;chanting: chantings
+- chant: chanted, chanter, chanting, chantlike, chants+
+- chanter: chanters
+- chanting: chantings
 ### Examples
 - That dropped the Nittany Lions ’ record to 2-2, and the next week the home fans booed and chanted, “Fire Franklin!”
 - In early November, nearly 20 protesters who sat, chanted, sang and refused orders to leave were arrested in the building’s judicial wing.
@@ -139,7 +151,8 @@ Foul is most commonly used as an adjective to describe a bad smell. As a verb, f
 - adj: (of a manuscript) defaced with changes
 - adj: especially of a ship's lines etc
 ### Family
-foul: fouled, fouler, foulest, fouling, foully, foulness, fouls+;foulness: foulnesses
+- foul: fouled, fouler, foulest, fouling, foully, foulness, fouls+
+- foulness: foulnesses
 ### Examples
 - County police are investigating but do not suspect foul play, according to a statement on the county’s Facebook page.
 - He was fouled on the play but his free throw with 0.9 seconds left was short.

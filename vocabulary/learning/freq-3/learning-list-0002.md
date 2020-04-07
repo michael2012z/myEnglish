@@ -12,7 +12,9 @@ A pledge is basically very serious formal promise. You can pledge allegiance to 
 - v: propose a toast to
 - v: pay (an amount of money) as a contribution to a charity or service, especially at regular intervals
 ### Family
-pledge: pledged, pledger, pledges, pledging+;pledged: unpledged;pledger: pledgers
+- pledge: pledged, pledger, pledges, pledging+
+- pledged: unpledged
+- pledger: pledgers
 ### Examples
 - But then Donald Trump began running for president, pledging to ban Muslims from entering the country and establish a registry for Muslim Americans.
 - He also pledged to spend $1 trillion on infrastructure projects and cut everyone’s taxes.
@@ -24,7 +26,8 @@ Something that is unprecedented is not known, experienced, or done before. If yo
 ### Definition
 - adj: having no precedent; novel
 ### Family
-unprecedented: unprecedentedly+;precedented: precedentedly, unprecedented
+- unprecedented: unprecedentedly+
+- precedented: precedentedly, unprecedented
 ### Examples
 - The “unprecedented” personal wealth of Trump’s nominees warrants the delays, one senior Democratic aide said.
 - This was unprecedented, and it held a strange appeal.
@@ -39,7 +42,7 @@ If you're running a deficit, you are losing. You might be losing money or losing
 - n: a deficiency or failure in neurological or mental functioning
 - n: (sports) the score by which a team or individual is losing
 ### Family
-deficit: deficits
+- deficit: deficits
 ### Examples
 - North Carolina twice cut the deficit back to single digits down the stretch but got no closer than seven.
 - “The unemployment rate is distressing; the impoverishment of the population is palpable everywhere; our social protection system is in deficit and is in peril.”
@@ -59,7 +62,8 @@ Sanction has two nearly opposite meanings: to sanction can be to approve of some
 - n: the act of punishing
 - v: impose a penalty on; inflict punishment on
 ### Family
-sanction: sanctioned, sanctioning, sanctions+;sanctioned: unsanctioned
+- sanction: sanctioned, sanctioning, sanctions+
+- sanctioned: unsanctioned
 ### Examples
 - Ten years later, Capucci led a delegation of clerics and intellectuals to Iraq in a show of solidarity against UN sanctions.
 - Security Council imposed sanctions for its nuclear tests and long-range rocket launches dating back to 2006.
@@ -71,7 +75,7 @@ Morale is the spirit a group has that makes them want to succeed. It's a sense o
 - n: a state of individual psychological well-being based upon a sense of confidence and usefulness and purpose
 - n: the spirit of a group that makes the members want the group to succeed
 ### Family
-morale: morales
+- morale: morales
 ### Examples
 - Morales is charged with stealing 16 guns from a U.S.
 - James Morales, 35, suspected of stealing weapons from a U.S.
@@ -83,7 +87,7 @@ Many times, a person suspected of something illegal by the authorities is placed
 ### Definition
 - n: close observation of a person or group (usually by the police)
 ### Family
-surveillance: surveillances
+- surveillance: surveillances
 ### Examples
 - Learning of this through wiretaps and surveillance, Johnson was livid.
 - Some industry and government officials are concerned current surveillance is insufficient.
@@ -104,7 +108,8 @@ Plunge is a noun and a verb related to diving, falling, and sinking. A "polar be
 - v: fall abruptly
 - n: a steep and rapid fall
 ### Family
-plunge: plunged, plunger, plunges, plunging+;plunger: plungers
+- plunge: plunged, plunger, plunges, plunging+
+- plunger: plungers
 ### Examples
 - Dahlin’s first interrogation began about 2am that winter morning, as temperatures outside The Residence plunged to six degrees below zero.
 - Meanwhile British politics is plunged into chaos, the result being that in ...
@@ -118,7 +123,8 @@ Equity is the state or quality of being fair. In classrooms, it's important to e
 - n: the ownership interest of shareholders in a corporation
 - n: the difference between the market value of a property and the claims held against it
 ### Family
-equity: equities, inequity+;inequity: inequities
+- equity: equities, inequity+
+- inequity: inequities
 ### Examples
 - It is high for U.S. equities by historical averages, elevated for Japan, moderate for Europe and low for emerging markets.
 - Beyond the purchase of IndyMac, Mnuchin was an active private equity investor with stakes in retail companies and Hollywood film studios.
@@ -144,7 +150,7 @@ The hard thing about learning how to parallel park is trying to get the car clos
 - v: keep to the curb
 - n: a stock exchange in New York
 ### Family
-Curb: Curbs
+- Curb: Curbs
 ### Examples
 - But investors are also right to curb their expectations.
 - China sees self-ruled Taiwan as part of its territory and curbs the Taipei government’s foreign diplomacy.
@@ -164,7 +170,10 @@ The tide is the daily rise and fall of the sea level. You can count on the regul
 - v: cause to float with the tide
 - v: be carried with the tide
 ### Family
-tide: tidal, tided, tides, tiding, undertide+;tidal: intertidal;tiding: tidings;undertide: undertides
+- tide: tidal, tided, tides, tiding, undertide+
+- tidal: intertidal
+- tiding: tidings
+- undertide: undertides
 ### Examples
 - As always, the Crimson Tide program exudes an air of quiet determination and poise.
 - Lewis’ 10 topped the Crimson Tide, who were held to their smallest point total of the season.

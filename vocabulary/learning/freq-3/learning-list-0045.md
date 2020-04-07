@@ -6,7 +6,13 @@ Taxation refers to the practice of a government collecting money from its citize
 - n: charge against a citizen's person or property or activity for the support of government
 - n: government income due to taxation
 ### Family
-taxation: taxations+;overtax: overtaxed, overtaxes, overtaxing;tax: overtax, supertax, taxable, taxation, taxed, taxer, taxes, taxing;taxable: nontaxable, taxability;taxed: untaxed;taxer: taxers;taxing: taxingly
+- taxation: taxations+
+- overtax: overtaxed, overtaxes, overtaxing
+- tax: overtax, supertax, taxable, taxation, taxed, taxer, taxes, taxing
+- taxable: nontaxable, taxability
+- taxed: untaxed
+- taxer: taxers
+- taxing: taxingly
 ### Examples
 - It is not a coincidence, as old Marxists used to say, that his proposed cuts to personal taxation would shower cash on the already wealthy.
 - The contribution from benefit taxation never accounts for more than a small percentage of the total costs of Social Security.
@@ -18,7 +24,7 @@ An ATV, or all-terrain vehicle, is useful for people who drive on lots of differ
 ### Definition
 - n: a piece of ground having specific characteristics or military potential
 ### Family
-terrain: terrains
+- terrain: terrains
 ### Examples
 - To minimize erosion, terrain, soil structure and rainfall are also considered.
 - The major difficulty in cheetah conservation is that the animals range across large expanses of terrain, crossing the boundaries of refuges and nations.
@@ -32,7 +38,21 @@ Distrust is a feeling of doubt about some person or thing. We distrust people wh
 - n: the trait of not trusting others
 - v: regard as untrustworthy; regard with suspicion; have no faith or confidence in
 ### Family
-distrust: distrusted, distrusting, distrusts, self-distrust+;distrustful: distrustfully, distrustfulness;entrust: entrusted, entrusting, entrusts;intrust: intrusted, intrusting, intrusts;mistrust: mistrusted, mistrustful, mistrusting, mistrusts;mistrustful: mistrustfully;trust: antitrust, distrust, entrust, intrust, mistrust, trusted, trustee, truster, trustful, trusting, trusts, trusty;trusted: trustedly;trustee: trustees, trusteeship;trusteeship: trusteeships;truster: trusters;trustful: distrustful, trustfully, trustfulness;trusting: trustingest, trustingly, trustingness, untrusting;trusty: trustier, trusties, trustiest, trustily, trustiness, untrusty;untrusty: untrustiness
+- distrust: distrusted, distrusting, distrusts, self-distrust+
+- distrustful: distrustfully, distrustfulness
+- entrust: entrusted, entrusting, entrusts
+- intrust: intrusted, intrusting, intrusts
+- mistrust: mistrusted, mistrustful, mistrusting, mistrusts
+- mistrustful: mistrustfully
+- trust: antitrust, distrust, entrust, intrust, mistrust, trusted, trustee, truster, trustful, trusting, trusts, trusty
+- trusted: trustedly
+- trustee: trustees, trusteeship
+- trusteeship: trusteeships
+- truster: trusters
+- trustful: distrustful, trustfully, trustfulness
+- trusting: trustingest, trustingly, trustingness, untrusting
+- trusty: trustier, trusties, trustiest, trustily, trustiness, untrusty
+- untrusty: untrustiness
 ### Examples
 - Nixon’s distrust of the CIA prompted him to undervalue most of the agency’s judgments, if he read them at all.
 - Why do we revere the intellect and ignore or distrust the body?
@@ -45,7 +65,9 @@ Do all these words make your head ache? If so, take an aspirin to alleviate, or 
 - v: provide physical relief, as from pain
 - v: make easier
 ### Family
-alleviate: alleviated, alleviates, alleviating, alleviation, alleviative, alleviator+;alleviation: alleviations;alleviator: alleviators
+- alleviate: alleviated, alleviates, alleviating, alleviation, alleviative, alleviator+
+- alleviation: alleviations
+- alleviator: alleviators
 ### Examples
 - Gov. Ricardo Rossello, 37, proposed several measures aimed at alleviating the crisis shortly after he was sworn in at midnight.
 - And is seen as crucial to alleviating congestion in the nation’s biggest subway system.
@@ -58,7 +80,9 @@ Hysteria is a medical condition or general state of extreme fear and panic. When
 - n: excessive or uncontrollable fear
 - n: neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions
 ### Family
-hysteria: hysterias, hysterical+;hysteric: hysteria, hysterics;hysterical: hysterically
+- hysteria: hysterias, hysterical+
+- hysteric: hysteria, hysterics
+- hysterical: hysterically
 ### Examples
 - With the outbreak of war in 1914 there was hysteria about "dark forces around the throne".
 - The unfortunate consequences of this newfound hysteria include a hypervigilant style of parenting that is probably not good for either children or parents.
@@ -72,7 +96,7 @@ When someone burps in a quiet classroom it can be hard to refrain from laughing.
 - v: choose not to consume
 - n: the part of a song where a soloist is joined by a group of singers
 ### Family
-refrain: refrained, refraining, refrains
+- refrain: refrained, refraining, refrains
 ### Examples
 - That was the refrain when 2016 began with the worst start ever.
 - The report says lawmakers should refrain from levying the fees until more people are driving electric vehicles.
@@ -86,7 +110,8 @@ Something absurd is really silly, absolutely ridiculous, or total nonsense. Thin
 - adj: incongruous;inviting ridicule
 - n: a situation in which life seems irrational and meaningless
 ### Family
-absurd: absurder, absurdest, absurdity, absurdly, absurdness+;absurdity: absurdities
+- absurd: absurder, absurdest, absurdity, absurdly, absurdness+
+- absurdity: absurdities
 ### Examples
 - It’s absurd how many cars and trucks are driving with only one functioning headlight.
 - “This was my subway stop, and the fact that they were turning it into 42nd Street seemed absurd,” Mr. Lethem recalled.
@@ -101,7 +126,7 @@ Orthodox practices or beliefs are generally accepted as true or correct. If you 
 - adj: of or relating to or characteristic of the Eastern Orthodox Church
 - adj: of or pertaining to or characteristic of Judaism
 ### Family
-Orthodox
+- Orthodox
 ### Examples
 - It’s also where Stanley’s troubles began with more orthodox believers.
 - A few words of orthodox reassurance from the pontiff would help.
@@ -116,7 +141,8 @@ A chromosome is a strand of DNA that is encoded with genes. In most cells, human
 ### Definition
 - n: a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order
 ### Family
-chromosome: chromosomal, chromosomes+;chromosomal: chromosomally
+- chromosome: chromosomal, chromosomes+
+- chromosomal: chromosomally
 ### Examples
 - Like our hair and skin, our chromosomes show our age.
 - Only chromosome sequences of zebrafish were aligned while unplaced scaffolds were excluded.
@@ -129,7 +155,7 @@ Something with longevity has the ability to last for a long time. While tortoise
 - n: the property of being long-lived
 - n: duration of service
 ### Family
-longevity
+- longevity
 ### Examples
 - As for that longevity, Gilbert credits independence forced upon her at an early age and a positive attitude.
 - As much as you admire his toughness, you wince and fear that, once again, he’s sacrificing longevity for machismo.

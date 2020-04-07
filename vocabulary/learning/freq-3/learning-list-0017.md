@@ -5,7 +5,8 @@ To avert is to turn away or to prevent. You might avert your gaze or avert a dis
 - v: turn away or aside
 - v: prevent the occurrence of; prevent from happening
 ### Family
-avert: aversion, avertable, averted, averting, averts+;aversion: aversions
+- avert: aversion, avertable, averted, averting, averts+
+- aversion: aversions
 ### Examples
 - However, there is no critical moment at which the disaster hits or will be averted.
 - Separately, Australia says it averted a terrorist plot in Melbourne — possibly on Christmas Day — with the arrest of five people.
@@ -17,7 +18,7 @@ Theft is the act of stealing something. If you've ever taken your sister's sweat
 ### Definition
 - n: the act of taking something from someone unlawfully
 ### Family
-theft: thefts
+- theft: thefts
 ### Examples
 - His attorney argued there was insufficient evidence to convict Kelly on several charges, including theft and engaging in a pattern of corrupt activity.
 - The theft transformed the manuscript into an object of obsession, a kind of Maltese Falcon, for a coterie of Inquisition scholars and rare-book collectors.
@@ -30,7 +31,9 @@ Diminish means to make smaller or lesser. If you cover a lightbulb with a dark l
 - v: decrease in size, extent, or range
 - v: lessen the authority, dignity, or reputation of
 ### Family
-diminish: diminished, diminishes, diminishing+;diminished: undiminished;diminishing: diminishingly
+- diminish: diminished, diminishes, diminishing+
+- diminished: undiminished
+- diminishing: diminishingly
 ### Examples
 - Indeed, a mainstream strategy in cognitive behavioral therapy involves purposefully articulating thoughts to oneself in order to diminish pernicious habits of mind.
 - Despite leading an offense diminished by so many injuries, Dalton finished the season throwing for 4,206 yards - his second-best total - with only eight interceptions.
@@ -42,7 +45,8 @@ When a war ends, often two countries will sign a treaty, which is a contract whe
 ### Definition
 - n: a written agreement between two states or sovereigns
 ### Family
-treaty: entreaty, treaties+;entreaty: entreaties
+- treaty: entreaty, treaties+
+- entreaty: entreaties
 ### Examples
 - It rapidly became the source of conventional left-liberal wisdom on the treaty.
 - Just days later, China and Canada agreed to discuss a landmark free trade deal and an extradition treaty.
@@ -56,7 +60,7 @@ When many people react against something in the same way, you can call it a back
 - n: an adverse reaction to some political or social occurrence
 - v: come back to the originator of an action with an undesired effect
 ### Family
-backlash: backlashed, backlashes, backlashing
+- backlash: backlashed, backlashes, backlashing
 ### Examples
 - However the backlash prompted him to defend the proposal in a Facebook post last week.
 - Journalists who tried to investigate Ms. Choi suffered a vicious official backlash.
@@ -75,7 +79,10 @@ To suck is to draw something by force. Vacuum cleaners suck dirt from the floor 
 - v: be inadequate or objectionable
 - n: the act of sucking
 ### Family
-suck: sucked, sucker, sucking, sucks, suction+;sucker: suckers;sucking: suckings;suction: suctioned, suctioning, suctions, suctorial
+- suck: sucked, sucker, sucking, sucks, suction+
+- sucker: suckers
+- sucking: suckings
+- suction: suctioned, suctioning, suctions, suctorial
 ### Examples
 - “We knew we couldn’t fumble this mission—they could have been sucking us into a trap,” says a U.S.
 - The effect was to suck $50 billion from the banking system.
@@ -89,7 +96,7 @@ Soldiers carry their ammunition: the bullets and shells needed for their guns.
 - n: any nuclear or chemical or biological material that can be used as a weapon of mass destruction
 - n: information that can be used to attack or defend a claim or argument or viewpoint
 ### Family
-ammunition: ammunitions
+- ammunition: ammunitions
 ### Examples
 - My boss even bought a surplus ammunition tin for storing the drone batteries, just in case they exploded.
 - In the capital, Kinshasa, police and soldiers fired live ammunition as opposition activists burned tyres, attacked an office of the ruling party and threw stones.
@@ -101,7 +108,7 @@ The mosque is the traditional Muslim place of worship. Architecturally, it often
 ### Definition
 - n: (Islam) a Muslim place of worship that usually has a minaret
 ### Family
-mosque: mosques
+- mosque: mosques
 ### Examples
 - And they’re pushing their leaders to deny connection to the public sewage system the mosque would need.
 - The Islamic Society’s application to build the mosque was denied after more than three years and 39 public hearings.
@@ -116,7 +123,11 @@ The verb tolerate means "to put up with or allow." You can tolerate your sister'
 - v: have a tolerance for a poison or strong drug or pathogen or environmental condition
 - v: recognize and respect (rights and beliefs of others)
 ### Family
-tolerate: tolerable, tolerance, tolerated, tolerates, tolerating, toleration+;intolerable: intolerablest;tolerable: intolerable, intolerably, tolerablest, tolerably;tolerance: overtolerance, tolerances;toleration: tolerations
+- tolerate: tolerable, tolerance, tolerated, tolerates, tolerating, toleration+
+- intolerable: intolerablest
+- tolerable: intolerable, intolerably, tolerablest, tolerably
+- tolerance: overtolerance, tolerances
+- toleration: tolerations
 ### Examples
 - Loud, inappropriate and unruly behavior is not tolerated in our luxury resorts.”
 - “It shouldn’t be tolerated. Officers are supposed to be guardians not warriors. I don’t think what they expressed reflects the values of the department.”
@@ -133,7 +144,12 @@ To anticipate something is to be expecting it. Your dog might be waiting by the 
 - v: make a prediction about; tell in advance
 - v: be a forerunner of or occur earlier than
 ### Family
-anticipate: anticipated, anticipates, anticipating, anticipation, anticipative, anticipator, anticipatory+;anticipated: unanticipated;anticipation: anticipations;anticipative: anticipatively;anticipator: anticipators;anticipatory: anticipatorily
+- anticipate: anticipated, anticipates, anticipating, anticipation, anticipative, anticipator, anticipatory+
+- anticipated: unanticipated
+- anticipation: anticipations
+- anticipative: anticipatively
+- anticipator: anticipators
+- anticipatory: anticipatorily
 ### Examples
 - Bowles would not comment on his coaching staff, although changes are anticipated there as well.
 - What we did not anticipate was the reaction of other countries and the complexity of history.

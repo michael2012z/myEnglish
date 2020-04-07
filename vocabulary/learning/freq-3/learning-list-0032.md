@@ -7,7 +7,7 @@ To cling is to tightly grasp something or to stick closely to something, like ho
 - v: to remain emotionally or intellectually attached
 - n: fruit (especially peach) whose flesh adheres strongly to the pit
 ### Family
-cling: clinged, clinging, clings, clung
+- cling: clinged, clinging, clings, clung
 ### Examples
 - He clung to his Methodism while criticizing some of its dogma.
 - Rather than examine what’s really wrong with Metro, they cling to the baseless claim that Metro’s problems stem predominately from a lack of taxpayer funding.
@@ -19,7 +19,8 @@ cling: clinged, clinging, clings, clung
 - adj: of or relating to a coast
 - adj: located on or near or bordering on a coast
 ### Family
-coast: coastal, coasted, coaster, coasting, coasts+;coaster: coasters
+- coast: coastal, coasted, coaster, coasting, coasts+
+- coaster: coasters
 ### Examples
 - Months later, this coastal Georgia city hopes to see wood from the majestic oak preserved as works of art.
 - There are stunning vistas of rugged, bucolic coastal inlets.
@@ -31,7 +32,7 @@ What do the national debt, your old gym teacher, and your mother-in-law have in 
 - adj: extremely impressive in strength or excellence
 - adj: inspiring fear
 ### Family
-formidable: formidability, formidably
+- formidable: formidability, formidably
 ### Examples
 - Giants at Packers: Perhaps the two most formidable challengers to the Cowboys in the NFC meet in the opening round.
 - Attuned to the deception, U.S. immigration officials put Chinese arrivals through a formidable inquisition to ensure they were who they claimed to be.
@@ -46,7 +47,8 @@ Vicious is an adjective that means intentionally harmful or nasty. If you spread
 - adj: marked by deep ill will; deliberately harmful
 - adj: bringing or deserving severe rebuke or censure
 ### Family
-vicious: viciousest, viciously, viciousness+;vice: vices, vicious
+- vicious: viciousest, viciously, viciousness+
+- vice: vices, vicious
 ### Examples
 - Journalists who tried to investigate Ms. Choi suffered a vicious official backlash.
 - What resulted was a vicious car crash, several broken bones and surgeries.
@@ -60,7 +62,19 @@ Put simply, to dislike can be used as a transitive verb that means to "not like.
 - n: an inclination to withhold approval from some person or group
 - v: have or feel a dislike or distaste for
 ### Family
-dislike: dislikable, disliked, dislikes, disliking+;likable: likably;like: dislike, likable, likeable, liked, likely, likeness, likes, likest, liking, unlike;likeable: likeably;likelihood: likelihoods, unlikelihood;likely: likelihood, likeliness, likelys, unlikely;likeness: likenesses;liking: likings;unlike: unlikable, unlikeable, unlikeness;unlikelihood: unlikelihoods;unlikeliness: unlikelinesses;unlikely: unlikeliness;unlikeness: unlikenesses
+- dislike: dislikable, disliked, dislikes, disliking+
+- likable: likably
+- like: dislike, likable, likeable, liked, likely, likeness, likes, likest, liking, unlike
+- likeable: likeably
+- likelihood: likelihoods, unlikelihood
+- likely: likelihood, likeliness, likelys, unlikely
+- likeness: likenesses
+- liking: likings
+- unlike: unlikable, unlikeable, unlikeness
+- unlikelihood: unlikelihoods
+- unlikeliness: unlikelinesses
+- unlikely: unlikeliness
+- unlikeness: unlikenesses
 ### Examples
 - As for why he is widely disliked, Kiffin offered a theory involving his age and ex-wife.
 - The governor hasn’t kept his dislike of Clinton - and her husband Bill - a secret.
@@ -71,7 +85,7 @@ dislike: dislikable, disliked, dislikes, disliking+;likable: likably;like: disli
 ### Definition
 - n: an oxide containing two atoms of oxygen in the molecule
 ### Family
-dioxide: dioxides
+- dioxide: dioxides
 ### Examples
 - The sudden change in pressure releases carbon dioxide trapped in the bottle.
 - Carbon dioxide levels in the atmosphere are still at the highest levels since humans first walked the earth.
@@ -85,7 +99,8 @@ To vow is to make an earnest promise or pledge. People getting married often vow
 - v: make a vow; promise
 - v: dedicate to a deity by a vow
 ### Family
-vow: vowed, vower, vowing, vows+;vower: vowers
+- vow: vowed, vower, vowing, vows+
+- vower: vowers
 ### Examples
 - Rather than vague vows to get in shape, resolve to walk half an hour every day after dinner.
 - Although satisfied with the ruling, Chen vowed to continue legal challenges to force an apology.
@@ -98,7 +113,21 @@ When you rethink, you consider something again, often reaching the opposite conc
 - v: change one's mind
 - n: thinking again about a choice previously made
 ### Family
-rethink: rethinking, rethinks, rethought+;forethought: forethoughtful, forethoughts;forethoughtful: forethoughtfully, unforethoughtful;think: rethink, thinkable, thinker, thinking, thinks, thought;thinkable: thinkably, unthinkable;thinker: thinkers;thinking: thinkingly, thinkings, unthinking;thought: forethought, thoughtful, thoughtless, thoughts, unthought;thoughtful: thoughtfully, thoughtfulness, unthoughtful;thoughtfulness: thoughtfulnesses;thoughtless: thoughtlessly, thoughtlessness;thoughtlessness: thoughtlessnesses;unthinkable: unthinkably;unthinking: unthinkingly;unthoughtful: unthoughtfully, unthoughtfulness
+- rethink: rethinking, rethinks, rethought+
+- forethought: forethoughtful, forethoughts
+- forethoughtful: forethoughtfully, unforethoughtful
+- think: rethink, thinkable, thinker, thinking, thinks, thought
+- thinkable: thinkably, unthinkable
+- thinker: thinkers
+- thinking: thinkingly, thinkings, unthinking
+- thought: forethought, thoughtful, thoughtless, thoughts, unthought
+- thoughtful: thoughtfully, thoughtfulness, unthoughtful
+- thoughtfulness: thoughtfulnesses
+- thoughtless: thoughtlessly, thoughtlessness
+- thoughtlessness: thoughtlessnesses
+- unthinkable: unthinkably
+- unthinking: unthinkingly
+- unthoughtful: unthoughtfully, unthoughtfulness
 ### Examples
 - That’s why, this year, our resolutions need to be rethought.
 - Leaps in screen technology and software will pave the biggest rethinking in years.
@@ -120,7 +149,8 @@ If you ask your friend, "How do you feel, generally, about loaning your car to p
 - v: rub to a uniform size
 - v: mix in specific proportions
 ### Family
-gauge: gauged, gauges, gauging, misgauge+;misgauge: misgauged
+- gauge: gauged, gauges, gauging, misgauge+
+- misgauge: misgauged
 ### Examples
 - But according to experts, checking your weight is a misguided, demoralizing way to gauge overall health.
 - In February last year, they introduced the idea to local businesses to gauge interest before implementation.
@@ -134,7 +164,7 @@ Artillery refers to large-caliber guns — guns with big barrels — which can b
 - n: an army unit that uses big guns
 - n: a means of persuading or arguing
 ### Family
-artillery: artilleries
+- artillery: artilleries
 ### Examples
 - Early in her career, she was as an engineer for a research institute attached to the Chinese army’s Second Artillery Corps.
 - It was the Canadiens who finally stopped the Soldiers, which is to say they “spiked the artillery of the fusiliers.”

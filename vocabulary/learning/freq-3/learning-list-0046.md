@@ -6,7 +6,9 @@ Did you just figure out how to make that excellent pizza you had in Philadelphia
 - v: make or do or perform again
 - v: bend or turn backward
 ### Family
-replicate: replicated, replicates, replicating, replication+;replica: replicas, replicate;replication: replications
+- replicate: replicated, replicates, replicating, replication+
+- replica: replicas, replicate
+- replication: replications
 ### Examples
 - Will digital “television” simply replicate the TV we’re used to or become something else entirely? 
 - That company's engineer, Carl Bosch, then managed to replicate Haber's process on an industrial scale.
@@ -23,7 +25,9 @@ To depart is to go away or to choose a different direction. If you are catching 
 - v: wander from a direct or straight course
 - v: remove oneself from an association with or participation in
 ### Family
-depart: departed, departer, departing, departs, departure+;departer: departers;departure: departures
+- depart: departed, departer, departing, departs, departure+
+- departer: departers
+- departure: departures
 ### Examples
 - With few alternatives, the passengers sat hoping their flight would eventually depart.
 - Ms Chen is the latest in a string of high-profile Twitter executives to depart from the firm.
@@ -35,7 +39,8 @@ If all kinds of people are attracted to you, you are charismatic. Most great lea
 ### Definition
 - adj: possessing an extraordinary ability to attract
 ### Family
-charismatic: charismatically+;charisma: charismatic
+- charismatic: charismatically+
+- charisma: charismatic
 ### Examples
 - “He was charismatic and a true American entrepreneur,” Pickens said.
 - “Coach Bryant was such a charismatic figure, the guy who walked into a room and everyone quit talking,” he said.
@@ -49,7 +54,10 @@ If you accuse your parents of being tyrants, you are saying they abuse their con
 - n: in ancient Greece, a ruler who had seized power without legal right to it
 - n: any person who exercises power in a cruel way
 ### Family
-tyrant: tyrannise, tyrannize, tyrannous, tyrants+;tyrannise: tyrannised, tyrannises, tyrannising;tyrannize: tyrannized, tyrannizes, tyrannizing;tyrannous: tyrannously
+- tyrant: tyrannise, tyrannize, tyrannous, tyrants+
+- tyrannise: tyrannised, tyrannises, tyrannising
+- tyrannize: tyrannized, tyrannizes, tyrannizing
+- tyrannous: tyrannously
 ### Examples
 - On Twitter, Douthat wrote, “I’d rather risk defeat at my enemies’ hands than turn my own cause over to a incompetent tyrant.”
 - “Great Ambition unchecked by principle . . . is an unruly Tyrant.”
@@ -60,7 +68,11 @@ A legislature is a governing body that makes laws and can also amend or repeal t
 ### Definition
 - n: persons who make or amend or repeal laws
 ### Family
-legislature: legislatures+;legislate: legislated, legislates, legislating, legislation, legislative, legislator, legislature;legislation: legislations;legislative: legislatively;legislator: legislators, legislatorship
+- legislature: legislatures+
+- legislate: legislated, legislates, legislating, legislation, legislative, legislator, legislature
+- legislation: legislations
+- legislative: legislatively
+- legislator: legislators, legislatorship
 ### Examples
 - Deliberations on the budget will consume the Legislature through mid-summer.
 - “And the Legislature ought to be held accountable. Something like that happens, then people will do something.”
@@ -74,7 +86,9 @@ An amateur is a person who does something for enjoyment, not money, like an amat
 - adj: engaged in as a pastime
 - adj: lacking professional skill or expertise
 ### Family
-amateur: amateurish, amateurism, amateurly, amateurs+;amateurish: amateurishly, amateurishness;amateurism: amateurisms
+- amateur: amateurish, amateurism, amateurly, amateurs+
+- amateurish: amateurishly, amateurishness
+- amateurism: amateurisms
 ### Examples
 - In futuring circles, paradoxically, this is the mark of an amateur.
 - Players were plentiful enough in the ranks for the battalion to enter five teams in amateur competition.
@@ -89,7 +103,7 @@ If you do something outright, you do it in a wholehearted, unrestricted way. If 
 - adj: without reservation or exception
 - adv: without any delay
 ### Family
-outright: outrightly
+- outright: outrightly
 ### Examples
 - Suddenly, that £5 cappuccino on Oxford Street is no longer cause for outright alarm.
 - Their research found that people doing the misleading think paltering is better than committing an outright lie.
@@ -102,7 +116,8 @@ Hay is a type of dried grass that's fed to certain farm animals. You might buy b
 - n: grass mowed and cured for use as fodder
 - v: convert (plant material) into hay
 ### Family
-hay: hayed, haying+;haying: hayings
+- hay: hayed, haying+
+- haying: hayings
 ### Examples
 - Officers then decided to surround the crocodile with hay bales to contain him until the wildlife officials arrived from Cairns.
 - That first structure was built on the frame of an old hay wagon and wasn’t much to look at, Auth said.
@@ -114,7 +129,9 @@ hay: hayed, haying+;haying: hayings
 - n: the act of grazing
 - n: the act of brushing against while passing
 ### Family
-grazing: grazings+;graze: grazed, grazes, grazier, grazing;grazier: graziers
+- grazing: grazings+
+- graze: grazed, grazes, grazier, grazing
+- grazier: graziers
 ### Examples
 - Family matriarch Carol Bundy is expressing fear that the government will ban grazing in the Gold Butte area — although the U.S.
 - Family matriarch Carol Bundy is expressing fear that the government will ban grazing in the Gold Butte area - although the U.S.
@@ -125,7 +142,7 @@ grazing: grazings+;graze: grazed, grazes, grazier, grazing;grazier: graziers
 ### Definition
 - n: a small lake
 ### Family
-pond: ponds
+- pond: ponds
 ### Examples
 - “It’s like the ripple in the pond,’’ Banner said.
 - Rescue swimmers entered the pond and got the man to an ambulance.

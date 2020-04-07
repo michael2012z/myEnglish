@@ -5,7 +5,7 @@ A textile is something made by knitting, weaving, or crocheting fibers together.
 - n: artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers
 - adj: of or relating to fabrics or fabric making
 ### Family
-textile: textiles
+- textile: textiles
 ### Examples
 - The canoe was heaped with valuable trade goods: copper, flint, weapons, textiles, and beer.
 - Conventional textile manufacturing is tough on both the people who work in it and their land.
@@ -22,7 +22,9 @@ A triumph is a well-earned victory. It'll make you pump your fist and yell "Hurr
 - v: express great joy
 - v: dwell on with satisfaction
 ### Family
-triumph: triumphal, triumphant, triumphed, triumphing, triumphs+;triumphal: triumphally;triumphant: triumphantest, triumphantly
+- triumph: triumphal, triumphant, triumphed, triumphing, triumphs+
+- triumphal: triumphally
+- triumphant: triumphantest, triumphantly
 ### Examples
 - They agreed that claims of the “absolute character” of scientific truth, and the supposed triumph of Enlightenment reason, needed to be challenged.
 - The films explored Hull's history, from the Blitz to sporting triumphs.
@@ -33,7 +35,7 @@ triumph: triumphal, triumphant, triumphed, triumphing, triumphs+;triumphal: triu
 ### Definition
 - adj: possessing sweep
 ### Family
-swept: unswept
+- swept: unswept
 ### Examples
 - Raiders: Being swept by Chiefs cost them division title.
 - Less than two years after Obama’s inauguration, the tea party was swept into power.
@@ -47,7 +49,9 @@ Ruthless means showing no mercy or compassion. If you really want to cut down on
 ### Definition
 - adj: without mercy or pity
 ### Family
-ruthless: ruthlessly, ruthlessness+;ruth: ruthful, ruthless;ruthful: ruthfully, ruthfulness
+- ruthless: ruthlessly, ruthlessness+
+- ruth: ruthful, ruthless
+- ruthful: ruthfully, ruthfulness
 ### Examples
 - "Shake with your right hand, but hold a rock with your left," says Frank Underwood, the ruthless US president in the TV series.
 - "This was another chapter in the silent and ruthless war of drug trafficking," state public security secretary, Sergio Fontes, told journalists.
@@ -65,7 +69,12 @@ To torture is to torment or purposefully put someone through intense pain or ago
 - v: torment emotionally or mentally
 - n: the act of distorting something so it seems to mean something it was not intended to mean
 ### Family
-torture: self-torture, tortured, torturer, tortures, torturesome, torturing, torturous+;tortured: torturedly;torturer: torturers;torturesome: torturesomely;torturing: torturingly, torturings;torturous: torturously
+- torture: self-torture, tortured, torturer, tortures, torturesome, torturing, torturous+
+- tortured: torturedly
+- torturer: torturers
+- torturesome: torturesomely
+- torturing: torturingly, torturings
+- torturous: torturously
 ### Examples
 - “Torture and cruel, inhuman, and degrading treatment is never a morally permissible option, even if lives depend on gaining information,” the manual said.
 - "Our prisons were built to annihilate, torture and kill."
@@ -81,7 +90,8 @@ A lesbian is a woman who is attracted to other women. Two married women are in a
 - n: a female homosexual
 - n: a resident of Lesbos
 ### Family
-Lesbian: Lesbians+;Lesbos: Lesbian
+- Lesbian: Lesbians+
+- Lesbos: Lesbian
 ### Examples
 - “A little Catholic priest, a little lesbian Pulitzer Prize winner, a little equal rights for all,” Ms. Kerr explained after the ceremony.
 - She said that she has never discriminated against gays and lesbians.
@@ -97,7 +107,10 @@ Coercion is making something happen by force, like when bullies use coercion to 
 - n: using force to cause something to occur
 - n: the act of compelling by force of authority
 ### Family
-coercion: coercions+;coerce: coerced, coerces, coercing, coercion, coercive;coerced: uncoerced;coercive: coercively
+- coercion: coercions+
+- coerce: coerced, coerces, coercing, coercion, coercive
+- coerced: uncoerced
+- coercive: coercively
 ### Examples
 - Psychological coercion is central to how an abuser maintains their power and yet there persists the focus on physical violence.
 - Security officers used a variety of coercion tactics.
@@ -112,7 +125,10 @@ When — even when you want to go to your friends' party — you're incapable of
 - adj: (followed by `of') not having the temperament or inclination for
 - adj: not meeting requirements
 ### Family
-incapable: incapability, incapableness, incapably+;capability: capabilities;capable: capability, capableness, capabler, capablest, capably, incapable;incapability: incapabilities
+- incapable: incapability, incapableness, incapably+
+- capability: capabilities
+- capable: capability, capableness, capabler, capablest, capably, incapable
+- incapability: incapabilities
 ### Examples
 - If they do something really inappropriate, for example hit another child, you seem to be incapable of reacting with the seriousness such behaviour warrants.
 - “Are you truly incapable of shame?” thundered U.S.
@@ -130,7 +146,8 @@ Rubber is the material that's used to make things like bouncy balls, rain boots,
 - v: coat or impregnate with rubber
 - adj: returned for lack of funds
 ### Family
-rubber: rubbered, rubbering, rubberise, rubberize, rubberlike, rubbers, rubbery+;rubberize: rubberized, rubberizing
+- rubber: rubbered, rubbering, rubberise, rubberize, rubberlike, rubbers, rubbery+
+- rubberize: rubberized, rubberizing
 ### Examples
 - “Pipelines and infrastructure projects historically have been rubber stamped across the board,” says Sara Shor, Keep it in the Ground Campaign Manager at 350.org.
 - When mowing, wear rubber shoes and wash them and the mower off before moving from a severely infected patch to mow other areas.

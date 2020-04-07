@@ -8,7 +8,7 @@ Whether we're talking about a fog light for your boat or just a nice hat to go w
 - adj: aiding and abetting in a crime
 - adj: furnishing added support
 ### Family
-accessory: accessorial, accessories, accessorily
+- accessory: accessorial, accessories, accessorily
 ### Examples
 - With its Deco-style beading and glitzy accessories, this sequined flapper dress looks like just the thing for an all-night party.
 - Ms. Kerr and Ms. Power also started the Who What Wear clothing and accessories line sold at Target.
@@ -23,7 +23,12 @@ Someone unreliable can't be trusted to do something. Things can be unreliable to
 - adj: dangerously unstable and unpredictable
 - adj: lacking a sense of responsibility
 ### Family
-unreliable: unreliability, unreliableness, unreliably+;reliable: reliability, reliableness, reliably, unreliable;reliance: reliances, self-reliance;reliant: reliantly, self-reliant;rely: reliable, reliance, reliant, relied, relies, relying;unreliability: unreliabilities
+- unreliable: unreliability, unreliableness, unreliably+
+- reliable: reliability, reliableness, reliably, unreliable
+- reliance: reliances, self-reliance
+- reliant: reliantly, self-reliant
+- rely: reliable, reliance, reliant, relied, relies, relying
+- unreliability: unreliabilities
 ### Examples
 - Emily Blunt stars as Rachel, a divorced alcoholic who becomes an unreliable and unlikely detective in this adaptation of Paula Hawkins’s best-selling novel.
 - It played like an average, unreliable squad that settles for decency, squints when the lights are bright and fails to maximize its best attributes.
@@ -34,7 +39,7 @@ unreliable: unreliability, unreliableness, unreliably+;reliable: reliability, re
 ### Definition
 - n: a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)
 ### Family
-litre: litres
+- litre: litres
 ### Examples
 - The farm, which began offering unpasteurised milk from its vending machine in March, sold about 70 litres a day.
 - The immunity IV drip involves one litre of hydration and is designed to "combat superbugs and common viruses", according to the Drip Doctors website.
@@ -47,7 +52,7 @@ A brigade is a unit of the army. A bunch of brigades make up a division, while b
 - n: army unit smaller than a division
 - v: form or unite into a brigade
 ### Family
-brigade: brigaded, brigades, brigading
+- brigade: brigaded, brigades, brigading
 ### Examples
 - He promised to send at least two more combat brigades, or roughly 10,000 soldiers, to Afghanistan.
 - London Fire Brigade said it rescued six people from a first-floor flat above the pub.
@@ -60,7 +65,11 @@ brigade: brigaded, brigades, brigading
 - n: a lawyer who pleads cases in court
 - n: someone who has supervisory duties at a summer camp
 ### Family
-counsellor: counsellors, counsellorship+;counsel: counseled, counseling, counselled, counselling, counsellor, counselor, counsels;counseling: counselings;counselling: counsellings;counselor: counselors, counselorship
+- counsellor: counsellors, counsellorship+
+- counsel: counseled, counseling, counselled, counselling, counsellor, counselor, counsels
+- counseling: counselings
+- counselling: counsellings
+- counselor: counselors, counselorship
 ### Examples
 - He and Leah met with a guidance counsellor to discuss his plan to graduate in three years.
 - When Ghebar asked the counsellor for advice, he was told to try to focus intently on the present.
@@ -77,7 +86,11 @@ To manipulate something means to handle it skillfully, like the way a sculptor m
 - v: tamper, with the purpose of deception
 - v: manipulate in a fraudulent manner
 ### Family
-manipulate: manipulable, manipulated, manipulates, manipulating, manipulation, manipulative, manipulator+;manipulable: manipulability;manipulation: manipulations;manipulative: manipulatively;manipulator: manipulators
+- manipulate: manipulable, manipulated, manipulates, manipulating, manipulation, manipulative, manipulator+
+- manipulable: manipulability
+- manipulation: manipulations
+- manipulative: manipulatively
+- manipulator: manipulators
 ### Examples
 - And some people are tech geeks, absorbed in new ways to record or quantify or manipulate data.
 - “And if we understand things in enough details, we might be able to manipulate it.”
@@ -90,7 +103,9 @@ While quantum refers to a general quantity or size, it is most often used in phy
 - n: (physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory)
 - n: a discrete amount of something that is analogous to the quantities in quantum theory
 ### Family
-quantum: quanta, quantise, quantize, quantums+;quantise: quantisation, quantises;quantize: quantization, quantized, quantizing
+- quantum: quanta, quantise, quantize, quantums+
+- quantise: quantisation, quantises
+- quantize: quantization, quantized, quantizing
 ### Examples
 - “The laws of gravity and quantum theory allow universes to appear spontaneously from nothing,” he explained.
 - Maybe this seems humble alongside other winning physics breakthroughs: radiation, quantum mechanics, semiconductors, the Higgs boson.
@@ -103,7 +118,8 @@ An apprentice is someone who learns a trade. An apprentice farmer is paid very l
 - n: someone who works for an expert to learn a trade
 - v: be or work as an apprentice
 ### Family
-apprentice: apprenticed, apprentices, apprenticeship, apprenticing+;apprenticeship: apprenticeships
+- apprentice: apprenticed, apprentices, apprenticeship, apprenticing+
+- apprenticeship: apprenticeships
 ### Examples
 - The “Apprentice” franchise, however,  is only two years younger than “Idol.”
 - To further complicate matters, Trump retains a producing stake in “The New Celebrity Apprentice.”
@@ -116,7 +132,7 @@ If something is related to or benefits an individual citizen, it can be describe
 - adj: of or relating or belonging to a city
 - adj: of or relating to or befitting citizens as individuals
 ### Family
-civic: civically
+- civic: civically
 ### Examples
 - Not a fancy car, mind you—a fifteen-year old Civic with 170,000 miles on it—but a car nonetheless.
 - Now, more than a decade later, the Saints are a civic treasure and the Chargers on the verge of leaving San Diego.
@@ -128,7 +144,9 @@ civic: civically
 - adj: characterized by simple geometric forms in design and decoration
 - adj: of or relating to or determined by geometry
 ### Family
-geometric: geometrically+;geometrician: geometricians;geometry: geometric, geometrical, geometrician, geometries
+- geometric: geometrically+
+- geometrician: geometricians
+- geometry: geometric, geometrical, geometrician, geometries
 ### Examples
 - It contrasts line and color, as well as organic and geometric.
 - It seemed that geometric abstractions were just dandy, so long as you weren’t a woman.

@@ -10,7 +10,11 @@ An accent is a stress or emphasis on a particular part of something, usually a w
 - n: the usage or vocabulary that is characteristic of a specific group of people
 - n: distinctive manner of oral expression
 ### Family
-accent: accented, accenting, accents, accentual, accentuate+;accented: accentedest, unaccented;accentual: accentually;accentuate: accentuated, accentuates, accentuating, accentuation;accentuation: accentuations
+- accent: accented, accenting, accents, accentual, accentuate+
+- accented: accentedest, unaccented
+- accentual: accentually
+- accentuate: accentuated, accentuates, accentuating, accentuation
+- accentuation: accentuations
 ### Examples
 - Harwood is a sixty-six-year-old man of medium stature who speaks with the kind of rural accent that sometimes drops the last letters of words.
 - Her voice still carried the accent of her Brooklyn youth.
@@ -32,7 +36,11 @@ Use the noun clip to talk about a fastener that holds things together, like a pa
 - v: run at a moderately swift pace
 - n: a sharp slanting blow
 ### Family
-clip: clipped, clipper, clipping, clips, unclip+;clipped: clippedly;clipper: clippers;clipping: clippings;unclip: unclipped
+- clip: clipped, clipper, clipping, clips, unclip+
+- clipped: clippedly
+- clipper: clippers
+- clipping: clippings
+- unclip: unclipped
 ### Examples
 - Leah ran down the bleachers and unfastened the clips on Grimes’s shoulder pads.
 - In the Purple Rain room, purple light cascades down one wall while Prince’s movie clips roll on another.
@@ -49,7 +57,10 @@ To defend a belief or keep affirming that it's true is to contend. People used t
 - v: maintain or assert
 - v: come to terms with
 ### Family
-contend: contended, contender, contending, contends, contention+;contender: contenders;contention: contentions, contentious;contentious: contentiously, contentiousness, noncontentious
+- contend: contended, contender, contending, contends, contention+
+- contender: contenders
+- contention: contentions, contentious
+- contentious: contentiously, contentiousness, noncontentious
 ### Examples
 - Opponents also contend that special elections are expensive and generate extremely low turnouts.
 - While there is wide support for the concept of buffers, county officials contend there is confusion and questions about the law.
@@ -62,7 +73,8 @@ Something that is poignant touches you deeply. Watching a poignant YouTube video
 - adj: keenly distressing to the mind or feelings
 - adj: arousing affect
 ### Family
-poignant: poignance, poignancy, poignanter, poignantly+;poignancy: poignancies
+- poignant: poignance, poignancy, poignanter, poignantly+
+- poignancy: poignancies
 ### Examples
 - These observations are especially poignant considering Karen’s profession.
 - Such a poignant last sentiment was once unfathomable.
@@ -75,7 +87,7 @@ If you're prone to doing something, it means you're likely to do it, have a habi
 - adj: having a tendency (to); often used in combination
 - adj: lying face downward
 ### Family
-prone: pronely, proneness, proner
+- prone: pronely, proneness, proner
 ### Examples
 - This finding — that people are reflexively prone to “intergroup bias” in punishment — is consistent with what many scientists believe about humans’ evolutionary heritage.
 - And so, invariably, authors like Johnson are prone to overreach.
@@ -89,7 +101,7 @@ A composite is something made up of complicated and related parts. A composite p
 - n: considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers
 - adj: of or relating to or belonging to the plant family Compositae
 ### Family
-composite: compositely, compositeness, composites
+- composite: compositely, compositeness, composites
 ### Examples
 - Stocks closed slightly higher Tuesday, nudging the Nasdaq composite to a record high and edging the Dow Jones industrial average closer to 20,000.
 - The center serves about 150 customers, including companies such as Scaled Composites and Stratolaunch Systems.
@@ -117,7 +129,7 @@ A bench is a long, flat seat that can usually accommodate several people. A city
 - v: take out of a game; of players
 - n: the magistrate or judge or judges sitting in court in judicial capacity to compose the court collectively
 ### Family
-Bench: Benches
+- Bench: Benches
 ### Examples
 - When he saw the gunman, Raak dove under a bench and played dead.
 - East title despite inexplicable benching of Tom Brady since October.
@@ -134,7 +146,8 @@ Dice are what you roll when you're playing Yahtzee or Monopoly; they are two cub
 - v: play dice
 - v: cut into cubes
 ### Family
-dice: diced, dicer, dices, dicing+;dicer: dicers
+- dice: diced, dicer, dices, dicing+
+- dicer: dicers
 ### Examples
 - There will continue to be speculation about Elway rolling the dice on another seasoned star, the way he did so successfully with Peyton Manning.
 - The LZ project – which is halfway through construction – should be science’s last throw of the dice, they say.
@@ -148,7 +161,7 @@ Rubbish is a synonym for garbage or trash. The word is more commonly used by spe
 - n: nonsensical talk or writing
 - v: attack strongly
 ### Family
-rubbish: rubbishes, rubbishing, rubbishy
+- rubbish: rubbishes, rubbishing, rubbishy
 ### Examples
 - In other words: we’re surrounded by rubbish, and because our population is on the rise, the problem is set to get worse.
 - She said her son was bullied over the course of a year, culminating in an incident where classmates threw faeces and rubbish at him.
@@ -163,7 +176,8 @@ A raft is a vessel or structure that's made to float on water. You might have an
 - v: travel by raft in water
 - n: (often followed by `of') a large number or amount or extent
 ### Family
-raft: rafted, rafter, rafting, rafts+;rafter: raftered, raftering, rafters
+- raft: rafted, rafter, rafting, rafts+
+- rafter: raftered, raftering, rafters
 ### Examples
 - It will also close two Russian compounds used for intelligence-gathering, in Maryland and New York, as part of a raft of retaliatory measures.
 - They used their swimming-pool raft to float their kids to a friend’s house around the corner.

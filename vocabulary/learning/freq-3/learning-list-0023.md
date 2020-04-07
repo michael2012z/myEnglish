@@ -5,7 +5,9 @@ Virtuous is “good” with a halo. If you call someone virtuous, you are saying
 - adj: morally excellent
 - adj: in a state of sexual virginity
 ### Family
-virtuous: virtuosity, virtuousest, virtuously, virtuousness+;virtue: virtues, virtuous;virtuosity: virtuosities
+- virtuous: virtuosity, virtuousest, virtuously, virtuousness+
+- virtue: virtues, virtuous
+- virtuosity: virtuosities
 ### Examples
 - "The Stop Slavery Award wants to start a virtuous circle by proving that corporations play a key role in the fight against slavery," she added.
 - The hustle and stress of the holidays can throw even the most virtuous eaters off course.
@@ -17,7 +19,8 @@ Naval means "about a navy or navies." If you are interested in naval history, yo
 ### Definition
 - adj: connected with or belonging to or used in a navy
 ### Family
-naval: navally+;navy: naval, navies
+- naval: navally+
+- navy: naval, navies
 ### Examples
 - The island was built for the 1939 World’s Fair, then used as a World War II naval base.
 - He’d like to see a beefed-up air and naval presence in the Persian Gulf to thwart Iran.
@@ -34,7 +37,9 @@ A distortion is a change, twist, or exaggeration that makes something appear dif
 - n: a change (usually undesired) in the waveform of an acoustic or analog electrical signal; the difference between two measurements of a signal (as between the input and output signal)
 - n: the mistake of misrepresenting the facts
 ### Family
-distortion: distortionist, distortions+;distort: distortable, distorted, distorting, distortion, distorts;distorted: distortedly, undistorted
+- distortion: distortionist, distortions+
+- distort: distortable, distorted, distorting, distortion, distorts
+- distorted: distortedly, undistorted
 ### Examples
 - Sarepta was barely allowed to defend itself at the meeting, which allowed agency distortions to appear as fact.
 - Mrs Merkel also denounced "distortions" that were leading people to believe that the EU and even parliamentary democracy were no longer working.
@@ -47,7 +52,8 @@ In the story of the three little pigs, only the house made of brick was able to 
 - v: resist or confront with resistance
 - v: stand up or offer resistance to somebody or something
 ### Family
-withstand: withstander, withstanding, withstands, withstood+;withstander: withstanders
+- withstand: withstander, withstanding, withstands, withstood+
+- withstander: withstanders
 ### Examples
 - Chief among them is a re-entry vehicle capable of withstanding extremes of temperature and vibration.
 - Constructed using any materials available, the shelter will be unable to withstand the rainy season.
@@ -62,7 +68,11 @@ withstand: withstander, withstanding, withstands, withstood+;withstander: withst
 - n: puzzling complexity
 - n: any disease or disorder that occurs during the course of (or because of) another disease
 ### Family
-complication: complications+;complicate: complicated, complicates, complicating, complication;complicated: complicatedly, complicatedness, uncomplicated;complicatedness: complicatednesses;uncomplicated: uncomplicatedly
+- complication: complications+
+- complicate: complicated, complicates, complicating, complication
+- complicated: complicatedly, complicatedness, uncomplicated
+- complicatedness: complicatednesses
+- uncomplicated: uncomplicatedly
 ### Examples
 - A complication is the conflict over jurisdiction, whereby laws in one country are irreconcilable with those in another.
 - The statement says if no complications arise, he shouldn’t face any additional surgeries for six to eight months.
@@ -75,7 +85,8 @@ Fractions are smaller parts of whole numbers: one-quarter, one-tenth, one-half, 
 - n: a dissenting clique
 - n: a clique (often secret) that seeks power usually through intrigue
 ### Family
-faction: factions, factious+;factious: factiously
+- faction: factions, factious+
+- factious: factiously
 ### Examples
 - Other factions call clean coal a fig leaf to keep coal, with all of its environmental baggage, in the energy mix.
 - As with previous agreements, the current cease-fire excludes both the al-Qaida-affiliated Fatah al-Sham Front, which fights alongside other rebel factions, and the Islamic State group.
@@ -91,7 +102,9 @@ When someone lingers, he or she takes an unexpectedly long time to depart, as Ro
 - v: leave slowly and hesitantly
 - v: move to and fro
 ### Family
-linger: lingered, lingerer, lingering, lingers+;lingerer: lingerers;lingering: lingerings
+- linger: lingered, lingerer, lingering, lingers+
+- lingerer: lingerers
+- lingering: lingerings
 ### Examples
 - It’s harder to explain the lingering of symptoms such as fatigue and weakness.
 - The concerns Stewart felt in the morning at the school’s front door linger through the day .
@@ -103,7 +116,23 @@ linger: lingered, lingerer, lingering, lingers+;lingerer: lingerers;lingering: l
 - n: an appraisal of the value of something
 - n: assessed price
 ### Family
-valuation: valuations+;devaluate: devaluated, devaluates, devaluating;devaluation: devaluations;devalue: devaluate, devaluation, devalued, devalues, devaluing;invaluable: invaluableness, invaluably;overvalue: overvaluation, overvalued, overvalueing, overvalues, overvaluing;revaluation: revaluations;revalue: revaluation, revalued, revalues, revaluing;undervaluation: undervaluations;undervalue: undervaluation, undervalued, undervalues, undervaluing;valuable: invaluable, valuableness, valuables, valuably;valuate: valuating, valuation, valuator;valuator: valuators;value: devalue, overvalue, revalue, undervalue, valuable, valuate, valued, valueless, valuer, values, valuing;valued: multi-valued, unvalued;valueless: valuelessness;valuer: valuers
+- valuation: valuations+
+- devaluate: devaluated, devaluates, devaluating
+- devaluation: devaluations
+- devalue: devaluate, devaluation, devalued, devalues, devaluing
+- invaluable: invaluableness, invaluably
+- overvalue: overvaluation, overvalued, overvalueing, overvalues, overvaluing
+- revaluation: revaluations
+- revalue: revaluation, revalued, revalues, revaluing
+- undervaluation: undervaluations
+- undervalue: undervaluation, undervalued, undervalues, undervaluing
+- valuable: invaluable, valuableness, valuables, valuably
+- valuate: valuating, valuation, valuator
+- valuator: valuators
+- value: devalue, overvalue, revalue, undervalue, valuable, valuate, valued, valueless, valuer, values, valuing
+- valued: multi-valued, unvalued
+- valueless: valuelessness
+- valuer: valuers
 ### Examples
 - Both economies are improving, with lower policy rates likely to support valuations for 2017, it added.
 - US wearables company Pebble sold to Fitbit for less than a 10th of its peak valuation.
@@ -117,7 +146,10 @@ To heal is to recover or become healthy again. You'll need to wait until your bl
 - v: get healthy again
 - v: provide a cure for, make healthy again
 ### Family
-heal: healed, healer, healing, heals, self-heal+;healed: unhealed;healer: healers;healing: healingly, healings
+- heal: healed, healer, healing, heals, self-heal+
+- healed: unhealed
+- healer: healers
+- healing: healingly, healings
 ### Examples
 - The woman told her the massage used energy to heal.
 - Spurning the American tendency to treat every ailment with medication, he instead explored the body’s ability to heal itself.
@@ -132,7 +164,7 @@ Walk into the average school cafeteria at lunchtime, and you'll get a good sense
 - v: make a resonant sound, like artillery
 - v: instill (into a person) by constant repetition
 ### Family
-din: dinned, dinning, dins
+- din: dinned, dinning, dins
 ### Examples
 - But that might not be possible: Yesh Din, a human rights group that represents Palestinian landowners, says that plot is privately owned as well.
 - Shake Shack: The lines at Shake Shack may actually rival the crowds at Din Tai Fung.

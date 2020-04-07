@@ -5,7 +5,11 @@ If you use the adjective archaic you are referring to something outmoded, belong
 - adj: so extremely old as seeming to belong to an earlier period
 - adj: little evolved from or characteristic of an earlier ancestral type
 ### Family
-archaic: archaically, archaicism, archaise, archaism, archaize+;archaicism: archaicisms;archaise: archaising;archaism: archaisms, archaistic;archaize: archaized, archaizing
+- archaic: archaically, archaicism, archaise, archaism, archaize+
+- archaicism: archaicisms
+- archaise: archaising
+- archaism: archaisms, archaistic
+- archaize: archaized, archaizing
 ### Examples
 - In another bout of this archaic ritual, Russia closing Moscow’s Anglo-American school and expelling a batch of Americans from Moscow.
 - They are rooted in archaic chants, hymns, and chorales.
@@ -19,7 +23,7 @@ When you are legally responsible for another person, they are in your custody. M
 - n: a state of being confined (usually for a short time)
 - n: holding by the police
 ### Family
-custody: custodial, custodies
+- custody: custodial, custodies
 ### Examples
 - The Hennepin County Jail roster shows all three suspects were released from custody Monday.
 - They were placed in state custody for their protection.
@@ -32,7 +36,7 @@ Inland means far away from the ocean, or in the very middle of a country. If you
 - adj: situated away from an area's coast or border
 - adv: towards or into the interior of a region
 ### Family
-inland: inlander, inlands
+- inland: inlander, inlands
 ### Examples
 - Being inland limits the number of internationally touring artists we get, and country and Americana music sometimes overshadow all else.
 - Detectives are investigating whether the thief is connected to fires in Irvine and the Inland Empire as well, Bertagna said.
@@ -44,7 +48,7 @@ When people discuss politics and mention the word conservatism, they're talking 
 ### Definition
 - n: a political or theological orientation advocating the preservation of the best in society and opposing radical changes
 ### Family
-conservatism: conservatisms, neoconservatism
+- conservatism: conservatisms, neoconservatism
 ### Examples
 - But his Presidency, especially if it is successful, will inevitably change the shape of conservatism in the United States.
 - His claim to authority is a stint in the Reagan White House, and a string of books outlining his philosophy of “constitutional conservatism”.
@@ -57,7 +61,7 @@ Someone who acts as a surrogate takes the place of another person. If a celebrit
 - n: a person appointed to represent or act on behalf of others
 - adj: providing or receiving nurture or parental care though not related by blood or legal ties
 ### Family
-surrogate: surrogates
+- surrogate: surrogates
 ### Examples
 - She completed a substantial pile of medical and legal paperwork, then got the go-ahead to choose a family in need of a surrogate.
 - He was active in his father’s campaign for president, serving as a campaign surrogate, spokesman and senior aide.
@@ -72,7 +76,7 @@ Literally, your ass is your buttocks. In slang, an ass is a jerk or an idiot. Ne
 - n: the fleshy part of the human body that you sit on
 - n: slang for sexual intercourse
 ### Family
-ass: asses
+- ass: asses
 ### Examples
 - He would get his ass beat from pillar to post.”
 - “I could sit on my ass all day and watch TV, but I’d probably go nutty.”
@@ -85,7 +89,7 @@ Quiet loners are withdrawn — that's a word for people who keep to themselves t
 - adj: tending to reserve or introspection
 - adj: withdrawn from society; seeking solitude
 ### Family
-withdrawn: withdrawnness
+- withdrawn: withdrawnness
 ### Examples
 - Putin didn’t say how many troops and weapons will be withdrawn.
 - When he seemed withdrawn, she invited him to walk.
@@ -99,7 +103,11 @@ Notice the verb "precede" in the noun precedence, and you'll be able to remember
 - n: preceding in time
 - n: the act of preceding in time or order or rank (as in a ceremony)
 ### Family
-precedence: precedences, precedential+;precede: preceded, precedency, precedent, precedes, preceding, precession;precedency: precedencies;precedent: precedence, precedently, precedents;precession: precessions
+- precedence: precedences, precedential+
+- precede: preceded, precedency, precedent, precedes, preceding, precession
+- precedency: precedencies
+- precedent: precedence, precedently, precedents
+- precession: precessions
 ### Examples
 - And there happens to be plenty of precedence for quarterbacks who didn’t put up gaudy touchdown numbers leading their teams to the Super Bowl, too.
 - “This is mostly based on historical precedence,” Lovely said.
@@ -115,7 +123,10 @@ Turn fanciful around and you get "full of fancy," which gives you the gist of th
 - adj: not based on fact; unreal
 - adj: having a curiously intricate quality
 ### Family
-fanciful: fancifully+;fancied: fanciedly;fancier: fanciers;fancy: fancied, fancier, fancies, fanciest, fanciful, fancily, fancying
+- fanciful: fancifully+
+- fancied: fanciedly
+- fancier: fanciers
+- fancy: fancied, fancier, fancies, fanciest, fanciful, fancily, fancying
 ### Examples
 - The rate of warming we are seeing, in both the air and ocean temperatures, is inconsistent with the fanciful and optimistic beliefs of this group.
 - I described such claims as fanciful, but later a different kind of collusion emerged.

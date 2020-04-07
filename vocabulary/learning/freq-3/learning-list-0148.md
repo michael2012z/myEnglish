@@ -6,7 +6,19 @@ To be unconventional is to act, dress, speak, or otherwise exist out of the boun
 - adj: not conforming to accepted rules or standards
 - adj: not conforming to legality, moral law, or social convention
 ### Family
-unconventional: unconventionality, unconventionally+;convene: convened, convener, convenes, convening, convention, reconvene;convener: conveners;convention: conventional, conventioneer, conventions;conventional: conventionalise, conventionalism, conventionality, conventionalize, conventionally, unconventional;conventionalisation: conventionalisations;conventionalise: conventionalisation, conventionalised, conventionalises, conventionalising;conventionalism: conventionalisms;conventionality: conventionalities;conventionalize: conventionalization, conventionalized, conventionalizing;conventioneer: conventioneers;reconvene: reconvened, reconvenes, reconvening;unconventionality: unconventionalities
+- unconventional: unconventionality, unconventionally+
+- convene: convened, convener, convenes, convening, convention, reconvene
+- convener: conveners
+- convention: conventional, conventioneer, conventions
+- conventional: conventionalise, conventionalism, conventionality, conventionalize, conventionally, unconventional
+- conventionalisation: conventionalisations
+- conventionalise: conventionalisation, conventionalised, conventionalises, conventionalising
+- conventionalism: conventionalisms
+- conventionality: conventionalities
+- conventionalize: conventionalization, conventionalized, conventionalizing
+- conventioneer: conventioneers
+- reconvene: reconvened, reconvenes, reconvening
+- unconventionality: unconventionalities
 ### Examples
 - The 22-year-old is representing himself, and the process is likely to be unconventional.
 - With Roof representing himself, the process is sure to be unconventional.
@@ -23,7 +35,10 @@ After a baseball player's induction into the Baseball Hall of Fame, his name rem
 - n: an electrical phenomenon whereby an electromotive force (EMF) is generated in a closed circuit by a change in the flow of current
 - n: stimulation that calls up (draws forth) a particular class of behaviors
 ### Family
-induction: inductions, self-induction+;induct: inducted, inductee, inducting, induction, inductive, inducts;inductee: inductees;inductive: inductively
+- induction: inductions, self-induction+
+- induct: inducted, inductee, inducting, induction, inductive, inducts
+- inductee: inductees
+- inductive: inductively
 ### Examples
 - Previously, the game was played on a Sunday night, one night after the inductions.
 - “Being the best DH ever is a baseball honor and worthy of induction, not penalization,’’ he wrote.
@@ -38,7 +53,11 @@ Sculpture is a type of artwork that's two- or three-dimensional, so you can see 
 - v: create by shaping stone or wood or any other hard material
 - v: shape (a material like stone or wood) by whittling away at it
 ### Family
-sculpture: sculptural, sculptured, sculpturer, sculptures, sculpturesque, sculpturing+;sculpt: sculpted, sculpting, sculptor, sculpts, sculpture;sculptor: sculptors;sculptural: sculpturally;sculpturesque: sculpturesquely
+- sculpture: sculptural, sculptured, sculpturer, sculptures, sculpturesque, sculpturing+
+- sculpt: sculpted, sculpting, sculptor, sculpts, sculpture
+- sculptor: sculptors
+- sculptural: sculpturally
+- sculpturesque: sculpturesquely
 ### Examples
 - “In Cuba, I did sculpture which was figurative.”
 - The Bayer Bee Care Center in Germany includes menacing sculptures of the little pest.
@@ -51,7 +70,40 @@ Something that is interactive is something that you can communicate or interact 
 - adj: capable of acting on or influencing each other
 - adj: used especially of drugs or muscles that work together so the total effect is greater than the sum of the two (or more)
 ### Family
-interactive: interactively+;act: actable, acted, acting, action, active, actor, actress, acts, actuate, counteract, enact, interact, overact, underact;actable: unactable;acting: actings, self-acting;action: actionable, actioned, actions, inaction;activate: activated, activates, activating, activation, activator, deactivate, reactivate;activating: self-activating;activation: activations;activator: activators;active: activate, actively, activeness, activer, actives, activest, activity, hyperactive, inactive, overactive, underactive;activity: activities;actor: actors;actress: actresses;actuate: actuated, actuates, actuating, actuation, actuator;actuator: actuators;counteract: counteracted, counteracting, counteraction, counteractive, counteracts;counteraction: counteractions;deactivate: deactivated, deactivates, deactivating, deactivation;enact: enacted, enacting, enactment, enacts, reenact;enactment: enactments;hyperactive: hyperactively, hyperactivity;inaction: inactions;inactivate: inactivated, inactivates, inactivating, inactivation;inactive: inactivate, inactively, inactiveness, inactivity;inactivity: inactivities;interact: interacted, interacting, interaction, interactive, interacts;interaction: interactional, interactions;overact: overacted, overacting, overacts;overacting: overactings;overactive: overactivity;reactivate: reactivated, reactivates, reactivating;reenact: reenacted, reenacting, reenactment, reenacts;reenactment: reenactments;underact: underacted, underacting, underacts
+- interactive: interactively+
+- act: actable, acted, acting, action, active, actor, actress, acts, actuate, counteract, enact, interact, overact, underact
+- actable: unactable
+- acting: actings, self-acting
+- action: actionable, actioned, actions, inaction
+- activate: activated, activates, activating, activation, activator, deactivate, reactivate
+- activating: self-activating
+- activation: activations
+- activator: activators
+- active: activate, actively, activeness, activer, actives, activest, activity, hyperactive, inactive, overactive, underactive
+- activity: activities
+- actor: actors
+- actress: actresses
+- actuate: actuated, actuates, actuating, actuation, actuator
+- actuator: actuators
+- counteract: counteracted, counteracting, counteraction, counteractive, counteracts
+- counteraction: counteractions
+- deactivate: deactivated, deactivates, deactivating, deactivation
+- enact: enacted, enacting, enactment, enacts, reenact
+- enactment: enactments
+- hyperactive: hyperactively, hyperactivity
+- inaction: inactions
+- inactivate: inactivated, inactivates, inactivating, inactivation
+- inactive: inactivate, inactively, inactiveness, inactivity
+- inactivity: inactivities
+- interact: interacted, interacting, interaction, interactive, interacts
+- interaction: interactional, interactions
+- overact: overacted, overacting, overacts
+- overacting: overactings
+- overactive: overactivity
+- reactivate: reactivated, reactivates, reactivating
+- reenact: reenacted, reenacting, reenactment, reenacts
+- reenactment: reenactments
+- underact: underacted, underacting, underacts
 ### Examples
 - And she’s not opposed to using technology in museum exhibits, as long as interactive screens and other bells and whistles enhance the interpretation for visitors.
 - In Kenya, another interactive text message system offering support for teachers helped reduce student dropouts by 50 percent.
@@ -63,7 +115,8 @@ The adjective magnificent describes something that has grandeur, like the magnif
 ### Definition
 - adj: characterized by grandeur
 ### Family
-magnificent: magnificence, magnificentest, magnificently+;magnificence: magnificences
+- magnificent: magnificence, magnificentest, magnificently+
+- magnificence: magnificences
 ### Examples
 - Will we simply accept the scaling back of programs, both academic and athletic, at our magnificent University of Alaska?
 - Sophomore running back Jamauri Bogan calls it a privilege to be teammates with Davis, describing him as a magnificent person and player.
@@ -78,7 +131,11 @@ Converse is a more formal way of saying "carry on a conversation." You could con
 - adj: of words so related that one reverses the relation denoted by the other
 - n: a proposition obtained by conversion
 ### Family
-converse: conversation, conversed, conversely, converses, conversing+;conversation: conversational, conversationalist, conversationist, conversations;conversational: conversationally;conversationalist: conversationalists;conversationist: conversationists
+- converse: conversation, conversed, conversely, converses, conversing+
+- conversation: conversational, conversationalist, conversationist, conversations
+- conversational: conversationally
+- conversationalist: conversationalists
+- conversationist: conversationists
 ### Examples
 - Tonight, it’s a convergence of downtown, uptown, East and West — polo shirts with leather jackets, suits with Converse.
 - They laugh and haltingly converse until closing time, when Kevin turns to the jukebox.
@@ -91,7 +148,8 @@ Resonant describes sound that is deep and rich. It also can mean deeply evocativ
 - adj: characterized by resonance
 - adj: serving to bring to mind
 ### Family
-resonant: nonresonant, resonance, resonantly+;resonance: resonances
+- resonant: nonresonant, resonance, resonantly+
+- resonance: resonances
 ### Examples
 - The sentiment was certainly still resonant among certain people, however.
 - It was a message, he suggested, that remains as resonant today as over the past seven decades.
@@ -114,7 +172,9 @@ To tease is to pick on someone or to give false hope. You can tease your little 
 - v: raise the nap of (fabrics)
 - v: ruffle (one's hair) by combing the ends towards the scalp, for a full effect
 ### Family
-tease: teased, teaser, teases, teasing+;teaser: teasers;teasing: teasingly, teasings
+- tease: teased, teaser, teases, teasing+
+- teaser: teasers
+- teasing: teasingly, teasings
 ### Examples
 - He becomes aggressive toward his brothers easily and manipulates the little ones into teasing or excluding each other from playing.
 - While compensation is wildly disparate in both situations, McCullough insisted that there was no teasing, bullying or pecking order when he played for either squad.
@@ -127,7 +187,8 @@ You've got big plans. Huge plans. Whatever it is, it's going to blow minds and a
 - adj: impressive because of unnecessary largeness or grandeur; used to show disapproval
 - adj: affectedly genteel
 ### Family
-grandiose: grandiosely, grandiosity+;grandiosity: grandiosities
+- grandiose: grandiosely, grandiosity+
+- grandiosity: grandiosities
 ### Examples
 - In my grandiose naïveté, I again turned down the offer of stardom.
 - The staging, which involves changing projections that often spread beyond the grandiose theater’s proscenium space helps keep the show eye-filling.
@@ -157,7 +218,7 @@ A mantle is a word for something that blankets over something else, like the loo
 - v: cover like a mantle
 - n: United States baseball player (1931-1997)
 ### Family
-Mantle: Mantles
+- Mantle: Mantles
 ### Examples
 - Donning the mantle of economic optimist is a time-honored tradition for presidents, who are seen as perhaps the most singularly influential person over the economy.
 - That would bolster his narrative of Russia regaining its mantle as a world power and serious Middle East player.

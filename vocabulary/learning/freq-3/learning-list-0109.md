@@ -7,7 +7,10 @@ Fairness is the quality of making judgments that are free from discrimination. J
 - n: the property of having a naturally light complexion
 - n: the quality of being good looking and attractive
 ### Family
-fair: faired, fairer, fairest, fairing, fairish, fairly, fairness, fairs, unfair+;fairish: fairishly;unfair: unfairer, unfairest, unfairly, unfairness;unfairness: unfairnesses
+- fair: faired, fairer, fairest, fairing, fairish, fairly, fairness, fairs, unfair+
+- fairish: fairishly
+- unfair: unfairer, unfairest, unfairly, unfairness
+- unfairness: unfairnesses
 ### Examples
 - Republicans argued that their proposal was about ensuring electoral fairness, but Democrats said it plainly smelled of a power grab.
 - In fairness to Bainbridge’s husband, King reports that both spouses were “stunned” by the proposal.
@@ -21,7 +24,17 @@ Some may say you never expect good things to happen, but maybe you’re just a r
 - n: a painter who represents the world realistically and not in an idealized or romantic style
 - n: a philosopher who believes that universals are real and exist independently of anyone thinking of them
 ### Family
-realist: realists+;irreality: irrealities;real: realer, reales, realest, realism, reality, really, realness, reals, reis, unreal;realism: realisms, realist, realistic, unrealism;realistic: realistically, unrealistic;reality: irreality, realities;really: reallys;unreal: unreality, unreally;unrealism: unrealisms;unrealistic: unrealistically;unreality: unrealities
+- realist: realists+
+- irreality: irrealities
+- real: realer, reales, realest, realism, reality, really, realness, reals, reis, unreal
+- realism: realisms, realist, realistic, unrealism
+- realistic: realistically, unrealistic
+- reality: irreality, realities
+- really: reallys
+- unreal: unreality, unreally
+- unrealism: unrealisms
+- unrealistic: unrealistically
+- unreality: unrealities
 ### Examples
 - This, according to a Soviet-born colleague of mine, is the socialist realist recipe.
 - Under the influence of doctrinaire realists, Obama concluded that the Arab world was not ready for democracy; it needed “strongmen”.
@@ -33,7 +46,7 @@ Another name for a dead body is corpse. You might hear the word on TV crime show
 ### Definition
 - n: the dead body of a human being
 ### Family
-corpse
+- corpse
 ### Examples
 - Medical examiners visually inspected the corpse, which was found dressed in a shirt, sweater and pants.
 - Boyle, now 73, was sentenced to 20 years to life in prison for aggravated murder and 18 months for abuse of a corpse.
@@ -46,7 +59,7 @@ Someone who's described as eldest in their family was born first. Your eldest si
 - adj: first in order of birth
 - n: the offspring who came first in the order of birth
 ### Family
-eldest: eldests
+- eldest: eldests
 ### Examples
 - In many African cultures, there is no need for someone to explain whether they are the eldest or youngest of their siblings.
 - “It’s fine,” Amiri, the eldest son, said of their living situation.
@@ -58,7 +71,8 @@ A clan is an extended family. Your clan might include your parents and siblings,
 ### Definition
 - n: group of people related by blood or marriage
 ### Family
-clan: clannish, clans+;clannish: clannishly, clannishness
+- clan: clannish, clans+
+- clannish: clannishly, clannishness
 ### Examples
 - These nations are bounded by mountains and forests and buttes, with embracing clans, leaders and spiritualism woven deep.
 - The Droz clan’s New Year’s card is more than a mere family portrait.
@@ -73,7 +87,11 @@ An interrogation is a question or an intense questioning session. Police do inte
 - n: a sentence of inquiry that asks for a reply
 - n: a transmission that will trigger an answering transmission from a transponder
 ### Family
-interrogation: interrogations+;interrogate: interrogated, interrogates, interrogating, interrogation, interrogative, interrogator, interrogatory;interrogative: interrogatively, interrogatives;interrogator: interrogators;interrogatory: interrogatories
+- interrogation: interrogations+
+- interrogate: interrogated, interrogates, interrogating, interrogation, interrogative, interrogator, interrogatory
+- interrogative: interrogatively, interrogatives
+- interrogator: interrogators
+- interrogatory: interrogatories
 ### Examples
 - Dahlin’s first interrogation began about 2am that winter morning, as temperatures outside The Residence plunged to six degrees below zero.
 - “The findings of the probe form grounds of evidence to justify the interrogation of the prime minister,” its statement said.
@@ -87,7 +105,12 @@ The adjective proportional describes something that has a relative size or amoun
 - adj: properly related in size or degree or other measurable characteristics; usually followed by `to'
 - n: one of the quantities in a mathematical proportion
 ### Family
-proportional: disproportional, proportionality, proportionally, proportionals+;disproportion: disproportions;disproportional: disproportionally;proportion: disproportion, proportionable, proportional, proportioned, proportioning, proportions;proportionable: proportionably;proportioned: ill-proportioned
+- proportional: disproportional, proportionality, proportionally, proportionals+
+- disproportion: disproportions
+- disproportional: disproportionally
+- proportion: disproportion, proportionable, proportional, proportioned, proportioning, proportions
+- proportionable: proportionably
+- proportioned: ill-proportioned
 ### Examples
 - HUD says the money was awarded based on each state’s proportional share of serious unmet housing and infrastructure needs.
 - The economic base wasn’t proportional to begin with, and the gains are rendering it less so.
@@ -101,7 +124,7 @@ A juncture is a crucial point in time when a decision must be made. At this junc
 - n: an event that occurs at a critical time
 - n: a crisis situation or point in time when a critical decision must be made
 ### Family
-juncture: junctures
+- juncture: junctures
 ### Examples
 - The academy was interconnected with Canadian hoops at that juncture.
 - The junior senator from Virginia gets that there’s no obvious path to the nomination for him at this juncture.
@@ -119,7 +142,10 @@ The word pulse has many shades of meaning, but most of them involve something ch
 - v: produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses
 - n: edible seeds of various pod-bearing plants (peas or beans or lentils etc.)
 ### Family
-pulse: pulsate, pulsed, pulseless, pulses, pulsing+;pulsate: pulsated, pulsates, pulsating, pulsation;pulsation: pulsations;pulsing: pulsings
+- pulse: pulsate, pulsed, pulseless, pulses, pulsing+
+- pulsate: pulsated, pulsates, pulsating, pulsation
+- pulsation: pulsations
+- pulsing: pulsings
 ### Examples
 - This story was originally published by Pulse — Voices From the Heart of Medicine.
 - On New Year’s Eve, anything with feathers and a pulse was counted by about 200 birders from dawn until almost dusk.
@@ -131,7 +157,8 @@ If you have epilepsy, you have a central nervous system disorder that may cause 
 ### Definition
 - n: a disorder of the central nervous system characterized by loss of consciousness and convulsions
 ### Family
-epilepsy: epilepsies, epileptic+;epileptic: epileptically, epileptics
+- epilepsy: epilepsies, epileptic+
+- epileptic: epileptically, epileptics
 ### Examples
 - Some speculate that it represents temporal-lobe epilepsy, others schizophrenia; auditory hallucinations are common in both conditions.
 - Photosensitive epilepsy may thus be underreported because people who suffer from it mistake the symptoms for something else.

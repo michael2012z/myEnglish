@@ -4,7 +4,7 @@ A fortress is a large building or complex of buildings used as a military strong
 ### Definition
 - n: a fortified defensive structure
 ### Family
-fortress: fortresses
+- fortress: fortresses
 ### Examples
 - The school is surrounded on all sides by a fortress of public housing.
 - "The fortress needs a fair bit of investment and this is not the sort of property you would buy on a whim."
@@ -16,7 +16,9 @@ Something that happens to a person's thinking can lead to paranoia. You may beli
 ### Definition
 - n: a psychological disorder characterized by delusions of persecution or grandeur
 ### Family
-paranoia: paranoiac, paranoias, paranoid+;paranoiac: paranoiacs;paranoid: paranoids
+- paranoia: paranoiac, paranoias, paranoid+
+- paranoiac: paranoiacs
+- paranoid: paranoids
 ### Examples
 - He describes the Hollywood-set film as “all shadow work, paranoia, fear, conspiracy, manipulation and poison.”
 - “In experiences like this, they suffer from paranoia and hyper-vigilance,” Hepburn said.
@@ -29,7 +31,7 @@ A rung is one of the horizontal steps of a ladder. You should never stand on the
 - n: one of the crosspieces that form the steps of a ladder
 - n: a crosspiece between the legs of a chair
 ### Family
-rung: rungs
+- rung: rungs
 ### Examples
 - Patrick played in the N.F.L. for three years, and suffered three concussions, which he described as getting his “bell rung.”
 - The bells were rung ahead of the Minsters Service of Nine Lessons and Carols on Thursday.
@@ -44,7 +46,8 @@ A parody is a humorous or mocking imitation of something, using the same form as
 - v: make a parody of
 - v: make a spoof of or make fun of
 ### Family
-parody: parodied, parodies, parodist, parodying+;parodist: parodists
+- parody: parodied, parodies, parodist, parodying+
+- parodist: parodists
 ### Examples
 - An earlier episode placed Paper Boi on a fictional news panel show with parody commercials to break up the show’s segments.
 - He's been the subject of fake news stories, books, comics - and a parody of the Book of Genesis.
@@ -60,7 +63,7 @@ In fairy tales, always watch out for the cunning fox or the cunning witch. Cunni
 - n: shrewdness as demonstrated by being skilled in deception
 - adj: attractive especially by means of smallness or prettiness or quaintness
 ### Family
-cunning: cunninger, cunningest, cunningly, cunnings
+- cunning: cunninger, cunningest, cunningly, cunnings
 ### Examples
 - The poem’s emphasis on Odysseus’ cunning starts to seem like the celebration of the emergence of a new kind of consciousness.
 - Burr is “more cunning than wise . . . inferior in real ability to Jefferson,” Hamilton wrote.
@@ -75,7 +78,14 @@ When you discriminate between two things, you can tell the difference between th
 - v: recognize or perceive the difference
 - v: treat differently on the basis of sex or race
 ### Family
-discriminate: discriminable, discriminated, discriminately, discriminates, discriminating, discriminatingly, discrimination, discriminative, discriminator, discriminatory, indiscriminate+;discriminating: indiscriminating, undiscriminating;discrimination: discriminations, non-discrimination;discriminative: discriminatively;discriminator: discriminators;discriminatory: discriminatorily;indiscriminate: indiscriminately, indiscriminatingly;undiscriminating: undiscriminatingly
+- discriminate: discriminable, discriminated, discriminately, discriminates, discriminating, discriminatingly, discrimination, discriminative, discriminator, discriminatory, indiscriminate+
+- discriminating: indiscriminating, undiscriminating
+- discrimination: discriminations, non-discrimination
+- discriminative: discriminatively
+- discriminator: discriminators
+- discriminatory: discriminatorily
+- indiscriminate: indiscriminately, indiscriminatingly
+- undiscriminating: undiscriminatingly
 ### Examples
 - Until the barrier of transportation is cleared for all students, the school voucher system is not equitable, as it discriminates against those without transportation.
 - The report concluded that seeing passengers’ photos and names may contribute to drivers’ ability to discriminate based on race and gender.
@@ -88,7 +98,9 @@ When you're talking about the implied subtext of words rather than their literal
 - n: an idea that is implied or suggested
 - n: what you must know in order to determine the reference of an expression
 ### Family
-connotation: connotational, connotations+;connotative: connotatively;connote: connotation, connotative, connoted, connotes, connoting
+- connotation: connotational, connotations+
+- connotative: connotatively
+- connote: connotation, connotative, connoted, connotes, connoting
 ### Examples
 - And yet now the word’s connotations are exclusively negative.
 - Firing a manager carries inescapable connotations, none of which anyone involved would really wish to be levelled at Bradley.
@@ -101,7 +113,10 @@ Relentless is a good word for describing something that's harsh, unforgiving, an
 - adj: never-ceasing
 - adj: not to be placated or appeased or moved by entreaty
 ### Family
-relentless: relentlessly, relentlessness+;relent: relented, relenting, relentless, relents;relenting: unrelenting;unrelenting: unrelentingly
+- relentless: relentlessly, relentlessness+
+- relent: relented, relenting, relentless, relents
+- relenting: unrelenting
+- unrelenting: unrelentingly
 ### Examples
 - “This attack shows how rampant Russian hacking is. It’s systemic, relentless, predatory,” Rep. Peter Welch said in a statement.
 - It is a condition doctors attribute to the stress of living under relentless airstrikes and shelling.
@@ -115,7 +130,10 @@ To embody a role is to fill it completely. If a high schooler seems to embody th
 - v: represent, as of a character on stage
 - v: represent or express something abstract in tangible form
 ### Family
-embody: disembody, embodied, embodies, embodiment, embodying+;disembody: disembodied, disembodying;embodied: unembodied;embodiment: embodiments
+- embody: disembody, embodied, embodies, embodiment, embodying+
+- disembody: disembodied, disembodying
+- embodied: unembodied
+- embodiment: embodiments
 ### Examples
 - Prescott appears born to do this, and his football team now embodies his impressive calm.
 - Beamer says the former player’s work with The Carpenter House and other charitable organizations to help those in need “truly embodied the Virginia Tech spirit.”
@@ -135,7 +153,8 @@ A drill is a power tool that's used for making narrow holes or sometimes for pus
 - v: train in the military, e.g., in the use of weapons
 - n: similar to the mandrill but smaller and less brightly colored
 ### Family
-drill: drill-like, drilled, drilling, drills+;drilling: drillings
+- drill: drill-like, drilled, drilling, drills+
+- drilling: drillings
 ### Examples
 - The junior confidently drilled the Rose Bowl winner, sprinting away to celebrate amid pandemonium in the packed stadium.
 - First there’s stretching, warm-up drills to fast-paced music.

@@ -4,7 +4,10 @@ A deterrent makes you not want to do something. Let's say there's a giant pile o
 - n: something immaterial that interferes with or delays action or progress
 - adj: tending to deter
 ### Family
-deterrent: deterrence, deterrently, deterrents+;deter: determent, deterred, deterrent, deterring, deters;determent: determents;deterred: undeterred
+- deterrent: deterrence, deterrently, deterrents+
+- deter: determent, deterred, deterrent, deterring, deters
+- determent: determents
+- deterred: undeterred
 ### Examples
 - “If they’re guilty, they should be penalized in a deterrent fashion,” he said.
 - Opinions differ on whether the dolls are an effective deterrent to teen pregnancy, however.
@@ -17,7 +20,8 @@ A manor is the house of a lord — pretty fancy stuff. If you like to read 18th-
 - n: the landed estate of a lord (including the house on it)
 - n: the mansion of a lord or wealthy person
 ### Family
-manor: manorial, manors+;manorial: manorially
+- manor: manorial, manors+
+- manorial: manorially
 ### Examples
 - Paranormal Lockdown Nick and Katrina visit a historic, purportedly haunted manor in Middleboro, Mass., in this new episode of the unscripted series. 9 p.m.
 - The Manor Site-specific tale of scandal and murder, inspired by actual events.
@@ -28,7 +32,7 @@ Pulmonary means of or relating to the lungs. A pulmonary specialist is a doctor 
 ### Definition
 - adj: relating to or affecting the lungs
 ### Family
-pulmonary: intrapulmonary
+- pulmonary: intrapulmonary
 ### Examples
 - The cause was chronic obstructive pulmonary disease, said a son, Tom MacIssac.
 - The cause was chronic obstructive pulmonary disease, said a sister, Carol Porter.
@@ -39,7 +43,12 @@ Use the adjective preparatory when you're getting ready for something. If you sp
 ### Definition
 - adj: preceding and preparing for something
 ### Family
-preparatory: preparatorily+;preparation: preparations;preparative: preparatively;prepare: preparation, preparative, preparatory, prepared, prepares, preparing;prepared: preparedly, preparedness, unprepared;unprepared: unpreparedly
+- preparatory: preparatorily+
+- preparation: preparations
+- preparative: preparatively
+- prepare: preparation, preparative, preparatory, prepared, prepares, preparing
+- prepared: preparedly, preparedness, unprepared
+- unprepared: unpreparedly
 ### Examples
 - Twice a week, she attends a preparatory class for earning a high school equivalency diploma.
 - The court said it would hold the next preparatory hearing on Dec. 27.
@@ -51,7 +60,9 @@ If you detract from something — like an achievement or an opinion or an object
 ### Definition
 - v: take away a part from; diminish
 ### Family
-detract: detracted, detracting, detraction, detractive, detractor, detracts+;detraction: detractions;detractor: detractors
+- detract: detracted, detracting, detraction, detractive, detractor, detracts+
+- detraction: detractions
+- detractor: detractors
 ### Examples
 - None of these shortcomings detract from what is a fascinating work of revisited history with all the narrative traction of a good mystery.
 - If a hamlet detracted from his composition, he moved it.
@@ -73,7 +84,9 @@ A whip is a cord or piece of leather used for hitting an animal or a person, and
 - n: (golf) the flexibility of the shaft of a golf club
 - v: thrash about flexibly in the manner of a whiplash
 ### Family
-whip: whiplike, whipped, whipper, whipping, whips+;whipper: whippers;whipping: whippings
+- whip: whiplike, whipped, whipper, whipping, whips+
+- whipper: whippers
+- whipping: whippings
 ### Examples
 - The extra height of the lid accommodates whipped cream or cappuccino foam, and its inner ring reduces “dribble at the rim,” the company’s website says.
 - “I saw in my dreams they were whipping me,” he said.
@@ -85,7 +98,7 @@ A caveat is a warning. When someone adds a caveat to something they’re telling
 - n: a warning against certain acts
 - n: (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing
 ### Family
-caveat: caveats
+- caveat: caveats
 ### Examples
 - Kurt Svoboda, an athletics department spokesman, suggested that was an important caveat.
 - Even when the U.S. ratifies treaties, the government often adds a caveat that excludes protection of some basic rights.
@@ -100,7 +113,7 @@ A premise is what forms the basis of a theory or a plot. When you called 911 on 
 - v: furnish with a preface or introduction
 - v: take something as preexisting and given
 ### Family
-premise: premised, premises, premising
+- premise: premised, premises, premising
 ### Examples
 - Investigators believe the Tunisian cook, 26, confronted Daniel R after he and another Pole stole two bottles of drink from the premises on Saturday.
 - That citizens get a say in government is premised on the fact that we’re paying for it - so what happens if we’re not?
@@ -113,7 +126,8 @@ Desperation is a hopeless state. If you learned that your friend had sold her be
 - n: a state in which all hope is lost or absent
 - n: desperate recklessness
 ### Family
-desperation: desperations+;desperate: desperately, desperates, desperatest, desperation
+- desperation: desperations+
+- desperate: desperately, desperates, desperatest, desperation
 ### Examples
 - When the Minnesota Vikings traded for Sam Bradford in September the move was one of desperation.
 - A blitzing Foster pressured Browning into the desperation heave that Anderson swiped for a 17-7 halftime lead.
@@ -126,7 +140,10 @@ An incision is a surgical cut. A doctor uses a scalpel to make an incision in a 
 - n: the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)
 - n: a depression scratched or carved into a surface
 ### Family
-incision: incisions+;incise: incised, incising, incision, incisive, incisure;incisive: incisively, incisiveness;incisure: incisures
+- incision: incisions+
+- incise: incised, incising, incision, incisive, incisure
+- incisive: incisively, incisiveness
+- incisure: incisures
 ### Examples
 - Middlesbrough’s need for urgency and incision was apparent to all.
 - Cellphone lights were used to illuminate the area of Coughlin’s incision and the procedure was successfully completed.
