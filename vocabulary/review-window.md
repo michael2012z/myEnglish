@@ -1,3 +1,13 @@
+predecessor \
+mandate \
+pump \
+conspiracy \
+scrap \
+bust \
+circulate \
+loom \
+advocate \
+populist \
 reckon \
 sweep \
 disrupt \
