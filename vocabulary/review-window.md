@@ -37,4 +37,4 @@ treasury \
 ally \
 surge \
 coalition \
-stake \
+stake
