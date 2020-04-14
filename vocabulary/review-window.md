@@ -1,3 +1,13 @@
+foster \
+coup \ 
+expulsion \
+grapple \
+fare \
+complaint \
+cruise \
+lament \
+spur \
+spray \
 predecessor \
 mandate \
 pump \
@@ -37,7 +47,10 @@ surveillance \
 plunge \
 equity \
 curb \
-tide \
+tide
+
+----
+
 fiscal \
 rival \
 urge \
