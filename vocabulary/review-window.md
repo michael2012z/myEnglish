@@ -1,5 +1,5 @@
 foster \
-coup \ 
+coup \
 expulsion \
 grapple \
 fare \
