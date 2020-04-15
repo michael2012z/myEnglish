@@ -1,3 +1,13 @@
+judicial \
+asylum \
+incumbent \
+expel \
+boast \
+hygiene \
+venue \
+repression \
+gulf \
+thrive \
 foster \
 coup \
 expulsion \
@@ -37,7 +47,10 @@ toll \
 massacre \
 riot \
 supreme \
-sentiment \
+sentiment
+
+----
+
 pledge \
 unprecedented \
 deficit \
@@ -47,10 +60,7 @@ surveillance \
 plunge \
 equity \
 curb \
-tide
-
-----
-
+tide \
 fiscal \
 rival \
 urge \
