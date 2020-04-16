@@ -1,3 +1,13 @@
+wary \
+sack \
+revive \
+concession \
+own \
+turbine \
+drastic \
+tackle \
+enact \
+compound \
 judicial \
 asylum \
 incumbent \
@@ -37,7 +47,10 @@ genome \
 rid \
 endorse \
 sovereign \
-bolster \
+bolster 
+
+----
+
 crude \
 brutal \
 authoritarian \
@@ -47,10 +60,7 @@ toll \
 massacre \
 riot \
 supreme \
-sentiment
-
-----
-
+sentiment \
 pledge \
 unprecedented \
 deficit \
