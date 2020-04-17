@@ -1,3 +1,13 @@
+bloc \
+stall \
+molecule \
+outfit \
+respiratory \
+aftermath \
+dire \
+wipe \
+incentive \
+oblige \
 wary \
 sack \
 revive \
@@ -37,7 +47,10 @@ bust \
 circulate \
 loom \
 advocate \
-populist \
+populist
+
+----
+
 reckon \
 sweep \
 disrupt \
@@ -47,10 +60,7 @@ genome \
 rid \
 endorse \
 sovereign \
-bolster 
-
-----
-
+bolster \
 crude \
 brutal \
 authoritarian \
