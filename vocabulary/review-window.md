@@ -12,7 +12,7 @@ wary \
 sack \
 revive \
 concession \
-own \
+owe \
 turbine \
 drastic \
 tackle \
