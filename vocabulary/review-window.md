@@ -1,3 +1,13 @@
+dialect \
+shaken \
+deputy \
+lag \
+contraception \
+gilt \
+eligible \
+slack \
+stir \
+casualty \
 bloc \
 stall \
 molecule \
@@ -37,7 +47,10 @@ complaint \
 cruise \
 lament \
 spur \
-spray \
+spray
+
+----
+
 predecessor \
 mandate \
 pump \
@@ -47,10 +60,7 @@ bust \
 circulate \
 loom \
 advocate \
-populist
-
-----
-
+populist \
 reckon \
 sweep \
 disrupt \
