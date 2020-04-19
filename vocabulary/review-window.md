@@ -1,3 +1,13 @@
+junk \
+lure \
+constraint \
+ramp \
+scarce \
+trajectory\
+surplus \
+austerity \
+mistake \
+mistake \
 dialect \
 shaken \
 deputy \
@@ -37,7 +47,17 @@ hygiene \
 venue \
 repression \
 gulf \
-thrive \
+thrive
+
+----
+
+
+
+
+
+
+
+
 foster \
 coup \
 expulsion \
@@ -47,10 +67,7 @@ complaint \
 cruise \
 lament \
 spur \
-spray
-
-----
-
+spray \
 predecessor \
 mandate \
 pump \
@@ -90,7 +107,10 @@ surveillance \
 plunge \
 equity \
 curb \
-tide \
+tide
+
+----
+
 fiscal \
 rival \
 urge \
@@ -101,3 +121,6 @@ ally \
 surge \
 coalition \
 stake
+
+----
+
