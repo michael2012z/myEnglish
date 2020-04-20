@@ -1,3 +1,13 @@
+franchise \
+clash \
+decent \
+ingredient \
+cushion \
+trim \
+harsh \
+mob \
+swear \
+descend \
 junk \
 lure \
 constraint \
@@ -37,17 +47,7 @@ turbine \
 drastic \
 tackle \
 enact \
-compound \
-judicial \
-asylum \
-incumbent \
-expel \
-boast \
-hygiene \
-venue \
-repression \
-gulf \
-thrive
+compound
 
 ----
 
@@ -58,6 +58,16 @@ thrive
 
 
 
+judicial \
+asylum \
+incumbent \
+expel \
+boast \
+hygiene \
+venue \
+repression \
+gulf \
+thrive \
 foster \
 coup \
 expulsion \
@@ -97,7 +107,11 @@ toll \
 massacre \
 riot \
 supreme \
-sentiment \
+sentiment
+
+
+----
+
 pledge \
 unprecedented \
 deficit \
@@ -106,7 +120,7 @@ morale \
 surveillance \
 plunge \
 equity \
-curb \
+**curb** \
 tide
 
 ----
@@ -121,6 +135,4 @@ ally \
 surge \
 coalition \
 stake
-
-----
 
