@@ -1,3 +1,13 @@
+decree \
+prevail \
+collateral \
+sworn \
+duly \
+havoc \
+plead \
+provoke \
+deteriorate \
+stand \
 franchise \
 clash \
 decent \
@@ -37,17 +47,7 @@ aftermath \
 dire \
 wipe \
 incentive \
-oblige \
-wary \
-sack \
-revive \
-concession \
-owe \
-turbine \
-drastic \
-tackle \
-enact \
-compound
+oblige
 
 ----
 
@@ -58,6 +58,16 @@ compound
 
 
 
+wary \
+sack \
+revive \
+concession \
+owe \
+turbine \
+drastic \
+tackle \
+enact \
+compound \
 judicial \
 asylum \
 incumbent \
@@ -97,7 +107,10 @@ genome \
 rid \
 endorse \
 sovereign \
-bolster \
+bolster
+
+---- 
+
 crude \
 brutal \
 authoritarian \
@@ -121,10 +134,7 @@ surveillance \
 plunge \
 equity \
 **curb** \
-tide
-
-----
-
+tide \
 fiscal \
 rival \
 urge \
