@@ -1,3 +1,13 @@
+detention \
+rage \
+cult \
+commerce \
+hail \
+ghetto \
+exacerbate \
+levy \
+stringent \
+prestigious \
 decree \
 prevail \
 collateral \
@@ -7,7 +17,7 @@ havoc \
 plead \
 provoke \
 deteriorate \
-stand \
+strand \
 franchise \
 clash \
 decent \
@@ -37,17 +47,8 @@ gilt \
 eligible \
 slack \
 stir \
-casualty \
-bloc \
-stall \
-molecule \
-outfit \
-respiratory \
-aftermath \
-dire \
-wipe \
-incentive \
-oblige
+casualty
+
 
 ----
 
@@ -57,7 +58,16 @@ oblige
 
 
 
-
+bloc \
+stall \
+molecule \
+outfit \
+respiratory \
+aftermath \
+dire \
+wipe \
+**incentive** \
+oblige \
 wary \
 sack \
 revive \
@@ -97,7 +107,17 @@ bust \
 circulate \
 loom \
 advocate \
-populist \
+populist
+
+----
+
+
+
+
+
+
+
+
 reckon \
 sweep \
 disrupt \
@@ -120,11 +140,7 @@ toll \
 massacre \
 riot \
 supreme \
-sentiment
-
-
-----
-
+sentiment \
 pledge \
 unprecedented \
 deficit \
