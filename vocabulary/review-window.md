@@ -1,3 +1,13 @@
+donor \
+judiciary \
+precedent \
+notwithstanding \
+illegitimate \
+aide \
+staple \
+rein \
+litter \
+mitigate \
 detention \
 rage \
 cult \
@@ -37,17 +47,8 @@ trajectory\
 surplus \
 austerity \
 mistake \
-mistake \
-dialect \
-shaken \
-deputy \
-lag \
-contraception \
-gilt \
-eligible \
-slack \
-stir \
-casualty
+mistake
+
 
 
 ----
@@ -57,7 +58,16 @@ casualty
 
 
 
-
+dialect \
+shaken \
+deputy \
+lag \
+contraception \
+gilt \
+eligible \
+slack \
+stir \
+casualty \
 bloc \
 stall \
 molecule \
@@ -97,7 +107,11 @@ complaint \
 cruise \
 lament \
 spur \
-spray \
+spray
+
+
+---- 
+
 predecessor \
 mandate \
 pump \
@@ -127,10 +141,7 @@ genome \
 rid \
 endorse \
 sovereign \
-bolster
-
----- 
-
+bolster \
 crude \
 brutal \
 authoritarian \
