@@ -1,3 +1,13 @@
+patience \
+distract \
+tempt \
+plea \
+bout \
+charter \
+lorry \
+sanitary \
+grind \
+exempt \
 donor \
 judiciary \
 precedent \
@@ -37,7 +47,17 @@ trim \
 harsh \
 mob \
 swear \
-descend \
+descend
+
+----
+
+
+
+
+
+
+
+
 junk \
 lure \
 constraint \
@@ -47,17 +67,7 @@ trajectory\
 surplus \
 austerity \
 mistake \
-mistake
-
-
-
-----
-
-
-
-
-
-
+mistake \
 dialect \
 shaken \
 deputy \
@@ -97,7 +107,10 @@ hygiene \
 venue \
 repression \
 gulf \
-thrive \
+thrive
+
+----
+
 foster \
 coup \
 expulsion \
@@ -121,17 +134,7 @@ bust \
 circulate \
 loom \
 advocate \
-populist
-
-----
-
-
-
-
-
-
-
-
+populist \
 reckon \
 sweep \
 disrupt \
