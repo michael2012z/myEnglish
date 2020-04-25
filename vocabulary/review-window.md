@@ -1,3 +1,13 @@
+avert \
+theft \
+diminish \
+treaty \
+backlash \
+suck \
+ammunition \
+mosque \
+tolerate \
+anticipate \
 patience \
 distract \
 tempt \
@@ -37,17 +47,7 @@ havoc \
 plead \
 provoke \
 deteriorate \
-strand \
-franchise \
-clash \
-decent \
-ingredient \
-cushion \
-trim \
-harsh \
-mob \
-swear \
-descend
+strand
 
 ----
 
@@ -58,6 +58,16 @@ descend
 
 
 
+franchise \
+clash \
+decent \
+ingredient \
+cushion \
+trim \
+harsh \
+mob \
+swear \
+descend \
 junk \
 lure \
 constraint \
@@ -97,7 +107,10 @@ turbine \
 drastic \
 tackle \
 enact \
-compound \
+compound
+
+----
+
 judicial \
 asylum \
 incumbent \
@@ -120,11 +133,7 @@ complaint \
 cruise \
 lament \
 spur \
-spray
-
-
----- 
-
+spray \
 predecessor \
 mandate \
 pump \
