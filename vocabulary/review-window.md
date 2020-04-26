@@ -1,3 +1,13 @@
+crack \
+exile \
+breach \
+disclose \
+foe \
+militant \
+temptation \
+partisan \
+enzyme \
+erect \
 avert \
 theft \
 diminish \
@@ -37,17 +47,7 @@ ghetto \
 exacerbate \
 levy \
 stringent \
-prestigious \
-decree \
-prevail \
-collateral \
-sworn \
-duly \
-havoc \
-plead \
-provoke \
-deteriorate \
-strand
+prestigious
 
 ----
 
@@ -58,6 +58,16 @@ strand
 
 
 
+decree \
+prevail \
+collateral \
+sworn \
+duly \
+havoc \
+plead \
+provoke \
+deteriorate \
+strand \
 franchise \
 clash \
 decent \
@@ -97,7 +107,10 @@ aftermath \
 dire \
 wipe \
 **incentive** \
-oblige \
+oblige
+
+----
+
 wary \
 sack \
 revive \
@@ -120,10 +133,7 @@ hygiene \
 venue \
 repression \
 gulf \
-thrive
-
-----
-
+thrive \
 foster \
 coup \
 expulsion \
