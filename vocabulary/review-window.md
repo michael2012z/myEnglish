@@ -1,3 +1,13 @@
+consecutive \
+lucrative \
+breathe \
+prop \
+backdrop \
+inventory \
+scant \
+tuberculosis \
+cocaine \
+comply \
 crack \
 exile \
 breach \
@@ -37,17 +47,8 @@ aide \
 staple \
 rein \
 litter \
-mitigate \
-detention \
-rage \
-cult \
-commerce \
-hail \
-ghetto \
-exacerbate \
-levy \
-stringent \
-prestigious
+mitigate
+
 
 ----
 
@@ -57,7 +58,16 @@ prestigious
 
 
 
-
+detention \
+rage \
+**cult** \
+commerce \
+**hail** \
+ghetto \
+exacerbate \
+levy \
+stringent \
+prestigious \
 decree \
 prevail \
 collateral \
@@ -97,12 +107,15 @@ gilt \
 eligible \
 slack \
 stir \
-casualty \
+casualty
+
+----
+
 bloc \
 stall \
 molecule \
 outfit \
-respiratory \
+**respiratory** \
 aftermath \
 dire \
 wipe \
@@ -120,10 +133,7 @@ turbine \
 drastic \
 tackle \
 enact \
-compound
-
-----
-
+compound \
 judicial \
 asylum \
 incumbent \
