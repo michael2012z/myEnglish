@@ -1,3 +1,13 @@
+prosperous \
+incompetent \
+bacteria \
+shrine \
+taboo \
+clutch \
+ferry \
+drain \
+subsidiary \
+twist \
 consecutive \
 lucrative \
 breathe \
@@ -37,18 +47,7 @@ charter \
 lorry \
 sanitary \
 grind \
-exempt \
-donor \
-judiciary \
-precedent \
-notwithstanding \
-illegitimate \
-aide \
-staple \
-rein \
-litter \
-mitigate
-
+exempt
 
 ----
 
@@ -58,6 +57,17 @@ mitigate
 
 
 
+
+donor \
+judiciary \
+precedent \
+notwithstanding \
+illegitimate \
+aide \
+staple \
+rein \
+litter \
+mitigate \
 detention \
 rage \
 **cult** \
@@ -97,7 +107,10 @@ trajectory\
 surplus \
 austerity \
 mistake \
-mistake \
+mistake
+
+----
+
 dialect \
 shaken \
 deputy \
@@ -120,10 +133,7 @@ aftermath \
 dire \
 wipe \
 **incentive** \
-oblige
-
-----
-
+oblige \
 wary \
 sack \
 revive \
