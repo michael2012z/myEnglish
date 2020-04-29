@@ -1,3 +1,13 @@
+glamorous \
+celebrity \
+shy \
+notch \
+nasty \
+blast \
+instinct \
+skull \
+balcony \
+ward \
 prosperous \
 incompetent \
 bacteria \
@@ -37,17 +47,7 @@ suck \
 ammunition \
 mosque \
 tolerate \
-anticipate \
-patience \
-distract \
-tempt \
-plea \
-bout \
-charter \
-lorry \
-sanitary \
-grind \
-exempt
+anticipate
 
 ----
 
@@ -58,6 +58,16 @@ exempt
 
 
 
+patience \
+distract \
+tempt \
+plea \
+bout \
+charter \
+lorry \
+sanitary \
+grind \
+exempt \
 donor \
 judiciary \
 precedent \
@@ -97,7 +107,10 @@ trim \
 harsh \
 mob \
 swear \
-descend \
+descend
+
+----
+
 junk \
 lure \
 constraint \
@@ -105,9 +118,7 @@ ramp \
 scarce \
 trajectory\
 surplus \
-austerity \
-mistake \
-mistake
+austerity
 
 ----
 
@@ -120,10 +131,7 @@ gilt \
 eligible \
 slack \
 stir \
-casualty
-
-----
-
+casualty \
 bloc \
 stall \
 molecule \
