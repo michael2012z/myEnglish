@@ -1,3 +1,13 @@
+flock \
+dispatch \
+diplomatic \
+deprive \
+respondent \
+scarcely \
+misery \
+blunt \
+ceiling \
+pavement \
 glamorous \
 celebrity \
 shy \
@@ -37,7 +47,17 @@ militant \
 temptation \
 partisan \
 enzyme \
-erect \
+erect
+
+
+
+
+----
+
+
+
+
+
 avert \
 theft \
 diminish \
@@ -47,17 +67,7 @@ suck \
 ammunition \
 mosque \
 tolerate \
-anticipate
-
-----
-
-
-
-
-
-
-
-
+anticipate \
 patience \
 distract \
 tempt \
@@ -97,7 +107,10 @@ havoc \
 plead \
 provoke \
 deteriorate \
-strand \
+strand
+
+----
+
 franchise \
 clash \
 decent \
@@ -118,10 +131,7 @@ ramp \
 scarce \
 trajectory\
 surplus \
-austerity
-
-----
-
+austerity \
 dialect \
 shaken \
 deputy \
