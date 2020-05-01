@@ -1,3 +1,13 @@
+virtuous \
+naval \
+distort \
+withstand \
+complication \
+faction \
+linger \
+valuation \
+heal \
+din \
 flock \
 dispatch \
 diplomatic \
@@ -37,18 +47,7 @@ inventory \
 scant \
 tuberculosis \
 cocaine \
-comply \
-crack \
-exile \
-breach \
-disclose \
-foe \
-militant \
-temptation \
-partisan \
-enzyme \
-erect
-
+comply
 
 
 
@@ -58,6 +57,17 @@ erect
 
 
 
+
+crack \
+exile \
+breach \
+disclose \
+foe \
+militant \
+temptation \
+partisan \
+enzyme \
+erect \
 avert \
 theft \
 diminish \
@@ -97,7 +107,10 @@ ghetto \
 exacerbate \
 levy \
 stringent \
-prestigious \
+prestigious
+
+----
+
 decree \
 prevail \
 collateral \
@@ -120,10 +133,7 @@ trim \
 harsh \
 mob \
 swear \
-descend
-
-----
-
+descend \
 junk \
 lure \
 constraint \
