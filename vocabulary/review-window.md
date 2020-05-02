@@ -1,3 +1,13 @@
+premature \
+ensue \
+freight \
+indebted \
+flare \
+supervise \
+interim \
+coincide \
+precarious \
+shelter \
 virtuous \
 naval \
 distort \
@@ -37,7 +47,17 @@ clutch \
 ferry \
 drain \
 subsidiary \
-twist \
+twist
+
+----
+
+
+
+
+
+
+
+
 consecutive \
 lucrative \
 breathe \
@@ -47,17 +67,7 @@ inventory \
 scant \
 tuberculosis \
 cocaine \
-comply
-
-
-
-----
-
-
-
-
-
-
+comply \
 crack \
 exile \
 breach \
@@ -97,7 +107,10 @@ aide \
 staple \
 rein \
 litter \
-mitigate \
+mitigate
+
+----
+
 detention \
 rage \
 **cult** \
@@ -120,10 +133,7 @@ havoc \
 plead \
 provoke \
 deteriorate \
-strand
-
-----
-
+strand \
 franchise \
 clash \
 decent \
