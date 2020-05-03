@@ -1,3 +1,13 @@
+steer \
+divergence \
+stigma \
+metropolitan \
+derivative \
+disregard \
+sibling \
+commonplace \
+fracture \
+vacuum \
 premature \
 ensue \
 freight \
@@ -37,7 +47,17 @@ blast \
 instinct \
 skull \
 balcony \
-ward \
+ward
+
+
+
+----
+
+
+
+
+
+
 prosperous \
 incompetent \
 bacteria \
@@ -47,17 +67,7 @@ clutch \
 ferry \
 drain \
 subsidiary \
-twist
-
-----
-
-
-
-
-
-
-
-
+twist \
 consecutive \
 lucrative \
 breathe \
@@ -97,7 +107,10 @@ charter \
 lorry \
 sanitary \
 grind \
-exempt \
+exempt
+
+----
+
 donor \
 judiciary \
 precedent \
@@ -120,10 +133,7 @@ ghetto \
 exacerbate \
 levy \
 stringent \
-prestigious
-
-----
-
+prestigious \
 decree \
 prevail \
 collateral \
