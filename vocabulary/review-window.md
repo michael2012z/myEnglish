@@ -1,3 +1,13 @@
+militia \
+ration \
+summon \
+basin \
+fragile \
+lavish \
+resilient \
+lease \
+lyric \
+vigorous \
 steer \
 divergence \
 stigma \
@@ -37,18 +47,7 @@ scarcely \
 misery \
 blunt \
 ceiling \
-pavement \
-glamorous \
-celebrity \
-shy \
-notch \
-nasty \
-blast \
-instinct \
-skull \
-balcony \
-ward
-
+pavement
 
 
 ----
@@ -58,6 +57,17 @@ ward
 
 
 
+
+glamorous \
+celebrity \
+shy \
+notch \
+nasty \
+blast \
+instinct \
+skull \
+balcony \
+ward \
 prosperous \
 incompetent \
 bacteria \
@@ -97,17 +107,20 @@ suck \
 ammunition \
 mosque \
 tolerate \
-anticipate \
+anticipate
+
+----
+
 patience \
 distract \
-tempt \
+**tempt** \
 plea \
 bout \
 charter \
 lorry \
 sanitary \
 grind \
-exempt
+**exempt**
 
 ----
 
@@ -120,10 +133,7 @@ aide \
 staple \
 rein \
 litter \
-mitigate
-
-----
-
+mitigate \
 detention \
 rage \
 **cult** \
