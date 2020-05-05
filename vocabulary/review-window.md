@@ -1,3 +1,13 @@
+amplify \
+evade \
+warrant \
+salmon \
+gown \
+humble \
+meagre \
+contingency \
+dismal \
+breadth \
 militia \
 ration \
 summon \
@@ -37,17 +47,9 @@ faction \
 linger \
 valuation \
 heal \
-din \
-flock \
-dispatch \
-diplomatic \
-deprive \
-respondent \
-scarcely \
-misery \
-blunt \
-ceiling \
-pavement
+din
+
+
 
 
 ----
@@ -55,9 +57,16 @@ pavement
 
 
 
-
-
-
+flock \
+dispatch \
+diplomatic \
+**deprive** \
+respondent \
+scarcely \
+misery \
+blunt \
+ceiling \
+pavement \
 glamorous \
 celebrity \
 shy \
@@ -98,7 +107,10 @@ temptation \
 partisan \
 enzyme \
 erect \
-avert \
+avert
+
+----
+
 theft \
 diminish \
 treaty \
@@ -120,10 +132,7 @@ charter \
 lorry \
 sanitary \
 grind \
-**exempt**
-
-----
-
+**exempt** \
 donor \
 judiciary \
 precedent \
