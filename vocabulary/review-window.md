@@ -1,3 +1,13 @@
+condemn \
+susceptible \
+intrusive \
+contemplate \
+scarcity \
+premier \
+boarding \
+wreck \
+cruel \
+jurisdiction \
 amplify \
 evade \
 warrant \
@@ -37,7 +47,17 @@ supervise \
 interim \
 coincide \
 precarious \
-shelter \
+shelter
+
+
+
+
+
+
+----
+
+
+
 virtuous \
 naval \
 distort \
@@ -47,16 +67,7 @@ faction \
 linger \
 valuation \
 heal \
-din
-
-
-
-
-----
-
-
-
-
+din \
 flock \
 dispatch \
 diplomatic \
@@ -96,7 +107,10 @@ inventory \
 scant \
 tuberculosis \
 cocaine \
-comply \
+comply
+
+----
+
 crack \
 exile \
 breach \
@@ -119,10 +133,7 @@ suck \
 ammunition \
 mosque \
 tolerate \
-anticipate
-
-----
-
+anticipate \
 patience \
 distract \
 **tempt** \
