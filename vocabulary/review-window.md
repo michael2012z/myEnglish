@@ -1,3 +1,13 @@
+pillar \
+compulsory \
+affluent \
+colossal \
+sow \
+peasant \
+influx \
+prudent \
+chant \
+foul \
 condemn \
 susceptible \
 intrusive \
@@ -37,7 +47,17 @@ disregard \
 sibling \
 commonplace \
 fracture \
-vacuum \
+vacuum
+
+
+
+
+----
+
+
+
+
+
 premature \
 ensue \
 freight \
@@ -47,17 +67,7 @@ supervise \
 interim \
 coincide \
 precarious \
-shelter
-
-
-
-
-
-
-----
-
-
-
+shelter \
 virtuous \
 naval \
 distort \
@@ -97,14 +107,17 @@ clutch \
 ferry \
 drain \
 subsidiary \
-twist \
+twist
+
+----
+
 consecutive \
-lucrative \
+**lucrative** \
 breathe \
 prop \
 backdrop \
 inventory \
-scant \
+**scant** \
 tuberculosis \
 cocaine \
 comply
@@ -121,10 +134,7 @@ temptation \
 partisan \
 enzyme \
 erect \
-avert
-
-----
-
+avert \
 theft \
 diminish \
 treaty \
