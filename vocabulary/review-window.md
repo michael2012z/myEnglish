@@ -1,3 +1,13 @@
+communion \
+collision \
+bully \
+procurement \
+tender \
+toxic \
+prejudice \
+artefact \
+nitrogen \
+disruptive \
 pillar \
 compulsory \
 affluent \
@@ -37,17 +47,8 @@ lavish \
 resilient \
 lease \
 lyric \
-vigorous \
-steer \
-divergence \
-stigma \
-metropolitan \
-derivative \
-disregard \
-sibling \
-commonplace \
-fracture \
-vacuum
+vigorous
+
 
 
 
@@ -57,7 +58,16 @@ vacuum
 
 
 
-
+steer \
+divergence \
+**stigma** \
+metropolitan \
+derivative \
+disregard \
+sibling \
+commonplace \
+fracture \
+vacuum \
 premature \
 ensue \
 freight \
@@ -97,8 +107,11 @@ blast \
 instinct \
 skull \
 balcony \
-ward \
-prosperous \
+ward
+
+----
+
+**prosperous** \
 incompetent \
 bacteria \
 shrine \
@@ -120,10 +133,7 @@ inventory \
 **scant** \
 tuberculosis \
 cocaine \
-comply
-
-----
-
+comply \
 crack \
 exile \
 breach \
