@@ -1,3 +1,13 @@
+textile \
+triumph \
+sweep \
+ruthless \
+torture \
+lesbian \
+coerce \
+incapable \
+rubber \
+mistake \
 communion \
 collision \
 bully \
@@ -37,18 +47,7 @@ humble \
 meagre \
 contingency \
 dismal \
-breadth \
-militia \
-ration \
-summon \
-basin \
-fragile \
-lavish \
-resilient \
-lease \
-lyric \
-vigorous
-
+breadth
 
 
 
@@ -58,6 +57,17 @@ vigorous
 
 
 
+
+militia \
+ration \
+summon \
+basin \
+fragile \
+**lavish** \
+resilient \
+lease \
+lyric \
+**vigorous** \
 steer \
 divergence \
 **stigma** \
@@ -97,8 +107,11 @@ scarcely \
 misery \
 blunt \
 ceiling \
-pavement \
-glamorous \
+pavement
+
+----
+
+**glamorous** \
 celebrity \
 shy \
 notch \
@@ -107,7 +120,7 @@ blast \
 instinct \
 skull \
 balcony \
-ward
+**ward**
 
 ----
 
@@ -120,10 +133,7 @@ clutch \
 ferry \
 drain \
 subsidiary \
-twist
-
-----
-
+twist \
 consecutive \
 **lucrative** \
 breathe \
