@@ -1,3 +1,13 @@
+cling \
+coastal \
+formidable \
+vicious \
+dislike \
+dioxide \
+vow \
+rethink \
+gauge \
+artillery \
 textile \
 triumph \
 sweep \
@@ -37,17 +47,7 @@ premier \
 boarding \
 wreck \
 cruel \
-jurisdiction \
-amplify \
-evade \
-warrant \
-salmon \
-gown \
-humble \
-meagre \
-contingency \
-dismal \
-breadth
+jurisdiction
 
 
 
@@ -58,6 +58,16 @@ breadth
 
 
 
+amplify \
+evade \
+warrant \
+salmon \
+gown \
+humble \
+meagre \
+**contingency** \
+**dismal** \
+breadth \
 militia \
 ration \
 summon \
@@ -67,7 +77,7 @@ fragile \
 resilient \
 lease \
 lyric \
-**vigorous** \
+**vigor** \
 steer \
 divergence \
 **stigma** \
@@ -97,7 +107,10 @@ faction \
 linger \
 valuation \
 heal \
-din \
+din
+
+---
+
 flock \
 dispatch \
 diplomatic \
@@ -120,10 +133,7 @@ blast \
 instinct \
 skull \
 balcony \
-**ward**
-
-----
-
+**ward** \
 **prosperous** \
 incompetent \
 bacteria \
