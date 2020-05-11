@@ -1,3 +1,13 @@
+inflict \
+pneumonia \
+statutory \
+feat \
+feudal \
+labourer \
+stark \
+communism \
+devise \
+tenure \
 cling \
 coastal \
 formidable \
@@ -37,18 +47,7 @@ peasant \
 influx \
 prudent \
 chant \
-foul \
-condemn \
-susceptible \
-intrusive \
-contemplate \
-scarcity \
-premier \
-boarding \
-wreck \
-cruel \
-jurisdiction
-
+foul
 
 
 
@@ -58,6 +57,17 @@ jurisdiction
 
 
 
+
+condemn \
+**susceptible** \
+intrusive \
+contemplate \
+scarcity \
+premier \
+boarding \
+wreck \
+cruel \
+jurisdiction \
 amplify \
 evade \
 warrant \
@@ -97,7 +107,10 @@ supervise \
 interim \
 coincide \
 precarious \
-shelter \
+shelter
+
+----
+
 virtuous \
 naval \
 distort \
@@ -120,10 +133,7 @@ scarcely \
 misery \
 blunt \
 ceiling \
-pavement
-
-----
-
+pavement \
 **glamorous** \
 celebrity \
 shy \
