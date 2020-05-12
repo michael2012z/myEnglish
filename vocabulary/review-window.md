@@ -1,3 +1,13 @@
+forge \
+medication \
+consortium \
+exaggerated \
+abolish \
+leap \
+revenge \
+spill \
+disperse \
+obsession \
 inflict \
 pneumonia \
 statutory \
@@ -37,17 +47,8 @@ toxic \
 prejudice \
 artefact \
 nitrogen \
-disruptive \
-pillar \
-compulsory \
-affluent \
-colossal \
-sow \
-peasant \
-influx \
-prudent \
-chant \
-foul
+disruptive
+
 
 
 
@@ -57,7 +58,16 @@ foul
 
 
 
-
+pillar \
+compulsory \
+affluent \
+colossal \
+sow \
+peasant \
+influx \
+**prudent** \
+chant \
+foul \
 condemn \
 **susceptible** \
 intrusive \
@@ -97,7 +107,10 @@ disregard \
 sibling \
 commonplace \
 fracture \
-vacuum \
+vacuum
+
+----
+
 premature \
 ensue \
 freight \
@@ -106,7 +119,7 @@ flare \
 supervise \
 interim \
 coincide \
-precarious \
+**precarious** \
 shelter
 
 ----
@@ -120,10 +133,7 @@ faction \
 linger \
 valuation \
 heal \
-din
-
----
-
+din \
 flock \
 dispatch \
 diplomatic \
