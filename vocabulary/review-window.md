@@ -1,3 +1,13 @@
+complacent \
+counsel \
+contradiction \
+cynical \
+canal \
+marine \
+airborne \
+trickle \
+pole \
+recipient \
 forge \
 medication \
 consortium \
@@ -37,17 +47,7 @@ lesbian \
 coerce \
 incapable \
 rubber \
-mistake \
-communion \
-collision \
-bully \
-procurement \
-tender \
-toxic \
-prejudice \
-artefact \
-nitrogen \
-disruptive
+mistake
 
 
 
@@ -58,6 +58,16 @@ disruptive
 
 
 
+communion \
+collision \
+bully \
+procurement \
+tender \
+toxic \
+prejudice \
+artefact \
+nitrogen \
+disruptive \
 pillar \
 compulsory \
 affluent \
@@ -98,6 +108,9 @@ resilient \
 lease \
 lyric \
 **vigor** \
+
+----
+
 steer \
 divergence \
 **stigma** \
@@ -120,10 +133,7 @@ supervise \
 interim \
 coincide \
 **precarious** \
-shelter
-
-----
-
+shelter \
 virtuous \
 naval \
 distort \
