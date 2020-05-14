@@ -1,3 +1,13 @@
+congestion \
+cement \
+maize \
+rampant \
+siege \
+congenital \
+nude \
+municipal \
+confinement \
+warmth \
 complacent \
 counsel \
 contradiction \
@@ -37,18 +47,7 @@ dioxide \
 vow \
 rethink \
 gauge \
-artillery \
-textile \
-triumph \
-sweep \
-ruthless \
-torture \
-lesbian \
-coerce \
-incapable \
-rubber \
-mistake
-
+artillery
 
 
 
@@ -58,6 +57,17 @@ mistake
 
 
 
+
+textile \
+triumph \
+sweep \
+ruthless \
+torture \
+lesbian \
+coerce \
+incapable \
+rubber \
+mistake \
 communion \
 collision \
 bully \
@@ -97,7 +107,10 @@ humble \
 meagre \
 **contingency** \
 **dismal** \
-breadth \
+breadth
+
+----
+
 militia \
 ration \
 summon \
@@ -120,10 +133,7 @@ disregard \
 sibling \
 commonplace \
 fracture \
-vacuum
-
-----
-
+vacuum \
 premature \
 ensue \
 freight \
