@@ -1,3 +1,13 @@
+dissent \
+guerrilla \
+hesitate \
+proclaim \
+compelling \
+creed \
+ferocious \
+rat \
+theatrical \
+savage \
 corridor \
 precaution \
 cohort \
@@ -37,17 +47,7 @@ leap \
 revenge \
 spill \
 disperse \
-obsession \
-inflict \
-pneumonia \
-statutory \
-feat \
-feudal \
-labourer \
-stark \
-communism \
-devise \
-tenure
+obsession
 
 
 
@@ -58,6 +58,16 @@ tenure
 
 
 
+**inflict** \
+pneumonia \
+statutory \
+**feat** \
+feudal \
+labourer \
+stark \
+communism \
+devise \
+tenure \
 cling \
 coastal \
 formidable \
@@ -97,11 +107,14 @@ peasant \
 influx \
 **prudent** \
 chant \
-foul \
+foul
+
+----
+
 condemn \
 **susceptible** \
 intrusive \
-contemplate \
+**contemplate** \
 scarcity \
 premier \
 boarding \
@@ -120,10 +133,7 @@ humble \
 meagre \
 **contingency** \
 **dismal** \
-breadth
-
-----
-
+breadth \
 militia \
 ration \
 summon \
