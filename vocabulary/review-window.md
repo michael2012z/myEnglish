@@ -1,3 +1,13 @@
+corridor \
+precaution \
+cohort \
+secular \
+fin \
+repressive \
+ubiquitous \
+pit \
+conceal \
+indiscriminate \
 congestion \
 cement \
 maize \
@@ -37,17 +47,8 @@ labourer \
 stark \
 communism \
 devise \
-tenure \
-cling \
-coastal \
-formidable \
-vicious \
-dislike \
-dioxide \
-vow \
-rethink \
-gauge \
-artillery
+tenure
+
 
 
 
@@ -57,7 +58,16 @@ artillery
 
 
 
-
+cling \
+coastal \
+formidable \
+**vicious** \
+dislike \
+dioxide \
+vow \
+rethink \
+gauge \
+artillery \
 textile \
 triumph \
 sweep \
@@ -97,9 +107,12 @@ premier \
 boarding \
 wreck \
 cruel \
-jurisdiction \
+jurisdiction
+
+----
+
 amplify \
-evade \
+**evade** \
 warrant \
 salmon \
 gown \
@@ -121,9 +134,6 @@ resilient \
 lease \
 lyric \
 **vigor** \
-
-----
-
 steer \
 divergence \
 **stigma** \
