@@ -1,3 +1,13 @@
+ponder \
+constrain \
+ebb \
+lethal \
+stricken \
+villa \
+aerial \
+fame \
+colony \
+undermine \
 enlist \
 endorsement \
 tilt \
@@ -37,17 +47,7 @@ congenital \
 nude \
 municipal \
 confinement \
-warmth \
-complacent \
-counsel \
-contradiction \
-cynical \
-canal \
-marine \
-airborne \
-trickle \
-pole \
-recipient
+warmth
 
 
 
@@ -58,6 +58,16 @@ recipient
 
 
 
+**complacent** \
+counsel \
+contradiction \
+**cynical** \
+canal \
+marine \
+airborne \
+trickle \
+pole \
+recipient \
 forge \
 medication \
 consortium \
@@ -97,7 +107,10 @@ lesbian \
 coerce \
 incapable \
 rubber \
-mistake \
+mistake
+
+----
+
 communion \
 collision \
 bully \
@@ -120,10 +133,7 @@ peasant \
 influx \
 **prudent** \
 chant \
-foul
-
-----
-
+foul \
 condemn \
 **susceptible** \
 intrusive \
