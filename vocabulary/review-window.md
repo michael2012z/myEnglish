@@ -1,3 +1,13 @@
+pilgrimage \
+turf \
+limp \
+solace \
+discretion \
+orthodoxy \
+germ \
+distressed \
+akin \
+playwright \
 ponder \
 constrain \
 ebb \
@@ -37,17 +47,7 @@ repressive \
 ubiquitous \
 pit \
 conceal \
-indiscriminate \
-congestion \
-cement \
-maize \
-rampant \
-siege \
-congenital \
-nude \
-municipal \
-confinement \
-warmth
+indiscriminate
 
 
 
@@ -58,6 +58,16 @@ warmth
 
 
 
+congestion \
+cement \
+maize \
+rampant \
+siege \
+congenital \
+nude \
+municipal \
+confinement \
+warmth \
 **complacent** \
 counsel \
 contradiction \
@@ -97,7 +107,10 @@ dioxide \
 vow \
 rethink \
 gauge \
-artillery \
+artillery
+
+----
+
 textile \
 triumph \
 sweep \
@@ -107,7 +120,7 @@ lesbian \
 coerce \
 incapable \
 rubber \
-mistake
+mistake 
 
 ----
 
@@ -120,10 +133,7 @@ toxic \
 prejudice \
 artefact \
 nitrogen \
-disruptive
-
-----
-
+disruptive \
 pillar \
 compulsory \
 affluent \
