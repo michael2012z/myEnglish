@@ -47,17 +47,7 @@ creed \
 ferocious \
 rat \
 theatrical \
-savage \
-corridor \
-precaution \
-cohort \
-secular \
-fin \
-repressive \
-ubiquitous \
-pit \
-conceal \
-indiscriminate
+savage
 
 
 
@@ -68,6 +58,16 @@ indiscriminate
 
 
 
+corridor \
+precaution \
+cohort \
+secular \
+fin \
+repressive \
+ubiquitous \
+pit \
+conceal \
+indiscriminate \
 congestion \
 cement \
 maize \
@@ -107,7 +107,10 @@ labourer \
 stark \
 communism \
 devise \
-tenure \
+tenure
+
+----
+
 cling \
 coastal \
 formidable \
@@ -130,10 +133,7 @@ lesbian \
 coerce \
 incapable \
 rubber \
-mistake 
-
-----
-
+mistake \
 communion \
 collision \
 bully \
