@@ -1,3 +1,13 @@
+accent \
+clip \
+contend \
+poignant \
+prone \
+composite \
+bench \
+dice \
+rubbish \
+raft \
 pilgrimage \
 turf \
 limp \
