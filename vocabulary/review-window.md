@@ -1,3 +1,13 @@
+stroll \
+chord \
+inexperienced \
+contraceptive \
+contractual \
+diverge \
+marvel \
+precious \
+humanitarian \
+advocacy \
 accent \
 clip \
 contend \
@@ -37,17 +47,7 @@ antigen \
 costume \
 bleak \
 coma \
-mistake \
-dissent \
-guerrilla \
-hesitate \
-proclaim \
-compelling \
-creed \
-ferocious \
-rat \
-theatrical \
-savage
+mistake
 
 
 
@@ -58,6 +58,16 @@ savage
 
 
 
+**dissent** \
+guerrilla \
+hesitate \
+proclaim \
+compelling \
+creed \
+ferocious \
+rat \
+theatrical \
+savage \
 corridor \
 precaution \
 cohort \
@@ -97,7 +107,10 @@ leap \
 revenge \
 spill \
 disperse \
-obsession \
+obsession
+
+----
+
 **inflict** \
 pneumonia \
 statutory \
@@ -120,10 +133,7 @@ dioxide \
 vow \
 rethink \
 gauge \
-artillery
-
-----
-
+artillery \
 textile \
 triumph \
 sweep \
