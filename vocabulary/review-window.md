@@ -1,4 +1,14 @@
-45 taxation \
+replicate \
+depart \
+charismatic \
+tyrant \
+legislature \
+amateur \
+an outright victory \
+a bale of hay \
+graze \
+a fish pond \
+taxation \
 terrain \
 distrust \
 alleviate \
@@ -37,12 +47,22 @@ orthodoxy \
 germ \
 distressed \
 akin \
-playwright \
+playwright
+
+
+
+
+----
+
+
+
+
+
 ponder \
 constrain \
-ebb \
+**ebb** \
 lethal \
-stricken \
+**stricken** \
 villa \
 aerial \
 fame \
@@ -97,7 +117,10 @@ congenital \
 nude \
 municipal \
 confinement \
-warmth \
+warmth
+
+----
+
 **complacent** \
 counsel \
 contradiction \
@@ -120,10 +143,7 @@ leap \
 revenge \
 spill \
 **disperse** \
-obsession
-
-----
-
+obsession \
 **inflict** \
 pneumonia \
 statutory \
