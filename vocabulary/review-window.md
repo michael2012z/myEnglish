@@ -1,3 +1,13 @@
+45 taxation \
+terrain \
+distrust \
+alleviate \
+hysteria \
+refrain \
+absurd \
+orthodox \
+chromosome \
+longevity \
 stroll \
 chord \
 inexperienced \
@@ -37,17 +47,7 @@ villa \
 aerial \
 fame \
 colony \
-undermine \
-enlist \
-endorsement \
-tilt \
-irresistible \
-heir \
-antigen \
-costume \
-bleak \
-coma \
-mistake
+undermine
 
 
 
@@ -58,6 +58,16 @@ mistake
 
 
 
+enlist \
+endorsement \
+tilt \
+irresistible \
+heir \
+antigen \
+costume \
+bleak \
+coma \
+mistake \
 **dissent** \
 guerrilla \
 hesitate \
@@ -97,7 +107,10 @@ marine \
 airborne \
 trickle \
 pole \
-recipient \
+recipient
+
+----
+
 forge \
 medication \
 consortium \
@@ -106,7 +119,7 @@ abolish \
 leap \
 revenge \
 spill \
-disperse \
+**disperse** \
 obsession
 
 ----
@@ -120,10 +133,7 @@ labourer \
 stark \
 communism \
 devise \
-tenure
-
-----
-
+tenure \
 cling \
 coastal \
 formidable \
