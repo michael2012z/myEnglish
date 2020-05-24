@@ -1,3 +1,13 @@
+sediment \
+imperative \
+acre \
+herd \
+complacency \
+bunch \
+martyr \
+stride \
+plight \
+sink \
 replicate \
 depart \
 charismatic \
@@ -7,7 +17,7 @@ amateur \
 an outright victory \
 a bale of hay \
 graze \
-a fish pond \
+pond \
 taxation \
 terrain \
 distrust \
@@ -37,7 +47,17 @@ composite \
 bench \
 dice \
 rubbish \
-raft \
+raft
+
+
+
+
+----
+
+
+
+
+
 pilgrimage \
 turf \
 limp \
@@ -47,17 +67,7 @@ orthodoxy \
 germ \
 distressed \
 akin \
-playwright
-
-
-
-
-----
-
-
-
-
-
+playwright \
 ponder \
 constrain \
 **ebb** \
@@ -67,17 +77,7 @@ villa \
 aerial \
 fame \
 colony \
-undermine
-
-
-
-
-----
-
-
-
-
-
+undermine \
 enlist \
 endorsement \
 tilt \
@@ -107,7 +107,10 @@ repressive \
 ubiquitous \
 pit \
 conceal \
-indiscriminate \
+indiscriminate
+
+----
+
 congestion \
 cement \
 maize \
@@ -130,10 +133,7 @@ marine \
 airborne \
 trickle \
 pole \
-recipient
-
-----
-
+recipient \
 forge \
 medication \
 consortium \
