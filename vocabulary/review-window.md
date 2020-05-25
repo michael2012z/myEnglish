@@ -1,3 +1,13 @@
+mess \
+eccentric \
+detective \
+indefinite \
+illicit \
+disparity \
+vapour \
+dispense \
+attorney \
+cab \
 sediment \
 imperative \
 acre \
@@ -37,17 +47,7 @@ diverge \
 marvel \
 precious \
 humanitarian \
-advocacy \
-accent \
-clip \
-contend \
-poignant \
-prone \
-composite \
-bench \
-dice \
-rubbish \
-raft
+advocacy
 
 
 
@@ -58,6 +58,16 @@ raft
 
 
 
+accent \
+clip \
+contend \
+**poignant** \
+prone \
+composite \
+bench \
+dice \
+rubbish \
+raft \
 pilgrimage \
 turf \
 limp \
@@ -97,14 +107,17 @@ creed \
 ferocious \
 rat \
 theatrical \
-savage \
+savage
+
+----
+
 corridor \
 precaution \
 cohort \
-secular \
+**secular** \
 fin \
 repressive \
-ubiquitous \
+**ubiquitous** \
 pit \
 conceal \
 indiscriminate
@@ -120,10 +133,7 @@ congenital \
 nude \
 municipal \
 confinement \
-warmth
-
-----
-
+warmth \
 **complacent** \
 counsel \
 contradiction \
