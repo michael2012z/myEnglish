@@ -1,3 +1,13 @@
+colonialism \
+prose \
+tyranny \
+hallmark \
+lump \
+hitherto \
+purse \
+sue \
+acquaintance \
+incense \
 mess \
 eccentric \
 detective \
@@ -37,17 +47,7 @@ refrain \
 absurd \
 orthodox \
 chromosome \
-longevity \
-stroll \
-chord \
-inexperienced \
-contraceptive \
-contractual \
-diverge \
-marvel \
-precious \
-humanitarian \
-advocacy
+longevity
 
 
 
@@ -58,6 +58,16 @@ advocacy
 
 
 
+**stroll** \
+chord \
+inexperienced \
+contraceptive \
+contractual \
+diverge \
+marvel \
+precious \
+humanitarian \
+advocacy \
 accent \
 clip \
 contend \
@@ -97,7 +107,10 @@ antigen \
 costume \
 bleak \
 coma \
-mistake \
+mistake
+
+----
+
 **dissent** \
 guerrilla \
 hesitate \
@@ -120,10 +133,7 @@ repressive \
 **ubiquitous** \
 pit \
 conceal \
-indiscriminate
-
-----
-
+indiscriminate \
 congestion \
 cement \
 maize \
