@@ -1,3 +1,13 @@
+disappearance \
+prescription \
+tragedy \
+advent \
+constituency \
+reciprocity \
+provocation \
+verdict \
+jury \
+tout \
 colonialism \
 prose \
 tyranny \
@@ -37,17 +47,7 @@ amateur \
 an outright victory \
 a bale of hay \
 graze \
-pond \
-taxation \
-terrain \
-distrust \
-alleviate \
-hysteria \
-refrain \
-absurd \
-orthodox \
-chromosome \
-longevity
+pond
 
 
 
@@ -58,6 +58,16 @@ longevity
 
 
 
+taxation \
+terrain \
+distrust \
+alleviate \
+hysteria \
+refrain \
+absurd \
+orthodox \
+chromosome \
+longevity \
 **stroll** \
 chord \
 inexperienced \
@@ -97,7 +107,10 @@ villa \
 aerial \
 fame \
 colony \
-undermine \
+undermine
+
+----
+
 enlist \
 endorsement \
 tilt \
@@ -120,10 +133,7 @@ creed \
 ferocious \
 rat \
 theatrical \
-savage
-
-----
-
+savage \
 corridor \
 precaution \
 cohort \
