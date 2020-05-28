@@ -1,3 +1,13 @@
+frost \
+gospel \
+ditch \
+correlate \
+generosity \
+metric \
+surrender \
+consequential \
+trivial \
+depict \
 disappearance \
 prescription \
 tragedy \
@@ -37,17 +47,7 @@ bunch \
 martyr \
 stride \
 plight \
-sink \
-replicate \
-depart \
-charismatic \
-tyrant \
-legislature \
-amateur \
-an outright victory \
-a bale of hay \
-graze \
-pond
+sink
 
 
 
@@ -58,6 +58,16 @@ pond
 
 
 
+replicate \
+depart \
+charismatic \
+tyrant \
+legislature \
+amateur \
+an outright victory \
+a bale of hay \
+graze \
+pond \
 taxation \
 terrain \
 distrust \
@@ -97,7 +107,10 @@ orthodoxy \
 germ \
 distressed \
 akin \
-playwright \
+playwright
+
+----
+
 ponder \
 constrain \
 **ebb** \
@@ -120,10 +133,7 @@ antigen \
 costume \
 bleak \
 coma \
-mistake
-
-----
-
+mistake \
 **dissent** \
 guerrilla \
 hesitate \
