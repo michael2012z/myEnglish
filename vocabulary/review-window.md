@@ -1,3 +1,13 @@
+haunt \
+hinge \
+induce \
+deflect \
+damn \
+companion \
+heed \
+ordeal \
+raid \
+dim \
 frost \
 gospel \
 ditch \
@@ -37,17 +47,7 @@ disparity \
 vapour \
 dispense \
 attorney \
-cab \
-sediment \
-imperative \
-acre \
-herd \
-complacency \
-bunch \
-martyr \
-stride \
-plight \
-sink
+cab
 
 
 
@@ -58,6 +58,16 @@ sink
 
 
 
+**sediment** \
+imperative \
+acre \
+herd \
+complacency \
+bunch \
+martyr \
+stride \
+**plight** \
+sink \
 replicate \
 depart \
 charismatic \
@@ -97,8 +107,11 @@ composite \
 bench \
 dice \
 rubbish \
-raft \
-pilgrimage \
+raft
+
+----
+
+**pilgrimage** \
 turf \
 limp \
 solace \
@@ -120,10 +133,7 @@ villa \
 aerial \
 fame \
 colony \
-undermine
-
-----
-
+undermine \
 enlist \
 endorsement \
 tilt \
