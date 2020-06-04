@@ -1,137 +1,23 @@
 haunt \
-hinge \
-induce \
-deflect \
-damn \
-companion \
 heed \
 ordeal \
-raid \
-dim \
-frost \
-gospel \
-ditch \
-correlate \
-generosity \
-metric \
-surrender \
-consequential \
-trivial \
-depict \
-disappearance \
-prescription \
-tragedy \
-advent \
-constituency \
-reciprocity \
-provocation \
-verdict \
-jury \
-tout \
-colonialism \
-prose \
-tyranny \
-hallmark \
-lump \
-hitherto \
-purse \
-sue \
-acquaintance \
-incense \
-mess \
-eccentric \
-detective \
-indefinite \
-illicit \
-disparity \
-vapour \
-dispense \
 attorney \
-cab
-
-
-
-
-----
-
-
-
-
-
 **sediment** \
 imperative \
-acre \
-herd \
-complacency \
-bunch \
-martyr \
-stride \
 **plight** \
-sink \
-replicate \
-depart \
-charismatic \
-tyrant \
-legislature \
-amateur \
-an outright victory \
-a bale of hay \
-graze \
-pond \
-taxation \
-terrain \
-distrust \
-alleviate \
-hysteria \
 refrain \
-absurd \
-orthodox \
-chromosome \
-longevity \
 **stroll** \
 chord \
-inexperienced \
-contraceptive \
-contractual \
-diverge \
-marvel \
-precious \
-humanitarian \
-advocacy \
-accent \
-clip \
 contend \
 **poignant** \
-prone \
 composite \
-bench \
-dice \
-rubbish \
-raft
-
-----
-
-**pilgrimage** \
-turf \
-limp \
-solace \
-discretion \
-orthodoxy \
-germ \
-distressed \
-akin \
-playwright
-
-----
-
-
+pilgrimage \
 **ebb** \
 **stricken** \
 **dissent** \
 **secular** \
 fin \
 **ubiquitous** \
-rampant \
 congenital \
 **complacent** \
 **cynical** \
@@ -149,108 +35,53 @@ foul \
 condemn \
 **susceptible** \
 **contemplate** \
-boarding \
-wreck \
-cruel \
-jurisdiction \
-amplify \
 **evade** \
 warrant \
 salmon \
 gown \
-humble \
 meagre \
 **contingency** \
 **dismal** \
-breadth \
-militia \
-ration \
-summon \
-basin \
-fragile \
 **lavish** \
-resilient \
-lease \
-lyric \
 **vigor** \
 steer \
-divergence \
 **stigma** \
 metropolitan \
 derivative \
-disregard \
-sibling \
-commonplace \
-fracture \
-vacuum \
-premature \
 ensue \
 freight \
 indebted \
 flare \
-supervise \
 interim \
 coincide \
 **precarious** \
-shelter \
 virtuous \
-naval \
 distort \
 withstand \
 complication \
 faction \
-linger \
-valuation \
-heal \
 din \
-flock \
-dispatch \
-diplomatic \
 **deprive** \
-respondent \
-scarcely \
-misery \
-blunt \
-ceiling \
-pavement \
-**glamorous** \
-celebrity \
-shy \
 notch \
-nasty \
 blast \
 instinct \
-skull \
-balcony \
 **ward** \
 **prosperous** \
-incompetent \
 bacteria \
 shrine \
-taboo \
 clutch \
 ferry \
 drain \
-subsidiary \
-twist \
 consecutive \
 **lucrative** \
-breathe \
 prop \
 backdrop \
-inventory
-
-----
-
 **scant** \
 tuberculosis \
 comply \
 exile \
-enzyme \
 erect \
 avert \
-theft \
-diminish \
 ammunition \
 distract \
 **tempt** \
@@ -259,8 +90,6 @@ bout \
 sanitary \
 grind \
 **exempt** \
-illegitimate \
-aide \
 staple \
 detention \
 **cult** \
@@ -286,5 +115,3 @@ bust \
 loom \
 reckon \
 pledge \
-
-
