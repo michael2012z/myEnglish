@@ -1,4 +1,4 @@
-# 3 Stars
+# :star::star::star:
 
 ## opium
 
@@ -105,7 +105,8 @@
 
 ----
 
-# 2 Stars
+# :star::star:
+
 ## addict
 - a person who is unable to stop taking harmful drugs 吸毒成瘾的人；瘾君子 
 - a heroin/drug/nicotine addict 吸食海洛因╱毒品╱尼古丁成瘾的人
