@@ -104,4 +104,33 @@
 ----
 
 # BEST EFFORT
-- addict, syringe, accustom, taunt, coax, churn, narcotic, rap, scourge, outlaw, harass, chick, portent, campaigner, cannabis, overdose
+## addict
+- a person who is unable to stop taking harmful drugs 吸毒成瘾的人；瘾君子 
+- a heroin/drug/nicotine addict 吸食海洛因╱毒品╱尼古丁成瘾的人
+
+## syringe
+- 注射器
+## accustom
+- It took him a while to accustom himself to the idea. 他过了一段时间才习惯这个想法。
+- Soon she grew accustomed to policemen and their friends taunting her, or assaulting her. 
+
+## taunt
+- 辱骂；嘲笑；讽刺；奚落。嘲笑（或讽刺、奚落等）的言辞。
+- The other kids continually taunted him about his size. 其他孩子不断地耻笑他的个头儿。
+- Black players often had to endure racist taunts. 黑人运动员经常得忍受种族歧视性的奚落。
+
+## coax
+- 哄劝；劝诱 
+- She coaxed the horse into coming a little closer. 她哄着那匹马让它再靠近了一点。
+- He was coaxed out of retirement to help the failing company. 他退休之后又被力劝出山帮助濒临破产的公司。
+
+## churn
+- 剧烈搅动；猛烈翻腾 
+- The water churned beneath the huge ship. 水在巨轮下面剧烈翻滚。
+- Vast crowds had churned the field into a sea of mud. 大批大批的人把场地踩得一片泥泞。
+- My stomach churned as the names were read out. 名单一宣布，我就觉得胃里翻腾得难受。
+- Conflicting emotions churned inside him. 相互矛盾的情绪使他感到心烦意乱。
+
+## narcotic
+
+, rap, scourge, outlaw, harass, chick, portent, campaigner, cannabis, overdose
