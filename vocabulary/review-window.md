@@ -101,3 +101,7 @@
 - ~ sb to force people to move away from their home to another place 迫使（某人）离开家园 
 - Around 10 000 people have been displaced by the fighting. 大约 1 万人因战争而背井离乡。
 
+----
+
+# BEST EFFORT
+- addict, syringe, accustom, taunt, coax, churn, narcotic, rap, scourge, outlaw, harass, chick, portent, campaigner, cannabis, overdose
