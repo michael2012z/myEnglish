@@ -187,3 +187,23 @@
 - He had overdosed on heroin. 他过量服用了海洛因。
 - I had overdosed on sun. 我晒太阳的时间过长了。
 
+colonel
+astonishment
+comprehend
+gratitude
+rejoice
+ignorant
+indifference
+indifferent
+amusement
+respectable
+disgrace
+lane
+comply
+utmost
+relieve
+amazement
+secrecy
+goodness
+fatigue
+
