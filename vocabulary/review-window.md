@@ -103,6 +103,60 @@
 - ~ sb to force people to move away from their home to another place 迫使（某人）离开家园 
 - Around 10 000 people have been displaced by the fighting. 大约 1 万人因战争而背井离乡。
 
+## colonel
+## astonishment
+## comprehend
+## gratitude
+- the feeling of being grateful and wanting to express your thanks 感激之情；感谢 
+- He smiled at them with gratitude. 他向他们笑了笑表示谢意。
+- I would like to express my gratitude to everyone for their hard work. 我要对所有辛勤劳动的人表示感谢。
+## rejoice
+## ignorant
+- 不了解的；无知的；愚昧的；无学识的 
+- an ignorant person/question 无知的人╱提问
+- Never make your students feel ignorant. 千万别让你的学生感到无知。
+- He's ignorant about modern technology. 他对现代科技一无所知。
+## indifferent, indifference
+- 漠不关心；不感兴趣 
+- The government cannot afford to be indifferent to public opinion. 政府不可不关注舆论。
+- He shrugged indifferently. 他满不在乎地耸了耸肩。
+## amuse, amusement
+- My funny drawings amused the kids. 我的滑稽图画把孩子们逗乐了。
+- This will amuse you. 这个会逗你笑的。
+## respectable
+## disgrace
+- 丢脸；耻辱；不光彩 
+- Her behaviour has brought disgrace on her family. 她的行为使家人蒙羞。
+- The swimmer was sent home from the Olympics in disgrace. 这位游泳运动员很不光彩地从奥运会上被遣送回国。
+- There is no disgrace in being poor. 贫穷不是耻辱。
+- Sam was in disgrace with his parents. 萨姆已失宠于他的父母。
+## lane
+## comply
+- 遵从；服从；顺从 
+- They refused to comply with the UN resolution. 他们拒绝遵守联合国的决议。
+## utmost
+- 最大的；极度的 
+- This is a matter of the utmost importance. 这是个极其重要的问题。
+- You should study this document with the utmost care. 你对这份文件的研究应该慎之又慎。
+- Our resources are strained to the utmost. 我们的资源极端紧缺。
+- He did his utmost  (= tried as hard as possible) to persuade me not to go. 他使尽浑身解数劝我别去。
+## relieve
+- 解除，减轻，缓和（不快或痛苦） 
+- to relieve the symptoms of a cold 减轻感冒的症状
+- to relieve anxiety/guilt/stress 消除焦虑╱内疚；缓解压力
+## amazement
+## secrecy
+- 保密；秘密 
+- the need for absolute secrecy in this matter 在这件事情上绝对保密的必要性
+- Everyone involved was sworn to secrecy. 所有相关人员均被要求宣誓保密。
+## goodness
+- 善良；优良；美德 
+- the essential goodness of human nature 人性善良的本质
+- evidence of God's goodness 上帝仁慈的明证
+## fatigue
+- 疲劳；劳累 
+- physical and mental fatigue 身体和精神的疲劳
+
 ----
 
 # :star::star:
@@ -187,23 +241,4 @@
 - He had overdosed on heroin. 他过量服用了海洛因。
 - I had overdosed on sun. 我晒太阳的时间过长了。
 
-colonel
-astonishment
-comprehend
-gratitude
-rejoice
-ignorant
-indifference
-indifferent
-amusement
-respectable
-disgrace
-lane
-comply
-utmost
-relieve
-amazement
-secrecy
-goodness
-fatigue
 
