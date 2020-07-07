@@ -157,6 +157,102 @@
 - 疲劳；劳累 
 - physical and mental fatigue 身体和精神的疲劳
 
+## avail
+- 效果, 用处, 得到
+- The doctors tried everything to keep him alive but to no avail. 医生千方百计想使他活下来，但无济于事。
+- Your ability to argue is of little avail if the facts are wrong. 如果论据是错的，你的辩才也就没有什么用了。
+- To avail all these benefits, just register online. 要想得到所有这些好处，就在线注册吧。
+
+## generality
+- 概述；概论；通则; 一般性; 大多数
+- to speak in broad generalities 泛泛地说
+- As usual, he confined his comments to generalities. 他和往常一样，只作了笼统的评论。
+- This view is held by the generality of leading scholars. 大多数知名学者都持这种观点。
+- An account of such generality is of little value. 这种一般性描述没有什么价值。
+
+## miracle, miraculous
+- miraculous powers of healing 神奇的治病能力
+- She's made a miraculous recovery. 她奇迹般地康复了。
+
+## testimony
+- 证据；证明 
+- This increase in exports bears testimony to the successes of industry. 出口增长证明了工业的成功。
+- The pyramids are an eloquent testimony to the ancient Egyptians' engineering skills. 金字塔是古埃及人非凡工程技术的明鉴。
+- testimonial 证明信；介绍信；推荐信; 奖品；奖状
+- a glowing testimonial 充满赞誉的推荐信
+- The catalogue is full of testimonials from satisfied customers. 这份商品目录满篇皆是称心顾客的赞辞。
+
+## meditate, meditation
+- 考虑；谋划
+- They were meditating revenge. 他们在谋划进行报复。
+- She found peace through yoga and meditation. 她通过瑜伽和冥想找到了宁静。
+- He was deep in meditation and didn't see me come in. 他正在沉思，没有看见我进来。
+
+## moderate, moderation
+- 适度的；中等的 
+- students of moderate ability 能力一般的学生
+- Even moderate amounts of the drug can be fatal. 这种药的用量即使不很大也会致命。
+- The team enjoyed only moderate success last season. 上个赛季，这个队伍只取得了中等成绩。
+- There was a call for moderation on the part of the trade unions. 有人呼吁工会保持克制。
+- Alcohol should only ever be taken in moderation  (= in small quantities). 酒只可少量饮用。
+
+## unfit
+- 不合格的；不适合的；不适宜的 
+- The housing was unfit for human habitation. 这种住房不适合居住。
+- The food on offer was unfit for human consumption. 那些特价食品不适宜让人食用。
+
+## remedy
+- There is no simple remedy for unemployment. 失业问题没有简单的解决办法。
+
+## augment
+- enlarge
+
+## prey
+- 猎物; 受害者；受骗者 
+The lion will often stalk its prey for hours. 狮子经常悄然跟踪猎物达几个小时。
+- Elderly people are easy prey for dishonest salesmen. 老年人容易上狡诈推销员的当。
+
+diffuse
+distract
+fashionable
+beforehand
+chimney
+defense
+degenerate
+ham
+murmur
+custody
+watchful
+neat
+vigour
+maiden
+arch
+gaze
+trait
+impress
+unqualified
+instability
+casual
+therein
+chin
+salad
+elevation
+disclosure
+restless
+earthly
+unavoidable
+uniformity
+emptiness
+distraction
+involuntary
+slit
+multitude
+wilderness
+revolve
+frankly
+gossip
+burnt
+
 ----
 
 # :star::star:
