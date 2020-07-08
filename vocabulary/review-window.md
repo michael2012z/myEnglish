@@ -209,29 +209,94 @@
 
 ## prey
 - 猎物; 受害者；受骗者 
-The lion will often stalk its prey for hours. 狮子经常悄然跟踪猎物达几个小时。
+- The lion will often stalk its prey for hours. 狮子经常悄然跟踪猎物达几个小时。
 - Elderly people are easy prey for dishonest salesmen. 老年人容易上狡诈推销员的当。
 
-diffuse
-distract
-fashionable
-beforehand
-chimney
-defense
-degenerate
-ham
-murmur
-custody
-watchful
-neat
-vigour
-maiden
-arch
-gaze
-trait
-impress
-unqualified
-instability
+## diffuse
+- 弥漫的；扩散的；漫射的 
+- diffuse light 漫射光
+- a diffuse community 居住分散的社群
+- 传播；普及；使分散；散布 
+- The problem is how to diffuse power without creating anarchy. 问题在于如何将权力分散而不造成无政府状态。
+- Technologies diffuse rapidly. 技术普及非常快。
+
+## distract
+- You're distracting me from my work. 你使我不能专心工作。
+- Don't talk to her — she's very easily distracted. 不要同她讲话 — 她的注意力很容易分散。
+
+## fashionable
+- fashionable clothes/furniture/ideas 时髦的服装╱家具╱思想
+- It's becoming fashionable to have long hair again. 现在又开始流行蓄长发了。
+- Such thinking is fashionable among right-wing politicians. 在政界右翼人士中这种想法很流行。
+
+## beforehand
+- 预先；事先 
+- two weeks/three days/a few hours beforehand 提前两星期╱三天╱几小时
+- I wish we'd known about it beforehand. 要是我们预先知道这事就好了。
+
+## chimney
+
+## defense
+- defence
+
+## degenerate
+- 恶化；蜕变；衰退 
+- Her health degenerated quickly. 她的健康状况迅速恶化。
+- The march degenerated into a riot. 示威游行变成了暴动。
+- 堕落的；颓废的 
+- a degenerate popular culture 颓废的大众文化
+
+## ham
+- 火腿
+
+## murmur
+- She murmured her agreement. 她低声表示同意。
+- He murmured something in his sleep. 他在睡梦里嘟囔了些什么。
+- She was murmuring in his ear. 她在他耳边悄声说话。
+
+## custody
+- 监护权；保管权；监护；保管 
+- Who will have custody of the children? 谁来负责监护这些孩子？
+- The divorce court awarded custody to the child's mother. 离婚法庭把监护权判给了孩子的母亲。
+- The parents were locked in a bitter battle for custody. 双亲陷入了一场对孩子监护权的激烈争夺之中。
+
+## watchful
+- 注意的；警惕的；提防的 
+- Her expression was watchful and alert. 她露出一副察言观色、处处提防的表情。
+- His mother kept a watchful eye on him. 他的母亲特别留心他。
+- The children played under the watchful eye of their teacher. 孩子们在老师的看护下玩耍。
+
+## neat
+
+## vigour, vigorous
+- 精力；力量；活力；热情 
+- He worked with renewed vigour and determination. 他将重燃起来的活力和热情投入到工作中。
+
+## maiden
+- 少女；处女；未婚女子 
+- stories of knights and fair maidens 关于骑士和美女的故事
+
+## arch
+- 拱
+- Go through the arch and follow the path. 穿过拱门沿小径往前走。
+
+## gaze
+- She gazed at him in amazement. 她惊异地注视着他。
+- He sat for hours just gazing into space. 他一连几个小时坐在那里茫然地看着前面。
+
+## trait
+- （人的个性的）特征，特性，特点 
+- personality traits 个性特点
+
+## impress
+- The Grand Canyon never fails to impress. 大峡谷永远让人叹为观止。
+
+## unqualified
+- 不合格的；没资格的 
+- an unqualified instructor 不合格的教员
+
+## stability, instability
+
 casual
 therein
 chin
