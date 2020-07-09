@@ -297,26 +297,73 @@
 
 ## stability, instability
 
-casual
-therein
-chin
-salad
-elevation
-disclosure
-restless
-earthly
-unavoidable
-uniformity
-emptiness
-distraction
-involuntary
-slit
-multitude
-wilderness
-revolve
-frankly
-gossip
-burnt
+## casual
+- 不经意的；无忧无虑的；漫不经心的；不在乎的 
+- a casual manner 漫不经心的样子
+- It was just a casual remark — I wasn't really serious. 我只是随便说说，并不当真。
+- He tried to sound casual, but I knew he was worried. 他讲话时试图显得不在乎，但我知道他心里着急。
+- They have a casual attitude towards safety (= they don't care enough). 他们对安全问题采取无所谓的态度。
+
+## therein
+- The insurance policy covers the building and any fixtures contained therein. 保险单为这座大楼及其中所有的设施保了险
+- He works extremely hard and therein lies the key to his success. 他工作极其努力，这就是他成功的关键。
+
+## chin
+- 振作起来；不气馁；不灰心 
+- Chin up! Only two exams left. 别泄气！只剩下两门考试了。
+
+## salad
+## elevation
+
+## disclose, disclosure
+- The spokesman refused to disclose details of the takeover to the press. 发言人拒绝向新闻界透露公司收购的详细情况。
+
+## restless
+
+## earthly
+- 可能的 
+- There's no earthly reason why you shouldn't go. 你完全没有理由不去。
+- What earthly difference is my opinion going to make? 我的意见会有什么作用呢？
+- He didn't have an earthly chance of getting the job. 他根本就不可能得到这份工作。
+
+## unavoidable
+## uniformity
+## emptiness
+## distract, distraction
+
+## involuntary
+- 无意识的；不自觉的 
+- an involuntary cry of pain 不由自主的痛苦的喊叫
+
+## slit
+- 狭长的切口；长而窄的口子；狭缝；裂缝; 切开；划破
+- - a long skirt with a slit up the side 侧开衩的长裙
+- His eyes narrowed into slits. 他的眼睛眯成两道缝。
+- Slit the roll with a sharp knife. 用快刀把面包切开。
+- He slit open the envelope and took out the letter. 他拆开信封，抽出信来。
+
+## multitude
+- 众多；大量 
+- a multitude of possibilities 众多的可能性
+- a multitude of birds 一大群鸟
+
+## wilderness
+- 未开发的地区；荒无人烟的地区；荒野 
+- The Antarctic is the world's last great wilderness. 南极洲是世界上最后一个大荒原。
+
+## revolve
+- 旋转；环绕；转动 
+- The fan revolved slowly. 电扇缓慢地转动着。
+- The earth revolves on its axis. 地球环绕自身的轴心转动。
+
+## frankly
+
+## gossip
+- 流言蜚语；闲言碎语 
+- Don't believe all the gossip you hear. 别对那些道听途说都信以为真。
+- Tell me all the latest gossip! 把最新的小道消息都讲给我听听吧！
+
+# burnt
 
 ----
 
