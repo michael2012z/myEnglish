@@ -365,7 +365,67 @@
 
 # burnt
 
+## prevail
+## dispose
+## bestow
+## earnest
+## dread
+## noble
+## delicacy
+## attentive
+## haste
+## indulge
+## gracious
+## alteration
+## hasten
+## complexion
+## unreasonable
+## advisable
+## ridicule
+## deficient
+## novelty
+## sermon
+## sunk
+## reconcile
+## unjust
+## inconvenient
+## unite
+## signify
+## coincide
+## draught
+## affinity
+## stout
+## plea
+## reckon
+## eloquent
+## scarlet
+## apt
+## tedious
+## bass
+## monotonous
+## recreation
+## unheard
+## manoeuvre
+## rang
+## disturbance
+## revival
+## afresh
+## equivocal
+## wit
+## witty
+## deficient
+## displeasure
+
+
 ----
+
+
+
+
+
+
+
+
 
 # :star::star:
 
