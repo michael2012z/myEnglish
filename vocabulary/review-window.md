@@ -366,9 +366,27 @@
 # burnt
 
 ## prevail
+- 普遍存在；盛行；流行 
+- We were horrified at the conditions prevailing in local prisons. 地方监狱的普遍状况让我们震惊。
+- Those beliefs still prevail among certain social groups. 那些观念在某些社会群体中仍很盛行。
+- 战胜；压倒 
+- Justice will prevail over tyranny. 正义必将战胜暴虐。
+- Fortunately, common sense prevailed. 幸而理智占了上风。
+
 ## dispose
+-  去掉；清除；销毁 
+- the difficulties of disposing of nuclear waste 处理核废料的困难
+- to dispose of stolen property 销赃
+
 ## bestow
+- 给予；授予；献给 
+- It was a title bestowed upon him by the king. 那是国王赐给他的头衔。
+
 ## earnest
+- 非常认真的；诚实的；真诚的 
+- an earnest young man 非常认真的年轻人
+- Despite her earnest efforts, she could not find a job. 尽管她已尽心竭力，但是仍然找不到工作。
+
 ## dread
 ## noble
 ## delicacy
