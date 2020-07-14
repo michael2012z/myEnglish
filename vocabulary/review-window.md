@@ -388,14 +388,54 @@
 - Despite her earnest efforts, she could not find a job. 尽管她已尽心竭力，但是仍然找不到工作。
 
 ## dread
+- 非常害怕；极为担心 
+- This was the moment he had been dreading. 这是他一直最担心的时刻。
+- I dread being sick. 我特别害怕生病。
+- She dreads her husband finding out. 她生怕丈夫察觉出来。
+- 恐惧；令人惧怕的事物 
+- The prospect of growing old fills me with dread. 想到人会一天天老下去便使我充满恐惧。
+- She has an irrational dread of hospitals. 她莫名其妙地害怕医院。
+
 ## noble
+- 崇高的；品质高尚的 
+- a noble leader 伟大的领袖
+- noble ideals 崇高的理想
+- He died for a noble cause. 他为了高尚的事业而牺牲。
+
 ## delicacy
+- She handled the situation with great sensitivity and delicacy. 她慎重而周到地处理了这个情况
+- the delicacy of the fabric 织物的柔软性
+- the delicacy of his touch 他那温柔的抚摸
+
 ## attentive
-## haste
+- an attentive audience 聚精会神的听众
+- The hotel staff are friendly and attentive. 旅馆人员友好而且照顾周到。
+- Ministers should be more attentive to the needs of families. 部长们应该更关怀家庭的需要。
+
+## haste, hasten
+- 急速；匆忙；仓促 
+- In her haste to complete the work on time, she made a number of mistakes. 她急急忙忙想按时完工，结果出了不少错。
+- The letter had clearly been written in haste. 这封信明显是在匆忙中写的。
+- She saw his frown and hastened to explain. 看到他皱起眉头，她赶紧解释。
+- The treatment she received may, in fact, have hastened her death. 实际上，她所接受的治疗可能加快了她的死亡。
+- News of the scandal certainly hastened his departure from office. 这一丑闻肯定加速了他的离任。
+
 ## indulge
-## gracious
+- 沉湎，沉迷，沉溺（于 … ） 
+- They went into town to indulge in some serious shopping. 他们进城去大肆购物。
+- I indulged myself with a long hot bath. 我尽情享受了一次长时间的热水浴。
+- The inheritance enabled him to indulge his passion for art. 这笔遗产使他能够尽情投入他热爱的艺术。
+- She did not believe in indulging the children with presents. 她认为不能惯着孩子们要什么就给什么。
+- Her father had always indulged her every whim. 她的父亲总是让她放任自流。
+
+## grace, gracious
+
 ## alteration
-## hasten
+- major/minor alterations 大╱小改变
+- They are making some alterations to the house. 他们正在对这栋房子做一些改动。
+- an alteration in the baby's heartbeat 这婴儿心搏的变化
+- The dress will not need much alteration. 这件衣服不需大改。
+
 ## complexion
 ## unreasonable
 ## advisable
