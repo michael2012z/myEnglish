@@ -437,15 +437,51 @@
 - The dress will not need much alteration. 这件衣服不需大改。
 
 ## complexion
+- 面色；肤色；气色 
+- a pale/bad complexion 苍白的╱病态的脸色
+- （事物的）性质，特性 
+- a move which changed the political complexion of the country 改变国家政局的举措
+
 ## unreasonable
 ## advisable
+- 明智；可取 
+- Early booking is advisable. 预订宜早。
+- It is advisable to book early. 预订宜早。
+
 ## ridicule
+- v,n 嘲笑；奚落；讥笑 
+- She is an object of ridicule in the tabloid newspapers. 她是小报讥笑讽刺的对象。
+- to hold sb up to ridicule  (= make fun of sb publicly) 公然取笑某人
+
 ## deficient
+- 缺乏的；缺少的；不足的 
+- a diet that is deficient in vitamin A 缺乏维生素 A 的饮食
+- Deaf people are sometimes treated as being mentally deficient. 耳聋的人有时被看作智力不健全。
+
 ## novelty
+- 新奇；新颖；新鲜 ; 新奇的；风格独特的 
+- It was fun working there at first but the novelty soon wore off  (= it became boring). 开始的时候在那里工作很有趣，但这股新鲜劲很快就过去了。
+- Electric cars are still something of a novelty. 电动汽车仍然是一种新鲜玩意儿。
+- a novelty teapot 新颖独特的茶壶
+
 ## sermon
-## sunk
+- n. 布道；讲道
+- Paul recalled the first time he ever told a joke during a sermon.
+
+## sink, sunk
+- 下沉；下陷；沉没
+
 ## reconcile
+- 使和谐一致；调和；使配合 
+- an attempt to reconcile the need for industrial development with concern for the environment 协调工业发展的需要和环境保护之间关系的努力
+- It was hard to reconcile his career ambitions with the needs of his children. 他很难兼顾事业上的抱负和孩子们的需要。
+- 使和解；使和好如初 
+- The pair were reconciled after Jackson made a public apology. 杰克逊公开道歉之后，这两个人又言归于好了。
+- He has recently been reconciled with his wife. 他最近已经和妻子和好了。
+
 ## unjust
+- an unjust law 不公正的法律
+
 ## inconvenient
 ## unite
 ## signify
