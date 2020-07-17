@@ -485,21 +485,85 @@
 ## inconvenient
 ## unite
 ## signify
+- 表示；说明；预示 
+- This decision signified a radical change in their policies. 这个决定表明了他们的政策发生了根本的变化。
+- This mark signifies that the products conform to an approved standard. 这个标志说明这些产品符合指定的标准。
+- The white belt signifies that he's an absolute beginner. 白腰带表示他完全是个新手。
+
 ## coincide
+- 相接；相交；同位；位置重合；重叠 ; 同时发生
+- At this point the two paths coincide briefly. 两条小路在这个地方有一小段交接了。
+- The present position of the house coincides with that of an earlier dwelling. 这栋房子现在的位置恰与原住宅的位置一致。
+- It's a pity our trips to New York don't coincide. 真遗憾我们不能同一时间去纽约。
+
 ## draught
+- 穿堂风；通风气流；通风 
+- There's a draught in here. 这儿有一股冷风。
+- A cold draught of air blew in from the open window. 一股寒气从敞开的窗户吹了进来。
+- 一饮（的量） 
+- He took a deep draught of his beer. 他喝了一大口啤酒。
+- a sleeping draught (= one that makes you sleep) 一服安眠饮剂
+
+## draught·board 
+- 国际跳棋棋盘；（台）西洋跳棋棋盘
+
 ## affinity
+- 密切的关系；类同 
+- There is a close affinity between Italian and Spanish. 意大利语和西班牙语关系密切。
+- 喜好；喜爱 
+- Sam was born in the country and had a deep affinity with nature. 萨姆在乡下出生，特别喜爱大自然。
+
 ## stout
+- 粗壮结实的；厚实牢固的 ; 肥胖的；肥壮的
+- a stout pair of shoes 一双厚实耐穿的鞋
+- 顽强的；坚毅的；不屈不挠的 
+- He put up a stout defence in court. 他在法庭上进行了顽强的辩护。
+
 ## plea
 ## reckon
+
 ## eloquent
+- an eloquent speech/speaker 雄辩的演讲╱演讲人
+- His eyes were eloquent. 他的眼睛很传神。
+- She spoke eloquently on the subject. 她讲起这个题目来滔滔不绝。
+- the eloquence of his smile 他意味深长的微笑
+
 ## scarlet
+- scarlet berries 鲜红的浆果
+- She went scarlet with embarrassment. 她窘得满脸通红。
+
 ## apt
+- 易于 … ；有 … 倾向 
+- apt to be forgetful/careless 健忘；常常粗心大意
+- Babies are apt to put objects into their mouths. 婴儿爱把东西往嘴里塞。
+- the aptly named Grand Hotel 名副其实的大饭店
+
 ## tedious
+- 冗长的；罗嗦的；单调乏味的；令人厌烦的 
+- The journey soon became tedious. 那次旅行不久就变得乏味起来。
+- We had to listen to the tedious details of his operation. 我们不得不听他唠叨他那次行动繁琐的细节。
+
 ## bass
+- （音乐、乐器、声乐等的）低音，低音部 
+- He always plays his stereo with the bass turned right up. 他放立体声音响时总把低音调得很大。
+- He sings bass. 他唱低音。
+- a pounding bass line 深沉有力的歌声
+
 ## monotonous
+- 单调乏味的 
+- a monotonous voice/diet/routine 单调乏味的声音╱饮食╱日常事务
+- monotonous work 单调乏味的工作
+
 ## recreation
 ## unheard
+
 ## manoeuvre
+- 细致巧妙的移动；机动动作 
+- a complicated/skilful manoeuvre 复杂的╱熟练的移动
+- You will be asked to perform some standard manoeuvres during your driving test. 驾驶考试中会要求你做几个标准的机动动作。
+- diplomatic manoeuvres 外交策略
+- a complex manoeuvre in a game of chess 国际象棋中复杂的应对套路
+
 ## rang
 ## disturbance
 ## revival
