@@ -566,14 +566,40 @@
 
 ## rang
 ## disturbance
-## revival
-## afresh
-## equivocal
-## wit
-## witty
-## deficient
-## displeasure
+## revive, revival
+- The flowers soon revived in water. 这些花见了水很快就活过来了。
+- The economy is beginning to revive. 经济开始复苏。
+- The paramedics couldn't revive her. 护理人员无法使她苏醒。
+- This movie is intended to revive her flagging career. 这部电影意在使她渐趋衰败的事业再现辉煌。
+- the revival of trade 贸易振兴
+- an economic revival 经济复苏
 
+## afresh
+- 从头；重新；另行 
+- It was a chance to start afresh. 这是个重新开始的机会。
+
+## equivocal
+- She gave an equivocal answer, typical of a politician. 她的回答模棱两可，是典型的政客做法。
+
+## wit, witty
+- 措辞巧妙的能力；风趣；才思 
+- to have a quick/sharp/dry/ready wit 才思敏捷；敏锐机智；假装正经的诙谐；头脑机敏
+- a woman of wit and intelligence 才思敏捷、聪颖的女子
+- a book full of the wit and wisdom of his 30 years in politics 一本有关他 30 年政治生涯中才思与智慧的书
+- 才思敏捷说话诙谐的人；机智幽默的人 
+- a well-known wit and raconteur 一位闻名遐迩、妙语连珠的故事大王
+- a witty speaker 幽默的演讲人
+- a witty remark 机智的话
+
+## deficient
+- 缺乏的；缺少的；不足的 
+- a diet that is deficient in vitamin A 缺乏维生素 A 的饮食
+- Deaf people are sometimes treated as being mentally deficient. 耳聋的人有时被看作智力不健全。
+- inefficient  效率低的
+
+## displeasure
+- 烦恼；生气；不悦 
+- She made no attempt to hide her displeasure at the prospect. 她没有掩饰自己对前景并不乐观。
 
 ----
 
