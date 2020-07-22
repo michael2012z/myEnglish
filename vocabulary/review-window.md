@@ -110,7 +110,13 @@
 - the feeling of being grateful and wanting to express your thanks 感激之情；感谢 
 - He smiled at them with gratitude. 他向他们笑了笑表示谢意。
 - I would like to express my gratitude to everyone for their hard work. 我要对所有辛勤劳动的人表示感谢。
+
 ## rejoice
+- 非常高兴；深感欣喜 
+- When the war ended, people finally had cause to rejoice. 战争结束，人们终于可以欢欣鼓舞了。
+- The motor industry is rejoicing at the cut in car tax. 汽车工业对汽车减税感到非常高兴。
+- They rejoiced to see their son well again. 他们看到儿子恢复了健康，无比高兴。
+
 ## ignorant
 - 不了解的；无知的；愚昧的；无学识的 
 - an ignorant person/question 无知的人╱提问
