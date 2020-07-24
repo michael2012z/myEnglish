@@ -369,7 +369,7 @@
 - Don't believe all the gossip you hear. 别对那些道听途说都信以为真。
 - Tell me all the latest gossip! 把最新的小道消息都讲给我听听吧！
 
-# burnt
+## burnt
 
 ## prevail
 - 普遍存在；盛行；流行 
