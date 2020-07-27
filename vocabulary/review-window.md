@@ -408,7 +408,10 @@
 - noble ideals 崇高的理想
 - He died for a noble cause. 他为了高尚的事业而牺牲。
 
-## delicacy
+## delicate, delicacy
+- delicate china teacups 易碎的瓷茶杯
+- The eye is one of the most delicate organs of the body. 眼睛是人体最娇贵的器官之一。
+- the delicate ecological balance of the rainforest 热带雨林极易被破坏的生态平衡
 - She handled the situation with great sensitivity and delicacy. 她慎重而周到地处理了这个情况
 - the delicacy of the fabric 织物的柔软性
 - the delicacy of his touch 他那温柔的抚摸
