@@ -15,6 +15,7 @@ def search_in_file(word_to_search, txt_path):
     lines = all_text.split(".")
 
     for line in lines:
+        line = line.lstrip() + "."
         words = line.split()
         for word in words:
             if nltk.pos_tag([word])[0][1][0] == 'V':
@@ -44,6 +45,6 @@ if __name__ == '__main__':
                 if f.split(".")[-1] == "txt":
                     found_lines = search_in_file(word_to_search, root + "/" + f)
                     if len(found_lines) > 0:
-                        print("{}:".format(f))
+                        print("{}/{}:".format(root, f))
                         for line in found_lines:
-                            print(line)
+                            print(" - {}".format(line))
