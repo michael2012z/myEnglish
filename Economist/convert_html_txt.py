@@ -27,14 +27,15 @@ if __name__ == '__main__':
     for root, dirs, files in os.walk("./pages"):
     # for root, dirs, files in os.walk("./test_pages"):
         for f in files:
-            if root != current_folder:
-                issues += 1
-                current_folder = root
-                print("handling folder {}".format(current_folder))
-            html_path = os.path.join(root, f)
-            text = get_html_text(html_path)
-            text = text.split('■')[0]
-            txt_path = html_path[:-4] + "txt"
-            with open(txt_path, "w") as txt_file:
-                txt_file.write(text)
+            if f.split(".")[-1] == "html":
+                if root != current_folder:
+                    issues += 1
+                    current_folder = root
+                    print("handling folder {}".format(current_folder))
+                html_path = os.path.join(root, f)
+                text = get_html_text(html_path)
+                text = text.split('■')[0]
+                txt_path = html_path[:-4] + "txt"
+                with open(txt_path, "w") as txt_file:
+                    txt_file.write(text)
             
