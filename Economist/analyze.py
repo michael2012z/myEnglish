@@ -61,16 +61,17 @@ if __name__ == '__main__':
     for root, dirs, files in os.walk("./pages"):
     # for root, dirs, files in os.walk("./test_pages"):
         for f in files:
-            if root != current_folder:
-                issues += 1
-                current_folder = root
-                print("handling folder {}".format(current_folder))
-            file_path = os.path.join(root, f)
-            file_words = get_file_word_list(file_path)
-            for word_count_tuple in file_words.items():
-                if not word_count_tuple[0] in word_count:
-                    word_count[word_count_tuple[0]] = 0
-                word_count[word_count_tuple[0]] += word_count_tuple[1]
+            if f.split(".")[-1] == "html":
+                if root != current_folder:
+                    issues += 1
+                    current_folder = root
+                    print("handling folder {}".format(current_folder))
+                file_path = os.path.join(root, f)
+                file_words = get_file_word_list(file_path)
+                for word_count_tuple in file_words.items():
+                    if not word_count_tuple[0] in word_count:
+                        word_count[word_count_tuple[0]] = 0
+                    word_count[word_count_tuple[0]] += word_count_tuple[1]
             
     sorted_word_count = sorted(word_count.items(), key=lambda x: x[1], reverse=True)
 
